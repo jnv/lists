@@ -19,6 +19,7 @@ List of lists curated on GitHub
 
 ## Non-technical
 
+* [obfuscurity/food-recipes](https://github.com/obfuscurity/food-recipes) – Honest-to-goodness "real food" recipes
 * [sinker/tacofancy](https://github.com/sinker/tacofancy) – community-driven taco repo. stars stars stars.
 
 ## Resources
