@@ -16,6 +16,7 @@ List of lists curated on GitHub
 * [ChiperSoft/InterviewThis](https://github.com/ChiperSoft/InterviewThis) – An open source list of developer questions to ask prospective employers
 * [shichuan/javascript-patterns](https://github.com/shichuan/javascript-patterns) – JavaScript Patterns
   * http://shichuan.github.io/javascript-patterns/
+* [saberma/ruby-dev-bookmarks](https://github.com/saberma/ruby-dev-bookmarks) – A list of ruby development resources I've collected.
 
 ## Non-technical
 
