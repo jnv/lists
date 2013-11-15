@@ -5,6 +5,7 @@ List of lists curated on GitHub
 ## Technical
 
 * [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
+* [PharkMillups/beautiful-docs](https://github.com/PharkMillups/beautiful-docs) – Pointers to useful, well-written, and otherwise beautiful documentation.
 * [RadLikeWhoa/bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – a curated list of, you guessed it, bookmarklets that are useful on the web
   * http://sachaschmid.ch/bookmarklets/
 * [vhf/free-programming-books](https://github.com/vhf/free-programming-books) – List of Free Programming Books 
@@ -16,6 +17,7 @@ List of lists curated on GitHub
 * [ChiperSoft/InterviewThis](https://github.com/ChiperSoft/InterviewThis) – An open source list of developer questions to ask prospective employers
 * [shichuan/javascript-patterns](https://github.com/shichuan/javascript-patterns) – JavaScript Patterns
   * http://shichuan.github.io/javascript-patterns/
+* [PharkMillups/killer-talks](https://github.com/PharkMillups/killer-talks) – A list of talks that are worth watching.
 * [saberma/ruby-dev-bookmarks](https://github.com/saberma/ruby-dev-bookmarks) – A list of ruby development resources I've collected.
 
 ## Non-technical
