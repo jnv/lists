@@ -19,6 +19,7 @@ List of lists curated on GitHub
 * [shichuan/javascript-patterns](https://github.com/shichuan/javascript-patterns) – JavaScript Patterns
   * http://shichuan.github.io/javascript-patterns/
 * [PharkMillups/killer-talks](https://github.com/PharkMillups/killer-talks) – A list of talks that are worth watching.
+* [neiesc/ListOfMinimalistFrameworks](https://github.com/neiesc/ListOfMinimalistFrameworks) – A list of minimalist frameworks (simple and lightweight).
 * [saberma/ruby-dev-bookmarks](https://github.com/saberma/ruby-dev-bookmarks) – A list of ruby development resources I've collected.
 
 ## Non-technical
