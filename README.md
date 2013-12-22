@@ -5,6 +5,7 @@ List of lists curated on GitHub
 ## Technical
 
 * [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
+* [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) – A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PharkMillups/beautiful-docs](https://github.com/PharkMillups/beautiful-docs) – Pointers to useful, well-written, and otherwise beautiful documentation.
 * [RadLikeWhoa/bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – a curated list of, you guessed it, bookmarklets that are useful on the web
   * http://sachaschmid.ch/bookmarklets/
