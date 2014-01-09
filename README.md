@@ -31,5 +31,3 @@ List of lists curated on GitHub
 ## Resources
 
 * http://gitrep.com/
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jnv/lists/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
