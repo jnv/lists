@@ -23,6 +23,7 @@ List of lists curated on GitHub
   * http://shichuan.github.io/javascript-patterns/
 * [killer-talks](https://github.com/PharkMillups/killer-talks) – A list of talks that are worth watching.
 * [ListOfMinimalistFrameworks](https://github.com/neiesc/ListOfMinimalistFrameworks) – A list of minimalist frameworks (simple and lightweight).
+* [papers-we-love](https://github.com/papers-we-love/papers-we-love) – Papers from the computer science community to read and discuss. (Contains actual papers)
 * [ruby-dev-bookmarks](https://github.com/saberma/ruby-dev-bookmarks) – A list of ruby development resources I've collected.
 * [secure-email](https://github.com/OpenTechFund/secure-email) – Overview of projects working on next-generation secure email.
 
