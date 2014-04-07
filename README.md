@@ -11,6 +11,7 @@ List of lists curated on GitHub
   * http://sachaschmid.ch/bookmarklets/
 * [datasciencemasters](https://github.com/datasciencemasters/go) – The Curriculum for learning Data Science, Open Source and at your fingertips.
   * http://datasciencemasters.org/
+* [es6-tools](https://github.com/addyosmani/es6-tools) – An aggregation of tooling for ES6
 * [free-programming-books](https://github.com/vhf/free-programming-books) – List of Free Programming Books 
   * http://resrc.io/list/10/list-of-free-programming-books/
 * [frontdesk](https://github.com/miripiruni/frontdesk) – Community driven list of useful things for Front End Developers
