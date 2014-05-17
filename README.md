@@ -27,6 +27,7 @@ List of lists curated on GitHub
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) – Papers from the computer science community to read and discuss. (Contains actual papers)
 * [ruby-dev-bookmarks](https://github.com/saberma/ruby-dev-bookmarks) – A list of ruby development resources I've collected.
 * [secure-email](https://github.com/OpenTechFund/secure-email) – Overview of projects working on next-generation secure email.
+* [services-engineering](https://github.com/mmcgrana/services-engineering) – A reading list for services engineering, with a focus on cloud infrastructure services
 
 ## Non-technical
 
