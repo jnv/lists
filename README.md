@@ -38,7 +38,12 @@ List of lists curated on GitHub
 
 ## Non-technical
 
+* [cocktails](https://github.com/balevine/cocktails) – Cocktail Recipes
 * [food-recipes](https://github.com/obfuscurity/food-recipes) – Honest-to-goodness "real food" recipes
+* [soylent](https://github.com/zda/soylent) – Soylent recipes
+* [bzimmerman/recipes](https://github.com/bzimmerman/recipes) – This repository contains tasty open-source recipes.
+* [csswizardy/recipes](https://github.com/csswizardry/recipes) – Collection of things I like cooking
+* [csclug/recipes](https://github.com/csclug/recipes) – Delicious open source
 * [tacofancy](https://github.com/sinker/tacofancy) – community-driven taco repo. stars stars stars.
 
 ## Resources
