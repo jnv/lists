@@ -36,6 +36,7 @@ List of lists curated on GitHub
 * [ruby-dev-bookmarks](https://github.com/saberma/ruby-dev-bookmarks) – A list of ruby development resources I've collected.
 * [secure-email](https://github.com/OpenTechFund/secure-email) – Overview of projects working on next-generation secure email.
 * [services-engineering](https://github.com/mmcgrana/services-engineering) – A reading list for services engineering, with a focus on cloud infrastructure services
+* [tool_lists](https://github.com/johnyf/tool_lists) – Links to tools by theme. [Verification, synthesis, and static analysis]
 
 ## Non-technical
 
