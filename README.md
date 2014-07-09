@@ -42,3 +42,4 @@ List of lists curated on GitHub
 ## Resources
 
 * http://gitrep.com/
+* https://github.com/asciimoo/ListOfGithubLists/
