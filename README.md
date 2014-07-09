@@ -13,6 +13,7 @@ List of lists curated on GitHub
 * [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) – Pointers to useful, well-written, and otherwise beautiful documentation.
 * [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – a curated list of, you guessed it, bookmarklets that are useful on the web
   * http://sachaschmid.ch/bookmarklets/
+* [bookshelf](https://github.com/OpenTechSchool/bookshelf) – Reading lists for learners
 * [datasciencemasters](https://github.com/datasciencemasters/go) – The Curriculum for learning Data Science, Open Source and at your fingertips.
   * http://datasciencemasters.org/
 * [es6-tools](https://github.com/addyosmani/es6-tools) – An aggregation of tooling for ES6
