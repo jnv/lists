@@ -51,5 +51,5 @@ List of lists curated on GitHub
 
 ## Resources
 
-* http://gitrep.com/
-* https://github.com/asciimoo/ListOfGithubLists/
+* [lists](https://github.com/jnv/lists) – List of lists curated on GitHub
+* [ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists) – List of github lists
