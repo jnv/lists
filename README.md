@@ -1,6 +1,6 @@
 # Lists
 
-List of lists curated on GitHub
+List of lists (of lists) curated on GitHub
 
 ## Technical
 
