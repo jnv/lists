@@ -12,7 +12,6 @@ List of lists (of lists) curated on GitHub
   * http://awesome-go.com/
 * [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) – A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources.
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript) – A curated list of amazingly awesome JavaScript libraries, resources and shiny things.
-* [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
 * [awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs) – A curated list of astonishing Node.js frameworks, libraries and resources. 
 * [awesome-python](https://github.com/vinta/awesome-python) – A curated list of awesome Python frameworks, libraries and software.
 * [awesome-php](https://github.com/ziadoz/awesome-php) – A curated list of amazingly awesome PHP libraries, resources and shiny things.
@@ -22,6 +21,7 @@ List of lists (of lists) curated on GitHub
 * [awesome-scala](https://github.com/lauris/awesome-scala) – A curated list of awesome Scala frameworks, libraries and software.
 * [awesome-shell](https://github.com/alebcay/awesome-shell) – A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) – A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
+* [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
 * [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) – A curated list of awesome Wikipedia-related frameworks, libraries, software, datasets and references.
 * [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) – Pointers to useful, well-written, and otherwise beautiful documentation.
 * [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – a curated list of, you guessed it, bookmarklets that are useful on the web
@@ -58,10 +58,10 @@ List of lists (of lists) curated on GitHub
 
 * [cocktails](https://github.com/balevine/cocktails) – Cocktail Recipes
 * [food-recipes](https://github.com/obfuscurity/food-recipes) – Honest-to-goodness "real food" recipes
-* [soylent](https://github.com/zda/soylent) – Soylent recipes
 * [bzimmerman/recipes](https://github.com/bzimmerman/recipes) – This repository contains tasty open-source recipes.
 * [csswizardy/recipes](https://github.com/csswizardry/recipes) – Collection of things I like cooking
 * [csclug/recipes](https://github.com/csclug/recipes) – Delicious open source
+* [soylent](https://github.com/zda/soylent) – Soylent recipes
 * [tacofancy](https://github.com/sinker/tacofancy) – community-driven taco repo. stars stars stars.
 
 ## Lists of lists
@@ -70,5 +70,5 @@ List of lists (of lists) curated on GitHub
 * [erichs/awesome-awesome](https://github.com/erichs/awesome-awesome) – A curated list of awesome curated lists! Inspired by inspiration.
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) – A curated list of awesome awesomeness
 * [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) – Awesome collection of awesome lists of libraries, tools, frameworks and software for any programming language
-* [lists](https://github.com/jnv/lists) – List of lists curated on GitHub
 * [ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists) – List of github lists
+* [lists](https://github.com/jnv/lists) – List of lists curated on GitHub
