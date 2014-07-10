@@ -50,8 +50,11 @@ List of lists curated on GitHub
 * [csclug/recipes](https://github.com/csclug/recipes) – Delicious open source
 * [tacofancy](https://github.com/sinker/tacofancy) – community-driven taco repo. stars stars stars.
 
-## Resources
+## Lists of lists
 
+* [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) – A curated list of awesome curated lists of many topics.
+* [erichs/awesome-awesome](https://github.com/erichs/awesome-awesome) – A curated list of awesome curated lists! Inspired by inspiration.
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) – A curated list of awesome awesomeness
+* [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) – Awesome collection of awesome lists of libraries, tools, frameworks and software for any programming language
 * [lists](https://github.com/jnv/lists) – List of lists curated on GitHub
 * [ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists) – List of github lists
