@@ -37,6 +37,7 @@ List of lists curated on GitHub
 * [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) – A huge list of frontend development resources I collected over time.
 * [frontend-tools](https://github.com/codylindley/frontend-tools) – An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i.e. does not include tablet or phone yet) web development
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) – A list of cool features of Git and GitHub.
+* [ideas](https://github.com/samsquire/ideas) – One Hundred Ideas for Computing
 * [Inspire](https://github.com/Codingbean/Inspire) – A collection of links to assist you in web design and development.
 * [InterviewThis](https://github.com/ChiperSoft/InterviewThis) – An open source list of developer questions to ask prospective employers
 * [javascript-patterns](https://github.com/shichuan/javascript-patterns) – JavaScript Patterns
