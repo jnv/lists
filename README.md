@@ -51,6 +51,8 @@ List of lists (of lists) curated on GitHub
   * http://itgeekworkhard.com/python-github-projects/
 * [ruby-dev-bookmarks](https://github.com/saberma/ruby-dev-bookmarks) – A list of ruby development resources I've collected.
 * [ruby-trivia](https://github.com/gregstallings/ruby-trivia) – A list of questions about Ruby programming you can use to quiz yourself.
+* [rss-readers-list](https://github.com/smithbr/rss-readers-list) – Reader replacements megalist
+  * http://smithbr.github.io/rss-readers-list
 * [secure-email](https://github.com/OpenTechFund/secure-email) – Overview of projects working on next-generation secure email.
 * [services-engineering](https://github.com/mmcgrana/services-engineering) – A reading list for services engineering, with a focus on cloud infrastructure services
 * [tool_lists](https://github.com/johnyf/tool_lists) – Links to tools by theme. [Verification, synthesis, and static analysis]
