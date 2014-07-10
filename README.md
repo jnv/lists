@@ -5,6 +5,7 @@ List of lists curated on GitHub
 ## Technical
 
 * [alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
+* [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) – A curated list of awesome big data frameworks, ressources and other awesomeness.
 * [awesome-go](https://github.com/avelino/awesome-go) – A curated list of awesome Go frameworks, libraries and software.
   * http://awesome-go.com/
 * [awesome-python](https://github.com/vinta/awesome-python) – A curated list of awesome Python frameworks, libraries and software. Inspired by awesome-php.
