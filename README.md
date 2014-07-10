@@ -48,6 +48,7 @@ List of lists curated on GitHub
 * [python-github-projects](https://github.com/checkcheckzz/python-github-projects) – Collect and classify python projects on Github.
   * http://itgeekworkhard.com/python-github-projects/
 * [ruby-dev-bookmarks](https://github.com/saberma/ruby-dev-bookmarks) – A list of ruby development resources I've collected.
+* [ruby-trivia](https://github.com/gregstallings/ruby-trivia) – A list of questions about Ruby programming you can use to quiz yourself.
 * [secure-email](https://github.com/OpenTechFund/secure-email) – Overview of projects working on next-generation secure email.
 * [services-engineering](https://github.com/mmcgrana/services-engineering) – A reading list for services engineering, with a focus on cloud infrastructure services
 * [tool_lists](https://github.com/johnyf/tool_lists) – Links to tools by theme. [Verification, synthesis, and static analysis]
