@@ -7,6 +7,7 @@ List of lists (of lists) curated on GitHub
 * [alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 * [apiPlatforms](https://github.com/opentok/apiPlatforms) – List of cool and awesome APIs
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) – A curated list of awesome big data frameworks, ressources and other awesomeness.
+* [awesome-clojure](https://github.com/razum2um/awesome-clojure) – A curated list of awesome Clojure libraries and resources.
 * [awesome-d](https://github.com/zhaopuming/awesome-d) – A curated list of awesome D documents, frameworks, libraries and software.
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir) – A curated list of amazingly awesome Elixir libraries, resources and shiny things.
 * [awesome-go](https://github.com/avelino/awesome-go) – A curated list of awesome Go frameworks, libraries and software.
