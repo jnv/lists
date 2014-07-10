@@ -9,6 +9,7 @@ List of lists (of lists) curated on GitHub
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) – A curated list of awesome big data frameworks, ressources and other awesomeness.
 * [awesome-clojure](https://github.com/razum2um/awesome-clojure) – A curated list of awesome Clojure libraries and resources.
 * [awesome-d](https://github.com/zhaopuming/awesome-d) – A curated list of awesome D documents, frameworks, libraries and software.
+* [awesome-devenv](https://github.com/jondot/awesome-devenv) – A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir) – A curated list of amazingly awesome Elixir libraries, resources and shiny things.
 * [awesome-go](https://github.com/avelino/awesome-go) – A curated list of awesome Go frameworks, libraries and software.
   * http://awesome-go.com/
