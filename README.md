@@ -6,11 +6,23 @@ List of lists curated on GitHub
 
 * [alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) – A curated list of awesome big data frameworks, ressources and other awesomeness.
+* [awesome-d](https://github.com/zhaopuming/awesome-d) – A curated list of awesome D documents, frameworks, libraries and software.
+* [awesome-elixir] – A curated list of amazingly awesome Elixir libraries, resources and shiny things.
 * [awesome-go](https://github.com/avelino/awesome-go) – A curated list of awesome Go frameworks, libraries and software.
   * http://awesome-go.com/
-* [awesome-python](https://github.com/vinta/awesome-python) – A curated list of awesome Python frameworks, libraries and software. Inspired by awesome-php.
+* [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) – A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources.
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) – A curated list of amazingly awesome JavaScript libraries, resources and shiny things.
+* [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
+* [awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs) – A curated list of astonishing Node.js frameworks, libraries and resources. 
+* [awesome-python](https://github.com/vinta/awesome-python) – A curated list of awesome Python frameworks, libraries and software.
 * [awesome-php](https://github.com/ziadoz/awesome-php) – A curated list of amazingly awesome PHP libraries, resources and shiny things.
+* [markets/awesome-ruby](https://github.com/markets/awesome-ruby) – A collection of awesome Ruby libraries, tools, frameworks and software
+  * http://marcanguera.net/awesome-ruby/
+* [Sdogruyol/awesome-ruby](https://github.com/Sdogruyol/awesome-ruby) – A curated list of awesome Ruby frameworks, libraries and resources.
+* [awesome-scala](https://github.com/lauris/awesome-scala) – A curated list of awesome Scala frameworks, libraries and software.
+* [awesome-shell](https://github.com/alebcay/awesome-shell) – A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) – A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
+* [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) – A curated list of awesome Wikipedia-related frameworks, libraries, software, datasets and references.
 * [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) – Pointers to useful, well-written, and otherwise beautiful documentation.
 * [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – a curated list of, you guessed it, bookmarklets that are useful on the web
   * http://sachaschmid.ch/bookmarklets/
