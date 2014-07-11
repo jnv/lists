@@ -55,6 +55,7 @@ List of awesome and useful lists curated on GitHub, including non-technical ones
   * http://shichuan.github.io/javascript-patterns/
 * [js-must-watch](https://github.com/bolshchikov/js-must-watch) – Must-watch videos about javascript
 * [killer-talks](https://github.com/PharkMillups/killer-talks) – A list of talks that are worth watching.
+* [learn-drupal](https://github.com/rocketeerbkw/learn-drupal) – A curated list of stuff to help you learn Drupal.
 * [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) – Code documentation written as code!
   * http://learnxinyminutes.com/
 * [ListOfMinimalistFrameworks](https://github.com/neiesc/ListOfMinimalistFrameworks) – A list of minimalist frameworks (simple and lightweight).
