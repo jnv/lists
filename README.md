@@ -50,6 +50,7 @@ List of awesome and useful lists curated on GitHub, including non-technical ones
 * [InterviewThis](https://github.com/ChiperSoft/InterviewThis) – An open source list of developer questions to ask prospective employers
 * [javascript-patterns](https://github.com/shichuan/javascript-patterns) – JavaScript Patterns
   * http://shichuan.github.io/javascript-patterns/
+* [js-must-watch](https://github.com/bolshchikov/js-must-watch) – Must-watch videos about javascript
 * [killer-talks](https://github.com/PharkMillups/killer-talks) – A list of talks that are worth watching.
 * [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) – Code documentation written as code!
   * http://learnxinyminutes.com/
