@@ -72,6 +72,7 @@ List of awesome and useful lists curated on GitHub, including non-technical ones
 * [awesomebandnames](https://github.com/LycaonIsAWolf/awesomebandnames) – The open-source list of awesome band names.
 * [cocktails](https://github.com/balevine/cocktails) – Cocktail Recipes
 * [food-recipes](https://github.com/obfuscurity/food-recipes) – Honest-to-goodness "real food" recipes
+* [lawrence-veggie](https://github.com/codysoyland/lawrence-veggie) – List of vegetarian/vegan restaurants in Lawrence, KS
 * [bzimmerman/recipes](https://github.com/bzimmerman/recipes) – This repository contains tasty open-source recipes.
 * [csswizardy/recipes](https://github.com/csswizardry/recipes) – Collection of things I like cooking
 * [csclug/recipes](https://github.com/csclug/recipes) – Delicious open source
