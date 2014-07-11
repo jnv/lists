@@ -27,6 +27,7 @@ List of lists (of lists) curated on GitHub
 * [awesome-scala](https://github.com/lauris/awesome-scala) – A curated list of awesome Scala frameworks, libraries and software.
 * [awesome-shell](https://github.com/alebcay/awesome-shell) – A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) – A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
+* [awesome-swift](https://github.com/matteocrippa/awesome-swift) – A collaborative list of awesome swift resources.
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
 * [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) – A curated list of awesome Wikipedia-related frameworks, libraries, software, datasets and references.
 * [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) – Pointers to useful, well-written, and otherwise beautiful documentation.
