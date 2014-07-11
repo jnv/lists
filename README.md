@@ -36,6 +36,7 @@ List of awesome and useful lists curated on GitHub, including non-technical ones
 * [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – a curated list of, you guessed it, bookmarklets that are useful on the web
   * http://sachaschmid.ch/bookmarklets/
 * [bookshelf](https://github.com/OpenTechSchool/bookshelf) – Reading lists for learners
+* [daemon](https://github.com/CarameloMartins/daemon) – A curated list of resources for a more literate programming.
 * [datasciencemasters](https://github.com/datasciencemasters/go) – The Curriculum for learning Data Science, Open Source and at your fingertips.
   * http://datasciencemasters.org/
 * [es6-tools](https://github.com/addyosmani/es6-tools) – An aggregation of tooling for ES6
