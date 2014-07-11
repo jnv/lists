@@ -92,3 +92,9 @@ List of awesome and useful lists curated on GitHub, including non-technical ones
 * [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) – Awesome collection of awesome lists of libraries, tools, frameworks and software for any programming language
 * [ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists) – List of github lists
 * [lists](https://github.com/jnv/lists) – List of lists curated on GitHub
+
+## License
+
+[![CC0 Public Domain](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Jan Vlnas](http://jan.vlnas.cz/) has waived all copyright and related or neighboring rights to this work.
