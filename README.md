@@ -18,7 +18,8 @@ List of awesome and useful lists curated on GitHub, including non-technical ones
 * [awesome-ios](https://github.com/vsouza/awesome-ios) – A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins and components.
 * [awesome-java](https://github.com/akullpp/awesome-java) – A curated list of awesome Java frameworks, libraries and software.
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript) – A curated list of amazingly awesome JavaScript libraries, resources and shiny things.
-* [awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs) – A curated list of astonishing Node.js frameworks, libraries and resources. 
+* [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) – A curated list of delightful Node.js packages and resources.
+* [vndmtrx/awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs) – A curated list of astonishing Node.js frameworks, libraries and resources.
 * [awesome-python](https://github.com/vinta/awesome-python) – A curated list of awesome Python frameworks, libraries and software.
 * [awesome-php](https://github.com/ziadoz/awesome-php) – A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [markets/awesome-ruby](https://github.com/markets/awesome-ruby) – A collection of awesome Ruby libraries, tools, frameworks and software
@@ -83,6 +84,7 @@ List of awesome and useful lists curated on GitHub, including non-technical ones
 
 ## Lists of lists
 
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) – A curated list of awesome lists.
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) – A curated list of awesome curated lists of many topics.
 * [erichs/awesome-awesome](https://github.com/erichs/awesome-awesome) – A curated list of awesome curated lists! Inspired by inspiration.
 * [oyvindrobertsen/awesome-awesome](https://github.com/oyvindrobertsen/awesome-awesome) – A curated list of curated lists of libraries, resources and shiny things for various languages.
