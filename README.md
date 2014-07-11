@@ -11,6 +11,7 @@ List of lists (of lists) curated on GitHub
 * [awesome-d](https://github.com/zhaopuming/awesome-d) – A curated list of awesome D documents, frameworks, libraries and software.
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) – A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir) – A curated list of amazingly awesome Elixir libraries, resources and shiny things.
+* [awesome-erlang](https://github.com/drobakowski/awesome-erlang) – A curated list of awesome Erlang libraries, resources and shiny things.
 * [awesome-go](https://github.com/avelino/awesome-go) – A curated list of awesome Go frameworks, libraries and software.
   * http://awesome-go.com/
 * [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) – A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources.
