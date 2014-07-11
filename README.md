@@ -14,6 +14,7 @@ List of lists (of lists) curated on GitHub
 * [awesome-go](https://github.com/avelino/awesome-go) – A curated list of awesome Go frameworks, libraries and software.
   * http://awesome-go.com/
 * [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) – A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources.
+* [awesome-ios](https://github.com/vsouza/awesome-ios) – A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins and components.
 * [awesome-java](https://github.com/akullpp/awesome-java) – A curated list of awesome Java frameworks, libraries and software.
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript) – A curated list of amazingly awesome JavaScript libraries, resources and shiny things.
 * [awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs) – A curated list of astonishing Node.js frameworks, libraries and resources. 
