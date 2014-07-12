@@ -99,7 +99,9 @@ List of awesome and useful lists curated on GitHub, including non-technical ones
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) – A curated list of awesome awesomeness
 * [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) – Awesome collection of awesome lists of libraries, tools, frameworks and software for any programming language
 * [ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists) – List of github lists
+* [list-of-lists](https://github.com/cyrusstoller/list-of-lists) – A meta list of lists of useful open source projects and developer tools
 * [lists](https://github.com/jnv/lists) – List of lists curated on GitHub
+
 
 ## License
 
