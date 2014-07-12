@@ -33,7 +33,8 @@ List of awesome and useful lists curated on GitHub, including non-technical ones
 * [awesome-scala](https://github.com/lauris/awesome-scala)
 * [awesome-shell](https://github.com/alebcay/awesome-shell) – Command-line frameworks, toolkits, guides and gizmos.
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) – A curated list of amazingly awesome open source sysadmin resources.
-* [awesome-swift](https://github.com/matteocrippa/awesome-swift)
+* [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
+* [Wolg/awesome-swift](https://github.com/Wolg/awesome-swift)
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
 * [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) – Wikipedia-related frameworks, libraries, software, datasets and references.
 * [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) – Pointers to useful, well-written, and otherwise beautiful documentation.
