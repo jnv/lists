@@ -95,6 +95,7 @@ List of awesome and useful lists curated on GitHub, including non-technical ones
 ## Lists of lists
 
 * [awesome](https://github.com/sindresorhus/awesome) – A curated list of awesome lists.
+* [awesome-all](https://github.com/bradoyler/awesome-all) – A curated list of awesome lists of awesome frameworks, libraries and software
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) – A curated list of awesome curated lists of many topics.
 * [erichs/awesome-awesome](https://github.com/erichs/awesome-awesome) – A curated list of awesome curated lists! Inspired by inspiration.
 * [oyvindrobertsen/awesome-awesome](https://github.com/oyvindrobertsen/awesome-awesome) – A curated list of curated lists of libraries, resources and shiny things for various languages.
