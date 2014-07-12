@@ -16,6 +16,7 @@ List of awesome and useful lists curated on GitHub, including non-technical ones
 * [awesome-erlang](https://github.com/drobakowski/awesome-erlang)
 * [awesome-go](https://github.com/avelino/awesome-go)
   * http://awesome-go.com/
+* [awesome-groovy](https://github.com/kdabir/awesome-groovy)
 * [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) – Hadoop and Hadoop ecosystem resources.
 * [awesome-html5](https://github.com/diegocard/awesome-html5)
 * [awesome-ios](https://github.com/vsouza/awesome-ios)
