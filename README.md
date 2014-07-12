@@ -108,7 +108,7 @@ List of awesome and useful lists curated on GitHub, including non-technical ones
 
 ## Lists of lists of lists
 
-* [lolgl](https://github.com/yaph/lologl) – List of Lists of Github Lists
+* [lologl](https://github.com/yaph/lologl) – List of Lists of Github Lists
 * [the one above](#lists-of-lists)
 
 
