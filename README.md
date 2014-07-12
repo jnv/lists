@@ -102,6 +102,11 @@ List of awesome and useful lists curated on GitHub, including non-technical ones
 * [list-of-lists](https://github.com/cyrusstoller/list-of-lists) – A meta list of lists of useful open source projects and developer tools
 * [lists](https://github.com/jnv/lists) – List of lists curated on GitHub
 
+## Lists of lists of lists
+
+* [lolgl](https://github.com/yaph/lologl) – List of Lists of Github Lists
+* [the one above](#lists-of-lists)
+
 
 ## License
 
