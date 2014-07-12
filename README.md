@@ -22,6 +22,7 @@ List of awesome and useful lists curated on GitHub, including non-technical ones
 * [awesome-ios](https://github.com/vsouza/awesome-ios)
 * [awesome-java](https://github.com/akullpp/awesome-java)
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+* [awesome-julia](https://github.com/dantedurrman/awesome-julia)
 * [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 * [vndmtrx/awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs)
 * [awesome-python](https://github.com/vinta/awesome-python)
