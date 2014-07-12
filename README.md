@@ -8,6 +8,7 @@ List of awesome and useful lists curated on GitHub, including non-technical ones
 * [apiPlatforms](https://github.com/opentok/apiPlatforms) – List of cool and awesome APIs
 * [awesome-android](https://github.com/Jackgris/awesome-android) *In Spanish.*
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) – Big data frameworks, resources and other awesomeness.
+* [awesome-cobol](https://github.com/dshimy/awesome-cobol) *Fake.*
 * [awesome-clojure](https://github.com/razum2um/awesome-clojure)
 * [awesome-d](https://github.com/zhaopuming/awesome-d)
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) – Tools, resources and workflow tips making an awesome development environment.
