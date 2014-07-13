@@ -113,6 +113,7 @@ List of awesome and useful lists curated on GitHub, including non-technical ones
 
 ## Lists of lists of lists
 
+* [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) – A a curated list of curated lists of awesome lists.
 * [lologl](https://github.com/yaph/lologl) – List of Lists of Github Lists
 * [the one above](#lists-of-lists)
 
