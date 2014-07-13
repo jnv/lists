@@ -6,10 +6,12 @@ List of awesome and useful lists curated on GitHub, including non-technical ones
 
 * [alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 * [apiPlatforms](https://github.com/opentok/apiPlatforms) – List of cool and awesome APIs
-* [awesome-android](https://github.com/Jackgris/awesome-android) *In Spanish.*
+* [Jackgris/awesome-android](https://github.com/Jackgris/awesome-android) *In Spanish.*
+* [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android)
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) – Big data frameworks, resources and other awesomeness.
 * [awesome-cobol](https://github.com/dshimy/awesome-cobol) *Fake.*
 * [awesome-clojure](https://github.com/razum2um/awesome-clojure)
+* [awesome-cloud](https://github.com/JStumpp/awesome-cloud) – Delightful cloud services.
 * [awesome-d](https://github.com/zhaopuming/awesome-d)
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) – Tools, resources and workflow tips making an awesome development environment.
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir)
