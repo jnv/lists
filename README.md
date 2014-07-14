@@ -114,7 +114,7 @@ List of awesome, useful or silly lists (of lists, of lists) curated on GitHub, i
 * [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) – Awesome collection of awesome lists of libraries, tools, frameworks and software for any programming language
 * [ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists) – List of github lists
 * [list-of-lists](https://github.com/cyrusstoller/list-of-lists) – A meta list of lists of useful open source projects and developer tools
-* [lists](https://github.com/jnv/lists) – List of lists curated on GitHub
+* [this one](#lists)
 
 ## Lists of lists of lists
 
@@ -126,6 +126,11 @@ List of awesome, useful or silly lists (of lists, of lists) curated on GitHub, i
 ## Lists of lists of lists of lists :scream:
 
 * [awesome-awesome-awesome-awesome](https://github.com/sindresorhus/awesome-awesome-awesome-awesome) 
+* [the one above](#lists-of-lists-of-lists)
+
+## Lists of lists of lists of lists of lists
+
+* [the one above](#lists-of-lists-of-lists-of-lists)
 
 ## License
 
