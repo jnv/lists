@@ -123,6 +123,10 @@ List of awesome, useful or silly lists (of lists, of lists) curated on GitHub, i
 * [the one above](#lists-of-lists)
 
 
+## Lists of lists of lists of lists :scream:
+
+* [awesome-awesome-awesome-awesome](https://github.com/sindresorhus/awesome-awesome-awesome-awesome) 
+
 ## License
 
 [![CC0 Public Domain](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
