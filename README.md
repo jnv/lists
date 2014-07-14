@@ -27,6 +27,7 @@ List of awesome, useful or silly lists (of lists, of lists) curated on GitHub, i
 * [awesome-julia](https://github.com/dantedurrman/awesome-julia)
 * [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 * [vndmtrx/awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs)
+* [awesome-perl](https://github.com/mackee/awesome-perl)
 * [awesome-python](https://github.com/vinta/awesome-python)
 * [awesome-php](https://github.com/ziadoz/awesome-php)
 * [markets/awesome-ruby](https://github.com/markets/awesome-ruby)
