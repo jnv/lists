@@ -119,19 +119,19 @@ List of awesome, useful or silly lists ([of lists](#lists-of-lists), [of lists](
 * [list-of-lists](https://github.com/cyrusstoller/list-of-lists) – A meta list of lists of useful open source projects and developer tools
 * [this one](#lists)
 
-## Lists of lists of lists
+### Lists of lists of lists
 
 * [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) – A a curated list of curated lists of awesome lists.
 * [lologl](https://github.com/yaph/lologl) – List of Lists of Github Lists
 * [the one above](#lists-of-lists)
 
 
-## Lists of lists of lists of lists :scream:
+#### Lists of lists of lists of lists :scream:
 
 * [awesome-awesome-awesome-awesome](https://github.com/sindresorhus/awesome-awesome-awesome-awesome) 
 * [the one above](#lists-of-lists-of-lists)
 
-## Lists of lists of lists of lists of lists
+##### Lists of lists of lists of lists of lists
 
 * [the one above](#lists-of-lists-of-lists-of-lists-scream)
 
