@@ -51,6 +51,7 @@ List of awesome and useful lists curated on GitHub, including non-technical ones
 * [Facets](https://github.com/O-I/Facets) – A community-curated list of one-liners in Ruby
 * [free-programming-books](https://github.com/vhf/free-programming-books) – List of Free Programming Books 
   * http://resrc.io/list/10/list-of-free-programming-books/
+* [free-software-testing-books](https://github.com/ligurio/free-software-testing-books) – List of free software testing books.
 * [frontdesk](https://github.com/miripiruni/frontdesk) – Community driven list of useful things for Front End Developers
 * [Front-end-Developer-Interview-Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) – A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 * [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) – A huge list of frontend development resources I collected over time.
