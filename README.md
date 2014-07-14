@@ -1,6 +1,6 @@
 # Lists
 
-List of awesome, useful or silly lists ([of lists](#lists-of-lists), [of lists](#lists-of-lists-of-lists), [of lists](#lists-of-lists-of-lists-of-lists-scream)) curated on GitHub, including [taco recipes](#non-technical). Contributions welcome!
+List of useful, silly and [awesome](#awesome-) lists ([of lists](#lists-of-lists), [of lists](#lists-of-lists-of-lists), [of lists](#lists-of-lists-of-lists-of-lists-scream)) curated on GitHub, including [taco recipes](#non-technical). Contributions welcome!
 
 ## Technical
 
@@ -8,39 +8,6 @@ List of awesome, useful or silly lists ([of lists](#lists-of-lists), [of lists](
 * [apiPlatforms](https://github.com/opentok/apiPlatforms) – List of cool and awesome APIs
 * [Jackgris/awesome-android](https://github.com/Jackgris/awesome-android) *In Spanish.*
 * [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android)
-* [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) – Big data frameworks, resources and other awesomeness.
-* [awesome-cobol](https://github.com/dshimy/awesome-cobol) *Fake.*
-* [awesome-clojure](https://github.com/razum2um/awesome-clojure)
-* [awesome-cloud](https://github.com/JStumpp/awesome-cloud) – Delightful cloud services.
-* [awesome-css](https://github.com/ikkou/awesome-css)
-* [awesome-d](https://github.com/zhaopuming/awesome-d)
-* [awesome-devenv](https://github.com/jondot/awesome-devenv) – Tools, resources and workflow tips making an awesome development environment.
-* [awesome-elixir](https://github.com/h4cc/awesome-elixir)
-* [awesome-erlang](https://github.com/drobakowski/awesome-erlang)
-* [awesome-go](https://github.com/avelino/awesome-go)
-  * http://awesome-go.com/
-* [awesome-groovy](https://github.com/kdabir/awesome-groovy)
-* [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) – Hadoop and Hadoop ecosystem resources.
-* [awesome-html5](https://github.com/diegocard/awesome-html5)
-* [awesome-ios](https://github.com/vsouza/awesome-ios)
-* [awesome-java](https://github.com/akullpp/awesome-java)
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
-* [awesome-julia](https://github.com/dantedurrman/awesome-julia)
-* [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
-* [vndmtrx/awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs)
-* [awesome-perl](https://github.com/mackee/awesome-perl)
-* [awesome-python](https://github.com/vinta/awesome-python)
-* [awesome-php](https://github.com/ziadoz/awesome-php)
-* [markets/awesome-ruby](https://github.com/markets/awesome-ruby)
-  * http://marcanguera.net/awesome-ruby/
-* [Sdogruyol/awesome-ruby](https://github.com/Sdogruyol/awesome-ruby)
-* [awesome-scala](https://github.com/lauris/awesome-scala)
-* [awesome-shell](https://github.com/alebcay/awesome-shell) – Command-line frameworks, toolkits, guides and gizmos.
-* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) – A curated list of amazingly awesome open source sysadmin resources.
-* [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
-* [Wolg/awesome-swift](https://github.com/Wolg/awesome-swift)
-* [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
-* [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) – Wikipedia-related frameworks, libraries, software, datasets and references.
 * [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) – Pointers to useful, well-written, and otherwise beautiful documentation.
 * [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – a curated list of, you guessed it, bookmarklets that are useful on the web
   * http://sachaschmid.ch/bookmarklets/
@@ -92,6 +59,42 @@ List of awesome, useful or silly lists ([of lists](#lists-of-lists), [of lists](
 * [tool_lists](https://github.com/johnyf/tool_lists) – Links to tools by theme. *Verification, synthesis, and static analysis.*
 * [tools](https://github.com/lvwzhen/tools) – Tools for web.
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) – Tools of The Trade, from Hacker News.
+
+### awesome-*
+
+* [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) – Big data frameworks, resources and other awesomeness.
+* [awesome-cobol](https://github.com/dshimy/awesome-cobol) *Fake.*
+* [awesome-clojure](https://github.com/razum2um/awesome-clojure)
+* [awesome-cloud](https://github.com/JStumpp/awesome-cloud) – Delightful cloud services.
+* [awesome-css](https://github.com/ikkou/awesome-css)
+* [awesome-d](https://github.com/zhaopuming/awesome-d)
+* [awesome-devenv](https://github.com/jondot/awesome-devenv) – Tools, resources and workflow tips making an awesome development environment.
+* [awesome-elixir](https://github.com/h4cc/awesome-elixir)
+* [awesome-erlang](https://github.com/drobakowski/awesome-erlang)
+* [awesome-go](https://github.com/avelino/awesome-go)
+  * http://awesome-go.com/
+* [awesome-groovy](https://github.com/kdabir/awesome-groovy)
+* [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) – Hadoop and Hadoop ecosystem resources.
+* [awesome-html5](https://github.com/diegocard/awesome-html5)
+* [awesome-ios](https://github.com/vsouza/awesome-ios)
+* [awesome-java](https://github.com/akullpp/awesome-java)
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+* [awesome-julia](https://github.com/dantedurrman/awesome-julia)
+* [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
+* [vndmtrx/awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs)
+* [awesome-perl](https://github.com/mackee/awesome-perl)
+* [awesome-python](https://github.com/vinta/awesome-python)
+* [awesome-php](https://github.com/ziadoz/awesome-php)
+* [markets/awesome-ruby](https://github.com/markets/awesome-ruby)
+  * http://marcanguera.net/awesome-ruby/
+* [Sdogruyol/awesome-ruby](https://github.com/Sdogruyol/awesome-ruby)
+* [awesome-scala](https://github.com/lauris/awesome-scala)
+* [awesome-shell](https://github.com/alebcay/awesome-shell) – Command-line frameworks, toolkits, guides and gizmos.
+* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) – A curated list of amazingly awesome open source sysadmin resources.
+* [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
+* [Wolg/awesome-swift](https://github.com/Wolg/awesome-swift)
+* [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
+* [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) – Wikipedia-related frameworks, libraries, software, datasets and references.
 
 ## Non-technical
 
