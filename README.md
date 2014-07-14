@@ -1,6 +1,6 @@
 # Lists
 
-List of awesome and useful lists curated on GitHub, including non-technical ones. Contributions are welcome!
+List of awesome, useful or silly lists (of lists, of lists) curated on GitHub, including taco recipes. Contributions welcome!
 
 ## Technical
 
