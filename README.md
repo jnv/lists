@@ -1,6 +1,6 @@
 # Lists
 
-List of awesome, useful or silly lists (of lists, of lists) curated on GitHub, including taco recipes. Contributions welcome!
+List of awesome, useful or silly lists ([of lists](#lists-of-lists), [of lists](#lists-of-lists-of-lists), [of lists](#lists-of-lists-of-lists-of-lists-scream)) curated on GitHub, including [taco recipes](#non-technical). Contributions welcome!
 
 ## Technical
 
@@ -131,7 +131,7 @@ List of awesome, useful or silly lists (of lists, of lists) curated on GitHub, i
 
 ## Lists of lists of lists of lists of lists
 
-* [the one above](#lists-of-lists-of-lists-of-lists)
+* [the one above](#lists-of-lists-of-lists-of-lists-scream)
 
 ## License
 
