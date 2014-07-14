@@ -86,6 +86,7 @@ List of awesome and useful lists curated on GitHub, including non-technical ones
 * [Toolbox](https://github.com/Dillion/Toolbox) – List of open source iOS stuff.
 * [tool_lists](https://github.com/johnyf/tool_lists) – Links to tools by theme. *Verification, synthesis, and static analysis.*
 * [tools](https://github.com/lvwzhen/tools) – Tools for web.
+* [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) – Tools of The Trade, from Hacker News.
 
 ## Non-technical
 
