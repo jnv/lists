@@ -76,6 +76,8 @@ List of awesome, useful or silly lists ([of lists](#lists-of-lists), [of lists](
 * [Projects](https://github.com/karan/Projects) – A list of practical projects that anyone can solve in any programming language.
 * [python-github-projects](https://github.com/checkcheckzz/python-github-projects) – Collect and classify python projects on Github.
   * http://itgeekworkhard.com/python-github-projects/
+* [queues.io](https://github.com/strzalek/queues.io) – Job queues, message queues and other queues.
+  * http://queues.io/
 * [ruby-dev-bookmarks](https://github.com/saberma/ruby-dev-bookmarks) – A list of ruby development resources I've collected.
 * [ruby-trivia](https://github.com/gregstallings/ruby-trivia) – A list of questions about Ruby programming you can use to quiz yourself.
 * [rss-readers-list](https://github.com/smithbr/rss-readers-list) – Reader replacements megalist
