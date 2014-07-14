@@ -101,6 +101,7 @@ List of awesome, useful or silly lists ([of lists](#lists-of-lists), [of lists](
 * [bzimmerman/recipes](https://github.com/bzimmerman/recipes) – This repository contains tasty open-source recipes.
 * [csswizardy/recipes](https://github.com/csswizardry/recipes) – Collection of things I like cooking
 * [csclug/recipes](https://github.com/csclug/recipes) – Delicious open source
+* [SiliconValleyThingsToDo](https://github.com/cjbarber/SiliconValleyThingsToDo) – Things to do and activities within Silicon Valley.
 * [soylent](https://github.com/zda/soylent) – Soylent recipes
 * [sf-vegetarian-restaurants](https://github.com/mojombo/sf-vegetarian-restaurants) – A list of awesome vegetarian-friendly restaurants in SF
 * [tacofancy](https://github.com/sinker/tacofancy) – community-driven taco repo. stars stars stars.
