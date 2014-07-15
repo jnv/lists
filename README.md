@@ -1,6 +1,6 @@
 # Lists
 
-List of useful, silly and [awesome](#awesome-) lists ([of lists](#lists-of-lists), [of lists](#lists-of-lists-of-lists), [of lists](#lists-of-lists-of-lists-of-lists-scream)) curated on GitHub. Contributions welcome!
+List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contributions welcome!
 
 - [Non-technical](#non-technical)
 - [Technical](#technical)
