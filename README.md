@@ -59,6 +59,8 @@ List of useful, silly and [awesome](#awesome-) lists ([of lists](#lists-of-lists
 * [tool_lists](https://github.com/johnyf/tool_lists) – Links to tools by theme. *Verification, synthesis, and static analysis.*
 * [tools](https://github.com/lvwzhen/tools) – Tools for web.
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) – Tools of The Trade, from Hacker News.
+* [twofactorauth](https://github.com/jdavis/twofactorauth) – List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
+  * http://twofactorauth.org/
 
 ### awesome-*
 
