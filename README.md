@@ -67,10 +67,12 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   * http://learnxinyminutes.com/
 * [ListOfMinimalistFrameworks](https://github.com/neiesc/ListOfMinimalistFrameworks) – A list of minimalist frameworks (simple and lightweight).
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) – Papers from the computer science community to read and discuss. (Contains actual papers)
+* [pattern_classification](https://github.com/rasbt/pattern_classification) – A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks.
 * [programmers-proverbs](https://github.com/AntJanus/programmers-proverbs) – Proverbs from the programmer
 * [Projects](https://github.com/karan/Projects) – A list of practical projects that anyone can solve in any programming language.
 * [python-github-projects](https://github.com/checkcheckzz/python-github-projects) – Collect and classify python projects on Github.
   * http://itgeekworkhard.com/python-github-projects/
+* [python_reference](https://github.com/rasbt/python_reference) – Useful functions, tutorials, and other Python-related things.
 * [queues.io](https://github.com/strzalek/queues.io) – Job queues, message queues and other queues.
   * http://queues.io/
 * [ruby-dev-bookmarks](https://github.com/saberma/ruby-dev-bookmarks) – A list of ruby development resources I've collected.
