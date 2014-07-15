@@ -12,12 +12,14 @@ List of useful, silly and [awesome](#awesome-) lists ([of lists](#lists-of-lists
 * [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – a curated list of, you guessed it, bookmarklets that are useful on the web
   * http://sachaschmid.ch/bookmarklets/
 * [bookshelf](https://github.com/OpenTechSchool/bookshelf) – Reading lists for learners
+* [content-management-systems](https://github.com/ahadb/content-management-systems) – A list of open source & proprietary content management systems.
 * [daemon](https://github.com/CarameloMartins/daemon) – A curated list of resources for a more literate programming.
 * [datasciencemasters](https://github.com/datasciencemasters/go) – The Curriculum for learning Data Science, Open Source and at your fingertips.
   * http://datasciencemasters.org/
 * [Developer-Conferences](https://github.com/MurtzaM/Developer-Conferences) – List of upcoming developer conferences
 * [es6-tools](https://github.com/addyosmani/es6-tools) – An aggregation of tooling for ES6
 * [Facets](https://github.com/O-I/Facets) – A community-curated list of one-liners in Ruby
+* [flat-file-cms](https://github.com/ahadb/flat-file-cms) – A list of stictly flat-file cms systems.
 * [free-programming-books](https://github.com/vhf/free-programming-books) – List of Free Programming Books 
   * http://resrc.io/list/10/list-of-free-programming-books/
 * [free-software-testing-books](https://github.com/ligurio/free-software-testing-books) – List of free software testing books.
