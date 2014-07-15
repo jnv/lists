@@ -1,6 +1,24 @@
 # Lists
 
-List of useful, silly and [awesome](#awesome-) lists ([of lists](#lists-of-lists), [of lists](#lists-of-lists-of-lists), [of lists](#lists-of-lists-of-lists-of-lists-scream)) curated on GitHub, including [taco recipes](#non-technical). Contributions welcome!
+List of useful, silly and [awesome](#awesome-) lists ([of lists](#lists-of-lists), [of lists](#lists-of-lists-of-lists), [of lists](#lists-of-lists-of-lists-of-lists-scream)) curated on GitHub. Contributions welcome!
+
+## Non-technical
+
+* [Annual-Reading-List](https://github.com/davidskeck/Annual-Reading-List) – A list of things to read every year.
+
+  > I feel like a lot of people read important ideas once and never get the chance to implement them. The purpose of this list is that ideas that are important to me get the chance to take hold in my mind. By reading these works annually, I will be introduced to these ideas again and again until they become habitual to me.
+* [awesomebandnames](https://github.com/LycaonIsAWolf/awesomebandnames) – The open-source list of awesome band names.
+* [cocktails](https://github.com/balevine/cocktails) – Cocktail Recipes
+* [corporate-logos](https://github.com/marketreef/corporate-logos) – Curated repo of publicly listed co. logos, identified by ticker. *Almost 1500 logos*
+* [food-recipes](https://github.com/obfuscurity/food-recipes) – Honest-to-goodness "real food" recipes
+* [lawrence-veggie](https://github.com/codysoyland/lawrence-veggie) – List of vegetarian/vegan restaurants in Lawrence, KS
+* [bzimmerman/recipes](https://github.com/bzimmerman/recipes) – This repository contains tasty open-source recipes.
+* [csswizardy/recipes](https://github.com/csswizardry/recipes) – Collection of things I like cooking
+* [csclug/recipes](https://github.com/csclug/recipes) – Delicious open source
+* [SiliconValleyThingsToDo](https://github.com/cjbarber/SiliconValleyThingsToDo) – Things to do and activities within Silicon Valley.
+* [soylent](https://github.com/zda/soylent) – Soylent recipes
+* [sf-vegetarian-restaurants](https://github.com/mojombo/sf-vegetarian-restaurants) – A list of awesome vegetarian-friendly restaurants in SF
+* [tacofancy](https://github.com/sinker/tacofancy) – community-driven taco repo. stars stars stars.
 
 ## Technical
 
@@ -101,24 +119,6 @@ List of useful, silly and [awesome](#awesome-) lists ([of lists](#lists-of-lists
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
 * [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) – Wikipedia-related frameworks, libraries, software, datasets and references.
 * [awesome-yamada](https://github.com/supermomonga/awesome-yamada) *Dancing Yamada*
-
-## Non-technical
-
-* [Annual-Reading-List](https://github.com/davidskeck/Annual-Reading-List) – A list of things to read every year.
-
-  > I feel like a lot of people read important ideas once and never get the chance to implement them. The purpose of this list is that ideas that are important to me get the chance to take hold in my mind. By reading these works annually, I will be introduced to these ideas again and again until they become habitual to me.
-* [awesomebandnames](https://github.com/LycaonIsAWolf/awesomebandnames) – The open-source list of awesome band names.
-* [cocktails](https://github.com/balevine/cocktails) – Cocktail Recipes
-* [corporate-logos](https://github.com/marketreef/corporate-logos) – Curated repo of publicly listed co. logos, identified by ticker. *Almost 1500 logos*
-* [food-recipes](https://github.com/obfuscurity/food-recipes) – Honest-to-goodness "real food" recipes
-* [lawrence-veggie](https://github.com/codysoyland/lawrence-veggie) – List of vegetarian/vegan restaurants in Lawrence, KS
-* [bzimmerman/recipes](https://github.com/bzimmerman/recipes) – This repository contains tasty open-source recipes.
-* [csswizardy/recipes](https://github.com/csswizardry/recipes) – Collection of things I like cooking
-* [csclug/recipes](https://github.com/csclug/recipes) – Delicious open source
-* [SiliconValleyThingsToDo](https://github.com/cjbarber/SiliconValleyThingsToDo) – Things to do and activities within Silicon Valley.
-* [soylent](https://github.com/zda/soylent) – Soylent recipes
-* [sf-vegetarian-restaurants](https://github.com/mojombo/sf-vegetarian-restaurants) – A list of awesome vegetarian-friendly restaurants in SF
-* [tacofancy](https://github.com/sinker/tacofancy) – community-driven taco repo. stars stars stars.
 
 ## Lists of lists
 
