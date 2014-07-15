@@ -139,6 +139,7 @@ List of useful, silly and [awesome](#awesome-) lists ([of lists](#lists-of-lists
 
 ##### Lists of lists of lists of lists of lists
 
+* [awesome-power-of-5](https://github.com/therebelrobot/awesome-power-of-5)
 * [the one above](#lists-of-lists-of-lists-of-lists-scream)
 
 ## License
