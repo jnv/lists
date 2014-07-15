@@ -43,6 +43,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [datasciencemasters](https://github.com/datasciencemasters/go) – The Curriculum for learning Data Science, Open Source and at your fingertips.
   * http://datasciencemasters.org/
 * [Developer-Conferences](https://github.com/MurtzaM/Developer-Conferences) – List of upcoming developer conferences
+* [erlang-bookmarks](https://github.com/0xAX/erlang-bookmarks) – All about erlang programming language.
 * [es6-tools](https://github.com/addyosmani/es6-tools) – An aggregation of tooling for ES6
 * [Facets](https://github.com/O-I/Facets) – A community-curated list of one-liners in Ruby
 * [flat-file-cms](https://github.com/ahadb/flat-file-cms) – A list of stictly flat-file cms systems.
@@ -81,6 +82,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   * http://smithbr.github.io/rss-readers-list
 * [secure-email](https://github.com/OpenTechFund/secure-email) – Overview of projects working on next-generation secure email.
 * [services-engineering](https://github.com/mmcgrana/services-engineering) – A reading list for services engineering, with a focus on cloud infrastructure services
+* [spawnedshelter](https://github.com/pyotrgalois/spawnedshelter) – Erlang Spawned Shelter – the best articles, videos and presentations related to Erlang.
 * [static-site-generator-comparison](https://github.com/jaspervdj/static-site-generator-comparison) 
   * http://staticsitegenerators.net/
 * [Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators)
