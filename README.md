@@ -95,6 +95,7 @@ List of useful, silly and [awesome](#awesome-) lists ([of lists](#lists-of-lists
 * [Wolg/awesome-swift](https://github.com/Wolg/awesome-swift)
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
 * [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) – Wikipedia-related frameworks, libraries, software, datasets and references.
+* [awesome-yamada](https://github.com/supermomonga/awesome-yamada) *Dancing Yamada*
 
 ## Non-technical
 
