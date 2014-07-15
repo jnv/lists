@@ -2,6 +2,14 @@
 
 List of useful, silly and [awesome](#awesome-) lists ([of lists](#lists-of-lists), [of lists](#lists-of-lists-of-lists), [of lists](#lists-of-lists-of-lists-of-lists-scream)) curated on GitHub. Contributions welcome!
 
+- [Non-technical](#non-technical)
+- [Technical](#technical)
+	- [awesome-*](#awesome-)
+- [Lists of lists](#lists-of-lists)
+	- [Lists of lists of lists](#lists-of-lists-of-lists)
+		- [Lists of lists of lists of lists ](#lists-of-lists-of-lists-of-lists-scream)
+			- [Lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists)
+
 ## Non-technical
 
 * [Annual-Reading-List](https://github.com/davidskeck/Annual-Reading-List) – A list of things to read every year.
