@@ -96,6 +96,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 ### awesome-*
 
+* [awesome-apple](https://github.com/joeljfischer/awesome-apple) – 3rd party libraries and tools for Apple platforms development.
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) – Big data frameworks, resources and other awesomeness.
 * [awesome-cobol](https://github.com/dshimy/awesome-cobol) *Fake.*
 * [awesome-clojure](https://github.com/razum2um/awesome-clojure)
