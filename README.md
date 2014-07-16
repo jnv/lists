@@ -26,6 +26,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [SiliconValleyThingsToDo](https://github.com/cjbarber/SiliconValleyThingsToDo) – Things to do and activities within Silicon Valley.
 * [soylent](https://github.com/zda/soylent) – Soylent recipes
 * [sf-vegetarian-restaurants](https://github.com/mojombo/sf-vegetarian-restaurants) – A list of awesome vegetarian-friendly restaurants in SF
+* [teesites](https://github.com/elder-cb/teesites) – A public list of great sites to buy awesome t-shirts and other cool stuff.
 * [tacofancy](https://github.com/sinker/tacofancy) – community-driven taco repo. stars stars stars.
 
 ## Technical
