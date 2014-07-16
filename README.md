@@ -106,15 +106,19 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) – Tools, resources and workflow tips making an awesome development environment.
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir)
 * [awesome-erlang](https://github.com/drobakowski/awesome-erlang)
+* [awesome-fortran](https://github.com/rabbiabram/awesome-fortran)
 * [awesome-go](https://github.com/avelino/awesome-go)
   * http://awesome-go.com/
 * [awesome-groovy](https://github.com/kdabir/awesome-groovy)
 * [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) – Hadoop and Hadoop ecosystem resources.
+* [awesome-haskell](https://github.com/krispo/awesome-haskell) – 
+* [awesome-hierarchical-matrices](https://github.com/gchavez2/awesome-hierarchical-matrices) – Hierarchical matrices frameworks, libraries, and software
 * [awesome-html5](https://github.com/diegocard/awesome-html5)
 * [awesome-ios](https://github.com/vsouza/awesome-ios)
 * [awesome-java](https://github.com/akullpp/awesome-java)
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 * [awesome-julia](https://github.com/dantedurrman/awesome-julia)
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 * [vndmtrx/awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs)
 * [awesome-objc-swift](https://github.com/joeljfischer/awesome-objc-swift)
