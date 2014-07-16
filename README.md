@@ -98,6 +98,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 ### awesome-*
 
 * [awesome-activeadmin](https://github.com/serradura/awesome-activeadmin) –  Active Admin resources, extensions, posts and utilities. *For Rails.*
+* [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) – Places to learn and/or practice algorithms.
+* [awesome-angular](https://github.com/hugoleodev/awesome-angular)
 * [awesome-apple](https://github.com/joeljfischer/awesome-apple) – 3rd party libraries and tools for Apple platforms development.
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) – Big data frameworks, resources and other awesomeness.
 * [awesome-cobol](https://github.com/dshimy/awesome-cobol) *Fake.*
@@ -106,6 +108,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-css](https://github.com/ikkou/awesome-css)
 * [awesome-d](https://github.com/zhaopuming/awesome-d)
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) – Tools, resources and workflow tips making an awesome development environment.
+* [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir)
 * [awesome-erlang](https://github.com/drobakowski/awesome-erlang)
 * [awesome-fortran](https://github.com/rabbiabram/awesome-fortran)
