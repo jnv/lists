@@ -96,6 +96,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 ### awesome-*
 
+* [awesome-activeadmin](https://github.com/serradura/awesome-activeadmin) –  Active Admin resources, extensions, posts and utilities. *For Rails.*
 * [awesome-apple](https://github.com/joeljfischer/awesome-apple) – 3rd party libraries and tools for Apple platforms development.
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) – Big data frameworks, resources and other awesomeness.
 * [awesome-cobol](https://github.com/dshimy/awesome-cobol) *Fake.*
@@ -111,7 +112,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   * http://awesome-go.com/
 * [awesome-groovy](https://github.com/kdabir/awesome-groovy)
 * [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) – Hadoop and Hadoop ecosystem resources.
-* [awesome-haskell](https://github.com/krispo/awesome-haskell) – 
+* [awesome-haskell](https://github.com/krispo/awesome-haskell)
 * [awesome-hierarchical-matrices](https://github.com/gchavez2/awesome-hierarchical-matrices) – Hierarchical matrices frameworks, libraries, and software
 * [awesome-html5](https://github.com/diegocard/awesome-html5)
 * [awesome-ios](https://github.com/vsouza/awesome-ios)
@@ -122,7 +123,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 * [vndmtrx/awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs)
 * [awesome-objc-swift](https://github.com/joeljfischer/awesome-objc-swift)
-* [awesome-perfocards](https://github.com/alampcat/awesome-perfocards) *See [perfokaart](http://et.wikipedia.org/wiki/Perfokaart)*
+* [awesome-perfocards](https://github.com/alampcat/awesome-perfocards) *See [perfokaart](http://et.wikipedia.org/wiki/Perfokaart).*
 * [awesome-perl](https://github.com/mackee/awesome-perl)
 * [awesome-python](https://github.com/vinta/awesome-python)
 * [awesome-php](https://github.com/ziadoz/awesome-php)
