@@ -68,6 +68,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) – Code documentation written as code!
   * http://learnxinyminutes.com/
 * [ListOfMinimalistFrameworks](https://github.com/neiesc/ListOfMinimalistFrameworks) – A list of minimalist frameworks (simple and lightweight).
+* [my_tech_resources](https://github.com/JamesLavin/my_tech_resources) by @JamesLavin
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) – Papers from the computer science community to read and discuss. (Contains actual papers)
 * [pattern_classification](https://github.com/rasbt/pattern_classification) – A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks.
 * [programmers-proverbs](https://github.com/AntJanus/programmers-proverbs) – Proverbs from the programmer
