@@ -111,6 +111,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) – Tools, resources and workflow tips making an awesome development environment.
 * [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir)
+* [awesome-endless-codeforall-list](https://github.com/RobTranquillo/awesome-endless-codeforall-list) – Every tool that civic hackers worldwide use to work.
 * [awesome-erlang](https://github.com/drobakowski/awesome-erlang)
 * [awesome-fortran](https://github.com/rabbiabram/awesome-fortran)
 * [awesome-go](https://github.com/avelino/awesome-go)
