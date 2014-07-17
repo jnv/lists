@@ -116,6 +116,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-fortran](https://github.com/rabbiabram/awesome-fortran)
 * [awesome-go](https://github.com/avelino/awesome-go)
   * http://awesome-go.com/
+* [awesome-grails](https://github.com/hitenpratap/awesome-grails)
 * [awesome-groovy](https://github.com/kdabir/awesome-groovy)
 * [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) – Hadoop and Hadoop ecosystem resources.
 * [awesome-haskell](https://github.com/krispo/awesome-haskell)
