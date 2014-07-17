@@ -138,10 +138,10 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-puppet](https://github.com/olindata/awesome-puppet)
 * [awesome-python](https://github.com/vinta/awesome-python)
 * [awesome-rails](https://github.com/ruby-vietnam/awesome-rails)
-* [awesome-rust](https://github.com/kud1ing/awesome-rust)
 * [markets/awesome-ruby](https://github.com/markets/awesome-ruby)
   * http://marcanguera.net/awesome-ruby/
 * [Sdogruyol/awesome-ruby](https://github.com/Sdogruyol/awesome-ruby)
+* [awesome-rust](https://github.com/kud1ing/awesome-rust)
 * [awesome-scala](https://github.com/lauris/awesome-scala)
 * [awesome-shell](https://github.com/alebcay/awesome-shell) – Command-line frameworks, toolkits, guides and gizmos.
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) – A curated list of amazingly awesome open source sysadmin resources.
