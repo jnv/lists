@@ -78,6 +78,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [python_reference](https://github.com/rasbt/python_reference) – Useful functions, tutorials, and other Python-related things.
 * [queues.io](https://github.com/strzalek/queues.io) – Job queues, message queues and other queues.
   * http://queues.io/
+* [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) – Ruby and Ruby on Rails bookmarks collection.
 * [ruby-dev-bookmarks](https://github.com/saberma/ruby-dev-bookmarks) – A list of ruby development resources I've collected.
 * [ruby-trivia](https://github.com/gregstallings/ruby-trivia) – A list of questions about Ruby programming you can use to quiz yourself.
 * [rss-readers-list](https://github.com/smithbr/rss-readers-list) – Reader replacements megalist
