@@ -138,6 +138,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-puppet](https://github.com/olindata/awesome-puppet)
 * [awesome-python](https://github.com/vinta/awesome-python)
 * [awesome-rails](https://github.com/ruby-vietnam/awesome-rails)
+* [awesome-rust](https://github.com/kud1ing/awesome-rust)
 * [markets/awesome-ruby](https://github.com/markets/awesome-ruby)
   * http://marcanguera.net/awesome-ruby/
 * [Sdogruyol/awesome-ruby](https://github.com/Sdogruyol/awesome-ruby)
