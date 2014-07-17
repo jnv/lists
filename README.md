@@ -157,13 +157,14 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) – A curated list of awesome awesomeness
 * [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) – Awesome collection of awesome lists of libraries, tools, frameworks and software for any programming language
 * [ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists) – List of github lists
-* [list-of-lists](https://github.com/cyrusstoller/list-of-lists) – A meta list of lists of useful open source projects and developer tools
+* [list-of-lists](https://github.com/cyrusstoller/list-of-lists) – A meta list of lists of useful open source projects and developer tools.
 * [this one](#lists)
 
 ### Lists of lists of lists
 
 * [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) – A a curated list of curated lists of awesome lists.
-* [lologl](https://github.com/yaph/lologl) – List of Lists of Github Lists
+* [awesomecubed](https://github.com/hunterboerner/awesomecubed) – A curated list of awesome awesomeness awesomenesses.
+* [lologl](https://github.com/yaph/lologl) – List of Lists of Github Lists.
 * [the one above](#lists-of-lists)
 
 
