@@ -62,6 +62,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [InterviewThis](https://github.com/ChiperSoft/InterviewThis) – An open source list of developer questions to ask prospective employers
 * [javascript-patterns](https://github.com/shichuan/javascript-patterns) – JavaScript Patterns
   * http://shichuan.github.io/javascript-patterns/
+* [jslibs](https://github.com/epeli/jslibs) – My picks of promising/useful Javascript libraries.
+  * *See also [JSwiki](http://jswiki.org/)*
 * [js-must-watch](https://github.com/bolshchikov/js-must-watch) – Must-watch videos about javascript
 * [killer-talks](https://github.com/PharkMillups/killer-talks) – A list of talks that are worth watching.
 * [learn-drupal](https://github.com/rocketeerbkw/learn-drupal) – A curated list of stuff to help you learn Drupal.
