@@ -33,8 +33,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 * [alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 * [apiPlatforms](https://github.com/opentok/apiPlatforms) – List of cool and awesome APIs
-* [Jackgris/awesome-android](https://github.com/Jackgris/awesome-android) *In Spanish.*
-* [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android)
 * [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) – Pointers to useful, well-written, and otherwise beautiful documentation.
 * [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – a curated list of, you guessed it, bookmarklets that are useful on the web
   * http://sachaschmid.ch/bookmarklets/
@@ -105,6 +103,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 * [awesome-activeadmin](https://github.com/serradura/awesome-activeadmin) –  Active Admin resources, extensions, posts and utilities. *For Rails.*
 * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) – Places to learn and/or practice algorithms.
+* [Jackgris/awesome-android](https://github.com/Jackgris/awesome-android) *In Spanish.*
+* [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android)
 * [awesome-angular](https://github.com/hugoleodev/awesome-angular)
 * [awesome-apple](https://github.com/joeljfischer/awesome-apple) – 3rd party libraries and tools for Apple platforms development.
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) – Big data frameworks, resources and other awesomeness.
