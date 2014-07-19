@@ -114,8 +114,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-cloud](https://github.com/JStumpp/awesome-cloud) – Delightful cloud services.
 * [awesome-cobol](https://github.com/dshimy/awesome-cobol) *Fake.*
 * [awesome-coldfusion](https://github.com/seancoyne/awesome-coldfusion)
-* [awesome-cpp](https://github.com/fffaraz/awesome-cpp) – C/C++ frameworks, libraries, resources.
 * [awesome-cordova](https://github.com/busterc/awesome-cordova) *Apache Cordova / PhoneGap*
+* [awesome-cpp](https://github.com/fffaraz/awesome-cpp) – C/C++ frameworks, libraries, resources.
 * [awesome-css](https://github.com/ikkou/awesome-css)
 * [awesome-d](https://github.com/zhaopuming/awesome-d)
 * [awesome-datascience](https://github.com/okulbilisim/awesome-datascience) – An open source DataScience repository to learn and apply for real world problems.
