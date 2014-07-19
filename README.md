@@ -145,6 +145,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-play1](https://github.com/PerfectCarl/awesome-play1) – Play Framework 1.x modules, tools, and resources.
 * [awesome-puppet](https://github.com/olindata/awesome-puppet)
 * [awesome-python](https://github.com/vinta/awesome-python)
+* [awesome-R](https://github.com/qinwf/awesome-R)
 * [awesome-rails](https://github.com/ruby-vietnam/awesome-rails)
 * [markets/awesome-ruby](https://github.com/markets/awesome-ruby)
   * http://marcanguera.net/awesome-ruby/
