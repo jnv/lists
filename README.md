@@ -126,6 +126,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir)
 * [awesome-endless-codeforall-list](https://github.com/RobTranquillo/awesome-endless-codeforall-list) – Every tool that civic hackers worldwide use to work.
 * [awesome-erlang](https://github.com/drobakowski/awesome-erlang)
+* [awesome-flask](https://github.com/humiaozuzu/awesome-flask) – Flask *Python web framework* resources and plugins.
 * [awesome-fortran](https://github.com/rabbiabram/awesome-fortran)
 * [awesome-go](https://github.com/avelino/awesome-go)
   * http://awesome-go.com/
