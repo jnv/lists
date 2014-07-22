@@ -35,6 +35,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 * [alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 * [android-open-project](https://github.com/Trinea/android-open-project) *In Chinese* – Collect and classify android open source projects.
+* [android-security-awesome](https://github.com/ashishb/android-security-awesome) – “A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.”
 * [apiPlatforms](https://github.com/opentok/apiPlatforms) – List of cool and awesome APIs
 * [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) – Pointers to useful, well-written, and otherwise beautiful documentation.
 * [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – a curated list of, you guessed it, bookmarklets that are useful on the web
