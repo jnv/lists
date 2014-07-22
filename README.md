@@ -44,7 +44,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [daemon](https://github.com/CarameloMartins/daemon) – A curated list of resources for a more literate programming.
 * [datasciencemasters](https://github.com/datasciencemasters/go) – The Curriculum for learning Data Science, Open Source and at your fingertips.
   * http://datasciencemasters.org/
-* [Developer-Conferences](https://github.com/MurtzaM/Developer-Conferences) – List of upcoming developer conferences
+* [Developer-Conferences](https://github.com/MurtzaM/Developer-Conferences) – List of upcoming developer conferences.
+* [dev-resource](https://github.com/Ibrahim-Islam/dev-resource) – Resources for devs online and offline.
 * [EducationalToolsResources](https://github.com/hkalant/EducationalToolsResources) – Tools and resources for educators and virtual teachers.
 * [erlang-bookmarks](https://github.com/0xAX/erlang-bookmarks) – All about erlang programming language.
 * [es6-tools](https://github.com/addyosmani/es6-tools) – An aggregation of tooling for ES6
