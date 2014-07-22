@@ -69,6 +69,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [jslibs](https://github.com/epeli/jslibs) – My picks of promising/useful Javascript libraries.
   * *See also [JSwiki](http://jswiki.org/)*
 * [js-must-watch](https://github.com/bolshchikov/js-must-watch) – Must-watch videos about javascript
+* [jstools](https://github.com/codefellows/jstools) – Foundational JavaScript Tools
+  * https://www.codefellows.org/blog/complete-list-of-javascript-tools
 * [killer-talks](https://github.com/PharkMillups/killer-talks) – A list of talks that are worth watching.
 * [learn-drupal](https://github.com/rocketeerbkw/learn-drupal) – A curated list of stuff to help you learn Drupal.
 * [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) – Code documentation written as code!
