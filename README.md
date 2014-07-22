@@ -140,6 +140,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-java](https://github.com/akullpp/awesome-java)
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 * [awesome-julia](https://github.com/dantedurrman/awesome-julia)
+* [awesome-languages](https://github.com/ekremkaraca/awesome-languages) – Open-source programming languages.
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 * [vndmtrx/awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs)
