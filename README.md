@@ -118,6 +118,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-angular](https://github.com/hugoleodev/awesome-angular)
 * [awesome-apple](https://github.com/joeljfischer/awesome-apple) – 3rd party libraries and tools for Apple platforms development.
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) – Big data frameworks, resources and other awesomeness.
+* [awesome-cassandra](https://github.com/yikebocai/awesome-cassandra)
 * [awesome-clojure](https://github.com/razum2um/awesome-clojure)
 * [awesome-cloud](https://github.com/JStumpp/awesome-cloud) – Delightful cloud services.
 * [awesome-cobol](https://github.com/dshimy/awesome-cobol) *Fake.*
