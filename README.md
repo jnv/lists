@@ -42,10 +42,10 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   * http://sachaschmid.ch/bookmarklets/
 * [bookshelf](https://github.com/OpenTechSchool/bookshelf) – Reading lists for learners
 * [content-management-systems](https://github.com/ahadb/content-management-systems) – A list of open source & proprietary content management systems.
+* [crypto-might-not-suck](https://github.com/sweis/crypto-might-not-suck) – Crypto Projects that Might not Suck.
 * [daemon](https://github.com/CarameloMartins/daemon) – A curated list of resources for a more literate programming.
 * [datasciencemasters](https://github.com/datasciencemasters/go) – The Curriculum for learning Data Science, Open Source and at your fingertips.
   * http://datasciencemasters.org/
-* [crypto-might-not-suck](https://github.com/sweis/crypto-might-not-suck) – Crypto Projects that Might not Suck.
 * [Developer-Conferences](https://github.com/MurtzaM/Developer-Conferences) – List of upcoming developer conferences.
 * [dev-resource](https://github.com/Ibrahim-Islam/dev-resource) – Resources for devs online and offline.
 * [EducationalToolsResources](https://github.com/hkalant/EducationalToolsResources) – Tools and resources for educators and virtual teachers.
