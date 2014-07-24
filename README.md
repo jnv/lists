@@ -154,6 +154,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 * [vndmtrx/awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs)
 * [awesome-objc-swift](https://github.com/joeljfischer/awesome-objc-swift)
+* [awesome-ocaml](https://github.com/rizo/awesome-ocaml)
 * [awesome-perfocards](https://github.com/alampcat/awesome-perfocards) *See [perfokaart](http://et.wikipedia.org/wiki/Perfokaart).*
 * [awesome-perl](https://github.com/hachiojipm/awesome-perl)
 * [awesome-php](https://github.com/ziadoz/awesome-php)
