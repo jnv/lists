@@ -199,6 +199,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) – A a curated list of curated lists of awesome lists.
 * [awesomecubed](https://github.com/hunterboerner/awesomecubed) – A curated list of awesome awesomeness awesomenesses.
 * [lologl](https://github.com/yaph/lologl) – List of Lists of Github Lists.
+* [meta-awesome](https://github.com/PatrickMcDonald/meta-awesome)
 * [the one above](#lists-of-lists)
 
 
