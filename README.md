@@ -13,6 +13,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 ## Non-technical
 
 * [50](https://github.com/svaksha/50) – Grants, scholarships and FA that encourages diversity in STEM fields among half the world's population.
+  * http://svaksha.github.io/50/
 * [Annual-Reading-List](https://github.com/davidskeck/Annual-Reading-List) – A list of things to read every year.
 
   > I feel like a lot of people read important ideas once and never get the chance to implement them. The purpose of this list is that ideas that are important to me get the chance to take hold in my mind. By reading these works annually, I will be introduced to these ideas again and again until they become habitual to me.
@@ -39,6 +40,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome) – “A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.”
 * [apiPlatforms](https://github.com/opentok/apiPlatforms) – List of cool and awesome APIs
 * [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) – Pointers to useful, well-written, and otherwise beautiful documentation.
+* [boidae](https://github.com/svaksha/boidae) – Curated decibans of Python scientific programming resources.
+  * http://svaksha.github.io/boidae/
 * [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – a curated list of, you guessed it, bookmarklets that are useful on the web
   * http://sachaschmid.ch/bookmarklets/
 * [bookshelf](https://github.com/OpenTechSchool/bookshelf) – Reading lists for learners
@@ -76,6 +79,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [js-must-watch](https://github.com/bolshchikov/js-must-watch) – Must-watch videos about javascript
 * [jstools](https://github.com/codefellows/jstools) – Foundational JavaScript Tools
   * https://www.codefellows.org/blog/complete-list-of-javascript-tools
+* [Julia.jl](https://github.com/svaksha/Julia.jl) – Curated decibans of Julia language.
+  * https://github.com/svaksha/Julia.jl
 * [killer-talks](https://github.com/PharkMillups/killer-talks) – A list of talks that are worth watching.
 * [learn-drupal](https://github.com/rocketeerbkw/learn-drupal) – A curated list of stuff to help you learn Drupal.
 * [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) – Code documentation written as code!
