@@ -75,6 +75,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [iOSDevResource](https://github.com/objcc/iOSDevResource)
 * [javascript-patterns](https://github.com/shichuan/javascript-patterns) – JavaScript Patterns
   * http://shichuan.github.io/javascript-patterns/
+* [javascript-resources](https://github.com/alexeygolovnya/javascript-resources)
 * [jslibs](https://github.com/epeli/jslibs) – My picks of promising/useful Javascript libraries.
   * *See also [JSwiki](http://jswiki.org/)*
 * [js-must-watch](https://github.com/bolshchikov/js-must-watch) – Must-watch videos about javascript
