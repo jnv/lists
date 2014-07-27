@@ -18,6 +18,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
   > I feel like a lot of people read important ideas once and never get the chance to implement them. The purpose of this list is that ideas that are important to me get the chance to take hold in my mind. By reading these works annually, I will be introduced to these ideas again and again until they become habitual to me.
 * [awesomebandnames](https://github.com/LycaonIsAWolf/awesomebandnames) – The open-source list of awesome band names.
+* [awesome-images](https://github.com/heyalexej/awesome-images) – Free (stock) photo resources for your projects.
 * [cocktails](https://github.com/balevine/cocktails) – Cocktail Recipes
 * [corporate-logos](https://github.com/marketreef/corporate-logos) – Curated repo of publicly listed co. logos, identified by ticker. *Almost 1500 logos*
 * [dissertation-tips](https://github.com/katychuang/dissertation-tips) – Resources to help PhD students complete their dissertation successfully.
