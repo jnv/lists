@@ -52,6 +52,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [datasciencemasters](https://github.com/datasciencemasters/go) – The Curriculum for learning Data Science, Open Source and at your fingertips.
   * http://datasciencemasters.org/
 * [Developer-Conferences](https://github.com/MurtzaM/Developer-Conferences) – List of upcoming developer conferences.
+* [devops_resources](https://github.com/dustinmm80/devops_resources)
 * [dev-resource](https://github.com/Ibrahim-Islam/dev-resource) – Resources for devs online and offline.
 * [EducationalToolsResources](https://github.com/hkalant/EducationalToolsResources) – Tools and resources for educators and virtual teachers.
 * [erlang-bookmarks](https://github.com/0xAX/erlang-bookmarks) – All about erlang programming language.
@@ -140,6 +141,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-datascience](https://github.com/okulbilisim/awesome-datascience) – An open source DataScience repository to learn and apply for real world problems.
 * [awesome-ddd](https://github.com/wkjagt/awesome-ddd) – Domain Driven Design resources.
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) – Tools, resources and workflow tips making an awesome development environment.
+* [awesome-docker](https://github.com/anildigital/awesome-docker)
 * [awesome-emacs](https://github.com/tacticiankerala/awesome-emacs)
 * [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir)
