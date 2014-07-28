@@ -132,6 +132,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-angular](https://github.com/hugoleodev/awesome-angular)
 * [awesome-apple](https://github.com/joeljfischer/awesome-apple) – 3rd party libraries and tools for Apple platforms development.
 * [awesome-arabic](https://github.com/OthmanAba/awesome-arabic) – Arabic supporting tools, fonts, and development resources.
+* [awesome-avr](https://github.com/fffaraz/awesome-avr)
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) – Big data frameworks, resources and other awesomeness.
 * [awesome-cassandra](https://github.com/yikebocai/awesome-cassandra)
 * [awesome-clojure](https://github.com/razum2um/awesome-clojure)
@@ -175,6 +176,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ocaml](https://github.com/rizo/awesome-ocaml)
 * [awesome-perfocards](https://github.com/alampcat/awesome-perfocards) *See [perfokaart](http://et.wikipedia.org/wiki/Perfokaart).*
 * [awesome-perl](https://github.com/hachiojipm/awesome-perl)
+* [awesome-persian](https://github.com/fffaraz/awesome-persian) – Persian/Farsi supporting tools, fonts, and development resources.
 * [awesome-php](https://github.com/ziadoz/awesome-php)
 * [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) – Pipeline toolkits.
 * [awesome-play1](https://github.com/PerfectCarl/awesome-play1) – Play Framework 1.x modules, tools, and resources.
