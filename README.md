@@ -102,6 +102,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [queues.io](https://github.com/strzalek/queues.io) – Job queues, message queues and other queues.
   * http://queues.io/
 * [resources](https://github.com/jbranchaud/resources) – Free, online resources for various technologies, languages, and tools.
+* [Resources](https://github.com/tevko/Resources) – Tools for front end devs.
 * [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) – Ruby and Ruby on Rails bookmarks collection.
 * [ruby-dev-bookmarks](https://github.com/saberma/ruby-dev-bookmarks) – A list of ruby development resources I've collected.
 * [ruby-trivia](https://github.com/gregstallings/ruby-trivia) – A list of questions about Ruby programming you can use to quiz yourself.
