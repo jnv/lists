@@ -146,7 +146,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ddd](https://github.com/wkjagt/awesome-ddd) – Domain Driven Design resources.
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) – Tools, resources and workflow tips making an awesome development environment.
 * [awesome-docker](https://github.com/anildigital/awesome-docker)
-* [awesome-emacs](https://github.com/tacticiankerala/awesome-emacs)
+* [awesome-emacs](https://github.com/sefakilic/awesome-emacs) by @sefakilic
+* [awesome-emacs](https://github.com/tacticiankerala/awesome-emacs) by @tacticiankerala
 * [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir)
 * [awesome-endless-codeforall-list](https://github.com/RobTranquillo/awesome-endless-codeforall-list) – Every tool that civic hackers worldwide use to work.
