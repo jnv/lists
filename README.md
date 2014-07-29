@@ -40,14 +40,14 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 * [android-open-project](https://github.com/Trinea/android-open-project) *In Chinese* – Collect and classify android open source projects.
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome) – “A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.”
-* [apiPlatforms](https://github.com/opentok/apiPlatforms) – List of cool and awesome APIs
+* [apiPlatforms](https://github.com/opentok/apiPlatforms) – Cool and awesome APIs
 * [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) – Pointers to useful, well-written, and otherwise beautiful documentation.
 * [boidae](https://github.com/svaksha/boidae) – Curated decibans of Python scientific programming resources.
   * http://svaksha.github.io/boidae/
-* [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – a curated list of, you guessed it, bookmarklets that are useful on the web
+* [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – Bookmarklets that are useful on the web
   * http://sachaschmid.ch/bookmarklets/
 * [bookshelf](https://github.com/OpenTechSchool/bookshelf) – Reading lists for learners
-* [content-management-systems](https://github.com/ahadb/content-management-systems) – A list of open source & proprietary content management systems.
+* [content-management-systems](https://github.com/ahadb/content-management-systems) – Open source & proprietary content management systems.
 * [crypto-might-not-suck](https://github.com/sweis/crypto-might-not-suck) – Crypto Projects that Might not Suck.
 * [curated-list-espresso-sugar-plugins](https://github.com/GioSensation/curated-list-espresso-sugar-plugins) – Sugar plugins for Espresso, the code editor by MacRabbit.
 * [Curated-List-of-Awesomeness](https://github.com/JayBizzle/Curated-List-of-Awesomeness) – Web resources.
@@ -60,9 +60,9 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [EducationalToolsResources](https://github.com/hkalant/EducationalToolsResources) – Tools and resources for educators and virtual teachers.
 * [erlang-bookmarks](https://github.com/0xAX/erlang-bookmarks) – All about erlang programming language.
 * [es6-tools](https://github.com/addyosmani/es6-tools) – An aggregation of tooling for ES6
-* [Facets](https://github.com/O-I/Facets) – A community-curated list of one-liners in Ruby
-* [flat-file-cms](https://github.com/ahadb/flat-file-cms) – A list of stictly flat-file cms systems.
-* [free-programming-books](https://github.com/vhf/free-programming-books) – List of Free Programming Books 
+* [Facets](https://github.com/O-I/Facets) – One-liners in Ruby
+* [flat-file-cms](https://github.com/ahadb/flat-file-cms) – Stictly flat-file cms systems.
+* [free-programming-books](https://github.com/vhf/free-programming-books)
   * http://resrc.io/list/10/list-of-free-programming-books/
 * [free-programming-courses](https://github.com/fffaraz/free-programming-courses) – Online programming/CS courses.
 * [free-software-testing-books](https://github.com/ligurio/free-software-testing-books) – List of free software testing books.
@@ -71,10 +71,10 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) – A huge list of frontend development resources I collected over time.
 * [frontend-tools](https://github.com/codylindley/frontend-tools) – An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i.e. does not include tablet or phone yet) web development
 * [games](https://github.com/leereilly/games) – A list of popular/awesome videos games, add-on, maps, etc. hosted on GitHub.
-* [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) – A list of cool features of Git and GitHub.
+* [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) – Cool features of Git and GitHub.
 * [ideas](https://github.com/samsquire/ideas) – One Hundred Ideas for Computing
 * [Inspire](https://github.com/Codingbean/Inspire) – A collection of links to assist you in web design and development.
-* [InterviewThis](https://github.com/ChiperSoft/InterviewThis) – An open source list of developer questions to ask prospective employers
+* [InterviewThis](https://github.com/ChiperSoft/InterviewThis) – Developer questions to ask prospective employers
 * [iOSDevResource](https://github.com/objcc/iOSDevResource)
 * [javascript-patterns](https://github.com/shichuan/javascript-patterns) – JavaScript Patterns
   * http://shichuan.github.io/javascript-patterns/
@@ -86,18 +86,18 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   * https://www.codefellows.org/blog/complete-list-of-javascript-tools
 * [Julia.jl](https://github.com/svaksha/Julia.jl) – Curated decibans of Julia language.
   * https://github.com/svaksha/Julia.jl
-* [killer-talks](https://github.com/PharkMillups/killer-talks) – A list of talks that are worth watching.
+* [killer-talks](https://github.com/PharkMillups/killer-talks) – Talks that are worth watching.
 * [Laravel-Resources](https://github.com/abhimanyusharma003/Laravel-Resources) – Laravel Framework Resources and Blogs.
-* [learn-drupal](https://github.com/rocketeerbkw/learn-drupal) – A curated list of stuff to help you learn Drupal.
+* [learn-drupal](https://github.com/rocketeerbkw/learn-drupal) – Stuff to help you learn Drupal.
 * [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) – Code documentation written as code!
   * http://learnxinyminutes.com/
-* [ListOfMinimalistFrameworks](https://github.com/neiesc/ListOfMinimalistFrameworks) – A list of minimalist frameworks (simple and lightweight).
+* [ListOfMinimalistFrameworks](https://github.com/neiesc/ListOfMinimalistFrameworks) – Minimalist frameworks (simple and lightweight).
 * [magictools](https://github.com/ellisonleao/magictools) – Game Development resources to make magic happen.
 * [my_tech_resources](https://github.com/JamesLavin/my_tech_resources) by @JamesLavin
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) – Papers from the computer science community to read and discuss. (Contains actual papers)
 * [pattern_classification](https://github.com/rasbt/pattern_classification) – A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks.
 * [programmers-proverbs](https://github.com/AntJanus/programmers-proverbs) – Proverbs from the programmer
-* [Projects](https://github.com/karan/Projects) – A list of practical projects that anyone can solve in any programming language.
+* [Projects](https://github.com/karan/Projects) – Practical projects that anyone can solve in any programming language.
 * [python-github-projects](https://github.com/checkcheckzz/python-github-projects) – Collect and classify python projects on Github.
   * http://itgeekworkhard.com/python-github-projects/
 * [python_reference](https://github.com/rasbt/python_reference) – Useful functions, tutorials, and other Python-related things.
@@ -106,8 +106,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [resources](https://github.com/jbranchaud/resources) – Free, online resources for various technologies, languages, and tools.
 * [Resources](https://github.com/tevko/Resources) – Tools for front end devs.
 * [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) – Ruby and Ruby on Rails bookmarks collection.
-* [ruby-dev-bookmarks](https://github.com/saberma/ruby-dev-bookmarks) – A list of ruby development resources I've collected.
-* [ruby-trivia](https://github.com/gregstallings/ruby-trivia) – A list of questions about Ruby programming you can use to quiz yourself.
+* [ruby-dev-bookmarks](https://github.com/saberma/ruby-dev-bookmarks) – Ruby development resources I've collected.
+* [ruby-trivia](https://github.com/gregstallings/ruby-trivia) – Questions about Ruby programming you can use to quiz yourself.
 * [rss-readers-list](https://github.com/smithbr/rss-readers-list) – Reader replacements megalist
   * http://smithbr.github.io/rss-readers-list
 * [secure-email](https://github.com/OpenTechFund/secure-email) – Overview of projects working on next-generation secure email.
@@ -118,11 +118,11 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators)
 * [sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks) – Sublime Text essential plugins and resources.
 * [SwiftInFlux](https://github.com/ksm/SwiftInFlux) – An attempt to gather all that is in flux in Swift.
-* [Toolbox](https://github.com/Dillion/Toolbox) – List of open source iOS stuff.
+* [Toolbox](https://github.com/Dillion/Toolbox) – Open source iOS stuff.
 * [tool_lists](https://github.com/johnyf/tool_lists) – Links to tools by theme. *Verification, synthesis, and static analysis.*
 * [tools](https://github.com/lvwzhen/tools) – Tools for web.
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) – Tools of The Trade, from Hacker News.
-* [twofactorauth](https://github.com/jdavis/twofactorauth) – List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
+* [twofactorauth](https://github.com/jdavis/twofactorauth) – Sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
   * http://twofactorauth.org/
 * [web-development-resources](https://github.com/MasonONeal/web-development-resources)
 
@@ -199,7 +199,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-scala](https://github.com/lauris/awesome-scala)
 * [awesome-selenium](https://github.com/christian-bromann/awesome-selenium)
 * [awesome-shell](https://github.com/alebcay/awesome-shell) – Command-line frameworks, toolkits, guides and gizmos.
-* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) – A curated list of amazingly awesome open source sysadmin resources.
+* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) – Oen source sysadmin resources.
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift) by @matteocrippa
 * [awesome-swift](https://github.com/Wolg/awesome-swift) by @Wolg
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
