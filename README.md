@@ -176,6 +176,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 * [awesome-julia](https://github.com/dantedurrman/awesome-julia)
 * [awesome-languages](https://github.com/ekremkaraca/awesome-languages) – Open-source programming languages.
+* [awesome-laravel](https://github.com/chiraggude/awesome-laravel) – Laravel Framework learning resources.
 * [awesome-lua](https://github.com/forhappy/awesome-lua)
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) by @sindresorhus
