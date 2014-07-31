@@ -206,6 +206,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift) by @matteocrippa
 * [awesome-swift](https://github.com/Wolg/awesome-swift) by @Wolg
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
+* [awesome-vagrant](https://github.com/iJackUA/awesome-vagrant)
 * [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) – Wikipedia-related frameworks, libraries, software, datasets and references.
 * [awesome-yamada](https://github.com/supermomonga/awesome-yamada) *Dancing Yamada*
 * [awesome-yii](https://github.com/iJackUA/awesome-yii) – Yii Framework extensions, tutorials and other nice things.
