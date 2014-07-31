@@ -42,8 +42,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome) – “A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.”
 * [apiPlatforms](https://github.com/opentok/apiPlatforms) – Cool and awesome APIs
 * [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) – Pointers to useful, well-written, and otherwise beautiful documentation.
-* [boidae](https://github.com/svaksha/boidae) – Curated decibans of Python scientific programming resources.
-  * http://svaksha.github.io/boidae/
 * [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – Bookmarklets that are useful on the web
   * http://sachaschmid.ch/bookmarklets/
 * [bookshelf](https://github.com/OpenTechSchool/bookshelf) – Reading lists for learners
@@ -101,6 +99,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Projects](https://github.com/karan/Projects) – Practical projects that anyone can solve in any programming language.
 * [python-github-projects](https://github.com/checkcheckzz/python-github-projects) – Collect and classify python projects on Github.
   * http://itgeekworkhard.com/python-github-projects/
+* [pythonidae](https://github.com/svaksha/pythonidae) – Curated decibans of Python scientific programming resources.
+  * http://svaksha.github.io/pythonidae/
 * [python_reference](https://github.com/rasbt/python_reference) – Useful functions, tutorials, and other Python-related things.
 * [queues.io](https://github.com/strzalek/queues.io) – Job queues, message queues and other queues.
   * http://queues.io/
