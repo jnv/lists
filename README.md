@@ -165,6 +165,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-erlang](https://github.com/drobakowski/awesome-erlang)
 * [awesome-flask](https://github.com/humiaozuzu/awesome-flask) – Flask *Python web framework* resources and plugins.
 * [awesome-fortran](https://github.com/rabbiabram/awesome-fortran)
+* [awesome-github](https://github.com/fffaraz/awesome-github) – Git and GitHub references.
 * [awesome-go](https://github.com/avelino/awesome-go) by @avelino
   * http://awesome-go.com/
 * [awesome-go](https://github.com/SchumacherFM/awesome-go) by @SchumacherFM
