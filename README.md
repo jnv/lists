@@ -69,6 +69,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [frontdesk](https://github.com/miripiruni/frontdesk) – Community driven list of useful things for Front End Developers
 * [Front-end-Developer-Interview-Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) – A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 * [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) – A huge list of frontend development resources I collected over time.
+* [frontend-resources](https://github.com/JonathanZWhite/frontend-resources)
 * [frontend-tools](https://github.com/codylindley/frontend-tools) – An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i.e. does not include tablet or phone yet) web development
 * [games](https://github.com/leereilly/games) – A list of popular/awesome videos games, add-on, maps, etc. hosted on GitHub.
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) – Cool features of Git and GitHub.
