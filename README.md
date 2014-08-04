@@ -193,6 +193,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs) by @vndmtrx
 * [awesome-objc-swift](https://github.com/joeljfischer/awesome-objc-swift)
 * [awesome-ocaml](https://github.com/rizo/awesome-ocaml)
+* [awesome-pentest](https://github.com/enaqx/awesome-pentest) – Penetration testing resources and tools.
 * [awesome-perfocards](https://github.com/alampcat/awesome-perfocards) *See [perfokaart](http://et.wikipedia.org/wiki/Perfokaart).*
 * [awesome-perl](https://github.com/hachiojipm/awesome-perl)
 * [awesome-persian](https://github.com/fffaraz/awesome-persian) – Persian/Farsi supporting tools, fonts, and development resources.
@@ -212,6 +213,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-sass](https://github.com/HugoGiraudel/awesome-sass) – Sass/SCSS extensions, articles, and examples.
 * [awesome-scala](https://github.com/lauris/awesome-scala)
 * [awesome-selenium](https://github.com/christian-bromann/awesome-selenium)
+* [awesome-sharepoint](https://github.com/sergey-tihon/awesome-sharepoint)
 * [awesome-shell](https://github.com/alebcay/awesome-shell) – Command-line frameworks, toolkits, guides and gizmos.
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) – Open source sysadmin resources.
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift) by @matteocrippa
