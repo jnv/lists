@@ -161,7 +161,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-django-cms](https://github.com/mishbahr/awesome-django-cms) – django CMS add-ons.
 * [awesome-docker](https://github.com/anildigital/awesome-docker)
 * [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
-* [awesome-emacs](https://github.com/cataska/awesome-emacs) by @cataska
+* [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) from @emacs-tw
 * [awesome-emacs](https://github.com/sefakilic/awesome-emacs) by @sefakilic
 * [awesome-emacs](https://github.com/tacticiankerala/awesome-emacs) by @tacticiankerala
 * [awesome-ember](https://github.com/nmec/awesome-ember) – Ember.js things.
