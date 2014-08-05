@@ -14,6 +14,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 * [50](https://github.com/svaksha/50) – Grants, scholarships and FA that encourages diversity in STEM fields among half the world's population.
   * http://svaksha.github.io/50/
+* [50-DI](https://github.com/svaksha/50-DI) – Curated Diversity Index of grants, scholarships and FA that encourages diversity in STEM fields aimed at half the world's population.
+  * http://svaksha.github.io/50-DI/
 * [Annual-Reading-List](https://github.com/davidskeck/Annual-Reading-List) – A list of things to read every year.
 
   > I feel like a lot of people read important ideas once and never get the chance to implement them. The purpose of this list is that ideas that are important to me get the chance to take hold in my mind. By reading these works annually, I will be introduced to these ideas again and again until they become habitual to me.
