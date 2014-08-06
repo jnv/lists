@@ -220,6 +220,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-selenium](https://github.com/christian-bromann/awesome-selenium)
 * [awesome-sharepoint](https://github.com/sergey-tihon/awesome-sharepoint)
 * [awesome-shell](https://github.com/alebcay/awesome-shell) – Command-line frameworks, toolkits, guides and gizmos.
+* [awesome-symfony2](https://github.com/EmanueleMinotto/awesome-symfony2) – Symfony 2 bundles, utilities and resources.
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) – Open source sysadmin resources.
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift) by @matteocrippa
 * [awesome-swift](https://github.com/Wolg/awesome-swift) by @Wolg
