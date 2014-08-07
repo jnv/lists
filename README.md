@@ -7,7 +7,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 	- [awesome-*](#awesome-)
 - [Lists of lists](#lists-of-lists)
 	- [Lists of lists of lists](#lists-of-lists-of-lists)
-		- [Lists of lists of lists of lists ](#lists-of-lists-of-lists-of-lists-scream)
+		- [Lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-scream)
 			- [Lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists)
 
 ## Non-technical
@@ -126,6 +126,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators)
 * [sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks) – Sublime Text essential plugins and resources.
 * [SwiftInFlux](https://github.com/ksm/SwiftInFlux) – An attempt to gather all that is in flux in Swift.
+* [tech-weekly](https://github.com/adrianmoisey/tech-weekly) - List of weekly technical newsletters
 * [Toolbox](https://github.com/Dillion/Toolbox) – Open source iOS stuff.
 * [tool_lists](https://github.com/johnyf/tool_lists) – Links to tools by theme. *Verification, synthesis, and static analysis.*
 * [tools](https://github.com/lvwzhen/tools) – Tools for web.
