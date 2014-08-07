@@ -105,6 +105,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [pattern_classification](https://github.com/rasbt/pattern_classification) – A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks.
 * [programmers-proverbs](https://github.com/AntJanus/programmers-proverbs) – Proverbs from the programmer
 * [Projects](https://github.com/karan/Projects) – Practical projects that anyone can solve in any programming language.
+* [pycrumbs](https://github.com/kirang89/pycrumbs) – Bits and Bytes of Python from the Internet.
 * [python-github-projects](https://github.com/checkcheckzz/python-github-projects) – Collect and classify python projects on Github.
   * http://itgeekworkhard.com/python-github-projects/
 * [pythonidae](https://github.com/svaksha/pythonidae) – Curated decibans of Python scientific programming resources.
