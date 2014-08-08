@@ -273,5 +273,3 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 ## License
 
 [![CC0 Public Domain](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Jan Vlnas](http://jan.vlnas.cz/) has waived all copyright and related or neighboring rights to this work.
