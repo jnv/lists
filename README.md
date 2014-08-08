@@ -39,6 +39,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 ## Technical
 
+* [101](https://github.com/ojas/101) – Resources on running a software biz.
 * [above-the-fold-css-tools](https://github.com/addyosmani/above-the-fold-css-tools) – Tools to help prioritize above-the-fold CSS.
 * [alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 * [android-open-project](https://github.com/Trinea/android-open-project) *In Chinese* – Collect and classify android open source projects.
