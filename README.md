@@ -98,6 +98,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [learn-drupal](https://github.com/rocketeerbkw/learn-drupal) – Stuff to help you learn Drupal.
 * [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) – Code documentation written as code!
   * http://learnxinyminutes.com/
+* [Life of JavaScript](https://github.com/abhijeetkpawar/lifeofjs) – Curated source for all types of awesome resources available for JavaScript.
 * [ListOfMinimalistFrameworks](https://github.com/neiesc/ListOfMinimalistFrameworks) – Minimalist frameworks (simple and lightweight).
 * [magictools](https://github.com/ellisonleao/magictools) – Game Development resources to make magic happen.
 * [my_tech_resources](https://github.com/JamesLavin/my_tech_resources) by @JamesLavin
