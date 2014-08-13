@@ -47,6 +47,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [angular-education](https://github.com/timjacobi/angular-education) – Useful resources to learn and improve your AngularJS skills.
 * [apiPlatforms](https://github.com/opentok/apiPlatforms) – Cool and awesome APIs
 * [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) – Pointers to useful, well-written, and otherwise beautiful documentation.
+* [bigdata-ecosystem](https://github.com/zenkay/bigdata-ecosystem) – Big-data related projects packed into a JSON dataset.
+  * http://bigdata.andreamostosi.name/
 * [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – Bookmarklets that are useful on the web
   * http://sachaschmid.ch/bookmarklets/
 * [bookshelf](https://github.com/OpenTechSchool/bookshelf) – Reading lists for learners
@@ -235,7 +237,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-swift](https://github.com/Wolg/awesome-swift) by @Wolg
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
 * [awesome-vagrant](https://github.com/iJackUA/awesome-vagrant)
-* [awesome-vim](https://github.com/matteocrippa/awesome-vim)
+* [awesome-vim](https://github.com/akrawchyk/awesome-vim) by @akrawchyk
+* [awesome-vim](https://github.com/matteocrippa/awesome-vim) by @matteocrippa
 * [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) – Wikipedia-related frameworks, libraries, software, datasets and references.
 * [awesome-yamada](https://github.com/supermomonga/awesome-yamada) *Dancing Yamada*
 * [awesome-yii](https://github.com/iJackUA/awesome-yii) – Yii Framework extensions, tutorials and other nice things.
