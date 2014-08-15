@@ -224,6 +224,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-rails](https://github.com/ekremkaraca/awesome-rails) by @ekremkaraca – Projects and sites made with Rails.
 * [awesome-rails](https://github.com/ruby-vietnam/awesome-rails) by @ruby-vietnam – Rails libraries/app examples/ebooks/tutorials/screencasts/magazines/news.
 * [awesome-react](https://github.com/enaqx/awesome-react) – ReactJS tools, resources, videos
+* [awesome-revenue](https://github.com/revenue/awesome-revenue) – Web and Mobile Revenue Models.
 * [awesome-ruby](https://github.com/markets/awesome-ruby) by @markets
   * http://marcanguera.net/awesome-ruby/
 * [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby) by @Sdogruyol
