@@ -190,6 +190,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-go](https://github.com/avelino/awesome-go) by @avelino
   * http://awesome-go.com/
 * [awesome-go](https://github.com/SchumacherFM/awesome-go) by @SchumacherFM
+* [awesome-go-books](https://github.com/airballoon/awesome-go-books) – Online and free golang books.
 * [awesome-grails](https://github.com/hitenpratap/awesome-grails)
 * [awesome-groovy](https://github.com/kdabir/awesome-groovy)
 * [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) – Hadoop and Hadoop ecosystem resources.
