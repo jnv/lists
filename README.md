@@ -143,6 +143,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) – Tools of The Trade, from Hacker News.
 * [twofactorauth](https://github.com/jdavis/twofactorauth) – Sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
   * http://twofactorauth.org/
+* [type-findings](https://github.com/charlespeters/type-findings) – Posts about web typography.
 * [web-development-resources](https://github.com/MasonONeal/web-development-resources)
 
 ### awesome-*
