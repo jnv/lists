@@ -120,6 +120,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [python_reference](https://github.com/rasbt/python_reference) – Useful functions, tutorials, and other Python-related things.
 * [queues.io](https://github.com/strzalek/queues.io) – Job queues, message queues and other queues.
   * http://queues.io/
+* [resource-list](https://github.com/kyasui/resource-list) – Design & Development Resources.
 * [resources](https://github.com/jbranchaud/resources) – Free, online resources for various technologies, languages, and tools.
 * [Resources](https://github.com/tevko/Resources) – Tools for front end devs.
 * [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) – Ruby and Ruby on Rails bookmarks collection.
