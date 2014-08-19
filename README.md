@@ -109,6 +109,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [offline-first](https://github.com/pazguille/offline-first) – Everything you need to know to create offline-first web apps.
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) – Papers from the computer science community to read and discuss. (Contains actual papers)
 * [pattern_classification](https://github.com/rasbt/pattern_classification) – A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks.
+* [PHPVietnam](https://github.com/andytruong/PHPVietnam) – PHP resources for Vietnamese.
 * [programmers-proverbs](https://github.com/AntJanus/programmers-proverbs) – Proverbs from the programmer
 * [Projects](https://github.com/karan/Projects) – Practical projects that anyone can solve in any programming language.
 * [pycrumbs](https://github.com/kirang89/pycrumbs) – Bits and Bytes of Python from the Internet.
