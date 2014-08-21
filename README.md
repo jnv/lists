@@ -170,7 +170,9 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-cordova](https://github.com/busterc/awesome-cordova) *Apache Cordova / PhoneGap*
 * [awesome-cpp](https://github.com/fffaraz/awesome-cpp) – C/C++ frameworks, libraries, resources.
 * [awesome-css](https://github.com/ikkou/awesome-css)
+* [awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
 * [awesome-d](https://github.com/zhaopuming/awesome-d)
+* [awesome-dart](https://github.com/yissachar/awesome-dart)
 * [awesome-datascience](https://github.com/okulbilisim/awesome-datascience) – An open source DataScience repository to learn and apply for real world problems.
 * [awesome-datasets](https://github.com/viisar/awesome-datasets) – Datasets for papers/experiments/validation.
 * [awesome-db](https://github.com/numetriclabz/awesome-db) – Databse libraries and resources.
