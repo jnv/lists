@@ -101,7 +101,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [learn-drupal](https://github.com/rocketeerbkw/learn-drupal) – Stuff to help you learn Drupal.
 * [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) – Code documentation written as code!
   * http://learnxinyminutes.com/
-* [Life of JavaScript](https://github.com/abhijeetkpawar/lifeofjs) – Curated source for all types of awesome resources available for JavaScript.
+* [lifeofjs](https://github.com/abhijeetkpawar/lifeofjs) – Curated source for all types of awesome resources available for JavaScript.
 * [ListOfMinimalistFrameworks](https://github.com/neiesc/ListOfMinimalistFrameworks) – Minimalist frameworks (simple and lightweight).
 * [magictools](https://github.com/ellisonleao/magictools) – Game Development resources to make magic happen.
 * [my_tech_resources](https://github.com/JamesLavin/my_tech_resources) by @JamesLavin
@@ -167,10 +167,10 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-cloud](https://github.com/JStumpp/awesome-cloud) – Delightful cloud services.
 * [awesome-cobol](https://github.com/dshimy/awesome-cobol) *Fake.*
 * [awesome-coldfusion](https://github.com/seancoyne/awesome-coldfusion)
+* [awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
 * [awesome-cordova](https://github.com/busterc/awesome-cordova) *Apache Cordova / PhoneGap*
 * [awesome-cpp](https://github.com/fffaraz/awesome-cpp) – C/C++ frameworks, libraries, resources.
 * [awesome-css](https://github.com/ikkou/awesome-css)
-* [awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
 * [awesome-d](https://github.com/zhaopuming/awesome-d)
 * [awesome-dart](https://github.com/yissachar/awesome-dart)
 * [awesome-datascience](https://github.com/okulbilisim/awesome-datascience) – An open source DataScience repository to learn and apply for real world problems.
