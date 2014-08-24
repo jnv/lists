@@ -42,7 +42,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [101](https://github.com/ojas/101) – Resources on running a software biz.
 * [above-the-fold-css-tools](https://github.com/addyosmani/above-the-fold-css-tools) – Tools to help prioritize above-the-fold CSS.
 * [alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
-* [analytics](https://github.com/onurakpolat/awesome-analytics) – Collecton of analytics tools.
 * [android-awesome-libraries](https://github.com/kaiinui/android-awesome-libraries) – Useful Android development libraries with usage examples.
 * [android-open-project](https://github.com/Trinea/android-open-project) *In Chinese* – Collect and classify android open source projects.
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome) – “A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.”
@@ -154,6 +153,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-2048-and-beyond](https://github.com/cstrap/awesome-2048-and-beyond) – Waste and lose at least 8 hours of your life… then **multiply** it…
 * [awesome-activeadmin](https://github.com/serradura/awesome-activeadmin) –  Active Admin resources, extensions, posts and utilities. *For Rails.*
 * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) – Places to learn and/or practice algorithms.
+* [awesome-analytics](https://github.com/onurakpolat/awesome-analytics) – Analytics services, frameworks, software and other tools.
 * [awesome-android](https://github.com/Jackgris/awesome-android) by @Jackgris *In Spanish.*
 * [awesome-android](https://github.com/JStumpp/awesome-android) by @JStumpp
 * [awesome-angular](https://github.com/hugoleodev/awesome-angular)
