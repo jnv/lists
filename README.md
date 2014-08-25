@@ -86,6 +86,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [ideas](https://github.com/samsquire/ideas) – One Hundred Ideas for Computing
 * [Inspire](https://github.com/Codingbean/Inspire) – A collection of links to assist you in web design and development.
 * [InterviewThis](https://github.com/ChiperSoft/InterviewThis) – Developer questions to ask prospective employers
+* [ios-awesome-libraries](https://github.com/kaiinui/ios-awesome-libraries) – Useful iOS development libraries with usage examples.
 * [iOSDevResource](https://github.com/objcc/iOSDevResource)
 * [javascript-patterns](https://github.com/shichuan/javascript-patterns) – JavaScript Patterns
   * http://shichuan.github.io/javascript-patterns/
