@@ -248,6 +248,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   * http://marcanguera.net/awesome-ruby/
 * [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby) by @Sdogruyol
 * [awesome-rust](https://github.com/kud1ing/awesome-rust)
+* [awesome-sarl](https://github.com/sarl/awesome-sarl) – Resources for [SARL](http://www.sarl.io/) Agent-Oriented Programming Language.
 * [awesome-sass](https://github.com/HugoGiraudel/awesome-sass) – Sass/SCSS extensions, articles, and examples.
 * [awesome-scala](https://github.com/lauris/awesome-scala)
 * [awesome-selenium](https://github.com/christian-bromann/awesome-selenium)
