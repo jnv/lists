@@ -162,7 +162,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-analytics](https://github.com/onurakpolat/awesome-analytics) – Analytics services, frameworks, software and other tools.
 * [awesome-android](https://github.com/Jackgris/awesome-android) by @Jackgris *In Spanish.*
 * [awesome-android](https://github.com/JStumpp/awesome-android) by @JStumpp
-* [awesome-angular](https://github.com/hugoleodev/awesome-angular)
+* [awesome-angular](https://github.com/hugoleodev/awesome-angular) by @hugoleodev
+* [awesome-angularjs](https://github.com/gianarb/awesome-angularjs) by @gianarb
 * [awesome-apple](https://github.com/joeljfischer/awesome-apple) – 3rd party libraries and tools for Apple platforms development.
 * [awesome-arabic](https://github.com/OthmanAba/awesome-arabic) – Arabic supporting tools, fonts, and development resources.
 * [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) – AutoHotkey libraries, library distributions, scripts, tools and resources.
