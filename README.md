@@ -173,6 +173,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-avr](https://github.com/fffaraz/awesome-avr)
 * [awesome-bem](https://github.com/floatdrop/awesome-bem) – Tools, sites, articles about BEM (frontend development method).
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) – Big data frameworks, resources and other awesomeness.
+* [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) – Open-source bioinformatics software and libraries.
 * [awesome-bootstrap](https://github.com/therebelrobot/awesome-bootstrap) – Free Bootstrap themes I think are cool.
 * [awesome-cakephp](https://github.com/dereuromark/awesome-cakephp) – Plugins and resources for CakePHP 2 and 3.
 * [awesome-cassandra](https://github.com/yikebocai/awesome-cassandra)
