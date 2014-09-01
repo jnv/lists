@@ -112,6 +112,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [my_tech_resources](https://github.com/JamesLavin/my_tech_resources) by @JamesLavin
 * [must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) – Must-watch videos about CSS.
 * [nodejs-conference-cfps](https://github.com/rosskukulinski/nodejs-conference-cfps) – NodeJS and Javascript Conference Call for Presentations.
+* [NodeJS-Learning](https://github.com/sergtitov/NodeJS-Learning) – Resources to help you learn Node.js and keep up to date.
 * [offline-first](https://github.com/pazguille/offline-first) – Everything you need to know to create offline-first web apps.
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) – Papers from the computer science community to read and discuss. (Contains actual papers)
 * [pattern_classification](https://github.com/rasbt/pattern_classification) – A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks.
