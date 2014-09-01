@@ -262,10 +262,11 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-sharepoint](https://github.com/sergey-tihon/awesome-sharepoint) by @sergey-tihon
 * [awesome-SharePoint](https://github.com/siaf/awesome-SharePoint) by @siaf
 * [awesome-shell](https://github.com/alebcay/awesome-shell) – Command-line frameworks, toolkits, guides and gizmos.
-* [awesome-symfony2](https://github.com/EmanueleMinotto/awesome-symfony2) – Symfony 2 bundles, utilities and resources.
-* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) – Open source sysadmin resources.
+* [awesome-styleguides](https://github.com/RichardLitt/awesome-styleguides)
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift) by @matteocrippa
 * [awesome-swift](https://github.com/Wolg/awesome-swift) by @Wolg
+* [awesome-symfony2](https://github.com/EmanueleMinotto/awesome-symfony2) – Symfony 2 bundles, utilities and resources.
+* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) – Open source sysadmin resources.
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
 * [awesome-vagrant](https://github.com/iJackUA/awesome-vagrant)
 * [awesome-vim](https://github.com/akrawchyk/awesome-vim) by @akrawchyk
