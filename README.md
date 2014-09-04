@@ -250,6 +250,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-play1](https://github.com/PerfectCarl/awesome-play1) – Play Framework 1.x modules, tools, and resources.
 * [awesome-puppet](https://github.com/olindata/awesome-puppet)
 * [awesome-python](https://github.com/vinta/awesome-python)
+* [awesome-radio](https://github.com/kyleterry/awesome-radio) – Radio and citizens band (CB) radio resources.
 * [awesome-R](https://github.com/qinwf/awesome-R)
 * [awesome-rails](https://github.com/dpaluy/awesome-rails) by @dpaluy
 * [awesome-rails](https://github.com/ekremkaraca/awesome-rails) by @ekremkaraca – Projects and sites made with Rails.
