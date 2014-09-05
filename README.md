@@ -276,6 +276,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-symfony2](https://github.com/EmanueleMinotto/awesome-symfony2) – Symfony 2 bundles, utilities and resources.
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) – Open source sysadmin resources.
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
+* [awesome-umbraco](https://github.com/leekelleher/awesome-umbraco) – Resources for Umbraco 7, a .NET CMS.
 * [awesome-vagrant](https://github.com/iJackUA/awesome-vagrant)
 * [awesome-vim](https://github.com/akrawchyk/awesome-vim) by @akrawchyk
 * [awesome-vim](https://github.com/matteocrippa/awesome-vim) by @matteocrippa
