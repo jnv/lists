@@ -249,6 +249,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) – Pipeline toolkits.
 * [awesome-play1](https://github.com/PerfectCarl/awesome-play1) – Play Framework 1.x modules, tools, and resources.
 * [awesome-puppet](https://github.com/olindata/awesome-puppet)
+* [awesome-pyramid](https://github.com/ITCase/awesome-pyramid) – Resources for Pyramid Python web framework.
 * [awesome-python](https://github.com/vinta/awesome-python)
 * [awesome-radio](https://github.com/kyleterry/awesome-radio) – Radio and citizens band (CB) radio resources.
 * [awesome-R](https://github.com/qinwf/awesome-R)
