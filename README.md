@@ -117,6 +117,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [magictools](https://github.com/ellisonleao/magictools) – Game Development resources to make magic happen.
 * [my_tech_resources](https://github.com/JamesLavin/my_tech_resources) by @JamesLavin
 * [must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) – Must-watch videos about CSS.
+* [node-daily](https://github.com/dailyNode/node-daily) *In Chinese* – Daily article about Node.js.
 * [nodejs-conference-cfps](https://github.com/rosskukulinski/nodejs-conference-cfps) – NodeJS and Javascript Conference Call for Presentations.
 * [NodeJS-Learning](https://github.com/sergtitov/NodeJS-Learning) – Resources to help you learn Node.js and keep up to date.
 * [offline-first](https://github.com/pazguille/offline-first) – Everything you need to know to create offline-first web apps.
