@@ -54,6 +54,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [best-of-awesomeness-and-usefuless-for-webdev](https://github.com/Pestov/best-of-awesomeness-and-usefuless-for-webdev) _In Russian_ – Digest of the most useful tools and resources for the last year.
 * [bigdata-ecosystem](https://github.com/zenkay/bigdata-ecosystem) – Big-data related projects packed into a JSON dataset.
   * http://bigdata.andreamostosi.name/
+* [bioinformatics-tool-list](https://github.com/lancelafontaine/bioinformatics-tool-list) – Bioinformatics and computational biology tools.
 * [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – Bookmarklets that are useful on the web
   * http://sachaschmid.ch/bookmarklets/
 * [bookshelf](https://github.com/OpenTechSchool/bookshelf) – Reading lists for learners
