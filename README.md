@@ -268,6 +268,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-sass](https://github.com/HugoGiraudel/awesome-sass) – Sass/SCSS extensions, articles, and examples.
 * [awesome-scala](https://github.com/lauris/awesome-scala)
 * [awesome-selenium](https://github.com/christian-bromann/awesome-selenium)
+* [awesome-services](https://github.com/indrasantosa/awesome-services) – Services that make a painful programmer's life easier.
 * [awesome-sharepoint](https://github.com/sergey-tihon/awesome-sharepoint) by @sergey-tihon
 * [awesome-SharePoint](https://github.com/siaf/awesome-SharePoint) by @siaf
 * [awesome-shell](https://github.com/alebcay/awesome-shell) – Command-line frameworks, toolkits, guides and gizmos.
