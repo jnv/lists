@@ -257,6 +257,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-puppet](https://github.com/olindata/awesome-puppet)
 * [awesome-pyramid](https://github.com/ITCase/awesome-pyramid) – Resources for Pyramid Python web framework.
 * [awesome-python](https://github.com/vinta/awesome-python)
+* [awesome-python-talks](https://github.com/jhermann/awesome-python-talks) – An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
 * [awesome-radio](https://github.com/kyleterry/awesome-radio) – Radio and citizens band (CB) radio resources.
 * [awesome-R](https://github.com/qinwf/awesome-R)
 * [awesome-rails](https://github.com/dpaluy/awesome-rails) by @dpaluy
