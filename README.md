@@ -60,6 +60,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [bookshelf](https://github.com/OpenTechSchool/bookshelf) – Reading lists for learners
 * [content-management-systems](https://github.com/ahadb/content-management-systems) – Open source & proprietary content management systems.
 * [crypto-might-not-suck](https://github.com/sweis/crypto-might-not-suck) – Crypto Projects that Might not Suck.
+* [css-resources](https://github.com/hr-14-15/css-resources)
 * [curated-list-espresso-sugar-plugins](https://github.com/GioSensation/curated-list-espresso-sugar-plugins) – Sugar plugins for Espresso, the code editor by MacRabbit.
 * [Curated-List-of-Awesomeness](https://github.com/JayBizzle/Curated-List-of-Awesomeness) – Web resources.
 * [daemon](https://github.com/CarameloMartins/daemon) – A curated list of resources for a more literate programming.
@@ -136,6 +137,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [queues.io](https://github.com/strzalek/queues.io) – Job queues, message queues and other queues.
   * http://queues.io/
 * [resource-list](https://github.com/kyasui/resource-list) – Design & Development Resources.
+* [resources](https://github.com/hr-14-15/resources) – JavaScript resources for and by Hack Reactor 14 & 15.
 * [resources](https://github.com/jbranchaud/resources) – Free, online resources for various technologies, languages, and tools.
 * [Resources](https://github.com/tevko/Resources) – Tools for front end devs.
 * [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) – Ruby and Ruby on Rails bookmarks collection.
