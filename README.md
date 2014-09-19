@@ -50,6 +50,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome) – “A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.”
 * [angular-education](https://github.com/timjacobi/angular-education) – Useful resources to learn and improve your AngularJS skills.
 * [apiPlatforms](https://github.com/opentok/apiPlatforms) – Cool and awesome APIs
+* [awesomelinks](https://github.com/richardbenjamin/awesomelinks) –  Web Development Links by @richardbenjamin.
 * [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) – Pointers to useful, well-written, and otherwise beautiful documentation.
 * [best-of-awesomeness-and-usefuless-for-webdev](https://github.com/Pestov/best-of-awesomeness-and-usefuless-for-webdev) – Digest of the most useful tools and resources for the last year.
   * [Russian version](https://github.com/Pestov/best-of-awesomeness-and-usefulness-for-webdev/tree/master/ru)
