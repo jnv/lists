@@ -287,6 +287,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-SharePoint](https://github.com/siaf/awesome-SharePoint) by @siaf
 * [awesome-shell](https://github.com/alebcay/awesome-shell) – Command-line frameworks, toolkits, guides and gizmos.
 * [awesome-styleguides](https://github.com/RichardLitt/awesome-styleguides)
+* [awesome-svg](https://github.com/willianjusten/awesome-svg)
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift) by @matteocrippa
 * [awesome-swift](https://github.com/Wolg/awesome-swift) by @Wolg
 * [awesome-symfony2](https://github.com/EmanueleMinotto/awesome-symfony2) – Symfony 2 bundles, utilities and resources.
