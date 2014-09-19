@@ -189,6 +189,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-bootstrap](https://github.com/therebelrobot/awesome-bootstrap) – Free Bootstrap themes I think are cool.
 * [awesome-cakephp](https://github.com/dereuromark/awesome-cakephp) – Plugins and resources for CakePHP 2 and 3.
 * [awesome-cassandra](https://github.com/yikebocai/awesome-cassandra)
+* [awesome-chef](https://github.com/obazoud/awesome-chef) – Cookbooks, handlers, add-ons and other resources for Chef, 
 * [awesome-clojure](https://github.com/razum2um/awesome-clojure)
 * [awesome-cloud](https://github.com/JStumpp/awesome-cloud) – Delightful cloud services.
 * [awesome-cloud-storage](https://github.com/wapmorgan/awesome-cloud-storage) – Comparison of online storage platforms.
