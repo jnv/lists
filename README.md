@@ -49,6 +49,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [android-open-project](https://github.com/Trinea/android-open-project) *In Chinese* – Collect and classify android open source projects.
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome) – “A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.”
 * [angular-education](https://github.com/timjacobi/angular-education) – Useful resources to learn and improve your AngularJS skills.
+* [angularjs-fellows](https://github.com/tachun/angularjs-fellows) – Free resources for learning AngularJS.
+  * http://tachun.github.io/angularjs-fellows/
 * [apiPlatforms](https://github.com/opentok/apiPlatforms) – Cool and awesome APIs
 * [awesomelinks](https://github.com/richardbenjamin/awesomelinks) –  Web Development Links by @richardbenjamin.
 * [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) – Pointers to useful, well-written, and otherwise beautiful documentation.
