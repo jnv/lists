@@ -214,6 +214,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-doctrine](https://github.com/TomasVotruba/awesome-doctrine) – Doctrine ORM libraries and resources.
 * [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 * [awesome-dotnet](https://github.com/quozd/awesome-dotnet) – .NET libraries, tools, frameworks and software.
+* [awesome-educate](https://github.com/mercer/awesome-educate) – Education resources online.
 * [awesome-elm](https://github.com/Boshen/awesome-elm) – Learning resources and programs for Elm, a functional reactive language.
 * [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) from @emacs-tw
 * [awesome-emacs](https://github.com/sefakilic/awesome-emacs) by @sefakilic
