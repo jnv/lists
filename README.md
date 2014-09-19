@@ -65,7 +65,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [curated-list-espresso-sugar-plugins](https://github.com/GioSensation/curated-list-espresso-sugar-plugins) – Sugar plugins for Espresso, the code editor by MacRabbit.
 * [Curated-List-of-Awesomeness](https://github.com/JayBizzle/Curated-List-of-Awesomeness) – Web resources.
 * [daemon](https://github.com/CarameloMartins/daemon) – A curated list of resources for a more literate programming.
-* [db-readings](https://github.com/rxin/db-readings) – Papers essential to understanding databases and building new data systems.
 * [datajournalists-toolbox](https://github.com/basilesimon/datajournalists-toolbox) – Tools for datajournalists, with examples and gists.
 * [datasciencemasters](https://github.com/datasciencemasters/go) – The Curriculum for learning Data Science, Open Source and at your fingertips.
   * http://datasciencemasters.org/
@@ -73,7 +72,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [devops_resources](https://github.com/dustinmm80/devops_resources)
 * [dev-resource](https://github.com/Ibrahim-Islam/dev-resource) – Resources for devs online and offline.
 * [EducationalToolsResources](https://github.com/hkalant/EducationalToolsResources) – Tools and resources for educators and virtual teachers.
-* [elementaryapps](https://github.com/TuurDutoit/elementaryapps) – Apps designed for [elementary OS](http://elementaryos.org/).
 * [erlang-bookmarks](https://github.com/0xAX/erlang-bookmarks) – All about erlang programming language.
 * [es6-tools](https://github.com/addyosmani/es6-tools) – An aggregation of tooling for ES6
 * [Facets](https://github.com/O-I/Facets) – One-liners in Ruby
@@ -195,6 +193,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-cloud-storage](https://github.com/wapmorgan/awesome-cloud-storage) – Comparison of online storage platforms.
 * [awesome-cobol](https://github.com/dshimy/awesome-cobol) *Fake.*
 * [awesome-coldfusion](https://github.com/seancoyne/awesome-coldfusion)
+* [awesome-conference-playlists](https://github.com/chentsulin/awesome-conference-playlists) – Video playlists for conferences.
 * [awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
 * [awesome-cordova](https://github.com/busterc/awesome-cordova) *Apache Cordova / PhoneGap*
 * [awesome-cpp](https://github.com/fffaraz/awesome-cpp) – C/C++ frameworks, libraries, resources.
