@@ -120,6 +120,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [lifeofjs](https://github.com/abhijeetkpawar/lifeofjs) – Curated source for all types of awesome resources available for JavaScript.
 * [ListOfMinimalistFrameworks](https://github.com/neiesc/ListOfMinimalistFrameworks) – Minimalist frameworks (simple and lightweight).
 * [magictools](https://github.com/ellisonleao/magictools) – Game Development resources to make magic happen.
+* [markdown-resources](https://github.com/rhythmus/markdown-resources) – Markdown resources: apps, dialects, parsers, people, …
 * [my_tech_resources](https://github.com/JamesLavin/my_tech_resources) by @JamesLavin
 * [must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) – Must-watch videos about CSS.
 * [nashville-lispers/resources](https://github.com/nashville-lispers/resources) – Lisp Resources: exercises, great books, videos, etc.
