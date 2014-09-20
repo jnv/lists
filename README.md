@@ -51,6 +51,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [angular-education](https://github.com/timjacobi/angular-education) – Useful resources to learn and improve your AngularJS skills.
 * [angularjs-fellows](https://github.com/tachun/angularjs-fellows) – Free resources for learning AngularJS.
   * http://tachun.github.io/angularjs-fellows/
+* [ansible-gentoo-roles](https://github.com/jirutka/ansible-gentoo-roles) – Ansible roles for Gentoo Linux.
 * [apiPlatforms](https://github.com/opentok/apiPlatforms) – Cool and awesome APIs
 * [awesomelinks](https://github.com/richardbenjamin/awesomelinks) –  Web Development Links by @richardbenjamin.
 * [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) – Pointers to useful, well-written, and otherwise beautiful documentation.
