@@ -302,6 +302,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) – Open source sysadmin resources.
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
 * [awesome-umbraco](https://github.com/leekelleher/awesome-umbraco) – Resources for Umbraco 7, a .NET CMS.
+* [awesome-unity](https://github.com/RyanNielson/awesome-unity) – Assets and resources for [Unity](http://unity3d.com/) game engine.
 * [awesome-vagrant](https://github.com/iJackUA/awesome-vagrant)
 * [awesome-vim](https://github.com/akrawchyk/awesome-vim) by @akrawchyk
 * [awesome-vim](https://github.com/matteocrippa/awesome-vim) by @matteocrippa
