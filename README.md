@@ -171,6 +171,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [twofactorauth](https://github.com/jdavis/twofactorauth) – Sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
   * http://twofactorauth.org/
 * [type-findings](https://github.com/charlespeters/type-findings) – Posts about web typography.
+* [web-dev-resources](https://github.com/ericandrewlewis/web-dev-resources) – A table of contents for web developer resources across the internet.
 * [web-development-resources](https://github.com/MasonONeal/web-development-resources)
 
 ### awesome-*
