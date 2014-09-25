@@ -220,7 +220,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-devtools](https://github.com/moimikey/awesome-devtools) – In-browser bookmarklets, tools, and resources for front-end devs.
 * [awesome-django](https://github.com/rosarior/awesome-django) – Django apps and projects.
 * [awesome-django-cms](https://github.com/mishbahr/awesome-django-cms) – django CMS add-ons.
-* [awesome-docker](https://github.com/anildigital/awesome-docker)
+* [awesome-docker](https://github.com/anildigital/awesome-docker) by @anildigital
+* [awesome-docker](https://github.com/veggiemonk/awesome-docker) by @veggiemonk
 * [awesome-doctrine](https://github.com/TomasVotruba/awesome-doctrine) – Doctrine ORM libraries and resources.
 * [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 * [awesome-dotnet](https://github.com/quozd/awesome-dotnet) – .NET libraries, tools, frameworks and software.
