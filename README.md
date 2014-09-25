@@ -310,6 +310,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-vim](https://github.com/akrawchyk/awesome-vim) by @akrawchyk
 * [awesome-vim](https://github.com/matteocrippa/awesome-vim) by @matteocrippa
 * [awesome-webservice](https://github.com/wapmorgan/awesome-webservice) – Web and cloud services, SaaS.
+* [awesome-weekly](https://github.com/jondot/awesome-weekly) – Quality weekly subscription newsletters from the software world.
 * [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) – Wikipedia-related frameworks, libraries, software, datasets and references.
 * [awesome-yamada](https://github.com/supermomonga/awesome-yamada) *Dancing Yamada*
 * [awesome-yii](https://github.com/iJackUA/awesome-yii) – Yii Framework extensions, tutorials and other nice things.
