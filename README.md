@@ -153,6 +153,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [ruby-trivia](https://github.com/gregstallings/ruby-trivia) – Questions about Ruby programming you can use to quiz yourself.
 * [rss-readers-list](https://github.com/smithbr/rss-readers-list) – Reader replacements megalist
   * http://smithbr.github.io/rss-readers-list
+* [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list) – Collected dispatches from The Quest for Scalable CSS.
 * [secure-email](https://github.com/OpenTechFund/secure-email) – Overview of projects working on next-generation secure email.
 * [services-engineering](https://github.com/mmcgrana/services-engineering) – A reading list for services engineering, with a focus on cloud infrastructure services
 * [spawnedshelter](https://github.com/pyotrgalois/spawnedshelter) – Erlang Spawned Shelter – the best articles, videos and presentations related to Erlang.
