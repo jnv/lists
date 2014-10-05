@@ -119,6 +119,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [killer-talks](https://github.com/PharkMillups/killer-talks) – Talks that are worth watching.
 * [Laravel-Resources](https://github.com/abhimanyusharma003/Laravel-Resources) – Laravel Framework Resources and Blogs.
 * [learn-drupal](https://github.com/rocketeerbkw/learn-drupal) – Stuff to help you learn Drupal.
+* [learn-python](https://github.com/adrianmoisey/learn-python) - A list of links that teach Python.
 * [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) – Code documentation written as code!
   * http://learnxinyminutes.com/
 * [lifeofjs](https://github.com/abhijeetkpawar/lifeofjs) – Curated source for all types of awesome resources available for JavaScript.
