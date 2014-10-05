@@ -216,6 +216,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-css](https://github.com/ikkou/awesome-css)
 * [awesome-d](https://github.com/zhaopuming/awesome-d)
 * [awesome-dart](https://github.com/yissachar/awesome-dart)
+* [awesome-dashboard](https://github.com/obazoud/awesome-dashboard) – Dashboards/visualization resources.
 * [awesome-datascience](https://github.com/okulbilisim/awesome-datascience) – An open source DataScience repository to learn and apply for real world problems.
 * [awesome-datasets](https://github.com/viisar/awesome-datasets) – Datasets for papers/experiments/validation.
 * [awesome-db](https://github.com/numetriclabz/awesome-db) – Databse libraries and resources.
