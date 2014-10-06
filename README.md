@@ -130,6 +130,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) – Must-watch videos about CSS.
 * [nashville-lispers/resources](https://github.com/nashville-lispers/resources) – Lisp Resources: exercises, great books, videos, etc.
 * [node-daily](https://github.com/dailyNode/node-daily) *In Chinese* – Daily article about Node.js.
+* [node-frameworks](https://github.com/pillarjs/node-frameworks) – Comparison of server-side Node frameworks.
 * [nodejs-conference-cfps](https://github.com/rosskukulinski/nodejs-conference-cfps) – NodeJS and Javascript Conference Call for Presentations.
 * [NodeJS-Learning](https://github.com/sergtitov/NodeJS-Learning) – Resources to help you learn Node.js and keep up to date.
 * [offline-first](https://github.com/pazguille/offline-first) – Everything you need to know to create offline-first web apps.
