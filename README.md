@@ -331,6 +331,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-yamada](https://github.com/supermomonga/awesome-yamada) *Dancing Yamada*
 * [awesome-yii](https://github.com/iJackUA/awesome-yii) – Yii Framework extensions, tutorials and other nice things.
 * [awesome-yii-1](https://github.com/wapmorgan/awesome-yii-1) – Libraries, books, sites and team of Yii Framework v1.x.
+* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 
 ## Lists of lists
 
