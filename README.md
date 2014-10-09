@@ -220,7 +220,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
 * [awesome-cordova](https://github.com/busterc/awesome-cordova) *Apache Cordova / PhoneGap*
 * [awesome-cpp](https://github.com/fffaraz/awesome-cpp) – C/C++ frameworks, libraries, resources.
-* [awesome-css](https://github.com/ikkou/awesome-css)
+* [awesome-css](https://github.com/deepakbhattarai/awesome-css) by @deepakbhattarai
+* [awesome-css](https://github.com/ikkou/awesome-css) by @ikkou
 * [awesome-d](https://github.com/zhaopuming/awesome-d)
 * [awesome-dart](https://github.com/yissachar/awesome-dart)
 * [awesome-dashboard](https://github.com/obazoud/awesome-dashboard) – Dashboards/visualization resources.
