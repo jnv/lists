@@ -57,6 +57,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [ansible-gentoo-roles](https://github.com/jirutka/ansible-gentoo-roles) – Ansible roles for Gentoo Linux.
 * [apiPlatforms](https://github.com/opentok/apiPlatforms) – Cool and awesome APIs
 * [awesomelinks](https://github.com/richardbenjamin/awesomelinks) –  Web Development Links by @richardbenjamin.
+* [badass-dev-resources](https://github.com/sodevious/badass-dev-resources) – #bada55 front-end developer resources.
 * [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) – Pointers to useful, well-written, and otherwise beautiful documentation.
 * [best-of-awesomeness-and-usefuless-for-webdev](https://github.com/Pestov/best-of-awesomeness-and-usefuless-for-webdev) – Digest of the most useful tools and resources for the last year.
   * [Russian version](https://github.com/Pestov/best-of-awesomeness-and-usefulness-for-webdev/tree/master/ru)
@@ -81,6 +82,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [dev-resource](https://github.com/Ibrahim-Islam/dev-resource) – Resources for devs online and offline.
 * [EducationalToolsResources](https://github.com/hkalant/EducationalToolsResources) – Tools and resources for educators and virtual teachers.
 * [erlang-bookmarks](https://github.com/0xAX/erlang-bookmarks) – All about erlang programming language.
+* [erlang-watchlist](https://github.com/gabrielelana/erlang-watchlist) – Where to find good code to master Erlang idioms
 * [es6-tools](https://github.com/addyosmani/es6-tools) – An aggregation of tooling for ES6
 * [Facets](https://github.com/O-I/Facets) – One-liners in Ruby
 * [flat-file-cms](https://github.com/ahadb/flat-file-cms) – Stictly flat-file cms systems.
@@ -166,6 +168,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [spawnedshelter](https://github.com/pyotrgalois/spawnedshelter) – Erlang Spawned Shelter – the best articles, videos and presentations related to Erlang.
 * [StartupKnowledgeBase](https://github.com/bnjs/StartupKnowledgeBase) – Insightful articles related to startups.
 * [startupreadings](https://github.com/dennybritz/startupreadings) – Reading list for all things startup-related.
+* [startup-resources](https://github.com/JonathanZWhite/startup-resources)
 * [static-site-generator-comparison](https://github.com/jaspervdj/static-site-generator-comparison) 
   * http://staticsitegenerators.net/
 * [Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators)
@@ -180,6 +183,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [twofactorauth](https://github.com/jdavis/twofactorauth) – Sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
   * http://twofactorauth.org/
 * [type-findings](https://github.com/charlespeters/type-findings) – Posts about web typography.
+* [webdevresourcecuration](https://github.com/lwakefield/webdevresourcecuration)
 * [web-dev-resources](https://github.com/ericandrewlewis/web-dev-resources) – A table of contents for web developer resources across the internet.
 * [web-development-resources](https://github.com/MasonONeal/web-development-resources)
 
