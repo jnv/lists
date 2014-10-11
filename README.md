@@ -64,6 +64,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) – Pointers to useful, well-written, and otherwise beautiful documentation.
 * [best-of-awesomeness-and-usefuless-for-webdev](https://github.com/Pestov/best-of-awesomeness-and-usefuless-for-webdev) – Digest of the most useful tools and resources for the last year.
   * [Russian version](https://github.com/Pestov/best-of-awesomeness-and-usefulness-for-webdev/tree/master/ru)
+* [Best-App](https://github.com/hzlzh/Best-App) *In Chinese* – Recommendations for best desktop and mobile apps.
 * [bigdata-ecosystem](https://github.com/zenkay/bigdata-ecosystem) – Big-data related projects packed into a JSON dataset.
   * http://bigdata.andreamostosi.name/
 * [bioinformatics-tool-list](https://github.com/lancelafontaine/bioinformatics-tool-list) – Bioinformatics and computational biology tools.
