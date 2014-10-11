@@ -277,6 +277,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-languages](https://github.com/ekremkaraca/awesome-languages) – Open-source programming languages.
 * [awesome-laravel](https://github.com/chiraggude/awesome-laravel) by @chiraggude
 * [awesome-laravel](https://github.com/TimothyDJones/awesome-laravel) by @TimothyDJones
+* [awesome-linux](https://github.com/dhamaniasad/awesome-linux) – Linux software.
+  * http://dhamaniasad.github.io/awesome-linux
 * [awesome-lua](https://github.com/forhappy/awesome-lua) by @forhappy
 * [awesome-lua](https://github.com/LewisJEllis/awesome-lua) by @LewisJEllis
 * [awesome-luvit](https://github.com/luvit/awesome-luvit) – [Luvit](http://luvit.io/) frameworks, libraries and software.
