@@ -50,6 +50,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [above-the-fold-css-tools](https://github.com/addyosmani/above-the-fold-css-tools) – Tools to help prioritize above-the-fold CSS.
 * [alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 * [android-awesome-libraries](https://github.com/kaiinui/android-awesome-libraries) – Useful Android development libraries with usage examples.
+* [AndroidDevTools](https://github.com/inferjay/AndroidDevTools) *In Chinese* – SDK, development tools, libraries, and resources.
+  * http://www.androiddevtools.cn/
 * [android-open-project](https://github.com/Trinea/android-open-project) *In Chinese* – Collect and classify android open source projects.
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome) – “A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.”
 * [angular-education](https://github.com/timjacobi/angular-education) – Useful resources to learn and improve your AngularJS skills.
