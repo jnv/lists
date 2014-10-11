@@ -90,6 +90,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [flat-file-cms](https://github.com/ahadb/flat-file-cms) – Stictly flat-file cms systems.
 * [free-programming-books](https://github.com/vhf/free-programming-books)
   * http://resrc.io/list/10/list-of-free-programming-books/
+* [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) *In Chinese*
 * [free-programming-courses](https://github.com/fffaraz/free-programming-courses) – Online programming/CS courses.
 * [free-software-testing-books](https://github.com/ligurio/free-software-testing-books) – List of free software testing books.
 * [frontdesk](https://github.com/miripiruni/frontdesk) – Community driven list of useful things for Front End Developers
