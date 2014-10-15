@@ -98,6 +98,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [free-software-testing-books](https://github.com/ligurio/free-software-testing-books) – List of free software testing books.
 * [frontdesk](https://github.com/miripiruni/frontdesk) – Community driven list of useful things for Front End Developers
 * [Front-end-Developer-Interview-Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) – A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
+  * Available in [various translations](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions/tree/master/Translations)
+* [Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) *In Chinese*
 * [front-end-links](https://github.com/somecallmejosh/front-end-links)
 * [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) – A huge list of frontend development resources I collected over time.
 * [frontend-resources](https://github.com/JonathanZWhite/frontend-resources) by @JonathanZWhite
