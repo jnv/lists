@@ -198,6 +198,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [webdevresourcecuration](https://github.com/lwakefield/webdevresourcecuration)
 * [web-dev-resources](https://github.com/ericandrewlewis/web-dev-resources) – A table of contents for web developer resources across the internet.
 * [web-development-resources](https://github.com/MasonONeal/web-development-resources)
+* [weekly](https://github.com/zenany/weekly) *In Chinese* – Weekly summary of articles and resources.
 
 ### awesome-*
 
