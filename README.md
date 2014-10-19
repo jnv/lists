@@ -246,6 +246,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ddd](https://github.com/wkjagt/awesome-ddd) – Domain Driven Design resources.
 * [awesome-delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
 * [awesome-derby](https://github.com/onerussell/awesome-derby) – Components for DerbyJS.
+* [awesome-design](https://github.com/troyericg/awesome-design) – Resources for digital designers. 
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) – Tools, resources and workflow tips making an awesome development environment.
 * [awesome-devtools](https://github.com/moimikey/awesome-devtools) – In-browser bookmarklets, tools, and resources for front-end devs.
 * [awesome-django](https://github.com/rosarior/awesome-django) – Django apps and projects.
