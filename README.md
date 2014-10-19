@@ -232,6 +232,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-coldfusion](https://github.com/seancoyne/awesome-coldfusion)
 * [awesome-conference-playlists](https://github.com/chentsulin/awesome-conference-playlists) – Video playlists for conferences.
 * [awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
+* [awesome-computer-vision](https://github.com/AGV-IIT-KGP/awesome-computer-vision)
 * [awesome-cordova](https://github.com/busterc/awesome-cordova) *Apache Cordova / PhoneGap*
 * [awesome-cpp](https://github.com/fffaraz/awesome-cpp) – C/C++ frameworks, libraries, resources.
 * [awesome-css](https://github.com/deepakbhattarai/awesome-css) by @deepakbhattarai
