@@ -123,10 +123,11 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [javascript-resources](https://github.com/alexeygolovnya/javascript-resources)
 * [jslibs](https://github.com/epeli/jslibs) – My picks of promising/useful Javascript libraries.
   * *See also [JSwiki](http://jswiki.org/)*
-* [js-must-watch](https://github.com/bolshchikov/js-must-watch) – Must-watch videos about javascript
+* [js-must-watch](https://github.com/bolshchikov/js-must-watch) – Must-watch videos about javascript.
 * [jsonauts](https://github.com/jsonauts/jsonauts.github.com) – The ultimate reference for JSON tooling and specs.
   * http://jsonauts.github.io/
 * [jstools](https://github.com/codefellows/jstools) – Foundational JavaScript Tools
+* [js-type-master](https://github.com/yumyo/js-type-master) – JavaScript resources about web typography.
   * https://www.codefellows.org/blog/complete-list-of-javascript-tools
 * [Julia.jl](https://github.com/svaksha/Julia.jl) – Curated decibans of Julia language.
   * https://github.com/svaksha/Julia.jl
