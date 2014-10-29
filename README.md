@@ -87,6 +87,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [devops_resources](https://github.com/dustinmm80/devops_resources)
 * [dev-resource](https://github.com/Ibrahim-Islam/dev-resource) – Resources for devs online and offline.
 * [EducationalToolsResources](https://github.com/hkalant/EducationalToolsResources) – Tools and resources for educators and virtual teachers.
+* [ember-links/list](https://github.com/ember-links/list) – Ember.js Links
 * [erlang-bookmarks](https://github.com/0xAX/erlang-bookmarks) – All about erlang programming language.
 * [erlang-watchlist](https://github.com/gabrielelana/erlang-watchlist) – Where to find good code to master Erlang idioms
 * [es6-tools](https://github.com/addyosmani/es6-tools) – An aggregation of tooling for ES6
