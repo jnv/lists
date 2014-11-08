@@ -18,7 +18,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   * http://svaksha.github.io/50-DI/
 * [Annual-Reading-List](https://github.com/davidskeck/Annual-Reading-List) – A list of things to read every year.
 
-  > I feel like a lot of people read important ideas once and never get the chance to implement them. The purpose of this list is that ideas that are important to me get the chance to take hold in my mind. By reading these works annually, I will be introduced to these ideas again and again until they become habitual to me.
+  > I feel like a lot of people read important ideas once and naever get the chance to implement them. The purpose of this list is that ideas that are important to me get the chance to take hold in my mind. By reading these works annually, I will be introduced to these ideas again and again until they become habitual to me.
 * [awesomebandnames](https://github.com/LycaonIsAWolf/awesomebandnames) – The open-source list of awesome band names.
 * [awesome-biology](https://github.com/vivekiitkgp/awesome-biology) –  Learning resources, research papers, tools and other resources related to Biology.
 * [awesome-glasgow](https://github.com/allyjweir/awesome-glasgow) – Some highlights around Glasgow, Scotland.
@@ -304,6 +304,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-lua](https://github.com/LewisJEllis/awesome-lua) by @LewisJEllis
 * [awesome-luvit](https://github.com/luvit/awesome-luvit) – [Luvit](http://luvit.io/) frameworks, libraries and software.
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [awesome-meteor](https://github.com/gillesfabio/awesome-meteor)
 * [awesome-mesos](https://github.com/dharmeshkakadia/awesome-mesos) by @dharmeshkakadia
 * [awesome-mesos](https://github.com/parolkar/awesome-mesos) by @parolkar
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) by @sindresorhus
