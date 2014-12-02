@@ -84,6 +84,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [datasciencemasters](https://github.com/datasciencemasters/go) – The Curriculum for learning Data Science, Open Source and at your fingertips.
   * http://datasciencemasters.org/
 * [Developer-Conferences](https://github.com/MurtzaM/Developer-Conferences) – List of upcoming developer conferences.
+* [devopsbookmarks.com](https://github.com/devopsbookmarks/devopsbookmarks.com) – To discover tools in the devops landscape.
+  * http://www.devopsbookmarks.com/
 * [devops_resources](https://github.com/dustinmm80/devops_resources)
 * [dev-resource](https://github.com/Ibrahim-Islam/dev-resource) – Resources for devs online and offline.
 * [EducationalToolsResources](https://github.com/hkalant/EducationalToolsResources) – Tools and resources for educators and virtual teachers.
