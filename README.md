@@ -21,6 +21,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   > I feel like a lot of people read important ideas once and naever get the chance to implement them. The purpose of this list is that ideas that are important to me get the chance to take hold in my mind. By reading these works annually, I will be introduced to these ideas again and again until they become habitual to me.
 * [awesomebandnames](https://github.com/LycaonIsAWolf/awesomebandnames) – The open-source list of awesome band names.
 * [awesome-biology](https://github.com/vivekiitkgp/awesome-biology) –  Learning resources, research papers, tools and other resources related to Biology.
+* [awesome-gif](https://github.com/Kikobeats/awesome-gif) – GIF /dʒ/ links and resources.
 * [awesome-glasgow](https://github.com/allyjweir/awesome-glasgow) – Some highlights around Glasgow, Scotland.
 * [awesome-health](https://github.com/prabhic/awesome-health) – Useful health resources.
 * [awesome-images](https://github.com/heyalexej/awesome-images) – Free (stock) photo resources for your projects.
