@@ -74,6 +74,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – Bookmarklets that are useful on the web
   * http://sachaschmid.ch/bookmarklets/
 * [bookshelf](https://github.com/OpenTechSchool/bookshelf) – Reading lists for learners
+* [ciandcd](https://github.com/itech001/ciandcd) – Continuous Integration and Continuous Delivery
+  * http://www.ciandcd.com/
 * [content-management-systems](https://github.com/ahadb/content-management-systems) – Open source & proprietary content management systems.
 * [Continuous-Integration-services](https://github.com/ligurio/Continuous-Integration-services) – Comparison of cloud based CI services.
 * [crypto-might-not-suck](https://github.com/sweis/crypto-might-not-suck) – Crypto Projects that Might not Suck.
