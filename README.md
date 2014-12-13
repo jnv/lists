@@ -355,6 +355,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-sharepoint](https://github.com/sergey-tihon/awesome-sharepoint) by @sergey-tihon
 * [awesome-SharePoint](https://github.com/siaf/awesome-SharePoint) by @siaf
 * [awesome-shell](https://github.com/alebcay/awesome-shell) – Command-line frameworks, toolkits, guides and gizmos.
+* [awesome-sheet-music](https://github.com/adius/awesome-sheet-music) – Tools to create, edit and display sheet music.
 * [awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc) – Tools for Sphinx Python Documentation Generator.
 * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) – Extra libraries for SQLAlchemy, a Python ORM.
 * [awesome-static-generators](https://github.com/myles/awesome-static-generators) – Static web site generators.
