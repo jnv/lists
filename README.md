@@ -329,19 +329,21 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-php](https://github.com/ziadoz/awesome-php)
 * [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) – Pipeline toolkits.
 * [awesome-play1](https://github.com/PerfectCarl/awesome-play1) – Play Framework 1.x modules, tools, and resources.
+* [awesome-ProductManager](https://github.com/hugo53/awesome-ProductManager) – Books and tools for Product Managers.
 * [awesome-puppet](https://github.com/olindata/awesome-puppet)
 * [awesome-pyramid](https://github.com/ITCase/awesome-pyramid) – Resources for Pyramid Python web framework.
 * [awesome-python](https://github.com/vinta/awesome-python)
 * [awesome-python-talks](https://github.com/jhermann/awesome-python-talks) – An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
 * [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) – (Large-scale) public datasets on the Internet.
 * [awesome-qt](https://github.com/skhaz/awesome-qt) – Libraries and resources for the Qt framework.
-* [awesome-radio](https://github.com/kyleterry/awesome-radio) – Radio and citizens band (CB) radio resources.
 * [awesome-R](https://github.com/qinwf/awesome-R)
+* [awesome-radio](https://github.com/kyleterry/awesome-radio) – Radio and citizens band (CB) radio resources.
 * [awesome-rails](https://github.com/dpaluy/awesome-rails) by @dpaluy
 * [awesome-rails](https://github.com/ekremkaraca/awesome-rails) by @ekremkaraca – Projects and sites made with Rails.
 * [awesome-rails](https://github.com/ruby-vietnam/awesome-rails) by @ruby-vietnam – Rails libraries/app examples/ebooks/tutorials/screencasts/magazines/news.
 * [awesome-react](https://github.com/enaqx/awesome-react) – ReactJS tools, resources, videos.
 * [awesome-recommender-system](https://github.com/Geek4IT/awesome-recommender-system) – Recommender System frameworks, libraries and software.
+* [awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork) – Books and links about and for remote work.
 * [awesome-ruby](https://github.com/markets/awesome-ruby) by @markets
   * http://marcanguera.net/awesome-ruby/
 * [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby) by @Sdogruyol
