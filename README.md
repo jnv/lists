@@ -64,6 +64,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [apiPlatforms](https://github.com/opentok/apiPlatforms) – Cool and awesome APIs
 * [Automated-SPA-Testing](https://github.com/webpro/Automated-SPA-Testing) – Automated unit & functional testing for web applications [JavaScript et al.].
 * [awesomelinks](https://github.com/richardbenjamin/awesomelinks) –  Web Development Links by @richardbenjamin.
+* [Backpack](https://github.com/sevab/Backpack) – Various learning resources, organized by technology/topic.
 * [badass-dev-resources](https://github.com/sodevious/badass-dev-resources) – #bada55 front-end developer resources.
 * [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) – Pointers to useful, well-written, and otherwise beautiful documentation.
 * [best-of-awesomeness-and-usefuless-for-webdev](https://github.com/Pestov/best-of-awesomeness-and-usefuless-for-webdev) – Digest of the most useful tools and resources for the last year.
