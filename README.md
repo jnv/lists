@@ -159,6 +159,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [node-frameworks](https://github.com/pillarjs/node-frameworks) – Comparison of server-side Node frameworks.
 * [nodejs-conference-cfps](https://github.com/rosskukulinski/nodejs-conference-cfps) – NodeJS and Javascript Conference Call for Presentations.
 * [NodeJS-Learning](https://github.com/sergtitov/NodeJS-Learning) – Resources to help you learn Node.js and keep up to date.
+* [Notejam](https://github.com/komarserjio/notejam) – Comparison of web frameworks
 * [offline-first](https://github.com/pazguille/offline-first) – Everything you need to know to create offline-first web apps.
 * [papers](https://github.com/NicolasT/papers) – A collection of papers found across the web.
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) – Papers from the computer science community to read and discuss. (Contains actual papers)
