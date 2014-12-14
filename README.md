@@ -289,6 +289,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-fortran](https://github.com/rabbiabram/awesome-fortran)
 * [awesome-github](https://github.com/fffaraz/awesome-github) by @fffaraz – Git and GitHub references.
 * [awesome-github](https://github.com/Kikobeats/awesome-github) by @Kikobeats – GitHub secrets and goodies.
+* [awesome-github-repo](https://github.com/flyhigher139/awesome-github-repo) – GitHub repositories; various topics like study materials, Raspberry Pi etc.
 * [awesome-go](https://github.com/avelino/awesome-go) by @avelino
   * http://awesome-go.com/
 * [awesome-go-books](https://github.com/airballoon/awesome-go-books) – Online and free golang books.
