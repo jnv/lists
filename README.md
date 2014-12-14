@@ -247,6 +247,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-cloud-storage](https://github.com/wapmorgan/awesome-cloud-storage) – Comparison of online storage platforms.
 * [awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters)
 * [awesome-coldfusion](https://github.com/seancoyne/awesome-coldfusion)
+* [awesome-comparisons](https://github.com/dhamaniasad/awesome-comparisons) – Framework and code comparison projects, like TodoMVC and Notejam.
 * [awesome-conference-playlists](https://github.com/chentsulin/awesome-conference-playlists) – Video playlists for conferences.
 * [awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
 * [awesome-computer-vision](https://github.com/AGV-IIT-KGP/awesome-computer-vision)
