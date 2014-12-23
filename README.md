@@ -233,6 +233,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-apple](https://github.com/joeljfischer/awesome-apple) – 3rd party libraries and tools for Apple platforms development.
 * [awesome-arabic](https://github.com/OthmanAba/awesome-arabic) – Arabic supporting tools, fonts, and development resources.
 * [awesome-asciidoctor](https://github.com/dongwq/awesome-asciidoctor) – Collection of asciidoctor’s intros, exampes and usages.
+* [awesome-asm](https://github.com/mat0thew/awesome-asm) – Assembly language
 * [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) – AutoHotkey libraries, library distributions, scripts, tools and resources.
 * [awesome-avr](https://github.com/fffaraz/awesome-avr)
 * [awesome-backbone](https://github.com/instanceofpro/awesome-backbone) – Resources for [Backbone.js](http://backbonejs.org/)
