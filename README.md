@@ -63,6 +63,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   * http://tachun.github.io/angularjs-fellows/
 * [ansible-gentoo-roles](https://github.com/jirutka/ansible-gentoo-roles) – Ansible roles for Gentoo Linux.
 * [apiPlatforms](https://github.com/opentok/apiPlatforms) – Cool and awesome APIs
+* [APTnotes](https://github.com/kbandla/APTnotes) – Various public documents, whitepapers and articles about APT [Advanced persistent threat] campaigns.
 * [Automated-SPA-Testing](https://github.com/webpro/Automated-SPA-Testing) – Automated unit & functional testing for web applications [JavaScript et al.].
 * [awesomelinks](https://github.com/richardbenjamin/awesomelinks) –  Web Development Links by @richardbenjamin.
 * [Backpack](https://github.com/sevab/Backpack) – Various learning resources, organized by technology/topic.
