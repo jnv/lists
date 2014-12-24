@@ -257,6 +257,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
 * [awesome-computer-vision](https://github.com/AGV-IIT-KGP/awesome-computer-vision)
 * [awesome-cordova](https://github.com/busterc/awesome-cordova) *Apache Cordova / PhoneGap*
+* [awesome-courses](https://github.com/prakhar1989/awesome-courses) – University Computer Science courses across the web.
 * [awesome-cpp](https://github.com/fffaraz/awesome-cpp) – C/C++ frameworks, libraries, resources.
 * [awesome-css](https://github.com/deepakbhattarai/awesome-css) by @deepakbhattarai
 * [awesome-css](https://github.com/ikkou/awesome-css) by @ikkou
