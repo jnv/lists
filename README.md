@@ -155,6 +155,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [magictools](https://github.com/ellisonleao/magictools) – Game Development resources to make magic happen.
 * [manong](https://github.com/nemoTyrant/manong) *In Chinese* – Weekly digest of technology
 * [markdown-resources](https://github.com/rhythmus/markdown-resources) – Markdown resources: apps, dialects, parsers, people, …
+* [MaterialDesignCenter](https://github.com/lightSky/MaterialDesignCenter) *In Chinese* – Resources and libraries for [Material Design](http://www.google.com/design/spec/material-design/introduction.html).
 * [my_tech_resources](https://github.com/JamesLavin/my_tech_resources) by @JamesLavin
 * [must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) – Must-watch videos about CSS.
 * [nashville-lispers/resources](https://github.com/nashville-lispers/resources) – Lisp Resources: exercises, great books, videos, etc.
