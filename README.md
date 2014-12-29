@@ -311,6 +311,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-haskell](https://github.com/krispo/awesome-haskell)
 * [awesome-hierarchical-matrices](https://github.com/gchavez2/awesome-hierarchical-matrices) – Hierarchical matrices frameworks, libraries, and software.
 * [awesome-html5](https://github.com/diegocard/awesome-html5)
+* [awesome-hybrid](https://github.com/weblancaster/awesome-hybrid) – Hybrid Applications (web + native)
 * [awesome-ios](https://github.com/vsouza/awesome-ios)
 * [awesome-IoT](https://github.com/dharmeshkakadia/awesome-IoT) – Internet of Things platforms, libraries and apps.
 * [awesome-java](https://github.com/akullpp/awesome-java)
