@@ -350,7 +350,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ProductManager](https://github.com/hugo53/awesome-ProductManager) – Books and tools for Product Managers.
 * [awesome-puppet](https://github.com/olindata/awesome-puppet)
 * [awesome-pyramid](https://github.com/ITCase/awesome-pyramid) – Resources for Pyramid Python web framework.
-* [awesome-python](https://github.com/vinta/awesome-python)
+* [awesome-python](https://github.com/kevmo/awesome-python) by @kevmo
+* [awesome-python](https://github.com/vinta/awesome-python) by @vinta
 * [awesome-python-talks](https://github.com/jhermann/awesome-python-talks) – An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
 * [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) – (Large-scale) public datasets on the Internet.
 * [awesome-qt](https://github.com/skhaz/awesome-qt) – Libraries and resources for the Qt framework.
