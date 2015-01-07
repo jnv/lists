@@ -12,13 +12,10 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 ## Non-technical
 
-* [50](https://github.com/svaksha/50) – Grants, scholarships and FA that encourages diversity in STEM fields among half the world's population.
-  * http://svaksha.github.io/50/
-* [50-DI](https://github.com/svaksha/50-DI) – Curated Diversity Index of grants, scholarships and FA that encourages diversity in STEM fields aimed at half the world's population.
-  * http://svaksha.github.io/50-DI/
+* [50-DI](http://svaksha.github.io/50-DI/) – Curated Diversity Index of grants, scholarships and FA that encourages diversity in STEM fields aimed at half the world's population.
 * [Annual-Reading-List](https://github.com/davidskeck/Annual-Reading-List) – A list of things to read every year.
 
-  > I feel like a lot of people read important ideas once and naever get the chance to implement them. The purpose of this list is that ideas that are important to me get the chance to take hold in my mind. By reading these works annually, I will be introduced to these ideas again and again until they become habitual to me.
+   I feel like a lot of people read important ideas once and naever get the chance to implement them. The purpose of this list is that ideas that are important to me get the chance to take hold in my mind. By reading these works annually, I will be introduced to these ideas again and again until they become habitual to me.
 * [awesomebandnames](https://github.com/LycaonIsAWolf/awesomebandnames) – The open-source list of awesome band names.
 * [awesome-biology](https://github.com/vivekiitkgp/awesome-biology) –  Learning resources, research papers, tools and other resources related to Biology.
 * [awesome-gif](https://github.com/Kikobeats/awesome-gif) – GIF /dʒ/ links and resources.
@@ -28,6 +25,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-kimchi](https://github.com/jeyraof/awesome-kimchi) – Kimchi of the people, by the people, for the people.
 * [awesome-webcomics](https://github.com/dhamaniasad/awesome-webcomics)
 * [baby-sleep](https://github.com/babyguides/baby-sleep) – Baby sleep guides curated from the best of the Internet.
+* [Biology](https://github.com/svaksha/biology) - Bibliography of Biology resources.
 * [cocktails](https://github.com/balevine/cocktails) – Cocktail Recipes
 * [corporate-logos](https://github.com/marketreef/corporate-logos) – Curated repo of publicly listed co. logos, identified by ticker. *Almost 1500 logos*
 * [creative-commons-media](https://github.com/shime/creative-commons-media) – Audio, graphics and other resources that provide media licensed under Creative Commons licenses.
@@ -317,7 +315,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-java](https://github.com/akullpp/awesome-java)
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 * [awesome-javascript-books](https://github.com/airballoon/awesome-javascript-books) – Online and free JavaScript books.
-* [awesome-julia](https://github.com/dantedurrman/awesome-julia)
 * [awesome-knockout](https://github.com/dnbard/awesome-knockout) – Plugins for Knockout MVVM framework.
 * [awesome-koans](https://github.com/ahmdrefat/awesome-koans) – Programming kōans in various languages.
 * [awesome-languages](https://github.com/ekremkaraca/awesome-languages) – Open-source programming languages.
