@@ -26,6 +26,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-kimchi](https://github.com/jeyraof/awesome-kimchi) – Kimchi of the people, by the people, for the people.
 * [awesome-webcomics](https://github.com/dhamaniasad/awesome-webcomics)
 * [baby-sleep](https://github.com/babyguides/baby-sleep) – Baby sleep guides curated from the best of the Internet.
+* [Biology](https://github.com/svaksha/biology) - Bibliography of Biology resources.
 * [cocktails](https://github.com/balevine/cocktails) – Cocktail Recipes
 * [corporate-logos](https://github.com/marketreef/corporate-logos) – Curated repo of publicly listed co. logos, identified by ticker. *Almost 1500 logos*
 * [creative-commons-media](https://github.com/shime/creative-commons-media) – Audio, graphics and other resources that provide media licensed under Creative Commons licenses.
