@@ -7,8 +7,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 	- [awesome-*](#awesome-)
 - [Lists of lists](#lists-of-lists)
 	- [Lists of lists of lists](#lists-of-lists-of-lists)
-		- [Lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-scream)
-			- [Lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists)
+		- [Lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists)
+			- [Lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists) :scream:
 
 ## Non-technical
 
@@ -428,7 +428,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [the one above](#lists-of-lists)
 
 
-#### Lists of lists of lists of lists :scream:
+#### Lists of lists of lists of lists
 
 * [awesome-awesome-awesome-awesome](https://github.com/sindresorhus/awesome-awesome-awesome-awesome) 
 * [the one above](#lists-of-lists-of-lists)
