@@ -76,6 +76,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – Bookmarklets that are useful on the web
   * http://sachaschmid.ch/bookmarklets/
 * [bookshelf](https://github.com/OpenTechSchool/bookshelf) – Reading lists for learners
+* [channels](https://github.com/forwebdev/channels) *In Russian* – YouTube channels for web developers.
 * [ciandcd](https://github.com/itech001/ciandcd) – Continuous Integration and Continuous Delivery
   * http://www.ciandcd.com/
 * [content-management-systems](https://github.com/ahadb/content-management-systems) – Open source & proprietary content management systems.
