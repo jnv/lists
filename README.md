@@ -176,6 +176,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [pythonidae](https://github.com/svaksha/pythonidae) – Curated decibans of Python scientific programming resources.
   * http://svaksha.github.io/pythonidae/
 * [python_reference](https://github.com/rasbt/python_reference) – Useful functions, tutorials, and other Python-related things.
+* [Qix](https://github.com/ty4z2008/Qix) *In Chinese* – Node, Golang, Machine Learning, PostgreSQL.
 * [queues.io](https://github.com/strzalek/queues.io) – Job queues, message queues and other queues.
   * http://queues.io/
 * [resource-list](https://github.com/kyasui/resource-list) – Design & Development Resources.
