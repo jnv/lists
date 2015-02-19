@@ -171,6 +171,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [PHPVietnam](https://github.com/andytruong/PHPVietnam) – PHP resources for Vietnamese.
 * [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) – “Where can I post my startup to get beta users?”
 * [programmers-proverbs](https://github.com/AntJanus/programmers-proverbs) – Proverbs from the programmer
+* [programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks concerning Programming
 * [Projects](https://github.com/karan/Projects) – Practical projects that anyone can solve in any programming language.
 * [pycrumbs](https://github.com/kirang89/pycrumbs) – Bits and Bytes of Python from the Internet.
 * [python-github-projects](https://github.com/checkcheckzz/python-github-projects) – Collect and classify python projects on Github.
