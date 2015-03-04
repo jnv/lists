@@ -257,6 +257,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-avr](https://github.com/fffaraz/awesome-avr)
 * [awesome-backbone](https://github.com/instanceofpro/awesome-backbone) – Resources for [Backbone.js](http://backbonejs.org/)
 * [awesome-bem](https://github.com/floatdrop/awesome-bem) – Tools, sites, articles about BEM (frontend development method).
+* [awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) List of boilerplates and sample projects for many languages to get started.
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) – Big data frameworks, resources and other awesomeness.
 * [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) – Open-source bioinformatics software and libraries.
 * [awesome-bootstrap](https://github.com/therebelrobot/awesome-bootstrap) – Free Bootstrap themes I think are cool.
