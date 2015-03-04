@@ -96,6 +96,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   * http://www.devopsbookmarks.com/
 * [devops_resources](https://github.com/dustinmm80/devops_resources)
 * [dev-resource](https://github.com/Ibrahim-Islam/dev-resource) – Resources for devs online and offline.
+* [django-must-watch](https://github.com/rosarior/django-must-watch) – Must-watch videos bout Django web framework + Python.
 * [EducationalToolsResources](https://github.com/hkalant/EducationalToolsResources) – Tools and resources for educators and virtual teachers.
 * [ember-links/list](https://github.com/ember-links/list) – Ember.js Links
 * [erlang-bookmarks](https://github.com/0xAX/erlang-bookmarks) – All about erlang programming language.
@@ -123,6 +124,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) – Cool features of Git and GitHub.
 * [github-hall-of-fame](https://github.com/mehulkar/github-hall-of-fame) – Hall of Fame for spectacular things on Github.
   * http://mehulkar.com/github-hall-of-fame/
+* [go-must-watch](https://github.com/sauravtom/go-must-watch) – Must-watch videos about Golang.
 * [hackathon_resources](https://github.com/myearwood/hackathon_resources) by @myearwood – Learning Resources for Hackathon Organizers.
 * [Hackathon-Resources](https://github.com/xasos/Hackathon-Resources) by @xasos – Hackathon Resources for organizers.
 * [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers)
@@ -159,6 +161,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [MaterialDesignCenter](https://github.com/lightSky/MaterialDesignCenter) *In Chinese* – Resources and libraries for [Material Design](http://www.google.com/design/spec/material-design/introduction.html).
 * [my_tech_resources](https://github.com/JamesLavin/my_tech_resources) by @JamesLavin
 * [must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) – Must-watch videos about CSS.
+* [must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) – Must-watch videos about JavaScript.
 * [nashville-lispers/resources](https://github.com/nashville-lispers/resources) – Lisp Resources: exercises, great books, videos, etc.
 * [nginx-resources](https://github.com/fcambus/nginx-resources) – Nginx web server (+ Lua), OpenResty and Tengine.
 * [node-daily](https://github.com/dailyNode/node-daily) *In Chinese* – Daily article about Node.js.
@@ -172,19 +175,23 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) – Papers from the computer science community to read and discuss. (Contains actual papers)
 * [pattern_classification](https://github.com/rasbt/pattern_classification) – A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks.
 * [PHPVietnam](https://github.com/andytruong/PHPVietnam) – PHP resources for Vietnamese.
+* [php-must-watch](https://github.com/phptodayorg/php-must-watch) – Must-watch videos about PHP.
 * [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) – “Where can I post my startup to get beta users?”
 * [programmers-proverbs](https://github.com/AntJanus/programmers-proverbs) – Proverbs from the programmer
 * [programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks concerning Programming
 * [Projects](https://github.com/karan/Projects) – Practical projects that anyone can solve in any programming language.
 * [pycrumbs](https://github.com/kirang89/pycrumbs) – Bits and Bytes of Python from the Internet.
+* [py-must-watch](https://github.com/s16h/py-must-watch) by @s16h – Must-watch videos about Python.
 * [python-github-projects](https://github.com/checkcheckzz/python-github-projects) – Collect and classify python projects on Github.
   * http://itgeekworkhard.com/python-github-projects/
 * [pythonidae](https://github.com/svaksha/pythonidae) – Curated decibans of Python scientific programming resources.
   * http://svaksha.github.io/pythonidae/
+* [python-must-watch](https://github.com/primalpop/python-must-watch) by @primalpop – Must-watch videos about Python.
 * [python_reference](https://github.com/rasbt/python_reference) – Useful functions, tutorials, and other Python-related things.
 * [Qix](https://github.com/ty4z2008/Qix) *In Chinese* – Node, Golang, Machine Learning, PostgreSQL.
 * [queues.io](https://github.com/strzalek/queues.io) – Job queues, message queues and other queues.
   * http://queues.io/
+* [rails-must-watch](https://github.com/gerricchaplin/rails-must-watch) – Must-watch videos about Ruby on Rails.
 * [resource-list](https://github.com/kyasui/resource-list) – Design & Development Resources.
 * [resources](https://github.com/hr-14-15/resources) – JavaScript resources for and by Hack Reactor 14 & 15.
 * [resources](https://github.com/jbranchaud/resources) – Free, online resources for various technologies, languages, and tools.
@@ -202,6 +209,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [spawnedshelter](https://github.com/pyotrgalois/spawnedshelter) – Erlang Spawned Shelter – the best articles, videos and presentations related to Erlang.
 * [speech-language-processing](https://github.com/edobashira/speech-language-processing)
 * [StartupKnowledgeBase](https://github.com/bnjs/StartupKnowledgeBase) – Insightful articles related to startups.
+* [startup-must-watch](https://github.com/gerricchaplin/startup-must-watch) – Must-watch videos devoted to Entrepreneurship and Startups.
 * [startupreadings](https://github.com/dennybritz/startupreadings) – Reading list for all things startup-related.
 * [startup-resources](https://github.com/JonathanZWhite/startup-resources)
 * [static-site-generator-comparison](https://github.com/jaspervdj/static-site-generator-comparison) 
