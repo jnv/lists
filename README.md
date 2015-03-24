@@ -172,6 +172,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [NotesIndex](https://github.com/Wilbeibi/NotesIndex)
 * [npm-algos](https://github.com/tejasmanohar/npm-algos) – Node.js Modules Implementing Computer Science Concepts.
 * [offline-first](https://github.com/pazguille/offline-first) – Everything you need to know to create offline-first web apps.
+* [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) – Collection of Android Apps which are open source.
+* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) – Open-source iOS apps.
 * [papers](https://github.com/NicolasT/papers) – A collection of papers found across the web.
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) – Papers from the computer science community to read and discuss. (Contains actual papers)
 * [pattern_classification](https://github.com/rasbt/pattern_classification) – A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks.
