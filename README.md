@@ -105,6 +105,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Facets](https://github.com/O-I/Facets) – One-liners in Ruby
 * [fks](https://github.com/JacksonTian/fks) *In Chinese* – Frontend Knowledge Structure.
 * [flat-file-cms](https://github.com/ahadb/flat-file-cms) – Stictly flat-file cms systems.
+* [free-for-dev](https://github.com/ripienaar/free-for-dev) – Software, SaaS, PaaS etc offerings that have free tiers for devs.
 * [free-programming-books](https://github.com/vhf/free-programming-books)
   * http://resrc.io/list/10/list-of-free-programming-books/
 * [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) *In Chinese*
