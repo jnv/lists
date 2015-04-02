@@ -8,7 +8,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 - [Lists of lists](#lists-of-lists)
 	- [Lists of lists of lists](#lists-of-lists-of-lists)
 		- [Lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists)
-			- [Lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists) :scream:
+			- [Lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists) 😱
 
 ## Non-technical
 
