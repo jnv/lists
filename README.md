@@ -69,6 +69,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Backpack](https://github.com/sevab/Backpack) – Various learning resources, organized by technology/topic.
 * [badass-dev-resources](https://github.com/sodevious/badass-dev-resources) – #bada55 front-end developer resources.
 * [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) – Pointers to useful, well-written, and otherwise beautiful documentation.
+* [BEM-resources](https://github.com/sturobson/BEM-resources)
 * [best-of-awesomeness-and-usefuless-for-webdev](https://github.com/Pestov/best-of-awesomeness-and-usefuless-for-webdev) – Digest of the most useful tools and resources for the last year.
   * [Russian version](https://github.com/Pestov/best-of-awesomeness-and-usefulness-for-webdev/tree/master/ru)
 * [Best-App](https://github.com/hzlzh/Best-App) *In Chinese* – Recommendations for best desktop and mobile apps.
