@@ -260,6 +260,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) – UI/UX libraries for Android.
 * [awesome-angular](https://github.com/hugoleodev/awesome-angular) by @hugoleodev
 * [awesome-angularjs](https://github.com/gianarb/awesome-angularjs) by @gianarb
+* [awesome-answers](https://github.com/jugoncalves/awesome-answers) – Inspiring and thoughtful answers given at stackoverflow, quora, etc.
 * [awesome-apple](https://github.com/joeljfischer/awesome-apple) – 3rd party libraries and tools for Apple platforms development.
 * [awesome-arabic](https://github.com/OthmanAba/awesome-arabic) – Arabic supporting tools, fonts, and development resources.
 * [awesome-asciidoc](https://github.com/bodiam/awesome-asciidoc) – Collection of AsciiDoc tools, guides, tutorials and examples of usage.
