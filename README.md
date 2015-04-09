@@ -339,6 +339,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-html5](https://github.com/diegocard/awesome-html5)
 * [awesome-hybrid](https://github.com/weblancaster/awesome-hybrid) – Hybrid Applications (web + native)
 * [awesome-ios](https://github.com/vsouza/awesome-ios)
+* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) – UI/UX libraries for iOS.
 * [awesome-IoT](https://github.com/dharmeshkakadia/awesome-IoT) – Internet of Things platforms, libraries and apps.
 * [awesome-java](https://github.com/akullpp/awesome-java)
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
