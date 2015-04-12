@@ -235,6 +235,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [tools](https://github.com/lvwzhen/tools) – Tools for web.
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) – Tools of The Trade, from Hacker News.
 * [trending-repositories](https://github.com/Semigradsky/trending-repositories) – Repositories that were trending for a day.
+* [trip-to-iOS](https://github.com/Aufree/trip-to-iOS) *In Chinese* – Delightful iOS resources.
 * [twofactorauth](https://github.com/jdavis/twofactorauth) – Sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
   * http://twofactorauth.org/
 * [type-findings](https://github.com/charlespeters/type-findings) – Posts about web typography.
