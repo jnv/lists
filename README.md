@@ -61,6 +61,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome) – “A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.”
 * [android-tech-frontier](https://github.com/bboyfeiyu/android-tech-frontier) *In Chinese* – Translation of articles about Android development.
 * [angular-education](https://github.com/timjacobi/angular-education) – Useful resources to learn and improve your AngularJS skills.
+* [angular2-education](https://github.com/timjacobi/angular2-education) – Helpful material to get started with the second version of AngularJS.
 * [angularjs-fellows](https://github.com/tachun/angularjs-fellows) – Free resources for learning AngularJS.
   * http://tachun.github.io/angularjs-fellows/
 * [ansible-gentoo-roles](https://github.com/jirutka/ansible-gentoo-roles) – Ansible roles for Gentoo Linux.
