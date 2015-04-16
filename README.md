@@ -55,6 +55,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 * [android-awesome-libraries](https://github.com/kaiinui/android-awesome-libraries) – Useful Android development libraries with usage examples.
 * [AndroidDevTools](https://github.com/inferjay/AndroidDevTools) *In Chinese* – SDK, development tools, libraries, and resources.
+* [android-dev-readme](https://github.com/anirudh24seven/android-dev-readme) – Links for every Android developer.
   * http://www.androiddevtools.cn/
 * [android-jobs](https://github.com/android-cn/android-jobs) *In Chinese* – Android positions in China.
 * [android-open-project](https://github.com/Trinea/android-open-project) *In Chinese* – Collect and classify android open source projects.
