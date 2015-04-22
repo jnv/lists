@@ -326,6 +326,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir)
 * [awesome-endless-codeforall-list](https://github.com/RobTranquillo/awesome-endless-codeforall-list) – Every tool that civic hackers worldwide use to work.
 * [awesome-erlang](https://github.com/drobakowski/awesome-erlang)
+* [awesome-events](https://github.com/planetruby/awesome-events) – Ruby events (meetups, conferences, camps, etc.) from around the world.
 * [awesome-flask](https://github.com/humiaozuzu/awesome-flask) – Flask *Python web framework* resources and plugins.
 * [awesome-fortran](https://github.com/rabbiabram/awesome-fortran)
 * [awesome-github](https://github.com/fffaraz/awesome-github) by @fffaraz – Git and GitHub references.
