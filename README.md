@@ -38,6 +38,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [recipes](https://github.com/bzimmerman/recipes) by @bzimmerman – This repository contains tasty open-source recipes.
 * [recipes](https://github.com/csswizardry/recipes) by @csswizardy – Collection of things I like cooking
 * [recipes](https://github.com/csclug/recipes) by @csclug – Delicious open source
+* [recipes](https://github.com/LarryMad/recipes) by @LarryMad
+* [recipes](https://github.com/schacon/recipes) by @schacon
 * [shelfies](https://github.com/kyro/shelfies) – Bookshelves of awesome people, community-transcribed.
 * [SiliconValleyThingsToDo](https://github.com/cjbarber/SiliconValleyThingsToDo) – Things to do and activities within Silicon Valley.
 * [soylent](https://github.com/zda/soylent) – Soylent recipes
