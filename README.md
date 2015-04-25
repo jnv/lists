@@ -32,7 +32,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [dissertation-tips](https://github.com/katychuang/dissertation-tips) – Resources to help PhD students complete their dissertation successfully.
 * [food-recipes](https://github.com/obfuscurity/food-recipes) – Honest-to-goodness "real food" recipes
 * [lawrence-veggie](https://github.com/codysoyland/lawrence-veggie) – List of vegetarian/vegan restaurants in Lawrence, KS.
-*  [libertr](https://github.com/Libertr/libertr) - Resources for liberty seekers
 * [mining-resources](https://github.com/Mining-Resources/mining-resources) – Natural resources mining.
 * [PublicMedia](https://github.com/melodykramer/PublicMedia) – Everything about public (broadcast) media.
   * Also [an introduction to working with GitHub](http://melodykramer.github.io/2015/04/06/learning-github-without-one-line-of-code/) for non-programmers.
@@ -164,6 +163,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [learn-python](https://github.com/adrianmoisey/learn-python) - A list of links that teach Python.
 * [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) – Code documentation written as code!
   * http://learnxinyminutes.com/
+* [libertr](https://github.com/Libertr/libertr) - Resources for liberty seekers
 * [lifeofjs](https://github.com/abhijeetkpawar/lifeofjs) – Curated source for all types of awesome resources available for JavaScript.
 * [ListOfMinimalistFrameworks](https://github.com/neiesc/ListOfMinimalistFrameworks) – Minimalist frameworks (simple and lightweight).
 * [magictools](https://github.com/ellisonleao/magictools) – Game Development resources to make magic happen.
