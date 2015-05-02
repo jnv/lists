@@ -212,6 +212,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [resources](https://github.com/jbranchaud/resources) – Free, online resources for various technologies, languages, and tools.
 * [Resources](https://github.com/tevko/Resources) – Tools for front end devs.
 * [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) – Ruby and Ruby on Rails bookmarks collection.
+* [rubybib.org](https://github.com/rubybib/rubybib.org) – The Ruby Bibliography
+  * http://rubybib.org/
 * [ruby-dev-bookmarks](https://github.com/saberma/ruby-dev-bookmarks) – Ruby development resources I've collected.
 * [ruby-nlp](https://github.com/diasks2/ruby-nlp) – Ruby Natural Language Processing (NLP) libraries, tools and software.
 * [ruby-trivia](https://github.com/gregstallings/ruby-trivia) – Questions about Ruby programming you can use to quiz yourself.
