@@ -375,6 +375,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-mesos](https://github.com/parolkar/awesome-mesos) by @parolkar
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) by @sindresorhus
 * [awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs) by @vndmtrx
+* [awesome-ntnu](https://github.com/michaelmcmillan/awesome-ntnu) – Projects by NTNU students.
 * [awesome-objc-swift](https://github.com/joeljfischer/awesome-objc-swift)
 * [awesome-ocaml](https://github.com/rizo/awesome-ocaml)
 * [awesome-open-science](https://github.com/silky/awesome-open-science)
