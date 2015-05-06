@@ -331,6 +331,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-emacs](https://github.com/sefakilic/awesome-emacs) by @sefakilic
 * [awesome-emacs](https://github.com/tacticiankerala/awesome-emacs) by @tacticiankerala
 * [awesome-ember](https://github.com/nmec/awesome-ember) – Ember.js things.
+* [awesome-electron](https://github.com/sindresorhus/awesome-electron) – Resources for creating apps with [Electron](http://electron.atom.io/) (formerly atom-shell).
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir)
 * [awesome-endless-codeforall-list](https://github.com/RobTranquillo/awesome-endless-codeforall-list) – Every tool that civic hackers worldwide use to work.
 * [awesome-erlang](https://github.com/drobakowski/awesome-erlang)
