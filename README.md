@@ -376,6 +376,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-lua](https://github.com/LewisJEllis/awesome-lua) by @LewisJEllis
 * [awesome-luvit](https://github.com/luvit/awesome-luvit) – [Luvit](http://luvit.io/) frameworks, libraries and software.
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
 * [awesome-meteor](https://github.com/gillesfabio/awesome-meteor)
 * [awesome-mesos](https://github.com/dharmeshkakadia/awesome-mesos) by @dharmeshkakadia
 * [awesome-mesos](https://github.com/parolkar/awesome-mesos) by @parolkar
