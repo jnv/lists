@@ -43,6 +43,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [recipes](https://github.com/csclug/recipes) by @csclug – Delicious open source
 * [recipes](https://github.com/LarryMad/recipes) by @LarryMad
 * [recipes](https://github.com/schacon/recipes) by @schacon
+* [scientia](https://github.com/svaksha/scientia) – Bibliography of useful resources for learning natural science.
 * [shelfies](https://github.com/kyro/shelfies) – Bookshelves of awesome people, community-transcribed.
 * [SiliconValleyThingsToDo](https://github.com/cjbarber/SiliconValleyThingsToDo) – Things to do and activities within Silicon Valley.
 * [soylent](https://github.com/zda/soylent) – Soylent recipes
