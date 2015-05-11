@@ -32,7 +32,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [corporate-logos](https://github.com/marketreef/corporate-logos) – Curated repo of publicly listed co. logos, identified by ticker. *Almost 1500 logos*
 * [creative-commons-media](https://github.com/shime/creative-commons-media) – Audio, graphics and other resources that provide media licensed under Creative Commons licenses.
 * [dissertation-tips](https://github.com/katychuang/dissertation-tips) – Resources to help PhD students complete their dissertation successfully.
-* [endangered-languages](https://github.com/RichardLitt/endangered-languages) – Conservation, development, and documentation of endangered, minority, and low or under-resourced human languages. 
+* [endangered-languages](https://github.com/RichardLitt/endangered-languages) – Conservation, development, and documentation of endangered, minority, and low or under-resourced human languages.
 * [food-recipes](https://github.com/obfuscurity/food-recipes) – Honest-to-goodness "real food" recipes
 * [lawrence-veggie](https://github.com/codysoyland/lawrence-veggie) – List of vegetarian/vegan restaurants in Lawrence, KS.
 * [lawyersongithub](https://github.com/dpp/lawyersongithub) – A club full of lawyers who also have GitHub accounts.
@@ -236,7 +236,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [startup-must-watch](https://github.com/gerricchaplin/startup-must-watch) – Must-watch videos devoted to Entrepreneurship and Startups.
 * [startupreadings](https://github.com/dennybritz/startupreadings) – Reading list for all things startup-related.
 * [startup-resources](https://github.com/JonathanZWhite/startup-resources)
-* [static-site-generator-comparison](https://github.com/jaspervdj/static-site-generator-comparison) 
+* [static-site-generator-comparison](https://github.com/jaspervdj/static-site-generator-comparison)
   * http://staticsitegenerators.net/
 * [Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators)
 * [streaming-papers](https://github.com/sorenmacbeth/streaming-papers) – Papers on streaming algorithms.
@@ -319,7 +319,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ddd](https://github.com/wkjagt/awesome-ddd) – Domain Driven Design resources.
 * [awesome-delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
 * [awesome-derby](https://github.com/onerussell/awesome-derby) – Components for DerbyJS.
-* [awesome-design](https://github.com/troyericg/awesome-design) – Resources for digital designers. 
+* [awesome-design](https://github.com/troyericg/awesome-design) – Resources for digital designers.
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) – Tools, resources and workflow tips making an awesome development environment.
 * [awesome-devtools](https://github.com/moimikey/awesome-devtools) – In-browser bookmarklets, tools, and resources for front-end devs.
 * [awesome-django](https://github.com/rosarior/awesome-django) – Django apps and projects.
@@ -485,7 +485,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 #### Lists of lists of lists of lists
 
-* [awesome-awesome-awesome-awesome](https://github.com/sindresorhus/awesome-awesome-awesome-awesome) 
+* [awesome-awesome-awesome-awesome](https://github.com/sindresorhus/awesome-awesome-awesome-awesome)
 * [the one above](#lists-of-lists-of-lists)
 
 ##### Lists of lists of lists of lists of lists
