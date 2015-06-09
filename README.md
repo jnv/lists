@@ -100,6 +100,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [css-resources](https://github.com/hr-14-15/css-resources)
 * [curated-list-espresso-sugar-plugins](https://github.com/GioSensation/curated-list-espresso-sugar-plugins) – Sugar plugins for Espresso, the code editor by MacRabbit.
 * [Curated-List-of-Awesomeness](https://github.com/JayBizzle/Curated-List-of-Awesomeness) – Web resources.
+* [curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources) - A curated and annotated list of resources for learning programming and computer science.
 * [cyberDigest](https://github.com/cyberFund/cyberDigest) *In Russian* – Digest of knowledge about crypto networks (including cryptocurrencies).
 * [daemon](https://github.com/CarameloMartins/daemon) – A curated list of resources for a more literate programming.
 * [datajournalists-toolbox](https://github.com/basilesimon/datajournalists-toolbox) – Tools for datajournalists, with examples and gists.
