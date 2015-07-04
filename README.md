@@ -317,7 +317,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-cpp](https://github.com/fffaraz/awesome-cpp) – C/C++ frameworks, libraries, resources.
 * [awesome-css](https://github.com/deepakbhattarai/awesome-css) by @deepakbhattarai
 * [awesome-css](https://github.com/ikkou/awesome-css) by @ikkou
-* [awesome-d](https://github.com/zhaopuming/awesome-d)
+* [awesome-d](https://github.com/zhaopuming/awesome-d) – D programming language.
+* [awesome-d3](https://github.com/wbkd/awesome-d3) – [D3js](http://d3js.org/) libraries, plugins and utilities.
 * [awesome-dart](https://github.com/yissachar/awesome-dart)
 * [awesome-dashboard](https://github.com/obazoud/awesome-dashboard) – Dashboards/visualization resources.
 * [awesome-datascience](https://github.com/okulbilisim/awesome-datascience) – An open source DataScience repository to learn and apply for real world problems.
