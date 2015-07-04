@@ -119,6 +119,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [erlang-watchlist](https://github.com/gabrielelana/erlang-watchlist) – Where to find good code to master Erlang idioms
 * [ES6-Learning](https://github.com/ericdouglas/ES6-Learning) – Resources to learn ECMAScript 6!
 * [es6-tools](https://github.com/addyosmani/es6-tools) – An aggregation of tooling for ES6
+* [essential-javascript-links](https://github.com/ericelliott/essential-javascript-links)
 * [Facets](https://github.com/O-I/Facets) – One-liners in Ruby
 * [fks](https://github.com/JacksonTian/fks) *In Chinese* – Frontend Knowledge Structure.
 * [flat-file-cms](https://github.com/ahadb/flat-file-cms) – Stictly flat-file cms systems.
