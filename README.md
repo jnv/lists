@@ -365,6 +365,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) – Hadoop and Hadoop ecosystem resources.
 * [awesome-haskell](https://github.com/krispo/awesome-haskell)
 * [awesome-hierarchical-matrices](https://github.com/gchavez2/awesome-hierarchical-matrices) – Hierarchical matrices frameworks, libraries, and software.
+* [awesome-honeypots](https://github.com/paralax/awesome-honeypots) - Honeypot resources
 * [awesome-html5](https://github.com/diegocard/awesome-html5)
 * [awesome-hybrid](https://github.com/weblancaster/awesome-hybrid) – Hybrid Applications (web + native)
 * [awesome-ios](https://github.com/vsouza/awesome-ios)
