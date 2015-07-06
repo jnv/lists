@@ -88,6 +88,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [bigdata-ecosystem](https://github.com/zenkay/bigdata-ecosystem) – Big-data related projects packed into a JSON dataset.
   * http://bigdata.andreamostosi.name/
 * [bioinformatics-tool-list](https://github.com/lancelafontaine/bioinformatics-tool-list) – Bioinformatics and computational biology tools.
+* [bitcoin-reading-list](https://github.com/jashmenn/bitcoin-reading-list) – Learn to program Bitcoin transactions.
 * [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – Bookmarklets that are useful on the web
   * http://sachaschmid.ch/bookmarklets/
 * [bookshelf](https://github.com/OpenTechSchool/bookshelf) – Reading lists for learners
