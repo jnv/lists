@@ -145,6 +145,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [github-hall-of-fame](https://github.com/mehulkar/github-hall-of-fame) – Hall of Fame for spectacular things on Github.
   * http://mehulkar.com/github-hall-of-fame/
 * [go-must-watch](https://github.com/sauravtom/go-must-watch) – Must-watch videos about Golang.
+* [graphics-resources](https://github.com/mattdesl/graphics-resources) – Game development and realtime graphics programming.
 * [hackathon_resources](https://github.com/myearwood/hackathon_resources) by @myearwood – Learning Resources for Hackathon Organizers.
 * [Hackathon-Resources](https://github.com/xasos/Hackathon-Resources) by @xasos – Hackathon Resources for organizers.
 * [haskell-must-watch](https://github.com/drKraken/haskell-must-watch)
