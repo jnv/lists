@@ -262,6 +262,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [twofactorauth](https://github.com/jdavis/twofactorauth) – Sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
   * http://twofactorauth.org/
 * [type-findings](https://github.com/charlespeters/type-findings) – Posts about web typography.
+* [universities-on-github](https://github.com/filler/universities-on-github) – Universities which have a public organization on GitHub.
 * [WebComponents-Polymer-Resources](https://github.com/matthiasn/WebComponents-Polymer-Resources)
 * [webcomponents-the-right-way](https://github.com/mateusortiz/webcomponents-the-right-way) – Introduction to Web Components.
 * [webdevresourcecuration](https://github.com/lwakefield/webdevresourcecuration)
