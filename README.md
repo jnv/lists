@@ -14,6 +14,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 * [50-DI](https://github.com/svaksha/50-DI) – Curated Diversity Index of grants, scholarships and FA that encourages diversity in STEM fields aimed at half the world's population.
   * http://svaksha.github.io/50-DI/
+* [amas](https://github.com/sindresorhus/amas) –  Awesome & Marvelous Amas (Ask Me Anything) on GitHub
 * [Annual-Reading-List](https://github.com/davidskeck/Annual-Reading-List) – A list of things to read every year.
 * [awesomebandnames](https://github.com/LycaonIsAWolf/awesomebandnames) – The open-source list of awesome band names.
 * [awesome-biology](https://github.com/vivekiitkgp/awesome-biology) – Learning resources, research papers, tools and other resources related to Biology.
