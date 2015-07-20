@@ -374,6 +374,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-honeypots](https://github.com/paralax/awesome-honeypots) - Honeypot resources
 * [awesome-html5](https://github.com/diegocard/awesome-html5)
 * [awesome-hybrid](https://github.com/weblancaster/awesome-hybrid) – Hybrid Applications (web + native)
+* [awesome-influxdb](https://github.com/mark-rushakoff/awesome-influxdb) - Resources for the time series database InfluxDB
 * [awesome-ios](https://github.com/vsouza/awesome-ios)
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) – UI/UX libraries for iOS.
 * [awesome-IoT](https://github.com/dharmeshkakadia/awesome-IoT) – Internet of Things platforms, libraries and apps.
