@@ -225,6 +225,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [resources](https://github.com/hr-14-15/resources) – JavaScript resources for and by Hack Reactor 14 & 15.
 * [resources](https://github.com/jbranchaud/resources) – Free, online resources for various technologies, languages, and tools.
 * [Resources](https://github.com/tevko/Resources) – Tools for front end devs.
+* [rss-readers-list](https://github.com/smithbr/rss-readers-list) – Reader replacements megalist
+  * http://smithbr.github.io/rss-readers-list
 * [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) – Ruby and Ruby on Rails bookmarks collection.
 * [rubybib.org](https://github.com/rubybib/rubybib.org) – The Ruby Bibliography
   * http://rubybib.org/
@@ -232,8 +234,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [ruby-nlp](https://github.com/diasks2/ruby-nlp) – Ruby Natural Language Processing (NLP) libraries, tools and software.
 * [ruby-trivia](https://github.com/gregstallings/ruby-trivia) – Questions about Ruby programming you can use to quiz yourself.
 * [rust-lang-resources](https://github.com/dschenkelman/rust-lang-resources) – Links related to the Rust programming language.
-* [rss-readers-list](https://github.com/smithbr/rss-readers-list) – Reader replacements megalist
-  * http://smithbr.github.io/rss-readers-list
+* [rx-react-flux](https://github.com/christianramsey/rx-react-flux) – RxJS + React/Flux implementations.
 * [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list) – Collected dispatches from The Quest for Scalable CSS.
 * [secure-email](https://github.com/OpenTechFund/secure-email) – Overview of projects working on next-generation secure email.
 * [search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) – Checklist / collection of Search Engine Optimization (SEO) tips and technics.
