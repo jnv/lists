@@ -441,6 +441,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-scala](https://github.com/lauris/awesome-scala)
 * [awesome-security](https://github.com/sbilly/awesome-security) – Software, libraries, documents, books, resources and cool stuff about security.
 * [awesome-selenium](https://github.com/christian-bromann/awesome-selenium)
+* [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) – Network services and web applications which can be hosted locally.
 * [awesome-services](https://github.com/indrasantosa/awesome-services) – Services that make a painful programmer's life easier.
 * [awesome-sharepoint](https://github.com/sergey-tihon/awesome-sharepoint) by @sergey-tihon
 * [awesome-SharePoint](https://github.com/siaf/awesome-SharePoint) by @siaf
