@@ -92,7 +92,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [bitcoin-reading-list](https://github.com/jashmenn/bitcoin-reading-list) – Learn to program Bitcoin transactions.
 * [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – Bookmarklets that are useful on the web
   * http://sachaschmid.ch/bookmarklets/
-* [bookshelf](https://github.com/OpenTechSchool/bookshelf) – Reading lists for learners
+* [bookshelf](https://github.com/OpenTechSchool/bookshelf) – Reading lists for learners.
+* [browser-javascript-resource](https://github.com/azu/browser-javascript-resource) – Latest JavaScript information by browser.
 * [channels](https://github.com/forwebdev/channels) *In Russian* – YouTube channels for web developers.
 * [ciandcd](https://github.com/itech001/ciandcd) – Continuous Integration and Continuous Delivery
   * http://www.ciandcd.com/
