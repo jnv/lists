@@ -107,6 +107,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [cyberDigest](https://github.com/cyberFund/cyberDigest) *In Russian* – Digest of knowledge about crypto networks (including cryptocurrencies).
 * [daemon](https://github.com/CarameloMartins/daemon) – A curated list of resources for a more literate programming.
 * [datajournalists-toolbox](https://github.com/basilesimon/datajournalists-toolbox) – Tools for datajournalists, with examples and gists.
+* [data-science-blogs](https://github.com/rushter/data-science-blogs)
 * [datasciencemasters](https://github.com/datasciencemasters/go) – The Curriculum for learning Data Science, Open Source and at your fingertips.
   * http://datasciencemasters.org/
 * [Developer-Conferences](https://github.com/MurtzaM/Developer-Conferences) – List of upcoming developer conferences.
