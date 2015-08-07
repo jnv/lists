@@ -404,6 +404,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-meteor](https://github.com/gillesfabio/awesome-meteor)
 * [awesome-mesos](https://github.com/dharmeshkakadia/awesome-mesos) by @dharmeshkakadia
 * [awesome-mesos](https://github.com/parolkar/awesome-mesos) by @parolkar
+* [awesome-newsletters](https://github.com/vredniy/awesome-newsletters)
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) by @sindresorhus
 * [awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs) by @vndmtrx
 * [awesome-ntnu](https://github.com/michaelmcmillan/awesome-ntnu) – Projects by NTNU students.
