@@ -209,6 +209,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [PHPVietnam](https://github.com/andytruong/PHPVietnam) – PHP resources for Vietnamese.
 * [php-must-watch](https://github.com/phptodayorg/php-must-watch) – Must-watch videos about PHP.
 * [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) – “Where can I post my startup to get beta users?”
+* [post-mortems](https://github.com/danluu/post-mortems)
 * [programmers-proverbs](https://github.com/AntJanus/programmers-proverbs) – Proverbs from the programmer
 * [programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks concerning Programming
 * [Projects](https://github.com/karan/Projects) – Practical projects that anyone can solve in any programming language.
