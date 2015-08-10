@@ -458,8 +458,9 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-sketch](https://github.com/diessica/awesome-sketch) – Guides, articles, videos about [Sketch 3](http://bohemiancoding.com/sketch/).
 * [awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc) – Tools for Sphinx Python Documentation Generator.
 * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) – Extra libraries for SQLAlchemy, a Python ORM.
-* [awesome-static-generators](https://github.com/myles/awesome-static-generators) – Static web site generators.
+* [awesome-standard](https://github.com/feross/awesome-standard) – Documenting the explosion of packages in the [standard](http://standardjs.com/) (JavaScript code style) ecosystem.
 * [awesome-stars](https://github.com/lichunqiang/awesome-stars) *In Chinese* – Useful libraries with personal remarks.
+* [awesome-static-generators](https://github.com/myles/awesome-static-generators) – Static web site generators.
 * [awesome-styleguides](https://github.com/RichardLitt/awesome-styleguides)
 * [awesome-svg](https://github.com/willianjusten/awesome-svg)
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift) by @matteocrippa
