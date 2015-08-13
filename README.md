@@ -474,7 +474,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-vagrant](https://github.com/iJackUA/awesome-vagrant)
 * [awesome-vim](https://github.com/akrawchyk/awesome-vim) by @akrawchyk
 * [awesome-vim](https://github.com/matteocrippa/awesome-vim) by @matteocrippa
-* [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) – 
+* [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) –
+* [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - tools and programming libraries related to web scraping and data processing
 * [awesome-webservice](https://github.com/wapmorgan/awesome-webservice) – Web and cloud services, SaaS.
 * [awesome-weekly](https://github.com/jondot/awesome-weekly) – Quality weekly subscription newsletters from the software world.
 * [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) – Wikipedia-related frameworks, libraries, software, datasets and references.
