@@ -30,15 +30,14 @@ with open('../README.md', 'r') as readme:
 					name = data['name']
 					url = repo_url
 					author = data['owner']['login']
-					num_watch = data['watchers_count']
+					num_watch = data['subscribers_count']
 					num_stars = data['stargazers_count']
 					num_forks = data['forks_count']
 					num_open_issues = data['open_issues_count']
-					last_updated = data['created_at']
+					last_updated = data['updated_at']
 					
 					list_csv_writer.writerow([name, url, author, num_watch, num_stars, num_forks, num_open_issues, last_updated])
 					
 			except Exception, e:
-			
 				# will catch 404s from bad entries
 				print e
