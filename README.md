@@ -176,6 +176,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Julia.jl](https://github.com/svaksha/Julia.jl) – Curated decibans of Julia language.
   * https://github.com/svaksha/Julia.jl
 * [killer-talks](https://github.com/PharkMillups/killer-talks) – Talks that are worth watching.
+* [Langauge List](https://github.com/thomasfoster96/language-list) - List of programming language being developed on Github.
 * [Laravel-Resources](https://github.com/abhimanyusharma003/Laravel-Resources) – Laravel Framework Resources and Blogs.
 * [learn-drupal](https://github.com/rocketeerbkw/learn-drupal) – Stuff to help you learn Drupal.
 * [learn-python](https://github.com/adrianmoisey/learn-python) - A list of links that teach Python.
