@@ -439,6 +439,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-recommender-system](https://github.com/Geek4IT/awesome-recommender-system) – Recommender System frameworks, libraries and software.
 * [awesome-redux](https://github.com/xgrommx/awesome-redux) – Resources for [Redux](https://github.com/gaearon/redux), the predictable state container.
 * [awesome-regex](https://github.com/aloisdg/awesome-regex) - Regex tools and resources
+* [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - List of remote companies and other resources.
 * [awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork) – Books and links about and for remote work.
 * [awesome-ruby](https://github.com/markets/awesome-ruby) by @markets
   * http://marcanguera.net/awesome-ruby/
