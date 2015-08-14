@@ -534,6 +534,10 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-power-of-5](https://github.com/therebelrobot/awesome-power-of-5)
 * [the one above](#lists-of-lists-of-lists-of-lists-scream)
 
+###### Lists of lists of lists of lists of lists of lists
+
+* [awesome-awesome-awesome-awesome-awesome-awesome](https://github.com/enedil/awesome-awesome-awesome-awesome-awesome-awesome)
+
 ## License
 
 [![CC0 Public Domain](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
