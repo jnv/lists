@@ -151,6 +151,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) – Game development and realtime graphics programming.
 * [hackathon_resources](https://github.com/myearwood/hackathon_resources) by @myearwood – Learning Resources for Hackathon Organizers.
 * [Hackathon-Resources](https://github.com/xasos/Hackathon-Resources) by @xasos – Hackathon Resources for organizers.
+* [Learn Haskell, a curated guide for learning Haskell](https://github.com/bitemyapp/learnhaskell)
 * [haskell-must-watch](https://github.com/drKraken/haskell-must-watch)
 * [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers)
 * [hipchat-alternatives](https://github.com/cjbarber/hipchat-alternatives)
