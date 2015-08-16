@@ -383,6 +383,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-go-books](https://github.com/airballoon/awesome-go-books) – Online and free golang books.
 * [awesome-grails](https://github.com/hitenpratap/awesome-grails)
 * [awesome-groovy](https://github.com/kdabir/awesome-groovy)
+* [awesome-gulp](https://github.com/alferov/awesome-gulp) - A list of Gulp resources and plugins.
 * [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) – Hadoop and Hadoop ecosystem resources.
 * [awesome-haskell](https://github.com/krispo/awesome-haskell)
 * [awesome-hierarchical-matrices](https://github.com/gchavez2/awesome-hierarchical-matrices) – Hierarchical matrices frameworks, libraries, and software.
