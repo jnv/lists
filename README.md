@@ -33,6 +33,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code / text editors
 * [corporate-logos](https://github.com/marketreef/corporate-logos) – Curated repo of publicly listed co. logos, identified by ticker. *Almost 1500 logos*
 * [creative-commons-media](https://github.com/shime/creative-commons-media) – Audio, graphics and other resources that provide media licensed under Creative Commons licenses.
+* [cscs](https://github.com/SalGnt/cscs) – A curated list of Coding Style Conventions and Standards.
 * [dissertation-tips](https://github.com/katychuang/dissertation-tips) – Resources to help PhD students complete their dissertation successfully.
 * [endangered-languages](https://github.com/RichardLitt/endangered-languages) – Conservation, development, and documentation of endangered, minority, and low or under-resourced human languages.
 * [food-recipes](https://github.com/obfuscurity/food-recipes) – Honest-to-goodness "real food" recipes
