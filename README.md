@@ -430,6 +430,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-python](https://github.com/vinta/awesome-python) by @vinta
 * [awesome-python-talks](https://github.com/jhermann/awesome-python-talks) – An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
 * [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) – (Large-scale) public datasets on the Internet.
+* [awesome-purescript](https://github.com/passy/awesome-purescript)
 * [awesome-qt](https://github.com/skhaz/awesome-qt) – Libraries and resources for the Qt framework.
 * [awesome-R](https://github.com/qinwf/awesome-R)
 * [awesome-radio](https://github.com/kyleterry/awesome-radio) – Radio and citizens band (CB) radio resources.
