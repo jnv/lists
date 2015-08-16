@@ -4,11 +4,12 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 - [Non-technical](#non-technical)
 - [Technical](#technical)
-	- [awesome-*](#awesome-)
+  - [awesome-*](#awesome-)
 - [Lists of lists](#lists-of-lists)
-	- [Lists of lists of lists](#lists-of-lists-of-lists)
-		- [Lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists)
-			- [Lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists) 😱
+  - [Lists of lists of lists](#lists-of-lists-of-lists)
+    - [Lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists)
+      - [Lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists)
+        - [Lists of lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists-of-lists) 😱
 
 ## Non-technical
 
@@ -532,11 +533,12 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 ##### Lists of lists of lists of lists of lists
 
 * [awesome-power-of-5](https://github.com/therebelrobot/awesome-power-of-5)
-* [the one above](#lists-of-lists-of-lists-of-lists-scream)
+* [the one above](#lists-of-lists-of-lists-of-lists)
 
 ###### Lists of lists of lists of lists of lists of lists
 
 * [awesome-awesome-awesome-awesome-awesome-awesome](https://github.com/enedil/awesome-awesome-awesome-awesome-awesome-awesome)
+* [the one above](#lists-of-lists-of-lists-of-lists-of-lists)
 
 ## License
 
