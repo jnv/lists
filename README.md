@@ -75,6 +75,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [angular2-education](https://github.com/timjacobi/angular2-education) – Helpful material to get started with the second version of AngularJS.
 * [angularjs-fellows](https://github.com/tachun/angularjs-fellows) – Free resources for learning AngularJS.
   * http://tachun.github.io/angularjs-fellows/
+* [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
+* [AngularJS2-Learning](https://github.com/jmcunningham/AngularJS2-Learning)
 * [ansible-gentoo-roles](https://github.com/jirutka/ansible-gentoo-roles) – Ansible roles for Gentoo Linux.
 * [apiPlatforms](https://github.com/opentok/apiPlatforms) – Cool and awesome APIs
 * [app-launch-guide](https://github.com/adamwulf/app-launch-guide) – Indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
