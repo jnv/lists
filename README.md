@@ -279,7 +279,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 ### awesome-*
 
-* [awesome](https://github.com/vkbansal/awesome) – Useful plugins and libraries.
 * [awesome-2048-and-beyond](https://github.com/cstrap/awesome-2048-and-beyond) – Waste and lose at least 8 hours of your life… then **multiply** it…
 * [awesome-a11y](https://github.com/brunopulis/awesome-a11y) – Accesibility tools, articles and resources.
 * [awesome-acf](https://github.com/reyhoun/awesome-acf) – Add-ons for the Advanced Custom Field plugin for WordPress.
