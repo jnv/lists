@@ -456,7 +456,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - List of remote companies and other resources.
 * [awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork) – Books and links about and for remote work.
 * [awesome-ruby](https://github.com/markets/awesome-ruby) by @markets
-  * http://marcanguera.net/awesome-ruby/
+  * http://awesome-ruby.com/
 * [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby) by @Sdogruyol
 * [awesome-rust](https://github.com/kud1ing/awesome-rust)
 * [awesome-sarl](https://github.com/sarl/awesome-sarl) – Resources for [SARL](http://www.sarl.io/) Agent-Oriented Programming Language.
