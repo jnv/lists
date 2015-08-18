@@ -519,7 +519,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists) – List of github lists
 * [list-of-lists](https://github.com/cyrusstoller/list-of-lists) – A meta list of lists of useful open source projects and developer tools.
 * [must-watch-list](https://github.com/adrianmoisey/must-watch-list) – List of must-watch lists.
-* [this one](#lists)
+* [this one](https://github.com/jnv/lists)
 * [wiki](https://github.com/huguangju/wiki) *In Chinese* – A curated list of awesome lists.
 
 ### Lists of lists of lists
