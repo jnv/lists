@@ -123,6 +123,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [discount-for-student-dev](https://github.com/najela/discount-for-student-dev) – Discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who happen to be students.
 * [django-must-watch](https://github.com/rosarior/django-must-watch) – Must-watch videos bout Django web framework + Python.
 * [EducationalToolsResources](https://github.com/hkalant/EducationalToolsResources) – Tools and resources for educators and virtual teachers.
+* [Email newsletters](https://github.com/vredniy/awesome-newsletters) - A curated list of awesome newsletters.
 * [ember-links/list](https://github.com/ember-links/list) – Ember.js Links
 * [erlang-bookmarks](https://github.com/0xAX/erlang-bookmarks) – All about erlang programming language.
 * [erlang-watchlist](https://github.com/gabrielelana/erlang-watchlist) – Where to find good code to master Erlang idioms
