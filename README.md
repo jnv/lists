@@ -31,7 +31,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [baby-sleep](https://github.com/babyguides/baby-sleep) – Baby sleep guides curated from the best of the Internet.
 * [Biology](https://github.com/svaksha/biology) - Bibliography of Biology resources.
 * [cocktails](https://github.com/balevine/cocktails) – Cocktail Recipes
-* [Codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code / text editors
 * [corporate-logos](https://github.com/marketreef/corporate-logos) – Curated repo of publicly listed co. logos, identified by ticker. *Almost 1500 logos*
 * [creative-commons-media](https://github.com/shime/creative-commons-media) – Audio, graphics and other resources that provide media licensed under Creative Commons licenses.
 * [dissertation-tips](https://github.com/katychuang/dissertation-tips) – Resources to help PhD students complete their dissertation successfully.
@@ -101,6 +100,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [channels](https://github.com/forwebdev/channels) *In Russian* – YouTube channels for web developers.
 * [ciandcd](https://github.com/itech001/ciandcd) – Continuous Integration and Continuous Delivery
   * http://www.ciandcd.com/
+* [codeface](https://github.com/chrissimpkins/codeface) – Typefaces for source code / text editors.
 * [content-management-systems](https://github.com/ahadb/content-management-systems) – Open source & proprietary content management systems.
 * [Continuous-Integration-services](https://github.com/ligurio/Continuous-Integration-services) – Comparison of cloud based CI services.
 * [crypto-might-not-suck](https://github.com/sweis/crypto-might-not-suck) – Crypto Projects that Might not Suck.
