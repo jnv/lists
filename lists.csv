@@ -45,12 +45,13 @@ alternative-internet,https://github.com/redecentralize/alternative-internet,rede
 android-awesome-libraries,https://github.com/kaiinui/android-awesome-libraries,kaiinui,2,62,7,0,2015-08-18T19:12:38Z
 AndroidDevTools,https://github.com/inferjay/AndroidDevTools,inferjay,422,2465,955,5,2015-08-18T17:11:39Z
 android-dev-readme,https://github.com/anirudh24seven/android-dev-readme,anirudh24seven,39,420,52,0,2015-08-18T00:05:59Z
-android-jobs,https://github.com/android-cn/android-jobs,android-cn,381,867,340,1,2015-08-18T16:09:47Z
+android-jobs,https://github.com/android-cn/android-jobs,android-cn,382,867,340,1,2015-08-18T16:09:47Z
 android-open-project,https://github.com/Trinea/android-open-project,Trinea,2104,9659,5552,3,2015-08-18T20:01:58Z
 android-security-awesome,https://github.com/ashishb/android-security-awesome,ashishb,65,468,106,0,2015-08-18T18:22:50Z
 android-tech-frontier,https://github.com/bboyfeiyu/android-tech-frontier,bboyfeiyu,433,2497,876,23,2015-08-18T18:13:49Z
 angular-education,https://github.com/timjacobi/angular-education,timjacobi,51,597,66,1,2015-08-17T23:14:57Z
 angular2-education,https://github.com/timjacobi/angular2-education,timjacobi,193,1967,183,0,2015-08-18T13:16:46Z
+angularjs-fellows,https://github.com/famousky/angularjs-fellows,famousky,1,0,7,0,2015-05-23T07:33:40Z
 AngularJS-Learning,https://github.com/jmcunningham/AngularJS-Learning,jmcunningham,849,8938,1671,7,2015-08-18T14:31:47Z
 AngularJS2-Learning,https://github.com/jmcunningham/AngularJS2-Learning,jmcunningham,7,22,3,0,2015-08-18T12:17:20Z
 ansible-gentoo-roles,https://github.com/jirutka/ansible-gentoo-roles,jirutka,1,3,0,0,2015-08-15T10:38:05Z
@@ -76,7 +77,7 @@ codeface,https://github.com/chrissimpkins/codeface,chrissimpkins,77,1853,112,21,
 content-management-systems,https://github.com/ahadb/content-management-systems,ahadb,1,6,1,0,2015-08-18T01:49:16Z
 Continuous-Integration-services,https://github.com/ligurio/Continuous-Integration-services,ligurio,5,41,9,0,2015-08-18T02:01:17Z
 crypto-might-not-suck,https://github.com/sweis/crypto-might-not-suck,sweis,9,87,2,0,2015-08-17T20:58:41Z
-cscs,https://github.com/SalGnt/cscs,SalGnt,37,719,34,5,2015-08-18T21:31:46Z
+cscs,https://github.com/SalGnt/cscs,SalGnt,37,720,34,5,2015-08-18T21:50:24Z
 css-resources,https://github.com/hr-14-15/css-resources,hr-14-15,15,4,3,0,2015-07-27T17:47:48Z
 curated-list-espresso-sugar-plugins,https://github.com/GioSensation/curated-list-espresso-sugar-plugins,GioSensation,3,6,0,0,2015-04-08T23:38:11Z
 Curated-List-of-Awesomeness,https://github.com/JayBizzle/Curated-List-of-Awesomeness,JayBizzle,2,9,0,0,2015-08-18T02:01:58Z
@@ -175,6 +176,7 @@ ops-books,https://github.com/stack72/ops-books,stack72,47,409,35,4,2015-08-16T20
 papers,https://github.com/NicolasT/papers,NicolasT,1,9,0,0,2015-08-14T19:45:43Z
 papers-we-love,https://github.com/papers-we-love/papers-we-love,papers-we-love,1376,13982,1355,16,2015-08-18T18:09:40Z
 pattern_classification,https://github.com/rasbt/pattern_classification,rasbt,151,1245,294,0,2015-08-18T20:24:15Z
+bookmarks,https://github.com/phpvietnam/bookmarks,phpvietnam,1,0,1,1,2014-11-09T09:55:31Z
 php-must-watch,https://github.com/phptodayorg/php-must-watch,phptodayorg,247,1688,123,1,2015-08-18T15:38:28Z
 PlacesToPostYourStartup,https://github.com/mmccaff/PlacesToPostYourStartup,mmccaff,74,737,92,0,2015-08-15T04:45:33Z
 post-mortems,https://github.com/danluu/post-mortems,danluu,104,1593,45,7,2015-08-18T19:28:22Z
@@ -310,9 +312,12 @@ awesome-doctrine,https://github.com/TomasVotruba/awesome-doctrine,TomasVotruba,1
 awesome-dojo,https://github.com/peterkokot/awesome-dojo,peterkokot,5,30,5,0,2015-08-16T23:53:37Z
 awesome-dotfiles,https://github.com/webpro/awesome-dotfiles,webpro,27,394,17,1,2015-08-18T21:28:00Z
 awesome-dotnet,https://github.com/quozd/awesome-dotnet,quozd,151,873,145,3,2015-08-17T20:35:17Z
+awesome-drupal,https://github.com/quyenbui/awesome-drupal,quyenbui,1,0,0,0,2014-10-01T23:36:35Z
+awesome-drupal,https://github.com/quyenbui/awesome-drupal,quyenbui,1,0,0,0,2014-10-01T23:36:35Z
+awesome-drupal,https://github.com/emincansumer/awesome-drupal,emincansumer,2,0,0,0,2014-09-15T07:17:07Z
 awesome-educate,https://github.com/mercer/awesome-educate,mercer,1,6,1,0,2015-07-20T16:33:16Z
 awesome-elm,https://github.com/isRuslan/awesome-elm,isRuslan,6,65,0,0,2015-08-18T13:03:50Z
-awesome-emacs,https://github.com/emacs-tw/awesome-emacs,emacs-tw,147,1016,113,3,2015-08-18T15:07:22Z
+awesome-emacs,https://github.com/emacs-tw/awesome-emacs,emacs-tw,147,1018,113,3,2015-08-18T21:53:37Z
 awesome-emacs,https://github.com/sefakilic/awesome-emacs,sefakilic,1,3,0,0,2015-08-18T12:06:23Z
 awesome-emacs,https://github.com/tacticiankerala/awesome-emacs,tacticiankerala,1,8,0,0,2015-08-18T12:06:25Z
 awesome-ember,https://github.com/nmec/awesome-ember,nmec,11,71,8,4,2015-08-18T02:58:45Z
@@ -341,7 +346,7 @@ awesome-html5,https://github.com/diegocard/awesome-html5,diegocard,45,302,22,0,2
 awesome-IoT-hybrid,https://github.com/weblancaster/awesome-hybrid,weblancaster,16,88,11,1,2015-08-18T14:09:03Z
 awesome-influxdb,https://github.com/mark-rushakoff/awesome-influxdb,mark-rushakoff,6,23,2,0,2015-08-18T08:44:26Z
 awesome-ios,https://github.com/vsouza/awesome-ios,vsouza,548,5927,926,2,2015-08-18T20:46:56Z
-awesome-ios-ui,https://github.com/cjwirth/awesome-ios-ui,cjwirth,435,5993,588,7,2015-08-18T20:56:51Z
+awesome-ios-ui,https://github.com/cjwirth/awesome-ios-ui,cjwirth,434,5993,588,7,2015-08-18T20:56:51Z
 awesome-IoT,https://github.com/dharmeshkakadia/awesome-IoT,dharmeshkakadia,7,9,0,0,2015-08-18T10:04:40Z
 awesome-java,https://github.com/akullpp/awesome-java,akullpp,495,3645,701,17,2015-08-18T21:27:43Z
 awesome-javascript,https://github.com/sorrycc/awesome-javascript,sorrycc,296,3714,461,18,2015-08-18T20:05:32Z
@@ -349,10 +354,12 @@ awesome-javascript-books,https://github.com/airballoon/awesome-javascript-books,
 awesome-julia,https://github.com/melvin0008/awesome-julia,melvin0008,2,6,4,0,2015-08-05T17:46:38Z
 awesome-knockout,https://github.com/dnbard/awesome-knockout,dnbard,2,31,1,4,2015-08-14T16:46:36Z
 awesome-koans,https://github.com/ahmdrefat/awesome-koans,ahmdrefat,14,112,13,3,2015-08-17T06:56:37Z
+awesome-languages,https://github.com/perfaram/awesome-languages,perfaram,1,2,0,0,2015-03-27T19:42:09Z
 awesome-laravel,https://github.com/chiraggude/awesome-laravel,chiraggude,182,1253,245,5,2015-08-18T19:33:27Z
 awesome-laravel,https://github.com/TimothyDJones/awesome-laravel,TimothyDJones,21,80,16,2,2015-08-18T06:13:06Z
 awesome-linguistics,https://github.com/sexybiggetje/awesome-linguistics,theimpossibleastronaut,8,17,2,0,2015-08-14T21:35:04Z
-awesome-linuxaudio,https://github.com/nodiscc/awesome-linuxaudio,nodiscc,6,23,2,2,2015-08-18T20:57:46Z
+awesome-linux,https://github.com/aleksandar-todorovic/awesome-linux,aleksandar-todorovic,16,150,5,5,2015-08-18T09:13:44Z
+awesome-linuxaudio,https://github.com/nodiscc/awesome-linuxaudio,nodiscc,6,24,2,2,2015-08-18T21:53:24Z
 awesome-logging,https://github.com/roundrobin/awesome-logging,roundrobin,1,4,0,0,2015-08-16T20:44:02Z
 awesome-lua,https://github.com/forhappy/awesome-lua,forhappy,14,81,7,1,2015-08-18T02:12:40Z
 awesome-lua,https://github.com/LewisJEllis/awesome-lua,LewisJEllis,52,595,52,2,2015-08-18T21:05:51Z
@@ -372,6 +379,7 @@ awesome-ocaml,https://github.com/rizo/awesome-ocaml,rizo,48,370,27,4,2015-08-18T
 awesome-open-science,https://github.com/silky/awesome-open-science,silky,2,19,4,0,2015-08-16T05:49:32Z
 awesome-pcaptools,https://github.com/caesar0301/awesome-pcaptools,caesar0301,22,164,25,3,2015-08-15T18:58:28Z
 awesome-pentest,https://github.com/enaqx/awesome-pentest,enaqx,103,451,152,0,2015-08-18T17:51:43Z
+awesome-perfocards,https://github.com/Wolg/awesome-perfocards,Wolg,1,0,0,0,2015-03-17T12:38:13Z
 awesome-perl,https://github.com/hachiojipm/awesome-perl,hachiojipm,60,204,41,3,2015-08-17T09:53:44Z
 awesome-persian,https://github.com/fffaraz/awesome-persian,fffaraz,6,18,3,1,2015-07-19T06:13:24Z
 awesome-phalcon,https://github.com/sergeyklay/awesome-phalcon,sergeyklay,16,60,14,0,2015-08-18T03:02:20Z
@@ -407,7 +415,7 @@ awesome-sass,https://github.com/HugoGiraudel/awesome-sass,HugoGiraudel,47,389,29
 awesome-scala,https://github.com/lauris/awesome-scala,lauris,313,2284,290,5,2015-08-18T21:40:17Z
 awesome-security,https://github.com/sbilly/awesome-security,sbilly,35,184,17,0,2015-08-18T20:00:00Z
 awesome-selenium,https://github.com/christian-bromann/awesome-selenium,christian-bromann,9,45,9,0,2015-08-16T12:15:48Z
-awesome-selfhosted,https://github.com/Kickball/awesome-selfhosted,Kickball,155,3121,201,23,2015-08-18T21:39:48Z
+awesome-selfhosted,https://github.com/Kickball/awesome-selfhosted,Kickball,155,3122,201,23,2015-08-18T21:54:18Z
 awesome-services,https://github.com/indrasantosa/awesome-services,indrasantosa,2,2,1,0,2015-03-11T08:18:27Z
 awesome-sharepoint,https://github.com/sergey-tihon/awesome-sharepoint,sergey-tihon,10,28,9,1,2015-08-16T11:58:33Z
 awesome-SharePoint,https://github.com/siaf/awesome-SharePoint,siaf,2,0,0,0,2014-08-25T15:44:10Z
