@@ -77,7 +77,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
 * [AngularJS2-Learning](https://github.com/jmcunningham/AngularJS2-Learning)
 * [ansible-gentoo-roles](https://github.com/jirutka/ansible-gentoo-roles) – Ansible roles for Gentoo Linux.
-* [apiPlatforms](https://github.com/opentok/apiPlatforms) – Cool and awesome APIs
 * [app-launch-guide](https://github.com/adamwulf/app-launch-guide) – Indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
 * [APTnotes](https://github.com/kbandla/APTnotes) – Various public documents, whitepapers and articles about APT [Advanced persistent threat] campaigns.
 * [Automated-SPA-Testing](https://github.com/webpro/Automated-SPA-Testing) – Automated unit & functional testing for web applications [JavaScript et al.].
