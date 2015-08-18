@@ -187,6 +187,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [learn-drupal](https://github.com/rocketeerbkw/learn-drupal) – Stuff to help you learn Drupal.
 * [learnhaskell](https://github.com/bitemyapp/learnhaskell) – A curated guide for learning Haskell.
 * [learn-python](https://github.com/adrianmoisey/learn-python) - A list of links that teach Python.
+* [learn-tt](https://github.com/jozefg/learn-tt) – Resources for learning type theory.
 * [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) – Code documentation written as code!
   * http://learnxinyminutes.com/
 * [libertr](https://github.com/Libertr/libertr) – Resources for liberty seekers.
