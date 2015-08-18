@@ -53,7 +53,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [sf-vegetarian-restaurants](https://github.com/mojombo/sf-vegetarian-restaurants) – Awesome vegetarian-friendly restaurants in SF
 * [teesites](https://github.com/elder-cb/teesites) – Great sites to buy awesome t-shirts and other cool stuff.
 * [tacofancy](https://github.com/sinker/tacofancy) – community-driven taco repo. stars stars stars.
-* [visual-illusions](https://github.com/mad4j/visual-illusions)
 
 ## Technical
 
@@ -72,8 +71,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [android-tech-frontier](https://github.com/bboyfeiyu/android-tech-frontier) *In Chinese* – Translation of articles about Android development.
 * [angular-education](https://github.com/timjacobi/angular-education) – Useful resources to learn and improve your AngularJS skills.
 * [angular2-education](https://github.com/timjacobi/angular2-education) – Helpful material to get started with the second version of AngularJS.
-* [angularjs-fellows](https://github.com/tachun/angularjs-fellows) – Free resources for learning AngularJS.
-  * http://tachun.github.io/angularjs-fellows/
+* [angularjs-fellows](https://github.com/famousky/angularjs-fellows) – Free resources for learning AngularJS.
+  * https://famousky.github.io/angularjs-fellows/
 * [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
 * [AngularJS2-Learning](https://github.com/jmcunningham/AngularJS2-Learning)
 * [ansible-gentoo-roles](https://github.com/jirutka/ansible-gentoo-roles) – Ansible roles for Gentoo Linux.
@@ -214,7 +213,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [papers](https://github.com/NicolasT/papers) – A collection of papers found across the web.
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) – Papers from the computer science community to read and discuss. (Contains actual papers)
 * [pattern_classification](https://github.com/rasbt/pattern_classification) – A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks.
-* [PHPVietnam](https://github.com/andytruong/PHPVietnam) – PHP resources for Vietnamese.
+* [phpvietnam/bookmarks](https://github.com/phpvietnam/bookmarks) – PHP resources for Vietnamese.
 * [php-must-watch](https://github.com/phptodayorg/php-must-watch) – Must-watch videos about PHP.
 * [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) – “Where can I post my startup to get beta users?”
 * [post-mortems](https://github.com/danluu/post-mortems)
@@ -360,7 +359,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-dojo](https://github.com/peterkokot/awesome-dojo) – Dojo JavaScript Toolkit resources and libraries.
 * [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 * [awesome-dotnet](https://github.com/quozd/awesome-dotnet) – .NET libraries, tools, frameworks and software.
-* [awesome-drupal](https://github.com/andytruong/awesome-drupal)
 * [awesome-educate](https://github.com/mercer/awesome-educate) – Education resources online.
 * [awesome-elm](https://github.com/isRuslan/awesome-elm) – Learning resources and programs for Elm, a functional reactive language.
 * [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) from @emacs-tw
@@ -401,11 +399,11 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-julia](https://github.com/melvin0008/awesome-julia)
 * [awesome-knockout](https://github.com/dnbard/awesome-knockout) – Plugins for Knockout MVVM framework.
 * [awesome-koans](https://github.com/ahmdrefat/awesome-koans) – Programming kōans in various languages.
-* [awesome-languages](https://github.com/ekremkaraca/awesome-languages) – Open-source programming languages.
+* [awesome-languages](https://github.com/perfaram/awesome-languages) – Open-source programming languages.
 * [awesome-laravel](https://github.com/chiraggude/awesome-laravel) by @chiraggude
 * [awesome-laravel](https://github.com/TimothyDJones/awesome-laravel) by @TimothyDJones
 * [awesome-linguistics](https://github.com/sexybiggetje/awesome-linguistics) – Tools, theory and platforms for linguistics.
-* [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux/) – Linux software.
+* [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux) – Linux software.
 * [awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) – Professional audio/video/live events production on Linux.
 * [awesome-logging](https://github.com/roundrobin/awesome-logging)
 * [awesome-lua](https://github.com/forhappy/awesome-lua) by @forhappy
@@ -426,7 +424,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-open-science](https://github.com/silky/awesome-open-science)
 * [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) – Tools to process network traces.
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest) – Penetration testing resources and tools.
-* [awesome-perfocards](https://github.com/alampcat/awesome-perfocards) *See [perfokaart](http://et.wikipedia.org/wiki/Perfokaart).*
+* [awesome-perfocards](https://github.com/Wolg/awesome-perfocards) *See [perfokaart](http://et.wikipedia.org/wiki/Perfokaart).*
 * [awesome-perl](https://github.com/hachiojipm/awesome-perl)
 * [awesome-persian](https://github.com/fffaraz/awesome-persian) – Persian/Farsi supporting tools, fonts, and development resources.
 * [awesome-phalcon](https://github.com/sergeyklay/awesome-phalcon) – [Phalcon](https://phalconphp.com/en/) PHP framework libraries and resources.
