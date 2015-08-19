@@ -2,6 +2,8 @@
 
 List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contributions welcome!
 
+✨ Now also available [in CSV](https://github.com/jnv/lists/blob/gh-pages/lists.csv)! ✨
+
 * [Non-technical](#non-technical)
 * [Technical](#technical)
   * [awesome-*](#awesome-)
