@@ -360,7 +360,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-dojo](https://github.com/peterkokot/awesome-dojo) – Dojo JavaScript Toolkit resources and libraries.
 * [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 * [awesome-dotnet](https://github.com/quozd/awesome-dotnet) – .NET libraries, tools, frameworks and software.
-* [awesome-drupal](https://github.com/quyenbui/awesome-drupal) by @mrsinguyen
+* [awesome-drupal](https://github.com/mrsinguyen/awesome-drupal) by @mrsinguyen
 * [awesome-drupal](https://github.com/quyenbui/awesome-drupal) by @quyenbui
 * [awesome-drupal](https://github.com/emincansumer/awesome-drupal) by @emincansumer
 * [awesome-educate](https://github.com/mercer/awesome-educate) – Education resources online.
