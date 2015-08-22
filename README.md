@@ -278,6 +278,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   * http://twofactorauth.org/
 * [type-findings](https://github.com/charlespeters/type-findings) – Posts about web typography.
 * [universities-on-github](https://github.com/filler/universities-on-github) – Universities which have a public organization on GitHub.
+* [web-audio-resources](https://github.com/alemangui/web-audio-resources) - A list of curated resources related to the Web audio API.
 * [WebComponents-Polymer-Resources](https://github.com/matthiasn/WebComponents-Polymer-Resources)
 * [webcomponents-the-right-way](https://github.com/mateusortiz/webcomponents-the-right-way) – Introduction to Web Components.
 * [webdevresourcecuration](https://github.com/lwakefield/webdevresourcecuration)
