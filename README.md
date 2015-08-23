@@ -346,6 +346,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-d3](https://github.com/wbkd/awesome-d3) – [D3js](http://d3js.org/) libraries, plugins and utilities.
 * [awesome-dart](https://github.com/yissachar/awesome-dart)
 * [awesome-dashboard](https://github.com/obazoud/awesome-dashboard) – Dashboards/visualization resources.
+* [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) – Data engineering tools for software developers.
 * [awesome-datascience](https://github.com/okulbilisim/awesome-datascience) – An open source DataScience repository to learn and apply for real world problems.
 * [awesome-datasets](https://github.com/viisar/awesome-datasets) – Datasets for papers/experiments/validation.
 * [awesome-db](https://github.com/numetriclabz/awesome-db) – Database libraries and resources.
