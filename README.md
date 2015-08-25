@@ -110,6 +110,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Curated-List-of-Awesomeness](https://github.com/JayBizzle/Curated-List-of-Awesomeness) – Web resources.
 * [curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources) – Resources for learning programming and computer science.
 * [cyberDigest](https://github.com/cyberFund/cyberDigest) *In Russian* – Digest of knowledge about crypto networks (including cryptocurrencies).
+* [dad-jokes](https://github.com/wesbos/dad-jokes) – Dad style programming jokes.
 * [daemon](https://github.com/CarameloMartins/daemon) – Resources for a more literate programming.
 * [datajournalists-toolbox](https://github.com/basilesimon/datajournalists-toolbox) – Tools for datajournalists, with examples and gists.
 * [data-science-blogs](https://github.com/rushter/data-science-blogs)
