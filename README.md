@@ -15,8 +15,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 ## Non-technical
 
-* [50-DI](https://github.com/svaksha/50-DI) – Curated Diversity Index of grants, scholarships and FA that encourages diversity in STEM fields aimed at half the world's population.
-  * http://svaksha.github.io/50-DI/
 * [amas](https://github.com/sindresorhus/amas) –  Awesome & Marvelous Amas (Ask Me Anything) on GitHub
 * [Annual-Reading-List](https://github.com/davidskeck/Annual-Reading-List) – Things to read every year.
 * [awesomebandnames](https://github.com/LycaonIsAWolf/awesomebandnames) – The open-source list of awesome band names.
@@ -36,6 +34,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [corporate-logos](https://github.com/marketreef/corporate-logos) – Curated repo of publicly listed co. logos, identified by ticker. *Almost 1500 logos*
 * [creative-commons-media](https://github.com/shime/creative-commons-media) – Audio, graphics and other resources that provide media licensed under Creative Commons licenses.
 * [dissertation-tips](https://github.com/katychuang/dissertation-tips) – Resources to help PhD students complete their dissertation successfully.
+* [diversity-index](https://github.com/svaksha/diversity-index) – Grants, scholarships and FA that encourages diversity in STEM fields aimed at half the world's population, Women!
+  * http://svaksha.github.io/diversity-index
 * [endangered-languages](https://github.com/RichardLitt/endangered-languages) – Conservation, development, and documentation of endangered, minority, and low or under-resourced human languages.
 * [food-recipes](https://github.com/obfuscurity/food-recipes) – Honest-to-goodness "real food" recipes
 * [lawrence-veggie](https://github.com/codysoyland/lawrence-veggie) – Vegetarian/vegan restaurants in Lawrence, KS.
