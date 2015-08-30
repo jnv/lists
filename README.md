@@ -317,6 +317,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-asciidoctor](https://github.com/dongwq/awesome-asciidoctor) – Collection of asciidoctor’s intros, examples and usages.
 * [awesome-asm](https://github.com/mat0thew/awesome-asm) – Assembly language
 * [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) – AutoHotkey libraries, library distributions, scripts, tools and resources.
+* [awesome-AutoIt](https://github.com/J2TeaM/awesome-AutoIt) - UDFs, example scripts, tools and useful resources for AutoIt.
+ - https://j2team.github.io/awesome-AutoIt/
 * [awesome-avr](https://github.com/fffaraz/awesome-avr)
 * [awesome-backbone](https://github.com/instanceofpro/awesome-backbone) – Resources for [Backbone.js](http://backbonejs.org/)
 * [awesome-bem](https://github.com/floatdrop/awesome-bem) – Tools, sites, articles about BEM (frontend development method).
