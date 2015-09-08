@@ -417,6 +417,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-java](https://github.com/akullpp/awesome-java)
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 * [awesome-javascript-books](https://github.com/airballoon/awesome-javascript-books) – Online and free JavaScript books.
+* [awesome-jquery](https://github.com/peterkokot/awesome-jquery)
 * [awesome-julia](https://github.com/melvin0008/awesome-julia)
 * [awesome-knockout](https://github.com/dnbard/awesome-knockout) – Plugins for Knockout MVVM framework.
 * [awesome-koans](https://github.com/ahmdrefat/awesome-koans) – Programming kōans in various languages.
