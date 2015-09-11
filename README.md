@@ -92,6 +92,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Best-App](https://github.com/hzlzh/Best-App) *In Chinese* – Recommendations for best desktop and mobile apps.
 * [bigdata-ecosystem](https://github.com/zenkay/bigdata-ecosystem) – Big-data related projects packed into a JSON dataset.
   * http://bigdata.andreamostosi.name/
+* [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Strings which have a high probability of causing issues when used as user-input data.
 * [bioinformatics-tool-list](https://github.com/lancelafontaine/bioinformatics-tool-list) – Bioinformatics and computational biology tools.
 * [bitcoin-reading-list](https://github.com/jashmenn/bitcoin-reading-list) – Learn to program Bitcoin transactions.
 * [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – Bookmarklets that are useful on the web
