@@ -448,6 +448,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-objc-swift](https://github.com/joeljfischer/awesome-objc-swift)
 * [awesome-ocaml](https://github.com/rizo/awesome-ocaml)
 * [awesome-open-science](https://github.com/silky/awesome-open-science)
+* [awesome-osx](https://github.com/iCHAIT/awesome-osx) – OS X applications, tools and communities.
 * [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) – Tools to process network traces.
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest) – Penetration testing resources and tools.
 * [awesome-perfocards](https://github.com/Wolg/awesome-perfocards) *See [perfokaart](http://et.wikipedia.org/wiki/Perfokaart).*
