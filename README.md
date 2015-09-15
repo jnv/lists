@@ -96,7 +96,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [bioinformatics-tool-list](https://github.com/lancelafontaine/bioinformatics-tool-list) – Bioinformatics and computational biology tools.
 * [bitcoin-reading-list](https://github.com/jashmenn/bitcoin-reading-list) – Learn to program Bitcoin transactions.
 * [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – Bookmarklets that are useful on the web
-  * http://sachaschmid.ch/bookmarklets/
+  * http://sacha.me/bookmarklets/
 * [bookshelf](https://github.com/OpenTechSchool/bookshelf) – Reading lists for learners.
 * [browser-javascript-resource](https://github.com/azu/browser-javascript-resource) – Latest JavaScript information by browser.
 * [channels](https://github.com/forwebdev/channels) *In Russian* – YouTube channels for web developers.
