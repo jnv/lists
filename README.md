@@ -164,6 +164,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [haskell-must-watch](https://github.com/drKraken/haskell-must-watch)
 * [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers)
 * [hipchat-alternatives](https://github.com/cjbarber/hipchat-alternatives)
+* [idaplugins-list](https://github.com/onethawt/idaplugins-list) – Plugins for [IDA disassembler](https://www.hex-rays.com/products/ida/).
 * [ideas](https://github.com/samsquire/ideas) – One Hundred Ideas for Computing
 * [Inspire](https://github.com/Codingbean/Inspire) – A collection of links to assist you in web design and development.
 * [InterviewThis](https://github.com/ChiperSoft/InterviewThis) – Developer questions to ask prospective employers
