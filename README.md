@@ -142,7 +142,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) *In Chinese*
 * [free-programming-courses](https://github.com/fffaraz/free-programming-courses) – Online programming/CS courses.
 * [free-software-testing-books](https://github.com/ligurio/free-software-testing-books) – Free software testing books.
-* [Fresh-Node.js-Library-Collection](https://github.com/selfrefactor/Fresh-Node.js-Library-Collection) – Over 500 links to Node.js libraries, over 500 links to Node.js libraries.
+* [Fresh-Node.js-Library-Collection](https://github.com/selfrefactor/Fresh-Node.js-Library-Collection) – Over 500 links to Node.js libraries, only recently updated repos are included .
 * [frontdesk](https://github.com/miripiruni/frontdesk) – Useful things for Front End Developers
 * [Front-end-Developer-Interview-Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) – Helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
   * Available in [various translations](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions/tree/master/Translations)
