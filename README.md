@@ -464,6 +464,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-play1](https://github.com/PerfectCarl/awesome-play1) – Play Framework 1.x modules, tools, and resources.
 * [awesome-ProductManager](https://github.com/hugo53/awesome-ProductManager) – Books and tools for Product Managers.
 * [awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) Boilerplates and sample projects for many languages to get started.
+* [awesome-promises](https://github.com/wbinnssmith/awesome-promises) – JavaScript Promises.
 * [awesome-puppet](https://github.com/olindata/awesome-puppet)
 * [awesome-pyramid](https://github.com/ITCase/awesome-pyramid) – Resources for Pyramid Python web framework.
 * [awesome-python](https://github.com/kevmo/awesome-python) by @kevmo
