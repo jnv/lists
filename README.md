@@ -516,6 +516,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) – Open source sysadmin resources.
   * [Maintained fork by @n1trux](https://github.com/n1trux/awesome-sysadmin)
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
+* [awesome-torch](https://github.com/carpedm20/awesome-torch) – Tutorials, projects and communities for [Torch](http://torch.ch/), a scientific computing framework for LuaJIT.
 * [awesome-umbraco](https://github.com/leekelleher/awesome-umbraco) – Resources for Umbraco 7, a .NET CMS.
 * [awesome-unity](https://github.com/RyanNielson/awesome-unity) – Assets and resources for [Unity](http://unity3d.com/) game engine.
 * [awesome-vagrant](https://github.com/iJackUA/awesome-vagrant)
