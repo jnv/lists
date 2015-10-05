@@ -103,6 +103,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [ciandcd](https://github.com/itech001/ciandcd) – Continuous Integration and Continuous Delivery
   * http://www.ciandcd.com/
 * [codeface](https://github.com/chrissimpkins/codeface) – Typefaces for source code / text editors.
+* [computer-science-and-engineering](https://github.com/open-source-society/computer-science-and-engineering) – Path to a free self-taught graduation in Computer Science.
 * [content-management-systems](https://github.com/ahadb/content-management-systems) – Open source & proprietary content management systems.
 * [Continuous-Integration-services](https://github.com/ligurio/Continuous-Integration-services) – Comparison of cloud based CI services.
 * [crypto-might-not-suck](https://github.com/sweis/crypto-might-not-suck) – Crypto Projects that Might not Suck.
