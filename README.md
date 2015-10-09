@@ -552,7 +552,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-awesomeness-zh_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN) *In Chinese* – 中文版awesome list 系列文章
 * [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) – Awesome collection of awesome lists of libraries, tools, frameworks and software for any programming language
 * [awesome-collection](https://github.com/flyhigher139/awesome-collection) – A list of awesome repos.
-* [getAwesomeness()](http://getawesomeness.com) – Explorer designed for curated awesome list hosted on Github
+* [getAwesomeness()](https://github.com/panzhangwang/getAwesomeness) – Explorer designed for curated awesome list hosted on Github
+  * http://getawesomeness.com
 * [ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists) – List of github lists
 * [list-of-lists](https://github.com/cyrusstoller/list-of-lists) – A meta list of lists of useful open source projects and developer tools.
 * [must-watch-list](https://github.com/adrianmoisey/must-watch-list) – List of must-watch lists.
