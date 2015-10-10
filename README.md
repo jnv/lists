@@ -28,6 +28,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-motion-planning](https://github.com/AGV-IIT-KGP/awesome-motion-planning) – Papers, books and tools for motion planning.
 * [awesome-scifi](https://github.com/sindresorhus/awesome-scifi) – Sci-Fi worth consuming.
 * [awesome-webcomics](https://github.com/dhamaniasad/awesome-webcomics)
+* [awesome-cookbooks](https://github.com/oguzhantasci/Awesome-Cookbooks)
 * [baby-sleep](https://github.com/babyguides/baby-sleep) – Baby sleep guides curated from the best of the Internet.
 * [Biology](https://github.com/svaksha/biology) – Bibliography of Biology resources.
 * [cocktails](https://github.com/balevine/cocktails) – Cocktail Recipes
