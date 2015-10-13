@@ -330,6 +330,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-AutoIt](https://github.com/J2TeaM/awesome-AutoIt) - UDFs, example scripts, tools and useful resources for AutoIt.
  - https://j2team.github.io/awesome-AutoIt/
 * [awesome-avr](https://github.com/fffaraz/awesome-avr)
+* [awesome-aws](https://github.com/donnemartin/awesome-aws) – Amazon Web Services (AWS)
 * [awesome-backbone](https://github.com/instanceofpro/awesome-backbone) – Resources for [Backbone.js](http://backbonejs.org/)
 * [awesome-bem](https://github.com/floatdrop/awesome-bem) – Tools, sites, articles about BEM (frontend development method).
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) – Big data frameworks, resources and other awesomeness.
