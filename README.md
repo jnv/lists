@@ -557,6 +557,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome](https://github.com/sindresorhus/awesome) – A curated list of awesome lists.
 * [awesome-all](https://github.com/bradoyler/awesome-all) – A curated list of awesome lists of awesome frameworks, libraries and software
 * [awesome-android-awesomeness](https://github.com/yongjhih/awesome-android-awesomeness#awesomeness)
+* [awesome-awesome](https://github.com/aligoren/awesome-awesome) by @aligoren – List of GitHub Lists
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome) by @emijrp – A curated list of awesome curated lists of many topics.
 * [awesome-awesome](https://github.com/erichs/awesome-awesome) by @erichs – A curated list of awesome curated lists! Inspired by inspiration.
 * [awesome-awesome](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen – A curated list of curated lists of libraries, resources and shiny things for various languages.
