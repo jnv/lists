@@ -458,6 +458,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-open-science](https://github.com/silky/awesome-open-science)
 * [awesome-opensource-documents](https://github.com/nacyot/awesome-opensource-documents) – Open source licensed documents, guides, books.
 * [awesome-osx](https://github.com/iCHAIT/awesome-osx) – OS X applications, tools and communities.
+* [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) – Shell commands and tools specific to OS X.
 * [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) – Tools to process network traces.
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest) – Penetration testing resources and tools.
 * [awesome-perfocards](https://github.com/Wolg/awesome-perfocards) *See [perfokaart](http://et.wikipedia.org/wiki/Perfokaart).*
