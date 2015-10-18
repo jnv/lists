@@ -246,6 +246,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   * http://queues.io/
 * [rails-must-watch](https://github.com/gerricchaplin/rails-must-watch) – Must-watch videos about Ruby on Rails.
 * [remote-in-japan](https://github.com/uiureo/remote-in-japan) – Tech companies in Japan that hire remote workers.
+* [remote-jobs](https://github.com/jessicard/remote-jobs) – Semi to fully remote-friendly companies in tech.
+* [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil) – Remote-friendly Brazilian companies.
 * [resource-list](https://github.com/kyasui/resource-list) – Design & Development Resources.
 * [resources](https://github.com/hr-14-15/resources) – JavaScript resources for and by Hack Reactor 14 & 15.
 * [resources](https://github.com/jbranchaud/resources) – Free, online resources for various technologies, languages, and tools.
