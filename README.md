@@ -529,6 +529,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) – Implementations of the [Mapbox Vector Tile](https://www.mapbox.com/developers/vector-tiles/) specification.
 * [awesome-vim](https://github.com/akrawchyk/awesome-vim) by @akrawchyk
 * [awesome-vim](https://github.com/matteocrippa/awesome-vim) by @matteocrippa
+* [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
 * [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) –
 * [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) – tools and programming libraries related to web scraping and data processing
 * [awesome-webservice](https://github.com/wapmorgan/awesome-webservice) – Web and cloud services, SaaS.
