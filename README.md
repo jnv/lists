@@ -364,6 +364,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-courses](https://github.com/prakhar1989/awesome-courses) – University Computer Science courses across the web.
 * [awesome-cpp](https://github.com/fffaraz/awesome-cpp) – C/C++ frameworks, libraries, resources.
 * [awesome-crystal](https://github.com/veelenga/awesome-crystal) – Crystal Language
+* [Awesome-Cross-Platform-Apps](https://github.com/Juude/Awesome-Cross-Platform-Apps) – Solutions for building cross-platform apps.
 * [awesome-css](https://github.com/deepakbhattarai/awesome-css) by @deepakbhattarai
 * [awesome-css](https://github.com/ikkou/awesome-css) by @ikkou
 * [awesome-cyclejs](https://github.com/vic/awesome-cyclejs) – Cycle.js framework
