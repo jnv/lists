@@ -452,6 +452,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-meteor](https://github.com/gillesfabio/awesome-meteor)
 * [awesome-mesos](https://github.com/dharmeshkakadia/awesome-mesos) by @dharmeshkakadia
 * [awesome-mesos](https://github.com/parolkar/awesome-mesos) by @parolkar
+* [awesome-mobile-dev](https://github.com/MakinGiants/awesome-mobile-dev) – A “study guide” for mobile development.
 * [Awesome-Networking](https://github.com/clowwindy/Awesome-Networking)
 * [awesome-newsletters](https://github.com/vredniy/awesome-newsletters)
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) by @sindresorhus
