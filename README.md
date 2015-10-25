@@ -253,6 +253,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [resources](https://github.com/jbranchaud/resources) – Free, online resources for various technologies, languages, and tools.
 * [Resources](https://github.com/tevko/Resources) – Tools for front end devs.
 * [Resources-for-Writing-Shaders-in-Unity](https://github.com/VoxelBoy/Resources-for-Writing-Shaders-in-Unity)
+* [Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) – Rich Hickey's works on the internet.
 * [rss-readers-list](https://github.com/smithbr/rss-readers-list) – Reader replacements megalist
   * http://smithbr.github.io/rss-readers-list
 * [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) – Ruby and Ruby on Rails bookmarks collection.
