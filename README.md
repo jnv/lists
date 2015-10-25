@@ -98,6 +98,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – Bookmarklets that are useful on the web
   * http://sacha.me/bookmarklets/
 * [bookshelf](https://github.com/OpenTechSchool/bookshelf) – Reading lists for learners.
+* [breakfast-repo](https://github.com/ashleygwilliams/breakfast-repo) – Videos, recordings, and podcasts to accompany our morning coffee.
 * [browser-javascript-resource](https://github.com/azu/browser-javascript-resource) – Latest JavaScript information by browser.
 * [channels](https://github.com/forwebdev/channels) *In Russian* – YouTube channels for web developers.
 * [ciandcd](https://github.com/itech001/ciandcd) – Continuous Integration and Continuous Delivery
