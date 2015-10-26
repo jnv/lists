@@ -119,6 +119,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [daemon](https://github.com/CarameloMartins/daemon) – Resources for a more literate programming.
 * [datajournalists-toolbox](https://github.com/basilesimon/datajournalists-toolbox) – Tools for datajournalists, with examples and gists.
 * [data-science-blogs](https://github.com/rushter/data-science-blogs)
+* [data-science-must-watch](https://github.com/kmonsoor/data-must-watch)
 * [datasciencemasters](https://github.com/datasciencemasters/go) – The Curriculum for learning Data Science, Open Source and at your fingertips.
   * http://datasciencemasters.org/
 * [debugging-stories](https://github.com/danluu/debugging-stories) – Collection of links to various debugging stories.
