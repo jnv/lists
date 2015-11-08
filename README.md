@@ -71,6 +71,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [android-jobs](https://github.com/android-cn/android-jobs) *In Chinese* – Android positions in China.
 * [android-open-project](https://github.com/Trinea/android-open-project) *In Chinese* – Collect and classify android open source projects.
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome) – “A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.”
+* [android-study_resource-fav](https://github.com/zhujun2730/android-study_resource-fav) *In Chinese* – Learning resources for Android.
 * [android-tech-frontier](https://github.com/bboyfeiyu/android-tech-frontier) *In Chinese* – Translation of articles about Android development.
 * [angular-education](https://github.com/timjacobi/angular-education) – Useful resources to learn and improve your AngularJS skills.
 * [angular2-education](https://github.com/timjacobi/angular2-education) – Helpful material to get started with the second version of AngularJS.
