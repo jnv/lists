@@ -422,6 +422,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   * http://awesome-go.com/
 * [awesome-go-books](https://github.com/airballoon/awesome-go-books) – Online and free golang books.
 * [awesome-grails](https://github.com/hitenpratap/awesome-grails)
+* [awesome-graphql](https://github.com/chentsulin/awesome-graphql) – GraphQL & Relay Resources.
 * [awesome-groovy](https://github.com/kdabir/awesome-groovy)
 * [awesome-gulp](https://github.com/alferov/awesome-gulp) – [Gulp](http://gulpjs.com/) build system resources and plugins.
 * [awesome-gyazo](https://github.com/gyazo/awesome-gyazo) – Tools for [Gyazo](https://gyazo.com/) screen capture application.
