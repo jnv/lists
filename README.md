@@ -484,6 +484,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-php](https://github.com/ziadoz/awesome-php)
 * [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) – Pipeline toolkits.
 * [awesome-play1](https://github.com/PerfectCarl/awesome-play1) – Play Framework 1.x modules, tools, and resources.
+* [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
 * [awesome-ProductManager](https://github.com/hugo53/awesome-ProductManager) – Books and tools for Product Managers.
 * [awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) Boilerplates and sample projects for many languages to get started.
 * [awesome-promises](https://github.com/wbinnssmith/awesome-promises) – JavaScript Promises.
