@@ -162,6 +162,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [frontend-stuff](https://github.com/moklick/frontend-stuff) – Framework/libraries/tools to use when building things on the web. Mostly Javascript stuff.
 * [frontend-tools](https://github.com/codylindley/frontend-tools) – Tools for frontend (i.e. html, js, css) desktop/laptop (i.e. does not include tablet or phone yet) web development
 * [games](https://github.com/leereilly/games) – Popular/awesome videos games, add-on, maps, etc. hosted on GitHub.
+* [generative-txt](https://github.com/inconvergent/generative-txt) – Entities related to generative / parametric / computer aided design / art / architecture.
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) – Cool features of Git and GitHub.
 * [github-hall-of-fame](https://github.com/mehulkar/github-hall-of-fame) – Hall of Fame for spectacular things on Github.
   * http://mehulkar.com/github-hall-of-fame/
