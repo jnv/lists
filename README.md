@@ -63,6 +63,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [101](https://github.com/ojas/101) – Resources on running a software biz.
 * [above-the-fold-css-tools](https://github.com/addyosmani/above-the-fold-css-tools) – Tools to help prioritize above-the-fold CSS.
 * [admesh-projects](https://github.com/admesh/admesh-projects) – Projects using [ADMesh](https://github.com/admesh/admesh) (a triangulated solid meshes processor).
+* [AI-reading-list](https://github.com/m0nologuer/AI-reading-list) – Papers about Artificial Intelligence.
 * [algovis](https://github.com/enjalot/algovis) – Algorithm Visualization.
 * [alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 * [android-awesome-libraries](https://github.com/kaiinui/android-awesome-libraries) – Useful Android development libraries with usage examples.
