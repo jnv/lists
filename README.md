@@ -471,6 +471,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-mobile-dev](https://github.com/MakinGiants/awesome-mobile-dev) – A “study guide” for mobile development.
 * [Awesome-Networking](https://github.com/clowwindy/Awesome-Networking)
 * [awesome-newsletters](https://github.com/vredniy/awesome-newsletters)
+* [awesome-nlp](https://github.com/keonkim/awesome-nlp) – Natural Language Processing.
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) by @sindresorhus
 * [awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs) by @vndmtrx
 * [awesome-ntnu](https://github.com/michaelmcmillan/awesome-ntnu) – Projects by NTNU students.
