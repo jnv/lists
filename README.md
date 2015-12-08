@@ -294,6 +294,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [sublime](https://github.com/JaredCubilla/sublime) – Some of the best Sublime Text packages, themes, and goodies.
 * [sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks) – Sublime Text essential plugins and resources.
 * [SwiftInFlux](https://github.com/ksm/SwiftInFlux) – An attempt to gather all that is in flux in Swift.
+* [swift-packages](https://github.com/donald-pinckney/swift-packages) – A manually Curated List of Swift packages for the Swift Package Manager.
 * [tech-weekly](https://github.com/adrianmoisey/tech-weekly) – Weekly technical newsletters.
 * [Toolbox](https://github.com/Dillion/Toolbox) – Open source iOS stuff.
 * [tool_lists](https://github.com/johnyf/tool_lists) – Links to tools by theme. *Verification, synthesis, and static analysis.*
