@@ -357,6 +357,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-c](https://github.com/kozross/awesome-c) – C frameworks, libraries, resources etc.
 * [awesome-cakephp](https://github.com/FriendsOfCake/awesome-cakephp) – Plugins and resources for CakePHP 2 and 3.
 * [awesome-cassandra](https://github.com/yikebocai/awesome-cassandra)
+* [awesome_challenge_list](https://github.com/AwesomeRubyist/awesome_challenge_list) – Sites with challenges to improve your programming skills.
 * [awesome-chef](https://github.com/obazoud/awesome-chef) – Cookbooks, handlers, add-ons and other resources for Chef, a configuration management tool.
 * [awesome-ci](https://github.com/pditommaso/awesome-ci) – Continuous integation services.
 * [awesome-cl](https://github.com/kozross/awesome-cl) – Common Lisp
@@ -521,6 +522,9 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ruby](https://github.com/markets/awesome-ruby) by @markets
   * http://awesome-ruby.com/
 * [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby) by @Sdogruyol
+* [AwesomeRubyist/awesome_podcast_list](https://github.com/AwesomeRubyist/awesome_podcast_list) – Podcasts about Ruby and development, also in Russian.
+* [AwesomeRubyist/awesome_reading_list](https://github.com/AwesomeRubyist/awesome_reading_list) – Books about Ruby and Rails.
+* [AwesomeRubyist/awesome_resource_list](https://github.com/AwesomeRubyist/awesome_resource_list) – Resources for Ruby and Rails.
 * [awesome-rust](https://github.com/kud1ing/awesome-rust)
 * [awesome-sarl](https://github.com/sarl/awesome-sarl) – Resources for [SARL](http://www.sarl.io/) Agent-Oriented Programming Language.
 * [awesome-sass](https://github.com/HugoGiraudel/awesome-sass) – Sass/SCSS extensions, articles, and examples.
