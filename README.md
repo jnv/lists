@@ -168,6 +168,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) – Cool features of Git and GitHub.
 * [github-hall-of-fame](https://github.com/mehulkar/github-hall-of-fame) – Hall of Fame for spectacular things on Github.
   * http://mehulkar.com/github-hall-of-fame/
+* [go-is-not-good](https://github.com/ksimka/go-is-not-good) – Articles that complain about Golang's imperfection.
 * [go-must-watch](https://github.com/sauravtom/go-must-watch) – Must-watch videos about Golang.
 * [GoBooks](https://github.com/dariubs/GoBooks) – Golang books.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) – Game development and realtime graphics programming.
