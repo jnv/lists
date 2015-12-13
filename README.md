@@ -109,6 +109,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [breakfast-repo](https://github.com/ashleygwilliams/breakfast-repo) – Videos, recordings, and podcasts to accompany our morning coffee.
 * [browser-javascript-resource](https://github.com/azu/browser-javascript-resource) – Latest JavaScript information by browser.
 * [channels](https://github.com/forwebdev/channels) *In Russian* – YouTube channels for web developers.
+* [classics](https://github.com/eyy/classics) – Classical studies (Latin and Ancient Greek) resources: software, code and raw data.
 * [codeface](https://github.com/chrissimpkins/codeface) – Typefaces for source code / text editors.
 * [computer-science-and-engineering](https://github.com/open-source-society/computer-science) – Path to a free self-taught graduation in Computer Science.
 * [content-management-systems](https://github.com/ahadb/content-management-systems) – Open source & proprietary content management systems.
