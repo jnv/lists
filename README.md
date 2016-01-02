@@ -85,12 +85,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [APTnotes](https://github.com/kbandla/APTnotes) – Various public documents, whitepapers and articles about APT [Advanced persistent threat] campaigns.
 * [asynchronous-php](https://github.com/elazar/asynchronous-php) – Asynchronous programming in PHP.
 * [Automated-SPA-Testing](https://github.com/webpro/Automated-SPA-Testing) – Automated unit & functional testing for web applications [JavaScript et al.].
-* [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) – Continuous Integration and Continuous Delivery
-  * http://www.ciandcd.com/
-* [awesome-edtech-tools](https://github.com/hkalant/awesome-edtech-tools) – Tools and resources for educators and virtual teachers.
-* [awesome-lint](https://github.com/caramelomartins/awesome-lint) – Resources for a more literate programming.
-* [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) *In Chinese* – Resources and libraries for [Material Design](http://www.google.com/design/spec/material-design/introduction.html).
-* [awesome-share](https://github.com/vinkla/awesome-share) – URLs for sharing on social media.
 * [awesomelinks](https://github.com/richardbenjamin/awesomelinks) –  Web Development Links by @richardbenjamin.
 * [Backpack](https://github.com/sevab/Backpack) – Various learning resources, organized by technology/topic.
 * [badass-dev-resources](https://github.com/sodevious/badass-dev-resources) – #bada55 front-end developer resources.
@@ -361,6 +355,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome_challenge_list](https://github.com/AwesomeRubyist/awesome_challenge_list) – Sites with challenges to improve your programming skills.
 * [awesome-chef](https://github.com/obazoud/awesome-chef) – Cookbooks, handlers, add-ons and other resources for Chef, a configuration management tool.
 * [awesome-ci](https://github.com/pditommaso/awesome-ci) – Continuous integation services.
+* [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) – Continuous Integration and Continuous Delivery
+  * http://www.ciandcd.com/
 * [awesome-cl](https://github.com/kozross/awesome-cl) – Common Lisp
 * [awesome-clojure](https://github.com/razum2um/awesome-clojure)
 * [awesome-cloud](https://github.com/JStumpp/awesome-cloud) – Delightful cloud services.
@@ -409,6 +405,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-drupal](https://github.com/quyenbui/awesome-drupal) by @quyenbui
 * [awesome-drupal](https://github.com/emincansumer/awesome-drupal) by @emincansumer
 * [awesome-educate](https://github.com/mercer/awesome-educate) – Education resources online.
+* [awesome-edtech-tools](https://github.com/hkalant/awesome-edtech-tools) – Tools and resources for educators and virtual teachers.
 * [awesome-elm](https://github.com/isRuslan/awesome-elm) – Learning resources and programs for Elm, a functional reactive language.
 * [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) from @emacs-tw
 * [awesome-emacs](https://github.com/sefakilic/awesome-emacs) by @sefakilic
@@ -462,6 +459,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-laravel](https://github.com/TimothyDJones/awesome-laravel) by @TimothyDJones
 * [awesome-linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics) – Tools, theory and platforms for linguistics.
 * [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux) – Linux software.
+* [awesome-lint](https://github.com/caramelomartins/awesome-lint) – Resources for a more literate programming.
 * [awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) – Professional audio/video/live events production on Linux.
 * [awesome-logging](https://github.com/roundrobin/awesome-logging)
 * [awesome-lua](https://github.com/forhappy/awesome-lua) by @forhappy
@@ -469,6 +467,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-luvit](https://github.com/luvit/awesome-luvit) – [Luvit](https://luvit.io/) frameworks, libraries and software.
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
+* [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) *In Chinese* – Resources and libraries for [Material Design](http://www.google.com/design/spec/material-design/introduction.html).
 * [awesome-meteor](https://github.com/Urigo/awesome-meteor)
 * [awesome-mesos](https://github.com/dharmeshkakadia/awesome-mesos) by @dharmeshkakadia
 * [awesome-mesos](https://github.com/parolkar/awesome-mesos) by @parolkar
@@ -533,6 +532,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-selenium](https://github.com/christian-bromann/awesome-selenium)
 * [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) – Network services and web applications which can be hosted locally.
 * [awesome-services](https://github.com/indrasantosa/awesome-services) – Services that make a painful programmer's life easier.
+* [awesome-share](https://github.com/vinkla/awesome-share) – URLs for sharing on social media.
 * [awesome-sharepoint](https://github.com/sergey-tihon/awesome-sharepoint) by @sergey-tihon
 * [awesome-SharePoint](https://github.com/siaf/awesome-SharePoint) by @siaf
 * [awesome-shell](https://github.com/alebcay/awesome-shell) – Command-line frameworks, toolkits, guides and gizmos.
@@ -548,7 +548,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-svg](https://github.com/willianjusten/awesome-svg)
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift) by @matteocrippa
 * [awesome-swift](https://github.com/Wolg/awesome-swift) by @Wolg
-* [awesome-symfony](https://github.com/sitepoint/awesome-symfony) – A list of awesome Symfony bundles, utilities and resources.
+* [awesome-symfony](https://github.com/sitepoint/awesome-symfony) – [Symfony PHP framework](http://symfony.com/) bundles, utilities and resources.
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) – Open source sysadmin resources.
   * [Maintained fork by @n1trux](https://github.com/n1trux/awesome-sysadmin)
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
