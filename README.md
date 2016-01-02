@@ -43,6 +43,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [lawrence-veggie](https://github.com/codysoyland/lawrence-veggie) – Vegetarian/vegan restaurants in Lawrence, KS.
 * [lawyersongithub](https://github.com/dpp/lawyersongithub) – A club full of lawyers who also have GitHub accounts.
 * [mining-resources](https://github.com/Mining-Resources/mining-resources) – Natural resources mining.
+* [no-free-basics](https://github.com/net-neutrality/no-free-basics) – Those who have spoken up against Facebook's “Free Basics”
+  - https://net-neutrality.github.io/no-free-basics/
 * [PublicMedia](https://github.com/melodykramer/PublicMedia) – Everything about public (broadcast) media.
   * Also [an introduction to working with GitHub](http://melodykramer.github.io/2015/04/06/learning-github-without-one-line-of-code/) for non-programmers.
 * [recipes](https://github.com/bzimmerman/recipes) by @bzimmerman – This repository contains tasty open-source recipes.
