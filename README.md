@@ -119,6 +119,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [curated-list-espresso-sugar-plugins](https://github.com/GioSensation/curated-list-espresso-sugar-plugins) – Sugar plugins for Espresso, the code editor by MacRabbit.
 * [Curated-List-of-Awesomeness](https://github.com/JayBizzle/Curated-List-of-Awesomeness) – Web resources.
 * [curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources) – Resources for learning programming and computer science.
+* [cycle-ecosystem](https://github.com/Widdershin/cycle-ecosystem) – What are the most popular and trending libraries for [Cycle.js](http://cycle.js.org/)?
 * [dad-jokes](https://github.com/wesbos/dad-jokes) – Dad style programming jokes.
 * [datajournalists-toolbox](https://github.com/basilesimon/datajournalists-toolbox) – Tools for datajournalists, with examples and gists.
 * [data-science-blogs](https://github.com/rushter/data-science-blogs)
@@ -275,6 +276,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [ruby-trivia](https://github.com/gregstallings/ruby-trivia) – Questions about Ruby programming you can use to quiz yourself.
 * [rust-lang-resources](https://github.com/dschenkelman/rust-lang-resources) – Links related to the Rust programming language.
 * [rx-react-flux](https://github.com/christianramsey/rx-react-flux) – RxJS + React/Flux implementations.
+* [rxjs-ecosystem](https://github.com/Widdershin/rxjs-ecosystem) – What are the most popular libraries in the RxJS ecosystem? 
 * [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list) – Collected dispatches from The Quest for Scalable CSS.
 * [secure-email](https://github.com/OpenTechFund/secure-email) – Overview of projects working on next-generation secure email.
 * [search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) – Checklist / collection of Search Engine Optimization (SEO) tips and technics.
