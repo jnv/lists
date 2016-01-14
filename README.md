@@ -484,6 +484,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-nlp](https://github.com/keonkim/awesome-nlp) – Natural Language Processing.
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) by @sindresorhus
 * [awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs) by @vndmtrx
+* [awesome-npm](https://github.com/sindresorhus/awesome-npm)
 * [awesome-ntnu](https://github.com/michaelmcmillan/awesome-ntnu) – Projects by NTNU students.
 * [awesome-objc-frameworks](https://github.com/XCGit/awesome-objc-frameworks)
 * [awesome-ocaml](https://github.com/rizo/awesome-ocaml)
