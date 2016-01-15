@@ -338,6 +338,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-angularjs](https://github.com/gianarb/awesome-angularjs) by @gianarb
 * [awesome-animation](https://github.com/Animatious/awesome-animation) – Open-source UI animations by Animatious Group.
 * [awesome-answers](https://github.com/jugoncalves/awesome-answers) – Inspiring and thoughtful answers given at stackoverflow, quora, etc.
+* [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas) – Ideas for apps to demonstrate how framework or library approach specific problems.
 * [awesome-apple](https://github.com/joeljfischer/awesome-apple) – 3rd party libraries and tools for Apple platforms development.
 * [awesome-apple](https://github.com/joeljfischer/awesome-apple)
 * [awesome-appsec](https://github.com/paragonie/awesome-appsec) – Resources for developers to learn application security.
