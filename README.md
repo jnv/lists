@@ -139,6 +139,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [django-must-watch](https://github.com/rosarior/django-must-watch) – Must-watch videos bout Django web framework + Python.
 * [DL4NLP](https://github.com/andrewt3000/DL4NLP) – Deep Learning for Natural Language Processing resources.
 * [ember-links/list](https://github.com/ember-links/list) – Ember.js Links
+* [engine.so](https://github.com/pmwkaa/engine.so) – Tracking, Benchmarking and Sharing Information about an open source embedded data storage engines, internals, architectures, data storage and transaction processing.
 * [erlang-bookmarks](https://github.com/0xAX/erlang-bookmarks) – All about erlang programming language.
 * [erlang-watchlist](https://github.com/gabrielelana/erlang-watchlist) – Where to find good code to master Erlang idioms
 * [ES6-Learning](https://github.com/ericdouglas/ES6-Learning) – Resources to learn ECMAScript 6!
