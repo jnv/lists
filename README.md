@@ -177,7 +177,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [guides](https://github.com/taniarascia/guides) – Web Development Guides, Tutorials and Snippets.
 * [hackathon_resources](https://github.com/myearwood/hackathon_resources) by @myearwood – Learning Resources for Hackathon Organizers.
 * [Hackathon-Resources](https://github.com/xasos/Hackathon-Resources) by @xasos – Hackathon Resources for organizers.
-* [haskell-must-watch](https://github.com/drKraken/haskell-must-watch)
+* [haskell-must-watch](https://github.com/olehkuchuk/haskell-must-watch)
 * [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers)
 * [hipchat-alternatives](https://github.com/cjbarber/hipchat-alternatives)
 * [idaplugins-list](https://github.com/onethawt/idaplugins-list) – Plugins for [IDA disassembler](https://www.hex-rays.com/products/ida/).
@@ -340,7 +340,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-angular](https://github.com/hugoleodev/awesome-angular) by @hugoleodev
 * [awesome-angularjs](https://github.com/gianarb/awesome-angularjs) by @gianarb
 * [awesome-animation](https://github.com/Animatious/awesome-animation) – Open-source UI animations by Animatious Group.
-* [awesome-answers](https://github.com/jugoncalves/awesome-answers) – Inspiring and thoughtful answers given at stackoverflow, quora, etc.
+* [awesome-answers](https://github.com/cyberglot/awesome-answers) – Inspiring and thoughtful answers given at stackoverflow, quora, etc.
 * [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas) – Ideas for apps to demonstrate how framework or library approach specific problems.
 * [awesome-apple](https://github.com/joeljfischer/awesome-apple) – 3rd party libraries and tools for Apple platforms development.
 * [awesome-apple](https://github.com/joeljfischer/awesome-apple)
