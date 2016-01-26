@@ -544,6 +544,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-sarl](https://github.com/sarl/awesome-sarl) – Resources for [SARL](http://www.sarl.io/) Agent-Oriented Programming Language.
 * [awesome-sass](https://github.com/HugoGiraudel/awesome-sass) – Sass/SCSS extensions, articles, and examples.
 * [awesome-scala](https://github.com/lauris/awesome-scala)
+* [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) – Security talks.
 * [awesome-security](https://github.com/sbilly/awesome-security) – Software, libraries, documents, books, resources and cool stuff about security.
 * [awesome-selenium](https://github.com/christian-bromann/awesome-selenium)
 * [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) – Network services and web applications which can be hosted locally.
