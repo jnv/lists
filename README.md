@@ -456,6 +456,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-influxdb](https://github.com/mark-rushakoff/awesome-influxdb) – Resources for the time series database InfluxDB
 * [awesome-interviews](https://github.com/MaximAbramchuck/awesome-interviews) – Interview questions.
 * [awesome-ios](https://github.com/vsouza/awesome-ios)
+* [awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn) *In Chinese* –  iOS 资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) – UI/UX libraries for iOS.
 * [awesome-IoT](https://github.com/dharmeshkakadia/awesome-IoT) – Internet of Things platforms, libraries and apps.
 * [awesome-IoT-hybrid](https://github.com/weblancaster/awesome-IoT-hybrid) – Hybrid Applications (web + native)
