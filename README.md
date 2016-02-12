@@ -242,6 +242,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [ops-books](https://github.com/stack72/ops-books) – Book recommendations related to Continuous Delivery, DevOps, Operations and Systems Thinking.
 * [papers](https://github.com/NicolasT/papers) – A collection of papers found across the web.
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) – Papers from the computer science community to read and discuss. (Contains actual papers)
+* [ParseAlternatives](https://github.com/relatedcode/ParseAlternatives) – Alternative backend service providers ala [Parse](http://parse.com/).
 * [pattern_classification](https://github.com/rasbt/pattern_classification) – A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks.
 * [phpvietnam/bookmarks](https://github.com/phpvietnam/bookmarks) – PHP resources for Vietnamese.
 * [php-must-watch](https://github.com/phptodayorg/php-must-watch) – Must-watch videos about PHP.
