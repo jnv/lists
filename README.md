@@ -303,6 +303,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [SwiftInFlux](https://github.com/ksm/SwiftInFlux) – An attempt to gather all that is in flux in Swift.
 * [swift-packages](https://github.com/donald-pinckney/swift-packages) – A manually Curated List of Swift packages for the Swift Package Manager.
 * [tech-weekly](https://github.com/adrianmoisey/tech-weekly) – Weekly technical newsletters.
+* [til](https://github.com/jbranchaud/til) – Today I Learned.
 * [Toolbox](https://github.com/Dillion/Toolbox) – Open source iOS stuff.
 * [tool_lists](https://github.com/johnyf/tool_lists) – Links to tools by theme. *Verification, synthesis, and static analysis.*
 * [tools](https://github.com/lvwzhen/tools) – Tools for web.
