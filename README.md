@@ -358,6 +358,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) – AutoHotkey libraries, library distributions, scripts, tools and resources.
 * [awesome-AutoIt](https://github.com/J2TeaM/awesome-AutoIt) - UDFs, example scripts, tools and useful resources for AutoIt.
  - https://j2team.github.io/awesome-AutoIt/
+* [awesome-ava](https://github.com/sindresorhus/awesome-ava) – [AVA](https://ava.li/) JavaScript test runner.
 * [awesome-avr](https://github.com/fffaraz/awesome-avr)
 * [awesome-aws](https://github.com/donnemartin/awesome-aws) – Amazon Web Services (AWS)
 * [awesome-backbone](https://github.com/sadcitizen/awesome-backbone) – Resources for [Backbone.js](http://backbonejs.org/)
