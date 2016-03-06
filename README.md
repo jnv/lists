@@ -24,6 +24,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) – Fantasy literature worth reading.
 * [awesome-gif](https://github.com/Kikobeats/awesome-gif) – GIF /dʒ/ links and resources.
 * [awesome-glasgow](https://github.com/allyjweir/awesome-glasgow) – Some highlights around Glasgow, Scotland.
+* [awesome-hacking-spots](https://github.com/diasdavid/awesome-hacking-spots) – Hacking places, organised by Country and City, listing if it features power and wifi.
 * [awesome-health](https://github.com/prabhic/awesome-health) – Useful health resources.
 * [awesome-images](https://github.com/heyalexej/awesome-images) – Free (stock) photo resources for your projects.
 * [awesome-kimchi](https://github.com/jeyraof/awesome-kimchi) – Kimchi of the people, by the people, for the people.
