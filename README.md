@@ -375,6 +375,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-cakephp](https://github.com/FriendsOfCake/awesome-cakephp) – Plugins and resources for CakePHP 2 and 3.
 * [awesome-cassandra](https://github.com/yikebocai/awesome-cassandra)
 * [awesome_challenge_list](https://github.com/AwesomeRubyist/awesome_challenge_list) – Sites with challenges to improve your programming skills.
+* [awesome-charting](https://github.com/zingchart/awesome-charting) – Charts and dataviz.
 * [awesome-chef](https://github.com/obazoud/awesome-chef) – Cookbooks, handlers, add-ons and other resources for Chef, a configuration management tool.
 * [awesome-ci](https://github.com/pditommaso/awesome-ci) – Continuous integation services.
 * [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) – Continuous Integration and Continuous Delivery
