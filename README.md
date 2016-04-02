@@ -417,6 +417,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) – Data visualizations frameworks, libraries and software.
 * [awesome-db](https://github.com/numetriclabz/awesome-db) – Database libraries and resources.
 * [awesome-ddd](https://github.com/wkjagt/awesome-ddd) – Domain Driven Design resources.
+* [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) – Computer vision / deep learning.
 * [awesome-delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
 * [awesome-deployment](https://github.com/delirehberi/awesome-deployment)
 * [awesome-derby](https://github.com/russll/awesome-derby) – Components for DerbyJS.
