@@ -173,6 +173,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [games](https://github.com/leereilly/games) – Popular/awesome videos games, add-on, maps, etc. hosted on GitHub.
 * [generative-txt](https://github.com/inconvergent/generative-txt) – Entities related to generative / parametric / computer aided design / art / architecture.
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) – Cool features of Git and GitHub.
+* [github-drama](https://github.com/nikolas/github-drama)
 * [github-hall-of-fame](https://github.com/halls-of-fame/github) – Hall of Fame for spectacular things on Github.
   * http://www.mehulkar.com/github-hall-of-fame/
 * [go-is-not-good](https://github.com/ksimka/go-is-not-good) – Articles that complain about Golang's imperfection.
