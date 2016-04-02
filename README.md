@@ -554,6 +554,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-regex](https://github.com/aloisdg/awesome-regex) – Regex tools and resources
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) – Remote companies and other resources.
 * [awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork) – Books and links about and for remote work.
+* [awesome-rnn](https://github.com/kjw0612/awesome-rnn) – Recurrent Neural Networks.
 * [awesome-robotics](https://github.com/Kiloreux/awesome-robotics)
 * [awesome-ruby](https://github.com/markets/awesome-ruby) by @markets
   * http://awesome-ruby.com/
