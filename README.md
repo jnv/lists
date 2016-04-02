@@ -346,6 +346,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-android-awesomeness](https://github.com/yongjhih/awesome-android-awesomeness)
 * [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries) – General Android libraries.
 * [awesome-android-performance](https://github.com/Juude/awesome-android-performance) – Performance optimization on Android.
+* [awesome-android-tips](https://github.com/jiang111/awesome-android-tips) *In Chinese*
+* [awesome-androidstudio-plugins](https://github.com/jiang111/awesome-androidstudio-plugins) *In Chinese*
 * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) – UI/UX libraries for Android.
 * [awesome-angular](https://github.com/hugoleodev/awesome-angular) by @hugoleodev
 * [awesome-angularjs](https://github.com/gianarb/awesome-angularjs) by @gianarb
