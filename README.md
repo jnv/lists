@@ -381,6 +381,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome_challenge_list](https://github.com/AwesomeRubyist/awesome_challenge_list) – Sites with challenges to improve your programming skills.
 * [awesome-charting](https://github.com/zingchart/awesome-charting) – Charts and dataviz.
 * [awesome-chef](https://github.com/obazoud/awesome-chef) – Cookbooks, handlers, add-ons and other resources for Chef, a configuration management tool.
+* [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) – Chrome DevTools ecosystem tooling and resources.
 * [awesome-ci](https://github.com/pditommaso/awesome-ci) – Continuous integation services.
 * [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) – Continuous Integration and Continuous Delivery
   * http://www.ciandcd.com/
