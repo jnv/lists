@@ -255,6 +255,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [programmers-proverbs](https://github.com/AntJanus/programmers-proverbs) – Proverbs from the programmer
 * [programming-talks](https://github.com/hellerve/programming-talks) – Awesome & Interesting Talks concerning Programming
 * [Projects](https://github.com/karan/Projects) – Practical projects that anyone can solve in any programming language.
+* [public-apis](https://github.com/toddmotto/public-apis) – JSON APIs for use in web development.
 * [pycrumbs](https://github.com/kirang89/pycrumbs) – Bits and Bytes of Python from the Internet.
 * [py-must-watch](https://github.com/s16h/py-must-watch) by @s16h – Must-watch videos about Python.
 * [python-github-projects](https://github.com/checkcheckzz/python-github-projects) – Collect and classify python projects on Github.
