@@ -589,6 +589,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) – Open source sysadmin resources.
   * [Maintained fork by @n1trux](https://github.com/n1trux/awesome-sysadmin)
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
+* [awesome-tech-conferences](https://github.com/tstringer/awesome-tech-conferences) – Upcoming technical conferences.
 * [awesome-torch](https://github.com/carpedm20/awesome-torch) – Tutorials, projects and communities for [Torch](http://torch.ch/), a scientific computing framework for LuaJIT.
 * [AwesomeTwitterAccounts](https://github.com/yask123/AwesomeTwitterAccounts) – Twitter accounts, organised by programming communities.
 * [awesome-umbraco](https://github.com/leekelleher/awesome-umbraco) – Resources for Umbraco 7, a .NET CMS.
