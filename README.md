@@ -279,6 +279,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) – Rich Hickey's works on the internet.
 * [rss-readers-list](https://github.com/smithbr/rss-readers-list) – Reader replacements megalist
   * http://smithbr.github.io/rss-readers-list
+* [rstudio-addins](https://github.com/daattali/rstudio-addins) – [RStudio](RStudio addins) user addins.
 * [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) – Ruby and Ruby on Rails bookmarks collection.
 * [rubybib.org](https://github.com/rubybib/rubybib.org) – The Ruby Bibliography
   * http://rubybib.org/
