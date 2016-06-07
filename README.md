@@ -224,6 +224,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [lifeofjs](https://github.com/abhijeetkpawar/lifeofjs) – Curated source for all types of awesome resources available for JavaScript.
 * [Linux_websites](https://github.com/hduffddybz/Linux_websites) *In Chinese* – Websites related to Linux kernel development.
 * [ListOfMinimalistFrameworks](https://github.com/neiesc/ListOfMinimalistFrameworks) – Minimalist frameworks (simple and lightweight).
+* [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - Machine Learning and Deep Learning Tutorials
 * [magictools](https://github.com/ellisonleao/magictools) – Game Development resources to make magic happen.
 * [manong](https://github.com/nemoTyrant/manong) *In Chinese* – Weekly digest of technology
 * [markdown-resources](https://github.com/rhythmus/markdown-resources) – Markdown resources: apps, dialects, parsers, people, …
