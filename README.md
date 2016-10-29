@@ -594,6 +594,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) – Extra libraries for SQLAlchemy, a Python ORM.
 * [awesome-standard](https://github.com/feross/awesome-standard) – Documenting the explosion of packages in the [standard](http://standardjs.com/) (JavaScript code style) ecosystem.
 * [awesome-stars](https://github.com/lichunqiang/awesome-stars) *In Chinese* – Useful libraries with personal remarks.
+* [awesome-static-analysis](https://github.com/mre/awesome-static-analysis/) – Static analysis tools, linters and code quality checkers.
 * [awesome-static-generators](https://github.com/myles/awesome-static-generators) – Static web site generators.
 * [awesome-styleguides](https://github.com/RichardLitt/awesome-styleguides)
 * [awesome-svg](https://github.com/willianjusten/awesome-svg)
