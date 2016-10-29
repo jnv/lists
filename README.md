@@ -41,6 +41,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   * http://svaksha.github.io/diversity-index
 * [endangered-languages](https://github.com/RichardLitt/endangered-languages) – Conservation, development, and documentation of endangered, minority, and low or under-resourced human languages.
 * [food-recipes](https://github.com/obfuscurity/food-recipes) – Honest-to-goodness "real food" recipes
+* [frequent-transit-maps](https://github.com/wwcline/list-of-frequent-transit-maps) - Transit maps highlighting frequent all-day service
 * [isaacs/reading-list](https://github.com/isaacs/reading-list) – [isaac](https://github.com/isaacs)'s reading list.
 * [lawrence-veggie](https://github.com/codysoyland/lawrence-veggie) – Vegetarian/vegan restaurants in Lawrence, KS.
 * [lawyersongithub](https://github.com/dpp/lawyersongithub) – A club full of lawyers who also have GitHub accounts.
