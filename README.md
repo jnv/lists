@@ -112,6 +112,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [browser-javascript-resource](https://github.com/azu/browser-javascript-resource) – Latest JavaScript information by browser.
 * [channels](https://github.com/forwebdev/channels) *In Russian* – YouTube channels for web developers.
 * [classics](https://github.com/eyy/classics) – Classical studies (Latin and Ancient Greek) resources: software, code and raw data.
+* [cloud-conferences](https://github.com/stefan-kolb/cloud-conferences) - A collection of scientific and industry conferences focused on cloud computing.
+  * http://stefan-kolb.github.io/cloud-conferences/
 * [codeface](https://github.com/chrissimpkins/codeface) – Typefaces for source code / text editors.
 * [compilers-targeting-c](https://github.com/dbohdan/compilers-targeting-c) – Compilers that can generate C code.
 * [computer-science-and-engineering](https://github.com/open-source-society/computer-science) – Path to a free self-taught graduation in Computer Science.
