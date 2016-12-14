@@ -320,8 +320,10 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [twofactorauth](https://github.com/2factorauth/twofactorauth) – Sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
   * https://twofactorauth.org/
 * [type-findings](https://github.com/charlespeters/type-findings) – Posts about web typography.
-* [upcoming-conferences](https://github.com/svenanders/upcoming-conferences) – Upcoming web developer conferences.
+* [ultimate-iot-platform-comparison](https://github.com/ultimate-comparisons/ultimate-IoT-platform-comparison/tree/master/comparison-elements) – A list and comparison of all available IoT platforms.
+  * https://ultimate-comparisons.github.io/ultimate-IoT-platform-comparison/
 * [universities-on-github](https://github.com/filler/universities-on-github) – Universities which have a public organization on GitHub.
+* [upcoming-conferences](https://github.com/svenanders/upcoming-conferences) – Upcoming web developer conferences.
 * [web-audio-resources](https://github.com/alemangui/web-audio-resources) - A list of curated resources related to the Web audio API.
 * [WebComponents-Polymer-Resources](https://github.com/matthiasn/WebComponents-Polymer-Resources)
 * [webcomponents-the-right-way](https://github.com/mateusortiz/webcomponents-the-right-way) – Introduction to Web Components.
