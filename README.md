@@ -409,6 +409,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
 * [awesome-container](https://github.com/tcnksm/awesome-container) – Container technologies and services.
 * [awesome-cordova](https://github.com/busterc/awesome-cordova) *Apache Cordova / PhoneGap*
+* [awesome-couchdb](https://github.com/quangv/awesome-couchdb) - CouchDB resource list.
 * [awesome-courses](https://github.com/prakhar1989/awesome-courses) – University Computer Science courses across the web.
 * [awesome-cpp](https://github.com/fffaraz/awesome-cpp) – C/C++ frameworks, libraries, resources.
 * [awesome-crystal](https://github.com/veelenga/awesome-crystal) – Crystal Language
