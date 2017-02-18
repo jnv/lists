@@ -507,6 +507,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux) – Linux software.
 * [awesome-lint](https://github.com/caramelomartins/awesome-lint) – Resources for a more literate programming.
 * [awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) – Professional audio/video/live events production on Linux.
+* [awesome-livecoding](https://github.com/lvm/awesome-livecoding) – All things Livecoding.
 * [awesome-logging](https://github.com/roundrobin/awesome-logging)
 * [awesome-lua](https://github.com/forhappy/awesome-lua) by @forhappy
 * [awesome-lua](https://github.com/LewisJEllis/awesome-lua) by @LewisJEllis
