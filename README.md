@@ -32,6 +32,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-scifi](https://github.com/sindresorhus/awesome-scifi) – Sci-Fi worth consuming.
 * [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) – Stock photography, video and illustration websites.
 * [awesome-webcomics](https://github.com/dhamaniasad/awesome-webcomics)
+* [awesome-cookbooks](https://github.com/oguzhantasci/Awesome-Cookbooks)
 * [baby-sleep](https://github.com/babyguides/baby-sleep) – Baby sleep guides curated from the best of the Internet.
 * [cocktails](https://github.com/balevine/cocktails) – Cocktail Recipes
 * [corporate-logos](https://github.com/marketreef/corporate-logos) – Curated repo of publicly listed co. logos, identified by ticker. *Almost 1500 logos*
