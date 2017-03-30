@@ -481,6 +481,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-hierarchical-matrices](https://github.com/gchavez2/awesome-hierarchical-matrices) – Hierarchical matrices frameworks, libraries, and software.
 * [awesome-honeypots](https://github.com/paralax/awesome-honeypots) – Honeypot resources
 * [awesome-html5](https://github.com/diegocard/awesome-html5)
+* [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - Resources useful for incident responders.
 * [awesome-influxdb](https://github.com/mark-rushakoff/awesome-influxdb) – Resources for the time series database InfluxDB
 * [awesome-interviews](https://github.com/MaximAbramchuck/awesome-interviews) – Interview questions.
 * [awesome-ios](https://github.com/vsouza/awesome-ios)
