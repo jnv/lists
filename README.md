@@ -658,6 +658,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [must-watch-list](https://github.com/adrianmoisey/must-watch-list) – List of must-watch lists.
 * [this one](https://github.com/jnv/lists)
 * [wiki](https://github.com/huguangju/wiki) *In Chinese* – A curated list of awesome lists.
+* [awesome-awesome](https://github.com/aligoren/awesome-awesome) - List of GitHub Lists
 
 ### Lists of lists of lists
 
