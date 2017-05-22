@@ -625,6 +625,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) –
 * [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) – tools and programming libraries related to web scraping and data processing
 * [awesome-webservice](https://github.com/wapmorgan/awesome-webservice) – Web and cloud services, SaaS.
+* [awesome-webvis](https://github.com/rajsite/awesome-webvis) - Example [WebVIs](http://www.webvi.io/) made using [LabVIEW](http://www.ni.com/en-us/support/software-technology-preview.html).
 * [awesome-weekly](https://github.com/jondot/awesome-weekly) – Quality weekly subscription newsletters from the software world.
 * [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) – Wikipedia-related frameworks, libraries, software, datasets and references.
 * [awesome-wordpress](https://github.com/dropndot/awesome-wordpress) from @dropndot
