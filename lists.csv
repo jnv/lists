@@ -54,7 +54,7 @@ AndroidDevTools,https://github.com/inferjay/AndroidDevTools,inferjay,682,5238,18
 android-dev-readme,https://github.com/anirudh24seven/android-dev-readme,anirudh24seven,39,459,57,0,2017-07-04T00:47:46Z,2015-05-01T10:12:33Z
 android-jobs,https://github.com/android-cn/android-jobs,android-cn,546,1872,656,5,2017-07-09T10:47:54Z,2017-06-22T02:51:59Z
 Android-Learning-Resources,https://github.com/zhujun2730/Android-Learning-Resources,zhujun2730,70,715,262,1,2017-07-12T06:18:01Z,2017-07-05T08:19:10Z
-android-open-project,https://github.com/Trinea/android-open-project,Trinea,3668,23516,11336,9,2017-07-12T11:31:52Z,2017-07-06T05:28:27Z
+android-open-project,https://github.com/Trinea/android-open-project,Trinea,3668,23516,11337,9,2017-07-12T11:31:52Z,2017-07-06T05:28:27Z
 android-security-awesome,https://github.com/ashishb/android-security-awesome,ashishb,216,2069,619,1,2017-07-12T07:47:58Z,2017-05-30T02:06:19Z
 android-tech-frontier,https://github.com/bboyfeiyu/android-tech-frontier,hehonghui,1124,8304,3009,31,2017-07-12T11:08:33Z,2017-03-16T05:53:05Z
 angular-education,https://github.com/timjacobi/angular-education,timjacobi,503,5214,905,4,2017-07-12T06:14:36Z,2017-07-08T00:32:42Z
@@ -75,7 +75,7 @@ beautiful-docs,https://github.com/PharkMillups/beautiful-docs,PharkMillups,166,3
 BEM-resources,https://github.com/sturobson/BEM-resources,sturobson,23,323,11,1,2017-06-23T17:16:45Z,2017-06-12T21:51:53Z
 Best-App,https://github.com/hzlzh/Best-App,hzlzh,1177,9211,1413,21,2017-07-12T11:09:56Z,2017-06-25T16:02:41Z
 best-of-awesomeness-and-usefulness-for-webdev,https://github.com/Pestov/best-of-awesomeness-and-usefulness-for-webdev,Pestov,39,319,31,2,2017-07-10T22:07:48Z,2015-02-20T14:46:31Z
-Best-websites-a-programmer-should-visit,https://github.com/sdmg15/Best-websites-a-programmer-should-visit,sdmg15,796,18034,1592,65,2017-07-12T12:12:06Z,2017-07-12T10:40:22Z
+Best-websites-a-programmer-should-visit,https://github.com/sdmg15/Best-websites-a-programmer-should-visit,sdmg15,796,18037,1592,65,2017-07-12T12:29:06Z,2017-07-12T10:40:22Z
 bigdata-ecosystem,https://github.com/zenkay/bigdata-ecosystem,zenkay,93,380,114,1,2017-07-07T16:54:36Z,2016-11-02T12:26:39Z
 big-list-of-naughty-strings,https://github.com/minimaxir/big-list-of-naughty-strings,minimaxir,547,21265,835,41,2017-07-12T06:26:35Z,2017-05-26T17:09:45Z
 bioinformatics-compbio-tools,https://github.com/lancelafontaine/bioinformatics-compbio-tools,lancelafontaine,1,29,5,0,2017-06-26T10:34:57Z,2015-04-29T23:36:03Z
@@ -128,8 +128,8 @@ Facets,https://github.com/O-I/Facets,O-I,1,10,0,0,2017-05-16T22:33:12Z,2015-10-1
 fks,https://github.com/JacksonTian/fks,JacksonTian,1428,10463,3789,6,2017-07-12T09:57:43Z,2017-07-06T16:13:03Z
 flat-file-cms,https://github.com/ahadb/flat-file-cms,ahadb,45,421,69,12,2017-07-11T05:43:35Z,2017-05-19T10:19:39Z
 free-for-dev,https://github.com/ripienaar/free-for-dev,ripienaar,913,16016,1652,17,2017-07-12T11:54:40Z,2017-07-05T21:42:51Z
-free-programming-books,https://github.com/vhf/free-programming-books,EbookFoundation,6548,88701,22282,42,2017-07-12T12:05:25Z,2017-07-09T20:42:15Z
-free-programming-books-zh_CN,https://github.com/justjavac/free-programming-books-zh_CN,justjavac,2791,18966,7770,86,2017-07-12T12:00:11Z,2017-07-11T07:52:11Z
+free-programming-books,https://github.com/vhf/free-programming-books,EbookFoundation,6548,88703,22282,42,2017-07-12T12:29:54Z,2017-07-09T20:42:15Z
+free-programming-books-zh_CN,https://github.com/justjavac/free-programming-books-zh_CN,justjavac,2791,18968,7771,86,2017-07-12T12:16:45Z,2017-07-11T07:52:11Z
 free-software-testing-books,https://github.com/ligurio/free-software-testing-books,ligurio,139,721,200,0,2017-07-11T11:52:48Z,2017-07-08T19:33:20Z
 frontdesk,https://github.com/miripiruni/frontdesk,miripiruni,145,1572,236,1,2017-06-28T19:34:52Z,2017-01-15T21:38:29Z
 Front-end-Developer-Interview-Questions,https://github.com/h5bp/Front-end-Developer-Interview-Questions,h5bp,2123,28607,5803,49,2017-07-12T09:58:06Z,2017-07-07T14:58:41Z
@@ -296,12 +296,12 @@ awesome-android,https://github.com/JStumpp/awesome-android,JStumpp,386,4140,883,
 awesome-android,https://github.com/snowdream/awesome-android,snowdream,490,5551,1487,7,2017-07-12T08:11:17Z,2017-07-03T12:27:25Z
 awesome-android-awesomeness,https://github.com/yongjhih/awesome-android-awesomeness,yongjhih,3,49,9,0,2017-07-05T03:06:33Z,2016-11-20T15:21:08Z
 awesome-android-libraries,https://github.com/wasabeef/awesome-android-libraries,wasabeef,344,3652,901,39,2017-07-12T11:38:46Z,2017-05-02T19:26:53Z
-awesome-android-performance,https://github.com/Juude/awesome-android-performance,Juude,160,2142,303,2,2017-07-12T10:05:10Z,2017-05-21T04:58:16Z
+awesome-android-performance,https://github.com/Juude/awesome-android-performance,Juude,160,2142,304,2,2017-07-12T10:05:10Z,2017-05-21T04:58:16Z
 awesome-android-tips,https://github.com/jiang111/awesome-android-tips,jiang111,161,1885,429,0,2017-07-12T10:58:44Z,2017-07-11T12:44:43Z
 awesome-androidstudio-plugins,https://github.com/jiang111/awesome-androidstudio-plugins,jiang111,28,463,92,0,2017-07-09T03:32:24Z,2017-03-19T06:37:17Z
 awesome-android-ui,https://github.com/wasabeef/awesome-android-ui,wasabeef,2504,24252,6696,123,2017-07-12T11:49:23Z,2017-07-11T02:34:36Z
 awesome-angular,https://github.com/hugoleodev/awesome-angular,hugoleodev,1,17,0,0,2017-06-25T04:33:37Z,2014-07-16T17:48:27Z
-awesome-angularjs,https://github.com/gianarb/awesome-angularjs,gianarb,200,2162,406,3,2017-07-11T12:29:16Z,2017-04-26T08:39:52Z
+awesome-angularjs,https://github.com/gianarb/awesome-angularjs,gianarb,200,2163,406,3,2017-07-12T12:23:47Z,2017-04-26T08:39:52Z
 awesome-animation,https://github.com/Animatious/awesome-animation,Animatious,99,1560,191,1,2017-07-11T06:29:49Z,2016-03-13T03:18:15Z
 awesome-answers,https://github.com/cyberglot/awesome-answers,cyberglot,50,476,69,0,2017-07-05T16:33:18Z,2017-05-18T08:21:42Z
 awesome-app-ideas,https://github.com/tastejs/awesome-app-ideas,tastejs,128,2219,200,11,2017-07-12T05:34:07Z,2017-06-07T19:38:33Z
@@ -353,6 +353,7 @@ awesome-couchdb,https://github.com/quangv/awesome-couchdb,quangv,5,29,3,0,2017-0
 awesome-courses,https://github.com/prakhar1989/awesome-courses,prakhar1989,1779,19989,3734,14,2017-07-12T11:35:19Z,2017-06-19T16:18:12Z
 awesome-cpp,https://github.com/fffaraz/awesome-cpp,fffaraz,1016,8793,1779,97,2017-07-12T11:13:50Z,2017-07-03T14:58:44Z
 awesome-crystal,https://github.com/veelenga/awesome-crystal,veelenga,79,1100,114,1,2017-07-11T16:40:25Z,2017-07-12T06:23:34Z
+awesome-cryptocurrencies,https://github.com/kasketis/awesome-cryptocurrencies,kasketis,4,44,3,0,2017-07-12T05:33:33Z,2017-07-09T11:33:38Z
 awesome-cryptography,https://github.com/sobolevn/awesome-cryptography,sobolevn,54,466,86,7,2017-07-11T18:35:05Z,2017-07-12T06:52:43Z
 Awesome-Cross-Platform-Apps,https://github.com/Juude/Awesome-Cross-Platform-Apps,Juude,15,121,24,0,2017-07-11T04:47:02Z,2017-02-21T04:24:18Z
 awesome-css,https://github.com/bring2dip/awesome-css,bring2dip,2,7,0,0,2016-12-11T04:23:29Z,2016-12-11T04:23:27Z
@@ -393,7 +394,7 @@ awesome-emacs,https://github.com/sefakilic/awesome-emacs,sefakilic,2,10,0,0,2017
 awesome-emacs,https://github.com/tacticiankerala/awesome-emacs,tacticiankerala,2,13,0,0,2016-11-10T10:10:47Z,2014-07-28T21:09:21Z
 awesome-ember,https://github.com/nmec/awesome-ember,nmec,21,229,28,8,2017-07-11T16:27:26Z,2017-07-11T19:05:27Z
 awesome-electron,https://github.com/sindresorhus/awesome-electron,sindresorhus,653,11601,1017,11,2017-07-12T12:11:32Z,2017-07-11T03:17:26Z
-awesome-elixir,https://github.com/h4cc/awesome-elixir,h4cc,325,6682,646,2674,2017-07-12T11:31:28Z,2017-07-11T18:30:18Z
+awesome-elixir,https://github.com/h4cc/awesome-elixir,h4cc,325,6682,646,2675,2017-07-12T11:31:28Z,2017-07-12T12:32:44Z
 awesome-endless-codeforall-list,https://github.com/RobTranquillo/awesome-endless-codeforall-list,RobTranquillo,3,5,0,0,2016-01-12T15:50:55Z,2014-07-21T10:44:23Z
 awesome-erlang,https://github.com/drobakowski/awesome-erlang,drobakowski,85,695,95,11,2017-07-10T08:52:19Z,2017-07-09T22:09:44Z
 not-awesome-es6-classes,https://github.com/joshburgess/not-awesome-es6-classes,joshburgess,45,1005,36,2,2017-07-11T21:54:56Z,2017-07-08T04:32:40Z
@@ -428,7 +429,7 @@ awesome-ios-cn,https://github.com/jobbole/awesome-ios-cn,jobbole,232,2425,732,1,
 awesome-ios-ui,https://github.com/cjwirth/awesome-ios-ui,cjwirth,660,9556,1183,17,2017-07-12T03:20:09Z,2017-06-30T02:41:28Z
 awesome-IoT,https://github.com/dharmeshkakadia/awesome-IoT,dharmeshkakadia,7,16,3,0,2017-06-27T14:53:12Z,2016-06-15T18:34:48Z
 awesome-IoT-hybrid,https://github.com/weblancaster/awesome-IoT-hybrid,weblancaster,30,258,41,1,2017-07-04T23:27:25Z,2016-02-04T16:34:04Z
-awesome-java,https://github.com/akullpp/awesome-java,akullpp,1522,13222,3088,16,2017-07-12T12:07:06Z,2017-07-11T07:14:49Z
+awesome-java,https://github.com/akullpp/awesome-java,akullpp,1522,13222,3089,16,2017-07-12T12:07:06Z,2017-07-11T07:14:49Z
 awesome-javascript,https://github.com/sorrycc/awesome-javascript,sorrycc,746,9780,1422,125,2017-07-12T08:38:14Z,2017-07-03T11:22:04Z
 awesome-javascript-books,https://github.com/heatroom/awesome-javascript-books,heatroom,13,80,6,0,2017-06-27T16:11:05Z,2015-03-25T00:16:17Z
 awesome-jquery,https://github.com/peterkokot/awesome-jquery,petk,40,402,80,0,2017-07-08T20:14:55Z,2017-06-15T09:56:13Z
@@ -461,7 +462,7 @@ awesome-android-learner,https://github.com/MakinGiants/awesome-mobile-dev,MakinG
 Awesome-Networking,https://github.com/clowwindy/Awesome-Networking,clowwindy,144,1957,313,2,2017-07-12T10:22:52Z,2017-02-22T04:31:56Z
 awesome-newsletters,https://github.com/vredniy/awesome-newsletters,vredniy,34,492,66,6,2017-07-12T01:29:26Z,2017-07-04T06:19:35Z
 awesome-nlp,https://github.com/keonkim/awesome-nlp,keon,202,2017,398,8,2017-07-12T08:41:33Z,2017-06-21T03:07:54Z
-awesome-nodejs,https://github.com/sindresorhus/awesome-nodejs,sindresorhus,1081,17888,2213,14,2017-07-12T12:11:09Z,2017-07-09T12:26:58Z
+awesome-nodejs,https://github.com/sindresorhus/awesome-nodejs,sindresorhus,1082,17888,2213,14,2017-07-12T12:11:09Z,2017-07-09T12:26:58Z
 awesome-npm,https://github.com/sindresorhus/awesome-npm,sindresorhus,106,2461,146,3,2017-07-12T03:44:35Z,2017-06-20T18:19:02Z
 awesome-ntnu,https://github.com/michaelmcmillan/awesome-ntnu,michaelmcmillan,4,19,4,1,2017-06-21T00:48:00Z,2017-06-06T17:21:46Z
 awesome-objc-frameworks,https://github.com/XCGit/awesome-objc-frameworks,follyxing,26,310,111,0,2017-07-05T01:14:31Z,2016-09-28T07:26:10Z
@@ -572,7 +573,7 @@ awesome-xcode-scripts,https://github.com/aashishtamsya/awesome-xcode-scripts,aas
 awesome-yamada,https://github.com/supermomonga/awesome-yamada,supermomonga,1,5,3,0,2016-02-24T23:53:48Z,2014-07-15T15:35:22Z
 awesome-yii,https://github.com/iJackUA/awesome-yii,iJackUA,1,1,0,0,2017-06-23T06:27:44Z,2016-11-18T11:44:53Z
 awesome-zsh-plugins,https://github.com/unixorn/awesome-zsh-plugins,unixorn,104,2917,135,1,2017-07-12T07:52:43Z,2017-07-02T16:55:14Z
-awesome,https://github.com/sindresorhus/awesome,sindresorhus,4052,61699,7765,45,2017-07-12T11:40:29Z,2017-07-10T22:41:58Z
+awesome,https://github.com/sindresorhus/awesome,sindresorhus,4053,61699,7764,45,2017-07-12T11:40:29Z,2017-07-10T22:41:58Z
 awesome-all,https://github.com/bradoyler/awesome-all,bradoyler,15,89,26,0,2017-07-10T02:25:49Z,2017-01-29T14:55:46Z
 awesome-android-awesomeness,https://github.com/yongjhih/awesome-android-awesomeness#awesomeness,yongjhih,3,49,9,0,2017-07-05T03:06:33Z,2016-11-20T15:21:08Z
 awesome-awesome,https://github.com/aligoren/awesome-awesome,aligoren,1,7,1,0,2017-05-29T16:45:44Z,2015-05-27T17:32:32Z
@@ -587,7 +588,7 @@ getAwesomeness,https://github.com/panzhangwang/getAwesomeness,panzhangwang,53,10
 ListOfGithubLists,https://github.com/asciimoo/ListOfGithubLists,asciimoo,18,281,27,0,2017-06-27T15:04:52Z,2016-10-15T16:20:05Z
 list-of-lists,https://github.com/cyrusstoller/list-of-lists,cyrusstoller,2,13,1,0,2017-06-27T15:07:12Z,2014-12-30T00:39:29Z
 must-watch-list,https://github.com/adrianmoisey/must-watch-list,adrianmoisey,4,14,1,0,2017-06-25T17:28:46Z,2017-06-25T17:29:20Z
-lists,https://github.com/jnv/lists,jnv,254,4386,350,2,2017-07-12T11:35:06Z,2017-07-12T12:12:53Z
+lists,https://github.com/jnv/lists,jnv,254,4386,350,1,2017-07-12T11:35:06Z,2017-07-12T12:29:50Z
 wiki,https://github.com/huguangju/wiki,huguangju,7,47,26,10,2017-05-22T11:40:05Z,2017-03-30T02:22:40Z
 awesome-awesome-awesome,https://github.com/geekan/awesome-awesome-awesome,geekan,12,214,31,1,2017-07-09T09:45:23Z,2016-06-06T03:41:42Z
 awesome-awesome-awesome,https://github.com/t3chnoboy/awesome-awesome-awesome,t3chnoboy,78,910,81,0,2017-07-11T16:38:17Z,2017-03-13T16:54:31Z
