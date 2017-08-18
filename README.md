@@ -575,7 +575,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-rl](https://github.com/aikorea/awesome-rl) – Reinforcement Learning.
 * [awesome-rnn](https://github.com/kjw0612/awesome-rnn) – Recurrent Neural Networks.
 * [awesome-robotics](https://github.com/Kiloreux/awesome-robotics)
-* [awesome-rshiny](https://github.com/grabear/awesome-rshiny) by @grabear - A curated list of resources for the R shiny package.
+* [awesome-rshiny](https://github.com/grabear/awesome-rshiny) - A curated list of resources for the R shiny package.
   * https://grabear.github.io/awesome-rshiny/
 * [awesome-ruby](https://github.com/markets/awesome-ruby) by @markets
   * http://awesome-ruby.com/
