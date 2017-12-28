@@ -624,6 +624,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [AwesomeTwitterAccounts](https://github.com/yask123/AwesomeTwitterAccounts) – Twitter accounts, organised by programming communities.
 * [awesome-umbraco](https://github.com/leekelleher/awesome-umbraco) – Resources for Umbraco 7, a .NET CMS.
 * [awesome-unity](https://github.com/RyanNielson/awesome-unity) – Assets and resources for [Unity](http://unity3d.com/) game engine.
+* [awesome-unix](https://github.com/sirredbeard/Awesome-UNIX) 
 * [awesome-vagrant](https://github.com/iJackUA/awesome-vagrant)
 * [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) – Implementations of the [Mapbox Vector Tile](https://www.mapbox.com/developers/vector-tiles/) specification.
 * [awesome-vim](https://github.com/akrawchyk/awesome-vim) by @akrawchyk
