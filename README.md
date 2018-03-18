@@ -623,6 +623,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-tech-conferences](https://github.com/tstringer/awesome-tech-conferences) – Upcoming technical conferences.
 * [awesome-torch](https://github.com/carpedm20/awesome-torch) – Tutorials, projects and communities for [Torch](http://torch.ch/), a scientific computing framework for LuaJIT.
 * [AwesomeTwitterAccounts](https://github.com/yask123/AwesomeTwitterAccounts) – Twitter accounts, organised by programming communities.
+* [awesome-typography](https://github.com/Jolg42/awesome-typography) - Resources on OpenType & TrueType.
 * [awesome-umbraco](https://github.com/leekelleher/awesome-umbraco) – Resources for Umbraco 7, a .NET CMS.
 * [awesome-unity](https://github.com/RyanNielson/awesome-unity) – Assets and resources for [Unity](http://unity3d.com/) game engine.
 * [awesome-unix](https://github.com/sirredbeard/Awesome-UNIX) 
