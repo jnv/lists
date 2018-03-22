@@ -406,7 +406,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-community](https://github.com/peterkokot/awesome-community) – development, support and discussion channels, groups and communities.
 * [awesome-comparisons](https://github.com/dhamaniasad/awesome-comparisons) – Framework and code comparison projects, like TodoMVC and Notejam.
 * [awesome-computer-history](https://github.com/watson/awesome-computer-history) – Computer history videos, documentaries and related folklore.
-* [awesome-computer-vision](https://github.com/AGV-IIT-KGP/awesome-computer-vision)
+* [awesome-computer-vision by @jbhuang0604](https://github.com/jbhuang0604/awesome-computer-vision)
+* [awesome-computer-vision by @AGV-IIT-KGP](https://github.com/AGV-IIT-KGP/awesome-computer-vision)
 * [awesome-conference-playlists](https://github.com/chentsulin/awesome-conference-playlists) – Video playlists for conferences.
 * [awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
 * [awesome-container](https://github.com/tcnksm/awesome-container) – Container technologies and services.
