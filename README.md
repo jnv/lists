@@ -471,7 +471,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-fortran](https://github.com/rabbiabram/awesome-fortran)
 * [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js) – Functional programming stuff in JavaScript.
 * [awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) – General resources about functional programming.
-* [awesome-git](https://github.com/dictcp/awesome-git)
+* [awesome-git](https://github.com/dictcp/awesome-git) – Git tools, resources and shiny things.
 * [awesome-github](https://github.com/fffaraz/awesome-github) by @fffaraz – Git and GitHub references.
 * [awesome-github](https://github.com/Kikobeats/awesome-github) by @Kikobeats – GitHub secrets and goodies.
 * [awesome-github-repo](https://github.com/flyhigher139/awesome-github-repo) – GitHub repositories; various topics like study materials, Raspberry Pi etc.
