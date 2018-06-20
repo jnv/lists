@@ -251,6 +251,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [offline-first](https://github.com/pazguille/offline-first) – Everything you need to know to create offline-first web apps.
 * [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) – Collection of Android Apps which are open source.
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) – Open-source iOS apps.
+* [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) – macOS open source applications.
 * [ops-books](https://github.com/stack72/ops-books) – Book recommendations related to Continuous Delivery, DevOps, Operations and Systems Thinking.
 * [papers](https://github.com/NicolasT/papers) – A collection of papers found across the web.
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) – Papers from the computer science community to read and discuss. (Contains actual papers)
