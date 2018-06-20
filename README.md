@@ -194,6 +194,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [idaplugins-list](https://github.com/onethawt/idaplugins-list) – Plugins for [IDA disassembler](https://www.hex-rays.com/products/ida/).
 * [ideas](https://github.com/samsquire/ideas) – One Hundred Ideas for Computing
 * [Inspire](https://github.com/noahbuscher/Inspire) – A collection of links to assist you in web design and development.
+* [interviews](https://github.com/kdn251/interviews) – Your personal guide to Software Engineering technical interviews.
 * [InterviewThis](https://github.com/ChiperSoft/InterviewThis) – Developer questions to ask prospective employers
 * [ios-awesome-libraries](https://github.com/kaiinui/ios-awesome-libraries) – Useful iOS development libraries with usage examples.
 * [iOSDevResource](https://github.com/objcc/iOSDevResource)
