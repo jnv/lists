@@ -439,7 +439,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-deployment](https://github.com/delirehberi/awesome-deployment)
 * [awesome-derby](https://github.com/russll/awesome-derby) – Components for DerbyJS.
 * [awesome-design](https://github.com/troyericg/awesome-design) – Resources for digital designers.
-* [awesome-design](https://github.com/DovAmir/awesome-design-patterns) – Resources on software design patterns.
+* [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) – Resources on software design patterns.
 * [awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun/) - Funny developer projects.
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) – Tools, resources and workflow tips making an awesome development environment.
 * [awesome-devtools](https://github.com/moimikey/awesome-devtools) – In-browser bookmarklets, tools, and resources for front-end devs.
