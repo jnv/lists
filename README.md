@@ -525,6 +525,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-luvit](https://github.com/luvit/awesome-luvit) – [Luvit](https://luvit.io/) frameworks, libraries and software.
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
+* [awesome-masonite](https://github.com/vaibhavmule/awesome-masonite) by @vaibhavmule
+  * [https://vaibhavmule.com/awesome-masonite/](https://vaibhavmule.com/awesome-masonite/)
 * [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) *In Chinese* – Resources and libraries for [Material Design](http://www.google.com/design/spec/material-design/introduction.html).
 * [awesome-meteor](https://github.com/Urigo/awesome-meteor)
 * [awesome-mesos](https://github.com/dharmeshkakadia/awesome-mesos) by @dharmeshkakadia
