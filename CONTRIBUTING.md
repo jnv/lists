@@ -44,14 +44,14 @@ You can use the description for linking or describing a less known subject of th
 
 If the list is not in English, state its language. The list’s description can also be in the list’s language. For example:
 
-* [awesome-awesomeness-zh_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN) *In Chinese* – 中文版awesome list 系列文章`
+* [awesome-awesomeness-zh_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN) _In Chinese_ – 中文版awesome list 系列文章`
 
 If there are multiple lists with the same name by different authors, add author’s username after the link, e.g. `recipes by @csswizardy`.
 
 If there is a website for the list, add a link into the sub-item. For example `awesome-ruby` has an official presentation at [awesome-ruby.com](http://awesome-ruby.com/), so in the list there is:
 
 * [awesome-ruby](https://github.com/markets/awesome-ruby) by @markets
-  * http://awesome-ruby.com/
+  - http://awesome-ruby.com/
 
 ### Technical and Non-Technical Lists
 
