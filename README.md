@@ -543,6 +543,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs) by @vndmtrx
 * [awesome-npm](https://github.com/sindresorhus/awesome-npm)
 * [awesome-ntnu](https://github.com/michaelmcmillan/awesome-ntnu) – Projects by NTNU students.
+* [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) – A curated list of awesome things related to Nuxt.js.
 * [awesome-objc-frameworks](https://github.com/XCGit/awesome-objc-frameworks)
 * [awesome-ocaml](https://github.com/rizo/awesome-ocaml)
 * [awesome-open-science](https://github.com/silky/awesome-open-science)
