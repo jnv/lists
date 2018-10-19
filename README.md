@@ -476,6 +476,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-fantasy](https://github.com/r7kamura/awesome-fantasy) – FinalFantasy-ish metaphors in software.
 * [awesome-flask](https://github.com/humiaozuzu/awesome-flask) – Flask *Python web framework* resources and plugins.
 * [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) – CSS Flexible Box Layout Module.
+* [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) – Beginner-friendly projects to start contributing.
 * [awesome-fortran](https://github.com/rabbiabram/awesome-fortran)
 * [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js) – Functional programming stuff in JavaScript.
 * [awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) – General resources about functional programming.
