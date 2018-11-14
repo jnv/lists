@@ -347,6 +347,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [webdevresourcecuration](https://github.com/lwakefield/webdevresourcecuration)
 * [weekly](https://github.com/zenany/weekly) _In Chinese_ – Weekly summary of articles and resources.
 * [Worth-Reading-the-Android-technical-articles](https://github.com/zmywly8866/Worth-Reading-the-Android-technical-articles) _In Chinese_
+* [what-next](https://github.com/messa/what-next) _In Czech_ – Co dělat, když se chci naučit programovat ještě víc.
 
 
 ### awesome-*
