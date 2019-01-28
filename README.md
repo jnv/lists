@@ -412,6 +412,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters)
 * [awesome-coldfusion](https://github.com/seancoyne/awesome-coldfusion)
 * [awesome-community](https://github.com/peterkokot/awesome-community) – development, support and discussion channels, groups and communities.
+* [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) – Community detection papers with implementations.
 * [awesome-comparisons](https://github.com/dhamaniasad/awesome-comparisons) – Framework and code comparison projects, like TodoMVC and Notejam.
 * [awesome-computer-history](https://github.com/watson/awesome-computer-history) – Computer history videos, documentaries and related folklore.
 * [awesome-computer-vision](https://github.com/AGV-IIT-KGP/awesome-computer-vision) by @AGV-IIT-KGP
