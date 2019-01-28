@@ -541,6 +541,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-meteor](https://github.com/Urigo/awesome-meteor)
 * [awesome-mobile-dev](https://github.com/MakinGiants/awesome-mobile-dev) – A “study guide” for mobile development.
 * [awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt) – MQTT related stuff.
+* [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) - Papers on node embedding techniques.
 * [Awesome-Networking](https://github.com/clowwindy/Awesome-Networking)
 * [awesome-newsletters](https://github.com/vredniy/awesome-newsletters)
 * [awesome-nlp](https://github.com/keonkim/awesome-nlp) – Natural Language Processing.
