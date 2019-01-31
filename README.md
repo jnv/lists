@@ -149,7 +149,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [dev-resource](https://github.com/Ibrahim-Islam/dev-resource) – Resources for devs online and offline.
 * [digest.cyber.fund](https://github.com/cyberFund/digest.cyber.fund) _In Russian_ – Digest of knowledge about crypto networks (including cryptocurrencies).
 * [discount-for-student-dev](https://github.com/najela/discount-for-student-dev) – Discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who happen to be students.
-* [django-must-watch](https://github.com/rosarior/django-must-watch) – Must-watch videos bout Django web framework + Python.
+* [django-must-watch](https://gitlab.com/rosarior/django-must-watch) – Must-watch videos bout Django web framework + Python.
 * [DL4NLP](https://github.com/andrewt3000/DL4NLP) – Deep Learning for Natural Language Processing resources.
 * [easy-application](https://github.com/j-delaney/easy-application) – Software engineering companies that are easy to apply to.
 * [ember-links/list](https://github.com/ember-links/list) – Ember.js Links
