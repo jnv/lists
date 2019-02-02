@@ -84,7 +84,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [android-open-project](https://github.com/Trinea/android-open-project) _In Chinese_ – Collect and classify android open source projects.
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome) – “A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.”
 * [android-tech-frontier](https://github.com/bboyfeiyu/android-tech-frontier) _In Chinese_ – Translation of articles about Android development.
-* [freeCodeCamp](https://www.freecodecamp.org/) – Completely Open Source, Fully Free Full Stack Training with hours of coding challenges, projects and also as an added bonus, **certifications.**
 * [angular2-education](https://github.com/timjacobi/angular2-education) – Helpful material to get started with the second version of AngularJS.
 * [angular-education](https://github.com/timjacobi/angular-education) – Useful resources to learn and improve your AngularJS skills.
 * [AngularJS2-Learning](https://github.com/jmcunningham/AngularJS2-Learning)
@@ -163,6 +162,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Facets](https://github.com/O-I/Facets) – One-liners in Ruby
 * [fks](https://github.com/JacksonTian/fks) _In Chinese_ – Frontend Knowledge Structure.
 * [flat-file-cms](https://github.com/ahadb/flat-file-cms) – Stictly flat-file cms systems.
+* [freeCodeCamp](https://www.freecodecamp.org/) – Completely Open Source, Fully Free Full Stack Training with hours of coding challenges, projects and also as an added bonus, **certifications.**
 * [free-for-dev](https://github.com/ripienaar/free-for-dev) – Software, SaaS, PaaS etc offerings that have free tiers for devs.
 * [free-programming-books](https://github.com/vhf/free-programming-books)
   - http://resrc.io/list/10/list-of-free-programming-books/
