@@ -487,6 +487,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) – Beginner-friendly projects to start contributing.
 * [awesome-fortran](https://github.com/rabbiabram/awesome-fortran)
 * [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js) – Functional programming stuff in JavaScript.
+* [awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) – Fraud detection research papers.
 * [awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) – General resources about functional programming.
 * [awesome-git](https://github.com/dictcp/awesome-git) – Git tools, resources and shiny things.
 * [awesome-github](https://github.com/fffaraz/awesome-github) by @fffaraz – Git and GitHub references.
