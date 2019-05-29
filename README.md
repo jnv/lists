@@ -495,6 +495,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-go](https://github.com/avelino/awesome-go) by @avelino
   - http://awesome-go.com/
 * [awesome-go-books](https://github.com/heatroom/awesome-go-books) – Online and free golang books.
+* [awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) – Gradient boosting research papers with implementations.
 * [awesome-grails](https://github.com/hitenpratap/awesome-grails)
 * [awesome-graph-embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) – Graph embedding papers with implementations.
 * [awesome-graphql](https://github.com/chentsulin/awesome-graphql) – GraphQL & Relay Resources.
