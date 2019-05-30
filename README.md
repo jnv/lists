@@ -446,6 +446,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) – Data visualizations frameworks, libraries and software.
 * [awesome-db](https://github.com/numetriclabz/awesome-db) – Database libraries and resources.
 * [awesome-ddd](https://github.com/wkjagt/awesome-ddd) – Domain Driven Design resources.
+* [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) – Decision Tree Research Papers
 * [awesome-deep-learning-resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) – Rough list of resources about deep learning.
 * [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) – Computer vision / deep learning.
 * [awesome-deku](https://github.com/lambtron/awesome-deku) – Resources for the Deku library.
