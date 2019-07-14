@@ -11,7 +11,7 @@ import os, sys
 # Get personal access token from GitHub settings
 access_token = os.environ['GH_TOKEN']
 
-fields = ["name", "url", "author", "num_watch", "num_stars", "num_forks", "num_open_issues", "last_updated", "last_push"]
+fields = ["name", "url", "author", "description", "homepage", "num_watch", "num_stars", "num_forks", "num_open_issues", "last_updated", "last_push"]
 
 list_csv_writer = csv.writer(sys.stdout)
 list_csv_writer.writerow(fields)
@@ -34,6 +34,8 @@ for line in sys.stdin:
 			name = data['name']
 			url = repo_url
 			author = data['owner']['login']
+			description = data['description']
+			homepage = data['homepage']
 			num_watch = data['subscribers_count']
 			num_stars = data['stargazers_count']
 			num_forks = data['forks_count']
@@ -41,7 +43,7 @@ for line in sys.stdin:
 			last_updated = data['updated_at']
 			last_push = data['pushed_at']
 
-			list_csv_writer.writerow([name, url, author, num_watch, num_stars, num_forks, num_open_issues, last_updated, last_push])
+			list_csv_writer.writerow([name, url, author, description, homepage, num_watch, num_stars, num_forks, num_open_issues, last_updated, last_push])
 
 		except Exception as e:
 			# will catch 404s from bad entries
