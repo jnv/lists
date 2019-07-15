@@ -626,8 +626,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) – Network services and web applications which can be hosted locally.
 * [awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) – Semantic web and linked data
 * [awesome-services](https://github.com/indrasantosa/awesome-services) – Services that make a painful programmer's life easier.
-* [awesome-sharepoint](https://github.com/BSUG/awesome-sharepoint)
 * [awesome-SharePoint](https://github.com/siaf/awesome-SharePoint) by @siaf
+* [awesome-sharepoint](https://github.com/BSUG/awesome-sharepoint)
 * [awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music) – Tools to create, edit and display sheet music.
 * [awesome-shell](https://github.com/alebcay/awesome-shell) – Command-line frameworks, toolkits, guides and gizmos.
 * [awesome-sketch](https://github.com/diessica/awesome-sketch) – Guides, articles, videos about [Sketch 3](http://www.sketchapp.com/).
@@ -683,6 +683,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-yamada](https://github.com/supermomonga/awesome-yamada) _Dancing Yamada_
 * [awesome-yii](https://github.com/iJackUA/awesome-yii) – Yii Framework extensions, tutorials and other nice things.
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
+* [not-awesome-es6-classes](https://github.com/petsel/not-awesome-es6-classes) – Why ES6 (aka ES2015) classes are NOT awesome
 
 
 ## Lists of lists
