@@ -655,8 +655,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-eslint](https://github.com/dustinspecker/awesome-eslint) – [ESLint](https://eslint.org/) JavaScript linter
 * [awesome-esolangs](https://github.com/angrykoala/awesome-esolangs) – Esoteric languages
 * [awesome-eta](https://github.com/sfischer13/awesome-eta) – :star: Useful resources for the Eta programming language
-* [Awesome-Ethereum](https://github.com/Tom2718/Awesome-Ethereum)
 * [awesome-ethereum](https://github.com/btomashvili/awesome-ethereum) by @btomashvili – [Ethereum](https://ethereum.org/) decentralized software platform & Dapps.
+* [Awesome-Ethereum](https://github.com/Tom2718/Awesome-Ethereum) by @Tom2718
 * [awesome-ethereum](https://github.com/vinsgo/awesome-ethereum) by @vinsgo
   - http://awesome-ethereum.com/
 * [awesome-ethereum-virtual-machine](https://github.com/pirapira/awesome-ethereum-virtual-machine)
@@ -749,8 +749,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ios](https://github.com/vsouza/awesome-ios)
 * [awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn) _In Chinese_ – iOS 资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) – UI/UX libraries for iOS.
-* [awesome-IoT](https://github.com/dharmeshkakadia/awesome-IoT) – Internet of Things
-* [awesome-iot](https://github.com/HQarroum/awesome-iot) – Internet of Things
+* [awesome-IoT](https://github.com/dharmeshkakadia/awesome-IoT) by @dharmeshkakadia – Internet of Things
+* [awesome-iot](https://github.com/HQarroum/awesome-iot) by @HQarroum – Internet of Things
 * [awesome-IoT-hybrid](https://github.com/weblancaster/awesome-IoT-hybrid) – Internet of Things and Hybrid Applications
 * [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) – [IPFS](https://ipfs.io/) distributed web
   - https://awesome.ipfs.io/
@@ -1020,7 +1020,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-service-workers](https://github.com/TalAter/awesome-service-workers) – Service Workers for Progressive Web Applications
 * [awesome-servicefabric](https://github.com/lawrencegripper/awesome-servicefabric) – Azure [Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/) distributed services platform
 * [awesome-services](https://github.com/indrasantosa/awesome-services) – Services that make a painful programmer's life easier.
-* [awesome-sharepoint](https://github.com/BSUG/awesome-sharepoint)
+* [awesome-sharepoint](https://github.com/BSUG/awesome-sharepoint) by @BSUG
 * [awesome-SharePoint](https://github.com/siaf/awesome-SharePoint) by @siaf
 * [awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music) – Sheet music software, libraries and resources.
 * [awesome-shell](https://github.com/alebcay/awesome-shell) – Command-line frameworks, toolkits, guides and gizmos.
