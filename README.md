@@ -1118,6 +1118,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-vue](https://github.com/vuejs/awesome-vue) – Resources for [Vue.js](http://vuejs.org/) JavaScript UI library.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) – [3D graphics and compute API](https://www.khronos.org/vulkan/)
 * [awesome-wagtail](https://github.com/springload/awesome-wagtail) – [Wagtail](https://wagtail.io/) Python CMS
+* [awesome-wasm](https://github.com/mbasso/awesome-wasm) – WebAssembly
 * [awesome-watchos](https://github.com/yenchenlin/awesome-watchos) – Apple watchOS
 * [awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) – Getting started with web archiving
 * [awesome-web-design](https://github.com/nicolesaidy/awesome-web-design) – Resources for digital designers.
