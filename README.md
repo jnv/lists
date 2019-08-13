@@ -359,6 +359,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [services-engineering](https://github.com/mmcgrana/services-engineering) – A reading list for services engineering, with a focus on cloud infrastructure services.
 * [shareable-links](https://github.com/vinkla/shareable-links) – URLs for sharing on social media.
 * [shellshocker-pocs](https://github.com/mubix/shellshocker-pocs) – Proof of concepts and potential targets for Shellshock.
+* [snort-users](https://lists.snort.org/mailman/listinfo/snort-users) - Users of Snort, unite.
 * [spawnedshelter](https://github.com/unbalancedparentheses/spawnedshelter) – Erlang Spawned Shelter – the best articles, videos and presentations related to Erlang.
 * [speech-language-processing](https://github.com/edobashira/speech-language-processing)
 * [startup-must-watch](https://github.com/gerricchaplin/startup-must-watch) – Must-watch videos devoted to Entrepreneurship and Startups.
