@@ -376,6 +376,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) – Terminal frameworks, plugins & resources for CLI lovers.
   - https://terminalsare.sexy/
 * [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) – Inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+* [think-awesome](https://github.com/thinkjs/think-awesome) – [ThinkJS](https://thinkjs.org/) Node.js framework
 * [til](https://github.com/jbranchaud/til) – Today I Learned.
 * [tips](https://github.com/git-tips/tips) – Most commonly used git tips and tricks.
   - http://git.io/git-tips
