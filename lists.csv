@@ -45,7 +45,7 @@ no-free-basics,https://github.com/net-neutrality/no-free-basics,net-neutrality,"
 PublicMedia,https://github.com/melodykramer/PublicMedia,melodykramer,"Everything Public Media, in One Place",,17,31,33,6,2018-12-04T14:38:01Z,2015-07-28T12:47:45Z
 recipes,https://github.com/bzimmerman/recipes,bzimmerman,,,2,7,14,1,2019-06-10T11:31:17Z,2015-08-17T13:59:23Z
 recipes,https://github.com/csswizardry/recipes,csswizardry,Collection of things I like cooking,,2,37,5,1,2019-08-13T15:10:50Z,2014-07-19T15:17:13Z
-recipes,https://github.com/LarryMad/recipes,LarryMad,,,8,65,22780,2247,2019-07-23T20:28:38Z,2019-08-21T06:04:59Z
+recipes,https://github.com/LarryMad/recipes,LarryMad,,,8,65,22779,2247,2019-07-23T20:28:38Z,2019-08-21T06:04:59Z
 recipes,https://github.com/nofunsir/recipes,nofunsir,My Recipes. Enjoy!,,0,0,0,0,2017-02-20T03:34:21Z,2017-02-20T06:27:17Z
 recipes,https://github.com/schacon/recipes,schacon,,,3,14,32,0,2019-06-10T11:31:29Z,2011-08-18T18:50:48Z
 recipes,https://github.com/silizuo/recipes,silizuo,recipes of silizuo,,2,1,0,0,2016-01-20T13:07:24Z,2016-01-20T13:12:04Z
@@ -68,7 +68,7 @@ android-awesome-libraries,https://github.com/kaiinui/android-awesome-libraries,k
 android-dev-readme,https://github.com/anirudh24seven/android-dev-readme,anirudh24seven,Collection of links for every Android developer,,35,450,58,0,2019-08-14T13:31:03Z,2015-05-01T10:12:33Z
 AndroidDevTools,https://github.com/inferjay/AndroidDevTools,inferjay,收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。,https://www.androiddevtools.cn,686,6491,2016,6,2019-08-21T09:35:18Z,2019-08-14T10:13:12Z
 android-jobs,https://github.com/android-cn/android-jobs,android-cn,2018 年最新内推！我们相信来到这里的，无论工程师还是招聘者都是靠谱的！微信公众号:codekk，,https://j.codekk.com,567,2270,707,22,2019-08-21T07:24:49Z,2019-05-29T12:34:35Z
-Android-Learning-Resources,https://github.com/zhujun2730/Android-Learning-Resources,zhujun2730,Android学习资源网站索引大全,,92,1200,333,2,2019-08-21T00:36:27Z,2019-07-25T08:29:57Z
+Android-Learning-Resources,https://github.com/zhujun2730/Android-Learning-Resources,zhujun2730,Android学习资源网站索引大全,,92,1201,333,2,2019-08-21T13:28:57Z,2019-07-25T08:29:57Z
 android-open-project,https://github.com/Trinea/android-open-project,Trinea,"A categorized collection of Android Open Source Projects,  More powerful web version:",https://p.codekk.com/,3782,29012,12104,18,2019-08-21T10:15:53Z,2019-05-24T06:38:13Z
 android-security-awesome,https://github.com/ashishb/android-security-awesome,ashishb,A collection of android security related resources,,365,4036,1021,0,2019-08-21T13:02:51Z,2019-08-15T07:39:12Z
 android-tech-frontier,https://github.com/hehonghui/android-tech-frontier,hehonghui,【停止维护】一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目,https://blog.csdn.net/bboyfeiyu,1186,10059,3390,32,2019-08-21T08:39:33Z,2017-03-16T05:53:05Z
@@ -77,11 +77,12 @@ AngularJS2-Learning,https://github.com/jmcunningham/AngularJS2-Learning,jmcunnin
 angularjs-fellows,https://github.com/best-coupon-codes/angularjs-fellows,best-coupon-codes,A collection of free resources for learning AngularJS,http://tachun.github.io/angularjs-fellows/,1,6,7,0,2016-07-02T05:52:11Z,2014-01-21T06:46:53Z
 AngularJS-Learning,https://github.com/jmcunningham/AngularJS-Learning,jmcunningham,"A bunch of links to blog posts, articles, videos, etc for learning AngularJS",,923,10899,2221,9,2019-08-20T14:55:08Z,2019-03-25T01:49:15Z
 ansible-gentoo-roles,https://github.com/jirutka/ansible-gentoo-roles,jirutka,A curated list of Ansible roles for Gentoo Linux.,,1,9,3,0,2019-05-31T20:43:08Z,2016-03-02T20:30:29Z
-app-ideas,https://github.com/florinpop17/app-ideas,florinpop17,A Collection of application ideas which can be used to improve your coding skills.,,252,6020,582,0,2019-08-21T11:48:59Z,2019-08-21T09:31:22Z
-app-launch-guide,https://github.com/adamwulf/app-launch-guide,adamwulf,"This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch. More info at:",http://www.applaunchguide.com,185,3789,226,8,2019-08-20T17:13:27Z,2019-07-28T14:25:59Z
+app-ideas,https://github.com/florinpop17/app-ideas,florinpop17,A Collection of application ideas which can be used to improve your coding skills.,,252,6021,582,0,2019-08-21T13:29:22Z,2019-08-21T09:31:22Z
+app-launch-guide,https://github.com/adamwulf/app-launch-guide,adamwulf,"This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch. More info at:",http://www.applaunchguide.com,185,3788,226,8,2019-08-21T13:40:45Z,2019-07-28T14:25:59Z
 APTnotes,https://github.com/kbandla/APTnotes,kbandla,"Various public documents, whitepapers and articles about APT campaigns",,623,2390,723,5,2019-08-21T11:19:43Z,2017-12-25T07:22:02Z
 asynchronous-php,https://github.com/elazar/asynchronous-php,elazar,List of resources for asynchronous programming in PHP,,83,924,69,1,2019-08-21T09:19:04Z,2018-09-08T01:19:54Z
 Automated-SPA-Testing,https://github.com/webpro/Automated-SPA-Testing,webpro,Automated unit & functional testing for web applications,,6,107,10,0,2019-05-12T01:35:07Z,2017-06-15T22:20:59Z
+awmy,https://github.com/potch/awmy,potch,,,1,1,9,3,2018-04-19T19:26:44Z,2018-04-30T22:47:09Z
 Backpack,https://github.com/sevab/Backpack,sevab,Collection of useful dev links,,2,17,4,0,2019-04-05T01:11:52Z,2018-07-31T12:23:24Z
 badass-dev-resources,https://github.com/sodevious/badass-dev-resources,sodevious,"Some #bada55 front-end developer resources, curated and loved by @sodevious",,1,9,0,2,2019-04-05T01:18:25Z,2014-10-03T19:55:00Z
 bangalore-startups,https://github.com/hemanth/bangalore-startups,hemanth,Ever growing list of startups in Bangalore.,,5,23,11,0,2019-08-18T16:51:09Z,2017-08-12T16:33:52Z
@@ -107,7 +108,7 @@ cloud-conferences,https://github.com/stefan-kolb/cloud-conferences,stefan-kolb,A
 codeface,https://github.com/chrissimpkins/codeface,chrissimpkins,Typefaces for source code beautification,,187,4998,378,21,2019-08-20T16:06:31Z,2018-04-30T23:18:18Z
 Colorful,https://github.com/Siddharth11/Colorful,Siddharth11,A curated list of awesome resources to choose your next color scheme,,15,551,32,0,2019-08-16T21:30:06Z,2018-09-22T09:05:25Z
 compilers-targeting-c,https://github.com/dbohdan/compilers-targeting-c,dbohdan,A list of compilers that can generate C code,,21,248,18,1,2019-08-21T09:28:05Z,2019-08-12T13:22:50Z
-computer-science,https://github.com/ossu/computer-science,ossu,:mortar_board: Path to a free self-taught education in Computer Science!,,2924,43029,6287,30,2019-08-21T13:16:43Z,2019-08-04T18:08:14Z
+computer-science,https://github.com/ossu/computer-science,ossu,:mortar_board: Path to a free self-taught education in Computer Science!,,2924,43030,6287,30,2019-08-21T13:46:38Z,2019-08-04T18:08:14Z
 content-management-systems,https://github.com/ahadb/content-management-systems,ahadb,A wide range of content management systems,,1,17,4,1,2019-07-20T05:19:18Z,2014-08-06T07:04:58Z
 critical-path-css-tools,https://github.com/addyosmani/critical-path-css-tools,addyosmani,Tools to prioritize above-the-fold (critical-path) CSS,,55,1029,43,4,2019-08-14T17:55:05Z,2016-02-26T23:30:54Z
 CryptoList,https://github.com/coinpride/CryptoList,coinpride,Curated collection of blockchain & cryptocurrency resources.,,146,2833,438,66,2019-08-19T11:07:04Z,2019-07-11T15:00:19Z
@@ -124,7 +125,7 @@ datajournalists-toolbox,https://github.com/basilesimon/datajournalists-toolbox,b
 datascience,https://github.com/r0f1/datascience,r0f1,Curated list of Python resources for data science.,,93,1943,325,5,2019-08-20T07:58:59Z,2019-08-09T14:38:41Z
 data-science-blogs,https://github.com/rushter/data-science-blogs,rushter,A curated list of data science blogs,http://rushter.com/dsreader/,437,4760,1325,2,2019-08-20T18:43:16Z,2019-07-11T08:44:54Z
 data-must-watch,https://github.com/kmonsoor/data-must-watch,kmonsoor,Must-watch videos on data-science,,9,36,6,1,2019-01-12T15:59:18Z,2015-11-30T23:04:02Z
-go,https://github.com/datasciencemasters/go,datasciencemasters,The Open Source Data Science Masters,datasciencemasters.org,1589,12919,5107,73,2019-08-21T12:49:54Z,2019-06-25T09:55:17Z
+go,https://github.com/datasciencemasters/go,datasciencemasters,The Open Source Data Science Masters,datasciencemasters.org,1589,12920,5106,73,2019-08-21T13:39:32Z,2019-06-25T09:55:17Z
 DataSciencePython,https://github.com/ujjwalkarn/DataSciencePython,ujjwalkarn,common data analysis and machine learning tasks using python,,319,3665,1172,3,2019-08-20T19:24:47Z,2019-05-10T14:29:41Z
 debugging-stories,https://github.com/danluu/debugging-stories,danluu,A collection of debugging stories. PRs welcome (sorry for the backlog) :-),http://danluu.com/teach-debugging/,174,2661,122,25,2019-08-19T00:11:19Z,2019-06-19T15:27:19Z
 Developer-Conferences,https://github.com/MurtzaM/Developer-Conferences,MurtzaM,List of upcoming developer conferences,,34,93,18,9,2019-08-13T15:40:57Z,2017-12-23T16:00:41Z
@@ -151,13 +152,13 @@ Facets,https://github.com/O-I/Facets,O-I,A community-curated list of one-liners 
 fks,https://github.com/JacksonTian/fks,JacksonTian,前端技能汇总 Frontend Knowledge Structure,http://html5ify.com/fks/,1621,14880,4511,10,2019-08-21T08:45:44Z,2019-06-27T12:30:51Z
 flat-file-cms,https://github.com/ahadb/flat-file-cms,ahadb,:open_file_folder: :page_with_curl: A list of strictly flat-file cms systems ,,47,469,70,13,2019-08-20T15:03:25Z,2019-07-08T23:37:49Z
 FOSS-for-Dev,https://github.com/tvvocold/FOSS-for-Dev,tvvocold,A hub of Free and open-source software for developers,,29,308,35,3,2019-08-15T14:14:31Z,2018-10-19T09:29:01Z
-freeCodeCamp,https://github.com/freeCodeCamp/freeCodeCamp,freeCodeCamp,The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.,,8384,304397,22435,422,2019-08-21T13:27:33Z,2019-08-21T13:19:22Z
+freeCodeCamp,https://github.com/freeCodeCamp/freeCodeCamp,freeCodeCamp,The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.,,8384,304396,22434,422,2019-08-21T13:40:56Z,2019-08-21T13:43:21Z
 free-for-dev,https://github.com/ripienaar/free-for-dev,ripienaar,"A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",https://free-for.dev/,1090,23430,2537,21,2019-08-21T13:19:22Z,2019-08-19T11:23:45Z
-free-programming-books,https://github.com/EbookFoundation/free-programming-books,EbookFoundation,:books: Freely available programming books,https://ebookfoundation.github.io/free-programming-books/,8224,127069,31682,39,2019-08-21T12:40:27Z,2019-08-20T18:31:28Z
+free-programming-books,https://github.com/EbookFoundation/free-programming-books,EbookFoundation,:books: Freely available programming books,https://ebookfoundation.github.io/free-programming-books/,8224,127070,31683,40,2019-08-21T13:40:12Z,2019-08-21T13:51:59Z
 free-programming-books-zh_CN,https://github.com/justjavac/free-programming-books-zh_CN,justjavac,:books: 免费的计算机编程类中文书籍，欢迎投稿,http://weibo.com/justjavac,5210,54503,17593,165,2019-08-21T12:47:38Z,2019-08-17T02:45:06Z
 frontdesk,https://github.com/miripiruni/frontdesk,miripiruni,Community driven list of useful things for Front End Developers,,130,1591,233,2,2019-08-17T07:08:15Z,2019-07-09T09:12:14Z
-Front-end-Developer-Interview-Questions,https://github.com/h5bp/Front-end-Developer-Interview-Questions,h5bp,"A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",https://h5bp.org/Front-end-Developer-Interview-Questions/,2398,41880,8449,5,2019-08-21T13:20:44Z,2019-07-27T02:44:26Z
-Front-end-Web-Development-Interview-Question,https://github.com/paddingme/Front-end-Web-Development-Interview-Question,paddingme,前端开发面试题大收集，前端面试集锦 :heart: :gift_heart: :cupid:,https://fe.padding.me,231,3274,773,5,2019-08-21T09:50:18Z,2018-01-04T17:07:34Z
+Front-end-Developer-Interview-Questions,https://github.com/h5bp/Front-end-Developer-Interview-Questions,h5bp,"A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",https://h5bp.org/Front-end-Developer-Interview-Questions/,2398,41881,8449,5,2019-08-21T13:46:16Z,2019-07-27T02:44:26Z
+Front-end-Web-Development-Interview-Question,https://github.com/paddingme/Front-end-Web-Development-Interview-Question,paddingme,前端开发面试题大收集，前端面试集锦 :heart: :gift_heart: :cupid:,https://fe.padding.me,232,3274,773,5,2019-08-21T09:50:18Z,2018-01-04T17:07:34Z
 frontend-dev-bookmarks,https://github.com/dypsilon/frontend-dev-bookmarks,dypsilon,Manually curated collection of resources for frontend web developers.,,2041,26227,4250,107,2019-08-21T11:58:52Z,2019-05-23T06:20:16Z
 frontend-dev-resources,https://github.com/dmytroyarmak/frontend-dev-resources,dmytroyarmak,List of useful resources for front end developers,,42,612,62,0,2019-08-19T11:10:29Z,2018-06-12T16:48:57Z
 frontend-resources,https://github.com/JonathanZWhite/frontend-resources,JonathanZWhite,,,8,92,27,0,2019-05-20T11:53:36Z,2017-09-04T04:09:58Z
@@ -185,7 +186,7 @@ htaccess,https://github.com/phanan/htaccess,phanan,✂A collection of useful .ht
 idaplugins-list,https://github.com/onethawt/idaplugins-list,onethawt,A list of IDA Plugins,,179,1567,326,3,2019-08-21T10:10:25Z,2019-08-09T14:17:12Z
 ideas,https://github.com/samsquire/ideas,samsquire,a record of ideas,,258,2574,199,7,2019-08-19T11:55:40Z,2018-08-23T13:16:54Z
 inspire,https://github.com/NoahBuscher/Inspire,noahbuscher,:bulb: Collection of web design & dev links,,44,727,46,0,2019-08-17T00:27:40Z,2018-12-10T18:13:25Z
-interviews,https://github.com/kdn251/interviews,kdn251,Everything you need to know to get the job.,https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g?view_as=subscriber,2250,38171,7887,44,2019-08-21T13:08:28Z,2019-08-15T11:24:22Z
+interviews,https://github.com/kdn251/interviews,kdn251,Everything you need to know to get the job.,https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g?view_as=subscriber,2250,38172,7887,44,2019-08-21T13:45:52Z,2019-08-15T11:24:22Z
 InterviewThis,https://github.com/Twipped/InterviewThis,Twipped,An open source list of developer questions to ask prospective employers,,102,2573,236,1,2019-08-21T11:17:04Z,2017-04-17T16:18:12Z
 ios-awesome-libraries,https://github.com/kaiinui/ios-awesome-libraries,kaiinui,"Also in iOS, there are many awesome libraries!",,1,1,0,0,2015-08-14T14:23:14Z,2014-11-04T21:16:00Z
 iOS-Developer-and-Designer-Interview-Questions,https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions,9magnets,"A small guide to help those looking to hire a developer or designer for iOS work. While tailored for iOS, many questions could be used for Android developers or designers as well. A great self-test if you're looking to keep current or practice for your own interview. ",,88,1530,179,0,2019-08-17T02:32:21Z,2017-06-01T13:13:42Z
@@ -208,7 +209,7 @@ kubernetes-failure-stories,https://github.com/hjacobs/kubernetes-failure-stories
 language-list,https://github.com/thomasfoster96/language-list,thomasfoster96,"A list, in alphabetical order, of all the programming languages developed on GitHub.",,2,39,3,0,2019-04-10T01:30:36Z,2018-11-28T10:27:00Z
 Laravel-Resources,https://github.com/abhimanyu003/Laravel-Resources,abhimanyu003,List of Laravel Resources and Blogs,,18,79,35,1,2019-02-12T19:59:43Z,2018-06-13T21:48:54Z
 learn-drupal,https://github.com/rocketeerbkw/learn-drupal,rocketeerbkw,A curated list of stuff to help you learn Drupal.,,2,2,4,1,2017-02-20T13:13:57Z,2017-10-19T00:48:35Z
-learnhaskell,https://github.com/bitemyapp/learnhaskell,bitemyapp,Learn Haskell,,308,6307,470,10,2019-08-21T07:58:49Z,2019-06-06T15:57:48Z
+learnhaskell,https://github.com/bitemyapp/learnhaskell,bitemyapp,Learn Haskell,,308,6307,471,10,2019-08-21T07:58:49Z,2019-06-06T15:57:48Z
 learn-python,https://github.com/adrianmoisey/learn-python,adrianmoisey,List of resources useful for learning Python 🐍,,7,144,34,1,2019-08-13T15:52:12Z,2019-02-05T10:59:16Z
 learn-python,https://github.com/trekhleb/learn-python,trekhleb,📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.,,241,3038,486,1,2019-08-21T00:14:49Z,2019-06-25T04:34:27Z
 learn-to-program,https://github.com/karlhorky/learn-to-program,karlhorky,Educational resources to learn to program,,47,636,96,20,2019-08-21T11:00:34Z,2019-08-07T13:47:34Z
@@ -217,7 +218,7 @@ learnxinyminutes-docs,https://github.com/adambard/learnxinyminutes-docs,adambard
 libertr,https://github.com/gaapt/libertr,gaapt,Resources for liberty seekers,http://libertr.github.io/libertr/,2,7,2,0,2019-08-17T17:45:50Z,2015-12-21T02:25:41Z
 lifeofjs,https://github.com/abhijeetkpawar/lifeofjs,abhijeetkpawar,A collection of resources on JavaScript in a programmaticaly manageable JSON format,http://lifeofjs.com,7,36,14,1,2019-06-21T01:30:38Z,2018-11-08T09:42:20Z
 Linux_websites,https://github.com/hduffddybz/Linux_websites,hduffddybz,Commonly used kernel hacking site,,13,57,15,1,2019-07-14T07:14:54Z,2015-12-06T06:34:30Z
-Machine-Learning-Tutorials,https://github.com/ujjwalkarn/Machine-Learning-Tutorials,ujjwalkarn,"machine learning and deep learning tutorials, articles and other resources ",http://ujjwalkarn.github.io/Machine-Learning-Tutorials,772,9370,2850,4,2019-08-20T14:00:39Z,2019-06-13T07:34:12Z
+Machine-Learning-Tutorials,https://github.com/ujjwalkarn/Machine-Learning-Tutorials,ujjwalkarn,"machine learning and deep learning tutorials, articles and other resources ",http://ujjwalkarn.github.io/Machine-Learning-Tutorials,772,9371,2850,4,2019-08-21T13:34:25Z,2019-06-13T07:34:12Z
 machine-learning-with-ruby,https://github.com/arbox/machine-learning-with-ruby,arbox,Curated list: Resources for machine learning in Ruby,,111,1355,114,3,2019-08-21T08:34:44Z,2019-08-21T08:34:41Z
 magictools,https://github.com/ellisonleao/magictools,ellisonleao,:video_game: :pencil: A list of Game Development resources to make magic happen.,,411,6316,645,0,2019-08-21T12:41:42Z,2019-08-18T14:22:52Z
 maintenance-modules,https://github.com/maxogden/maintenance-modules,maxogden,a list of modules that are useful for maintaining or developing modules,,25,323,16,3,2019-08-20T16:26:10Z,2016-05-19T16:35:25Z
@@ -242,7 +243,7 @@ NotesIndex,https://github.com/Wilbeibi/NotesIndex,wilbeibi,A collection of my te
 npm-algos,https://github.com/npm-algos/npm-algos,npm-algos,Curated List of Node.js Modules Implementing Computer Science Concepts,,40,796,57,1,2019-08-13T15:59:24Z,2017-07-03T23:29:00Z
 offline-first,https://github.com/pazguille/offline-first,pazguille,:electric_plug: Everything you need to know to create offline-first web apps.,,141,2547,178,2,2019-08-20T14:58:59Z,2018-10-24T06:30:42Z
 open-source-android-apps,https://github.com/pcqpcq/open-source-android-apps,pcqpcq,Open-Source Android Apps,,660,7768,2005,41,2019-08-21T12:10:40Z,2019-08-11T14:11:03Z
-open-source-ios-apps,https://github.com/dkhamsing/open-source-ios-apps,dkhamsing,:iphone: Collaborative List of Open-Source iOS Apps,,1169,20952,3460,1,2019-08-21T13:22:50Z,2019-08-21T09:06:25Z
+open-source-ios-apps,https://github.com/dkhamsing/open-source-ios-apps,dkhamsing,:iphone: Collaborative List of Open-Source iOS Apps,,1169,20953,3461,1,2019-08-21T13:30:31Z,2019-08-21T09:06:25Z
 open-source-mac-os-apps,https://github.com/serhii-londar/open-source-mac-os-apps,serhii-londar,🚀 Awesome list of open source applications for macOS.,,748,18022,1194,13,2019-08-21T09:25:59Z,2019-08-08T10:06:58Z
 ops-books,https://github.com/stack72/ops-books,stack72,Book Recommendations for the Infrastructure Engineer ;),,59,742,91,7,2019-08-15T20:36:18Z,2018-06-12T15:21:47Z
 osx-and-ios-security-awesome,https://github.com/ashishb/osx-and-ios-security-awesome,ashishb,OSX and iOS related security tools,,52,576,106,3,2019-08-20T12:41:23Z,2019-05-29T06:09:36Z
@@ -259,7 +260,7 @@ programmers-proverbs,https://github.com/AntJanus/programmers-proverbs,AntJanus,P
 programming-talks,https://github.com/hellerve/programming-talks,hellerve,Awesome & interesting talks about programming,,292,4702,342,1,2019-08-21T10:29:45Z,2019-08-13T07:54:52Z
 progressive-enhancement-resources,https://github.com/jbmoelker/progressive-enhancement-resources,jbmoelker,Resources on Progressive Enhancement. From concept and strategies to feature detection & testing methods. Complete with a list of (code) examples.,,10,61,3,0,2019-07-28T19:56:11Z,2019-01-15T21:32:09Z
 Projects,https://github.com/karan/Projects,karan,:page_with_curl: A list of practical projects that anyone can solve in any programming language.,https://twitter.com/karangoel,1899,28825,9164,56,2019-08-21T13:23:11Z,2019-03-14T21:37:29Z
-public-apis,https://github.com/public-apis/public-apis,public-apis,A collective list of free APIs for use in software and web development.,https://ultimatecourses.com,1833,60298,6459,64,2019-08-21T12:56:53Z,2019-08-19T12:49:39Z
+public-apis,https://github.com/public-apis/public-apis,public-apis,A collective list of free APIs for use in software and web development.,https://ultimatecourses.com,1833,60299,6459,64,2019-08-21T13:43:53Z,2019-08-19T12:49:39Z
 pycrumbs,https://github.com/kirang89/pycrumbs,kirang89,Bits and bytes of Python from the Internet,,306,2884,682,6,2019-08-14T11:01:09Z,2019-06-23T16:40:55Z
 py-must-watch,https://github.com/s16h/py-must-watch,s16h,Must-watch videos about Python,http://pymust.watch/,295,3298,276,21,2019-08-19T21:15:08Z,2019-07-27T12:38:56Z
 python-github-projects,https://github.com/checkcheckzz/python-github-projects,checkcheckzz,Collect and classify python projects on Github (deprecated),http://itgeekworkhard.com/python-github-projects/,77,559,162,3,2019-08-08T20:04:53Z,2018-10-13T08:47:33Z
@@ -327,7 +328,7 @@ typography,https://github.com/deanhume/typography,deanhume,A collection of web t
 ui-styleguides,https://github.com/kevinwuhoo/ui-styleguides,kevinwuhoo,A curated list of UI styleguides --,http://kevinformatics.com/ui-styleguides/,7,42,9,2,2019-07-11T11:16:34Z,2019-07-17T14:09:27Z
 universities-on-github,https://github.com/filler/universities-on-github,filler,List of universities which have a public organization on GitHub.,,2,45,28,0,2019-08-13T15:06:52Z,2016-12-05T21:37:33Z
 upcoming-conferences,https://github.com/svenanders/upcoming-conferences,svenanders,Upcoming web developer conferences,,8,90,6,1,2019-05-08T19:18:35Z,2016-08-01T13:28:06Z
-vertx-awesome,https://github.com/vert-x3/vertx-awesome,vert-x3,"A curated list of awesome Vert.x resources, libraries, and other nice things.",https://github.com/vert-x3/vertx-awesome,155,1354,207,6,2019-08-21T13:28:36Z,2019-06-20T02:55:46Z
+vertx-awesome,https://github.com/vert-x3/vertx-awesome,vert-x3,"A curated list of awesome Vert.x resources, libraries, and other nice things.",https://github.com/vert-x3/vertx-awesome,155,1355,207,6,2019-08-21T13:43:34Z,2019-06-20T02:55:46Z
 vim-galore,https://github.com/mhinz/vim-galore,mhinz,:mortar_board: All things Vim!,,312,9985,435,0,2019-08-21T13:15:34Z,2019-05-05T22:45:26Z
 visual-programming-codex,https://github.com/ivanreese/visual-programming-codex,ivanreese,Resources and references for the past and future of visual programming.,,29,340,7,21,2019-08-18T18:02:19Z,2019-07-28T04:53:58Z
 web-audio-resources,https://github.com/alemangui/web-audio-resources,alemangui,:musical_keyboard: A list of curated web audio resources ,,34,394,33,0,2019-08-21T10:04:33Z,2018-10-28T20:43:43Z
@@ -361,11 +362,11 @@ awesome-amazon-alexa,https://github.com/miguelmota/awesome-amazon-alexa,miguelmo
 awesome-amazon-seller,https://github.com/ScaleLeap/awesome-amazon-seller,ScaleLeap,A curated list of tools and resources for Amazon sellers.,,4,40,7,0,2019-08-17T05:15:56Z,2019-02-27T02:23:56Z
 awesome-analytics,https://github.com/onurakpolat/awesome-analytics,onurakpolat,"A curated list of analytics frameworks, software and other tools.",https://github.com/onurakpolat/awesome-analytics,111,1368,256,3,2019-08-19T18:54:37Z,2019-07-27T18:15:32Z
 awesome-android,https://github.com/Jackgris/awesome-android,jackgris,"A curated list of awesome Android frameworks, libraries and software.",,2,10,7,0,2019-01-30T16:41:54Z,2014-10-10T16:00:54Z
-awesome-android,https://github.com/JStumpp/awesome-android,JStumpp,A curated list of awesome Android packages and resources.,,511,7119,1366,0,2019-08-21T10:04:32Z,2019-08-19T11:38:34Z
+awesome-android,https://github.com/JStumpp/awesome-android,JStumpp,A curated list of awesome Android packages and resources.,,511,7119,1367,0,2019-08-21T10:04:32Z,2019-08-19T11:38:34Z
 awesome-android,https://github.com/snowdream/awesome-android,snowdream,android libs from github or other websites,微信公众号: sn0wdr1am,491,5965,1552,7,2019-08-20T03:56:49Z,2018-05-30T12:11:01Z
 awesome-android-awesomeness,https://github.com/yongjhih/awesome-android-awesomeness,yongjhih,A curated list of android awesomeness,,7,71,21,0,2019-08-18T16:48:45Z,2018-06-06T00:26:08Z
 awesome-android-learner,https://github.com/MakinGiants/awesome-android-learner,MakinGiants,Awesome for mobile dev learning,,16,277,35,7,2019-08-05T03:28:00Z,2019-05-30T15:00:34Z
-awesome-android-libraries,https://github.com/wasabeef/awesome-android-libraries,wasabeef,"This is an alphabetical list of libraries for Android development, the majority being actively maintained.",https://twitter.com/wasabeef_jp,413,4921,1188,60,2019-08-20T15:23:52Z,2019-08-02T09:07:37Z
+awesome-android-libraries,https://github.com/wasabeef/awesome-android-libraries,wasabeef,"This is an alphabetical list of libraries for Android development, the majority being actively maintained.",https://twitter.com/wasabeef_jp,413,4921,1189,60,2019-08-20T15:23:52Z,2019-08-02T09:07:37Z
 awesome-android-performance,https://github.com/Juude/awesome-android-performance,Juude,"Android performance optimization  tutorials, videos and tools list(Android性能优化视频，文档以及工具) ",,173,2538,360,1,2019-08-14T13:31:06Z,2019-05-07T11:32:14Z
 awesome-android-release-notes,https://github.com/pedronveloso/awesome-android-release-notes,pedronveloso,Awesome Android Release Notes is a useful directory for a developer to keep up-to-date with all the things related with Android software development.,,4,7,1,0,2018-09-12T07:25:36Z,2017-01-11T18:11:20Z
 awesome-android-tips,https://github.com/jiang111/awesome-android-tips,jiang111,some code tips for android 💯,,176,2401,486,1,2019-08-21T10:05:04Z,2019-07-22T01:19:04Z
@@ -447,7 +448,7 @@ awesome-choo,https://github.com/choojs/awesome-choo,choojs,🌅 Awesome things r
 awesome-chrome-devtools,https://github.com/ChromeDevTools/awesome-chrome-devtools,ChromeDevTools,Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem,https://github.com/ChromeDevTools/awesome-chrome-devtools#readme,165,3674,209,15,2019-08-21T11:10:42Z,2019-07-16T15:18:25Z
 awesome-ci,https://github.com/ligurio/awesome-ci,ligurio,List of Continuous Integration services,,89,1638,150,2,2019-08-21T08:38:44Z,2019-08-14T13:33:00Z
 awesome-ci,https://github.com/pditommaso/awesome-ci,pditommaso,A curated list of awesome continuous integration services,,3,24,3,0,2019-01-16T10:00:05Z,2019-01-16T10:00:03Z
-awesome-ciandcd,https://github.com/ciandcd/awesome-ciandcd,ciandcd,continuous integration and continuous delivery,http://www.ciandcd.com,80,948,109,5,2019-08-20T09:16:49Z,2019-08-10T08:06:59Z
+awesome-ciandcd,https://github.com/ciandcd/awesome-ciandcd,ciandcd,continuous integration and continuous delivery,http://www.ciandcd.com,80,949,109,5,2019-08-21T13:39:24Z,2019-08-10T08:06:59Z
 awesome-circuitpython,https://github.com/adafruit/awesome-circuitpython,adafruit,"A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.",https://www.circuitpython.org,50,219,21,0,2019-08-20T23:54:25Z,2019-08-05T15:10:12Z
 awesome-cl,https://github.com/CodyReichert/awesome-cl,CodyReichert,"A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.",https://awesome-cl.com,74,1043,89,10,2019-08-18T17:10:36Z,2019-08-10T10:30:31Z
 awesome-cli-apps,https://github.com/agarrharr/awesome-cli-apps,agarrharr,🖥 📊 🕹 🛠 A curated list of command line apps,,185,4519,384,5,2019-08-21T12:23:54Z,2019-08-17T05:51:42Z
@@ -481,7 +482,7 @@ awesome-construct,https://github.com/WebCreationClub/awesome-construct,WebCreati
 awesome-container,https://github.com/tcnksm/awesome-container,tcnksm,A curated list of awesome container technologies and services,,8,129,19,6,2019-08-19T13:40:30Z,2018-03-20T08:25:50Z
 awesome-conversational,https://github.com/mortenjust/awesome-conversational,mortenjust,,,18,153,12,1,2019-07-09T14:01:03Z,2017-09-18T17:26:53Z
 awesome-cordova,https://github.com/busterc/awesome-cordova,busterc,":iphone: A curated list of amazingly awesome Cordova libraries, resources and shiny things.",,28,255,35,0,2019-07-22T22:33:34Z,2019-01-24T19:27:26Z
-Awesome-CoreML-Models,https://github.com/likedan/Awesome-CoreML-Models,likedan,Largest list of models for Core ML (for iOS 11+),,224,4186,328,0,2019-08-21T10:36:37Z,2019-07-31T17:14:41Z
+Awesome-CoreML-Models,https://github.com/likedan/Awesome-CoreML-Models,likedan,Largest list of models for Core ML (for iOS 11+),,224,4187,329,0,2019-08-21T13:40:07Z,2019-07-31T17:14:41Z
 awesome-couchdb,https://github.com/quangv/awesome-couchdb,quangv,CouchDB - curated meta resources & best practices list,,5,87,7,0,2019-08-15T22:46:10Z,2018-02-12T03:34:12Z
 awesome-courses,https://github.com/fffaraz/awesome-courses,fffaraz,List of free online programming/CS courses [Massive Open Online Courses],,18,204,56,3,2019-08-20T21:14:12Z,2018-09-10T02:12:56Z
 awesome-courses,https://github.com/prakhar1989/awesome-courses,prakhar1989,:books: List of awesome university courses for learning Computer Science!,,2300,30490,6301,40,2019-08-21T12:58:32Z,2019-05-08T21:26:26Z
@@ -491,8 +492,8 @@ Awesome-Cross-Platform-Apps,https://github.com/Juude/Awesome-Cross-Platform-Apps
 awesome-cross-platform-nodejs,https://github.com/bcoe/awesome-cross-platform-nodejs,bcoe,:two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code,,26,767,45,3,2019-08-20T14:55:01Z,2019-08-20T14:55:02Z
 awesome-crypto-papers,https://github.com/pFarb/awesome-crypto-papers,pFarb,"A curated list of cryptography papers, articles, tutorials and howtos.",,56,710,69,3,2019-08-21T11:52:09Z,2018-09-16T19:24:42Z
 awesome-cryptocurrencies,https://github.com/kasketis/awesome-cryptocurrencies,kasketis,A curated list of awesome cryptocurrencies 🎩,,11,121,16,2,2019-07-21T09:00:35Z,2018-11-24T00:51:18Z
-awesome-cryptography,https://github.com/sobolevn/awesome-cryptography,sobolevn,A curated list of cryptography resources and links.,,129,1988,306,2,2019-08-21T11:55:26Z,2019-08-02T06:25:11Z
-awesome-crystal,https://github.com/veelenga/awesome-crystal,veelenga,":gem: A collection of awesome Crystal libraries, tools, frameworks and software",http://awesomelists.top/#/repos/veelenga/awesome-crystal,119,2287,245,4,2019-08-20T17:47:10Z,2019-08-20T20:22:21Z
+awesome-cryptography,https://github.com/sobolevn/awesome-cryptography,sobolevn,A curated list of cryptography resources and links.,,129,1989,306,2,2019-08-21T13:45:58Z,2019-08-02T06:25:11Z
+awesome-crystal,https://github.com/veelenga/awesome-crystal,veelenga,":gem: A collection of awesome Crystal libraries, tools, frameworks and software",http://awesomelists.top/#/repos/veelenga/awesome-crystal,119,2288,245,4,2019-08-21T13:39:42Z,2019-08-20T20:22:21Z
 awesome-css,https://github.com/awesome-css-group/awesome-css,awesome-css-group,:art: A curated contents of amazing CSS :),,106,2256,241,0,2019-08-20T15:53:41Z,2019-06-23T18:00:07Z
 awesome-css,https://github.com/bring2dip/awesome-css,bring2dip,A curated list of awesome CSS resources. Inspired by sindresorhus/awesome,,2,6,0,0,2018-09-03T21:37:57Z,2016-12-11T04:23:27Z
 awesome-css,https://github.com/ikkou/awesome-css,ikkou,"A collection of awesome CSS libraries, tools, frameworks and software",,17,255,38,6,2019-08-09T06:25:29Z,2018-04-22T11:02:35Z
@@ -507,8 +508,8 @@ awesome-d3,https://github.com/wbkd/awesome-d3,wbkd,"A list of D3 libraries, plug
 awesome-dart,https://github.com/yissachar/awesome-dart,yissachar,"A curated list of awesome Dart frameworks, libraries, and software",,79,991,105,9,2019-08-21T02:08:26Z,2019-06-11T19:16:55Z
 awesome-dash,https://github.com/Acrotrend/awesome-dash,ucg8j,A curated list of awesome Dash (plotly) resources,,25,467,70,7,2019-08-20T02:25:21Z,2019-08-17T10:03:11Z
 awesome-dashboard,https://github.com/obazoud/awesome-dashboard,obazoud,A curated list of amazingly awesome dashboards/visualization resources.,,58,733,81,4,2019-08-20T13:52:25Z,2019-01-21T18:26:13Z
-awesome-data-engineering,https://github.com/igorbarinov/awesome-data-engineering,igorbarinov,A curated list of data engineering tools for software developers,,206,2403,449,15,2019-08-21T05:26:11Z,2019-06-21T16:52:20Z
-awesome-datascience,https://github.com/bulutyazilim/awesome-datascience,academic,:memo: An awesome Data Science repository to learn and apply for real world problems.,,1233,10285,3058,0,2019-08-21T13:13:52Z,2019-08-20T21:38:24Z
+awesome-data-engineering,https://github.com/igorbarinov/awesome-data-engineering,igorbarinov,A curated list of data engineering tools for software developers,,206,2404,449,15,2019-08-21T13:52:06Z,2019-06-21T16:52:20Z
+awesome-datascience,https://github.com/bulutyazilim/awesome-datascience,academic,:memo: An awesome Data Science repository to learn and apply for real world problems.,,1233,10286,3058,0,2019-08-21T13:37:29Z,2019-08-20T21:38:24Z
 awesome-datasets,https://github.com/viisar/awesome-datasets,viisar,A curated list of awesome datasets for papers/experiments/validation.,,10,74,9,1,2019-06-12T10:47:53Z,2016-10-13T10:46:00Z
 awesome-dataviz,https://github.com/fasouto/awesome-dataviz,fasouto,:chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.,,138,2207,271,10,2019-08-20T14:42:51Z,2019-08-17T18:18:22Z
 awesome-db,https://github.com/numetriclabz/awesome-db,numetriclabz,"A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/",,59,751,100,22,2019-08-15T22:45:25Z,2019-06-05T17:43:57Z
@@ -516,7 +517,7 @@ awesome-ddd,https://github.com/heynickc/awesome-ddd,heynickc,"A curated list of 
 awesome-ddd,https://github.com/wkjagt/awesome-ddd,wkjagt,A curated list of awesome Domain Driven Design resources inspired by Awesome PHP and Awesome Sysadmin.,,3,14,0,0,2019-04-26T13:59:10Z,2014-07-20T15:02:23Z
 awesome-decentralized-web,https://github.com/gdamdam/awesome-decentralized-web,gdamdam,an awesome list of decentralized services and technologies,,74,859,93,2,2019-08-19T06:38:43Z,2019-07-12T20:55:32Z
 awesome-decision-tree-papers,https://github.com/benedekrozemberczki/awesome-decision-tree-papers,benedekrozemberczki,"A collection of research papers on decision, classification and regression trees with implementations.",,62,931,139,1,2019-08-20T12:34:50Z,2019-08-17T20:15:01Z
-awesome-deep-learning,https://github.com/ChristosChristofidis/awesome-deep-learning,ChristosChristofidis,"A curated list of awesome Deep Learning tutorials, projects and communities.",,1264,13447,4262,24,2019-08-21T11:23:29Z,2019-07-25T10:58:34Z
+awesome-deep-learning,https://github.com/ChristosChristofidis/awesome-deep-learning,ChristosChristofidis,"A curated list of awesome Deep Learning tutorials, projects and communities.",,1264,13448,4262,24,2019-08-21T13:39:27Z,2019-07-25T10:58:34Z
 awesome-deep-learning-papers,https://github.com/terryum/awesome-deep-learning-papers,terryum,The most cited deep learning papers,,2024,19560,3792,28,2019-08-21T08:37:40Z,2019-02-24T11:09:18Z
 Awesome-Deep-Learning-Resources,https://github.com/guillaume-chevalier/awesome-deep-learning-resources,guillaume-chevalier,"Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier",https://www.neuraxio.com/,118,1161,240,5,2019-08-20T14:00:44Z,2019-08-06T23:08:09Z
 awesome-deep-rl,https://github.com/tigerneil/awesome-deep-rl,tigerneil,For deep RL. ,,82,587,126,1,2019-08-21T02:26:07Z,2019-07-30T07:04:50Z
@@ -536,7 +537,7 @@ awesome-digitalocean,https://github.com/jonleibowitz/awesome-digitalocean,jonlei
 awesome-diversity,https://github.com/folkswhocode/awesome-diversity,folkswhocode,"A curated list of amazingly awesome articles, websites and resources about diversity in technology.",,29,408,49,9,2019-08-18T20:51:49Z,2019-07-28T17:01:23Z
 awesome-django,https://github.com/wsvincent/awesome-django,wsvincent,A curated list of awesome things related to Django,,67,1094,217,19,2019-08-21T12:21:52Z,2019-08-04T17:44:47Z
 awesome-django-cms,https://github.com/mishbahr/awesome-django-cms,mishbahr,A curated list of awesome django-cms add-ons. You should also checkout: https://marketplace.django-cms.org/en/,,20,177,18,0,2019-08-14T19:55:55Z,2018-04-19T10:07:34Z
-awesome-docker,https://github.com/veggiemonk/awesome-docker,veggiemonk,:whale: A curated list of Docker resources and projects,https://awesome-docker.netlify.com/,748,15773,1830,2,2019-08-21T12:38:40Z,2019-08-21T10:19:13Z
+awesome-docker,https://github.com/veggiemonk/awesome-docker,veggiemonk,:whale: A curated list of Docker resources and projects,https://awesome-docker.netlify.com/,747,15773,1830,2,2019-08-21T12:38:40Z,2019-08-21T10:19:13Z
 awesome-doctrine,https://github.com/biberlabs/awesome-doctrine,biberlabs,"A curated list of amazingly awesome Doctrine 2 ORM related libraries, resources and shiny things.",http://www.doctrine-project.org/,26,260,14,0,2019-08-07T21:38:14Z,2019-06-25T22:28:32Z
 awesome-dojo,https://github.com/petk/awesome-dojo,petk,"A curated list of awesome Dojo JavaScript Toolkit libraries, resources and other shiny things.",,13,64,10,0,2019-08-13T15:53:31Z,2018-10-30T20:28:57Z
 awesome-dotfiles,https://github.com/webpro/awesome-dotfiles,webpro,A curated list of dotfiles resources.,,143,4224,179,1,2019-08-21T12:40:26Z,2019-07-24T09:28:37Z
@@ -581,7 +582,7 @@ awesome-fish,https://github.com/jorgebucaran/awesome-fish,jorgebucaran,"A curate
 awesome-flask,https://github.com/humiaozuzu/awesome-flask,humiaozuzu,A curated list of awesome Flask resources and plugins,,472,7559,1147,17,2019-08-21T09:20:46Z,2019-07-21T11:03:48Z
 awesome-flexbox,https://github.com/afonsopacifer/awesome-flexbox,afonsopacifer,:eyeglasses: A curated list of CSS Flexible Box Layout Module or only Flexbox.,,67,944,104,0,2019-08-18T16:44:20Z,2018-01-26T20:02:56Z
 awesome-fluidapp,https://github.com/lborgav/awesome-fluidapp,lborgav,"Icons, Userstyles and Userscripts for Fluid Apps",,5,10,0,0,2019-03-19T02:32:25Z,2015-06-17T07:04:15Z
-awesome-flutter,https://github.com/Solido/awesome-flutter,Solido,"An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",,1102,21117,2737,18,2019-08-21T13:14:04Z,2019-08-21T10:52:27Z
+awesome-flutter,https://github.com/Solido/awesome-flutter,Solido,"An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",,1101,21117,2736,18,2019-08-21T13:14:04Z,2019-08-21T10:52:27Z
 awesome-fonts,https://github.com/brabadu/awesome-fonts,brabadu,Curated list of fonts and everything,,17,547,43,0,2019-08-20T08:10:19Z,2019-04-10T08:20:16Z
 awesome-food,https://github.com/jzarca01/awesome-food,jzarca01,A curated list of food related projects on Github,,9,18,1,0,2019-08-13T19:51:19Z,2019-02-15T17:06:17Z
 awesome-for-beginners,https://github.com/MunGell/awesome-for-beginners,MunGell,A list of awesome beginners-friendly projects.,,881,12153,1819,29,2019-08-21T13:03:38Z,2019-08-20T09:06:41Z
@@ -615,7 +616,7 @@ awesome-github,https://github.com/Kikobeats/awesome-github,Kikobeats,An exquisit
 awesome-github,https://github.com/phillipadsmith/awesome-github,phillipadsmith,A curated list of GitHub's awesomeness,,18,471,57,3,2019-08-15T22:44:45Z,2019-06-17T06:30:20Z
 awesome-github-repo,https://github.com/flyhigher139/awesome-github-repo,flyhigher139,"A curated list of awesome GitHub repositories. Inspired by awesome-python, which is inspired by awesome-php.",,81,622,143,0,2019-08-13T15:37:28Z,2017-04-24T13:41:20Z
 awesome-gnome,https://github.com/Kazhnuz/awesome-gnome,Kazhnuz,"A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.",,18,316,22,10,2019-08-20T07:30:08Z,2019-08-19T21:31:12Z
-awesome-go,https://github.com/avelino/awesome-go,avelino,"A curated list of awesome Go frameworks, libraries and software",https://awesome-go.com/,2514,47039,6215,66,2019-08-21T13:11:57Z,2019-08-21T09:05:58Z
+awesome-go,https://github.com/avelino/awesome-go,avelino,"A curated list of awesome Go frameworks, libraries and software",https://awesome-go.com/,2514,47040,6215,66,2019-08-21T13:51:55Z,2019-08-21T09:05:58Z
 awesome-go-books,https://github.com/heatroom/awesome-go-books,heatroom,a collection of online golang books.,,2,7,0,0,2019-07-01T18:35:53Z,2014-08-15T10:12:08Z
 awesome-godot,https://github.com/Calinou/awesome-godot,Calinou,"A curated list of free/libre plugins, scripts and add-ons for Godot",,147,1292,101,3,2019-08-20T21:41:04Z,2019-08-02T12:33:57Z
 awesome-gradient-boosting-papers,https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers,benedekrozemberczki,A curated list of gradient boosting research papers with implementations. ,,18,273,45,0,2019-08-19T07:45:44Z,2019-08-17T21:11:47Z
@@ -650,7 +651,7 @@ awesome-indie,https://github.com/mezod/awesome-indie,mezod,Resources for indepen
 awesome-influxdb,https://github.com/mark-rushakoff/awesome-influxdb,mark-rushakoff,"A curated list of awesome projects, libraries, tools, etc. related to InfluxDB",,51,575,47,5,2019-08-15T05:30:57Z,2019-04-24T23:57:17Z
 awesome-information-retrieval,https://github.com/harpribot/awesome-information-retrieval,harpribot,A curated list of awesome information retrieval resources,,36,429,66,2,2019-08-14T10:20:47Z,2019-07-24T08:28:08Z
 awesome-inspectit,https://github.com/inspectit-labs/awesome-inspectit,inspectit-labs,A curated list of awesome inspectIT documentations and resources. ,,6,10,0,0,2019-07-26T07:42:21Z,2017-11-21T10:28:08Z
-awesome-interview-questions,https://github.com/MaximAbramchuck/awesome-interview-questions,MaximAbramchuck,:octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: ,https://github.com/GetStoryline/awesome-alexa,1346,28803,3772,6,2019-08-21T13:00:59Z,2019-07-04T12:36:03Z
+awesome-interview-questions,https://github.com/MaximAbramchuck/awesome-interview-questions,MaximAbramchuck,:octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: ,https://github.com/GetStoryline/awesome-alexa,1346,28806,3772,6,2019-08-21T13:54:09Z,2019-07-04T12:36:03Z
 awesome-ionic,https://github.com/candelibas/awesome-ionic,candelibas,"An ""awesome"" list of Ionic resources ",,81,749,181,2,2019-08-20T06:28:32Z,2019-07-09T14:52:08Z
 awesome-ios,https://github.com/vsouza/awesome-ios,vsouza,"A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects ",http://awesomeios.com,1773,32680,5494,1,2019-08-21T10:04:18Z,2019-08-13T18:33:04Z
 awesome-ios-cn,https://github.com/jobbole/awesome-ios-cn,jobbole,iOS 资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等,,289,3505,981,1,2019-08-21T09:27:46Z,2018-03-01T04:38:11Z
@@ -680,7 +681,7 @@ awesome-kde,https://github.com/francoism90/awesome-kde,francoism90,"A curated li
 awesome-knockout,https://github.com/dnbard/awesome-knockout,dnbard,A curated list of awesome plugins for Knockout,,11,83,13,8,2019-08-13T12:25:50Z,2018-01-09T07:16:50Z
 awesome-koa,https://github.com/ellerbrock/awesome-koa,ellerbrock,:dancers: Awesome Koa.js Web Framework,https://ellerbrock.github.io/awesome-koa,9,291,28,2,2019-08-16T04:06:02Z,2019-08-16T09:45:09Z
 awesome-koans,https://github.com/ahmdrefat/awesome-koans,ahmdrefat,A list of all available kōans,,15,261,22,3,2019-08-19T23:08:56Z,2019-06-24T19:54:22Z
-awesome-kotlin,https://github.com/KotlinBy/awesome-kotlin,KotlinBy,A curated list of awesome Kotlin related stuff Inspired by awesome-java. ,https://kotlin.link/,371,7623,840,74,2019-08-21T13:31:10Z,2019-08-20T12:16:39Z
+awesome-kotlin,https://github.com/KotlinBy/awesome-kotlin,KotlinBy,A curated list of awesome Kotlin related stuff Inspired by awesome-java. ,https://kotlin.link/,371,7624,840,74,2019-08-21T13:54:01Z,2019-08-20T12:16:39Z
 awesome-kotlin-native,https://github.com/bipinvaylu/awesome-kotlin-native,bipinvaylu,A curated list of Kotlin Multiplatform libraries & resources.,,1,2,0,0,2019-08-17T23:00:05Z,2019-07-11T12:21:59Z
 awesome-kr-foss,https://github.com/darjeeling/awesome-kr-foss,darjeeling,A curated list of awesome Korean open source projects,,1,51,10,0,2019-08-18T16:54:22Z,2016-08-23T03:15:45Z
 awesome-kubernetes,https://github.com/ramitsurana/awesome-kubernetes,ramitsurana,A curated list for awesome kubernetes sources :ship::tada:,https://ramitsurana.github.io/awesome-kubernetes,391,6747,1011,4,2019-08-21T11:39:04Z,2019-08-21T02:13:25Z
@@ -689,7 +690,7 @@ awesome-laravel,https://github.com/chiraggude/awesome-laravel,chiraggude,"A cura
 awesome-laravel,https://github.com/TimothyDJones/awesome-laravel,TimothyDJones,A curated list of delightful Laravel PHP framework packages and resources,,119,1009,261,27,2019-08-21T09:10:26Z,2019-05-20T20:36:31Z
 Awesome-Laravel-Education,https://github.com/fukuball/Awesome-Laravel-Education,fukuball,A curated list of resources for learning about the Laravel PHP Framework,,25,278,50,1,2019-08-18T07:53:16Z,2019-06-11T03:42:40Z
 awesome-LaTeX,https://github.com/egeerardyn/awesome-LaTeX,egeerardyn,Curated list of LaTeX awesomeness,,24,513,52,2,2019-08-21T01:03:37Z,2019-08-04T10:06:37Z
-awesome-leading-and-managing,https://github.com/LappleApple/awesome-leading-and-managing,LappleApple,"Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.",,184,2178,221,6,2019-08-21T09:16:12Z,2019-08-08T14:08:38Z
+awesome-leading-and-managing,https://github.com/LappleApple/awesome-leading-and-managing,LappleApple,"Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.",,184,2179,221,6,2019-08-21T13:42:14Z,2019-08-08T14:08:38Z
 awesome-learn-datascience,https://github.com/siboehm/awesome-learn-datascience,siboehm,:chart_with_upwards_trend: Curated list of resources to help you get started with Data Science,,22,376,35,2,2019-08-15T22:38:16Z,2019-07-22T16:13:49Z
 awesome-ledger,https://github.com/sfischer13/awesome-ledger,sfischer13,:star: Useful resources for the Ledger command-line accounting system,,7,67,4,0,2019-08-18T09:29:48Z,2019-08-14T16:40:36Z
 awesome-legacy-code,https://github.com/legacycoderocks/awesome-legacy-code,legacycoderocks,A curated list of legacy systems with publicly available source code,,13,74,14,0,2019-08-20T09:47:09Z,2018-10-01T12:46:01Z
@@ -702,7 +703,7 @@ awesome-linux,https://github.com/aleksandar-todorovic/awesome-linux,aleksandar-t
 awesome-linux-containers,https://github.com/Friz-zy/awesome-linux-containers,Friz-zy,"A curated list of awesome Linux Containers frameworks, libraries and software",,61,813,97,1,2019-08-19T10:11:40Z,2019-01-24T21:33:01Z
 awesome-linux-resources,https://github.com/itech001/awesome-linux-resources,itech001,linux resources for the begainners and advanced users.,http://www.linux6.com,15,125,20,1,2019-08-19T11:22:04Z,2017-05-03T06:20:30Z
 awesome-linuxaudio,https://github.com/nodiscc/awesome-linuxaudio,nodiscc,A list of software and resources for professional audio/video/live events production on Linux.,,49,515,46,5,2019-08-20T21:11:44Z,2019-08-19T19:55:43Z
-awesome-lit-html,https://github.com/web-padawan/awesome-lit-html,web-padawan,A curated list of awesome lit-html resources.,,45,352,17,1,2019-08-21T12:47:31Z,2019-08-17T13:28:13Z
+awesome-lit-html,https://github.com/web-padawan/awesome-lit-html,web-padawan,A curated list of awesome lit-html resources.,,45,352,17,2,2019-08-21T12:47:31Z,2019-08-17T13:28:13Z
 awesome-livecoding,https://github.com/toplap/awesome-livecoding,toplap,All things livecoding,,85,916,82,7,2019-08-19T08:20:50Z,2019-07-22T17:17:11Z
 awesome-logging,https://github.com/roundrobin/awesome-logging,roundrobin,A curated list of delightful insights and packages and resources around logging!,,1,12,0,0,2019-01-30T16:52:48Z,2014-11-21T03:59:16Z
 awesome-love2d,https://github.com/love2d-community/awesome-love2d,love2d-community,"A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",,99,1476,102,2,2019-08-21T06:48:24Z,2019-08-03T04:53:27Z
@@ -814,7 +815,7 @@ awesome-programming-for-kids,https://github.com/HollyAdele/awesome-programming-f
 awesome-progressive-web-apps,https://github.com/TalAter/awesome-progressive-web-apps,TalAter,:sunrise: A collection of awesome resources for building progressive web apps,,56,1349,97,7,2019-08-20T18:41:44Z,2018-07-16T04:42:31Z
 awesome-projects-boilerplates,https://github.com/melvin0008/awesome-projects-boilerplates,melvin0008,Boilerplates for mobile and web apps,,40,750,107,10,2019-08-19T22:24:40Z,2019-06-04T14:43:54Z
 awesome-prometheus,https://github.com/roaldnefs/awesome-prometheus,roaldnefs,"A curated list of awesome Prometheus resources, projects and tools.",,26,416,51,1,2019-08-21T11:38:37Z,2019-06-20T10:20:27Z
-awesome-prometheus-alerts,https://github.com/samber/awesome-prometheus-alerts,samber,Collection of Prometheus alerting rules,https://awesome-prometheus-alerts.grep.to,40,321,50,18,2019-08-21T13:14:21Z,2019-08-08T14:51:23Z
+awesome-prometheus-alerts,https://github.com/samber/awesome-prometheus-alerts,samber,Collection of Prometheus alerting rules,https://awesome-prometheus-alerts.grep.to,40,322,50,18,2019-08-21T13:53:35Z,2019-08-08T14:51:23Z
 awesome-promises,https://github.com/wbinnssmith/awesome-promises,wbinnssmith,A curated list of useful resources for JavaScript Promises,,42,1198,106,2,2019-08-21T05:19:05Z,2017-12-31T09:37:50Z
 awesome-public-datasets,https://github.com/awesomedata/awesome-public-datasets,awesomedata,A topic-centric list of HQ open datasets. PR ☛☛☛,https://github.com/awesomedata/apd-core,2079,34654,5964,95,2019-08-21T13:11:38Z,2019-08-14T07:47:27Z
 awesome-puppet,https://github.com/olindata/awesome-puppet,olindata,A curated list of amazingly awesome puppet resources inspired by @bayandin's awesome-awesomeness.,,12,42,15,0,2019-08-15T20:59:11Z,2019-08-15T20:59:09Z
@@ -845,7 +846,7 @@ awesome-raspberry-pi,https://github.com/thibmaek/awesome-raspberry-pi,thibmaek,"
 awesome-react,https://github.com/enaqx/awesome-react,enaqx,A collection of awesome things regarding React ecosystem,,1355,32978,3821,22,2019-08-21T12:00:52Z,2019-08-21T01:09:09Z
 awesome-react-components,https://github.com/brillout/awesome-react-components,brillout,Catalog of React Components & Libraries,https://devarchy.com/react,630,18885,1406,2,2019-08-21T12:39:42Z,2019-08-21T10:37:34Z
 awesome-react-hooks,https://github.com/glauberfc/awesome-react-hooks,glauberfc,A curated list about React Hooks,,22,732,42,6,2019-08-19T15:44:01Z,2019-08-21T00:54:36Z
-awesome-react-native,https://github.com/jondot/awesome-react-native,jondot,"Awesome React Native components, news, tools, and learning material!",http://www.awesome-react-native.com,1110,25060,3059,27,2019-08-21T12:07:44Z,2019-08-13T10:15:34Z
+awesome-react-native,https://github.com/jondot/awesome-react-native,jondot,"Awesome React Native components, news, tools, and learning material!",http://www.awesome-react-native.com,1110,25060,3060,27,2019-08-21T12:07:44Z,2019-08-13T10:15:34Z
 awesome-readme,https://github.com/matiassingers/awesome-readme,matiassingers,A curated list of awesome READMEs,,141,5004,1233,11,2019-08-21T10:12:32Z,2019-08-16T11:10:57Z
 awesome-reasonml,https://github.com/vramana/awesome-reasonml,vramana,A collection of awesome things regarding Reason/OCaml ecosystem.,,56,1183,75,2,2019-08-20T12:56:48Z,2019-07-03T04:36:28Z
 awesome-recommender-system,https://github.com/Geek4IT/awesome-recommender-system,Geek4IT,"A curated list of awesome frameworks, libraries and software about Recommender System.",,5,25,3,1,2019-07-07T07:32:13Z,2016-11-11T12:46:07Z
@@ -875,7 +876,7 @@ awesome_podcast_list,https://github.com/AwesomeRubyist/awesome_podcast_list,Awes
 awesome_reading_list,https://github.com/AwesomeRubyist/awesome_reading_list,AwesomeRubyist,,,16,98,16,0,2019-07-15T12:05:40Z,2018-03-29T17:29:24Z
 awesome_resource_list,https://github.com/AwesomeRubyist/awesome_resource_list,AwesomeRubyist,Awesome resources and links for Ruby developers,,10,37,12,0,2019-07-15T12:05:40Z,2018-03-29T17:27:23Z
 awesome-rubymotion,https://github.com/motion-open-source/awesome-rubymotion,motion-open-source," A collection of awesome RubyMotion example apps, libraries, tools, frameworks, software and resources",http://motion-open-source.github.io/awesome-rubymotion/,9,82,12,1,2019-07-26T04:07:12Z,2018-03-23T15:55:31Z
-awesome-rust,https://github.com/rust-unofficial/awesome-rust,rust-unofficial,A curated list of Rust code and resources.,,600,11968,794,22,2019-08-21T11:34:32Z,2019-08-20T18:39:59Z
+awesome-rust,https://github.com/rust-unofficial/awesome-rust,rust-unofficial,A curated list of Rust code and resources.,,601,11969,794,22,2019-08-21T13:43:52Z,2019-08-20T18:39:59Z
 awesome-rxjava,https://github.com/eleventigers/awesome-rxjava,eleventigers,Useful resources for working with RxJava,,19,241,28,0,2019-08-19T03:05:21Z,2019-01-09T23:16:56Z
 awesome-salesforce,https://github.com/mailtoharshit/awesome-salesforce,mailtoharshit,A curated list of delightful Salesforce Platform Resources,,81,348,130,1,2019-08-19T20:38:43Z,2019-05-26T01:33:35Z
 awesome-saltstack,https://github.com/hbokh/awesome-saltstack,hbokh,"🧂 A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.",,25,292,32,0,2019-08-21T11:08:26Z,2019-07-07T10:07:46Z
@@ -885,13 +886,13 @@ awesome-sass,https://github.com/Famolus/awesome-sass,Famolus,"🎨 Curated list 
 awesome-sass,https://github.com/HugoGiraudel/awesome-sass,HugoGiraudel,A curated list of awesome Sass.,,74,706,60,0,2019-08-13T15:47:35Z,2016-09-27T20:51:24Z
 awesome-scala,https://github.com/lauris/awesome-scala,lauris,"A community driven list of useful Scala libraries, frameworks and software.",,673,7042,1080,4,2019-08-21T10:16:34Z,2019-08-15T02:24:12Z
 awesome-scala-native,https://github.com/tindzk/awesome-scala-native,tindzk, Compilation of Scala Native resources and libraries ,,24,117,5,0,2019-08-18T00:11:43Z,2019-07-29T05:59:47Z
-awesome-scalability,https://github.com/binhnguyennus/awesome-scalability,binhnguyennus,"The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",http://backendhub.com,1291,21460,2270,1,2019-08-21T13:05:19Z,2019-08-20T21:06:07Z
+awesome-scalability,https://github.com/binhnguyennus/awesome-scalability,binhnguyennus,"The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",http://backendhub.com,1293,21466,2270,1,2019-08-21T13:53:43Z,2019-08-20T21:06:07Z
 awesome-scientific-computing,https://github.com/nschloe/awesome-scientific-computing,nschloe,:sunglasses: Curated list of awesome software for numerical analysis,,21,144,15,0,2019-08-21T09:41:50Z,2019-08-09T18:18:47Z
 awesome-sdn,https://github.com/sdnds-tw/awesome-sdn,sdnds-tw,A awesome list about Software Defined Network (SDN),,76,585,120,0,2019-08-21T01:16:35Z,2019-04-13T00:01:06Z
 awesome-sec-talks,https://github.com/PaulSec/awesome-sec-talks,PaulSec,A collected list of awesome security talks,,309,2696,347,1,2019-08-19T10:39:53Z,2019-07-01T11:11:46Z
 awesome-security,https://github.com/sbilly/awesome-security,sbilly,"A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",,392,4749,880,0,2019-08-21T13:18:07Z,2019-07-16T01:25:17Z
 awesome-selenium,https://github.com/christian-bromann/awesome-selenium,christian-bromann,A curated list of delightful Selenium resources.,,54,508,87,0,2019-08-18T00:18:43Z,2019-07-28T22:22:34Z
-awesome-selfhosted,https://github.com/Kickball/awesome-selfhosted,Kickball,This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.,https://reddit.com/r/selfhosted,1415,34744,2785,56,2019-08-21T13:27:38Z,2019-08-21T12:06:16Z
+awesome-selfhosted,https://github.com/Kickball/awesome-selfhosted,Kickball,This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.,https://reddit.com/r/selfhosted,1415,34746,2785,56,2019-08-21T13:49:01Z,2019-08-21T12:06:16Z
 awesome-semantic-web,https://github.com/semantalytics/awesome-semantic-web,semantalytics,A curated list of various semantic web and linked data resources.,,40,286,56,11,2019-08-21T04:06:25Z,2019-08-11T14:57:16Z
 awesome-seo,https://github.com/teles/awesome-seo,teles,:star2: A curated list of SEO (Search Engine Optimization) links.,http://jotateles.com.br/awesome-seo/,19,228,27,0,2019-08-18T22:46:37Z,2019-03-19T12:16:18Z
 awesome-serverless,https://github.com/anaibol/awesome-serverless,anaibol,":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",,266,5411,515,2,2019-08-21T11:07:06Z,2019-08-15T19:59:40Z
@@ -920,13 +921,13 @@ awesome-spark,https://github.com/awesome-spark/awesome-spark,awesome-spark,A cur
 awesome-speakers,https://github.com/karlhorky/awesome-speakers,karlhorky,Awesome speakers in the programming and design communities,,19,686,158,2,2019-08-05T00:14:14Z,2019-06-26T21:18:19Z
 awesome-sphinxdoc,https://github.com/yoloseem/awesome-sphinxdoc,yoloseem,A curated list of awesome tools for Sphinx Python Documentation Generator,,40,568,47,3,2019-08-16T09:31:03Z,2019-07-15T06:11:20Z
 awesome-sqlalchemy,https://github.com/dahlia/awesome-sqlalchemy,dahlia,A curated list of awesome tools for SQLAlchemy,,93,1909,106,5,2019-08-20T16:12:08Z,2019-07-30T11:18:08Z
-awesome-sre,https://github.com/dastergon/awesome-sre,dastergon,A curated list of Site Reliability and Production Engineering resources.,https://sre.xyz,389,3791,477,6,2019-08-21T12:33:30Z,2019-08-05T11:02:31Z
+awesome-sre,https://github.com/dastergon/awesome-sre,dastergon,A curated list of Site Reliability and Production Engineering resources.,https://sre.xyz,389,3792,477,6,2019-08-21T13:50:05Z,2019-08-05T11:02:31Z
 awesome-ssh,https://github.com/moul/awesome-ssh,moul,:computer: A curated list of SSH resources.,https://manfred.life/awesome-ssh,67,1102,97,5,2019-08-21T02:17:38Z,2019-07-28T14:15:23Z
 awesome-stacks,https://github.com/stackshareio/awesome-stacks,stackshareio,A curated list of tech stacks for building different applications & features,https://awesomestacks.dev,75,1910,111,4,2019-08-21T08:08:16Z,2019-06-28T09:13:29Z
 awesome-standard,https://github.com/standard/awesome-standard,standard,Documenting the explosion of packages in the standard ecosystem!,https://standardjs.com,30,261,29,0,2019-08-20T03:21:59Z,2019-07-11T20:01:06Z
 awesome-stars,https://github.com/lichunqiang/awesome-stars,lichunqiang,:book: My own stars :star:,,8,68,21,1,2019-03-01T18:44:16Z,2016-11-07T02:09:19Z
 awesome-startup,https://github.com/KrishMunot/awesome-startup,KrishMunot,:sunglasses: All the required resources to build your own startup,,25,352,56,0,2019-08-19T15:30:24Z,2019-05-26T21:16:51Z
-awesome-static-analysis,https://github.com/mre/awesome-static-analysis,mre,Static analysis tools for all programming languages,https://matthias-endler.de/awesome-static-analysis/,290,5888,670,13,2019-08-21T11:24:31Z,2019-08-14T09:05:23Z
+awesome-static-analysis,https://github.com/mre/awesome-static-analysis,mre,Static analysis tools for all programming languages,https://matthias-endler.de/awesome-static-analysis/,290,5889,670,13,2019-08-21T13:47:30Z,2019-08-14T09:05:23Z
 awesome-static-generators,https://github.com/myles/awesome-static-generators,myles,A curated list of static web site generators.,https://myles.github.io/awesome-static-generators/,28,836,64,1,2019-08-20T15:03:30Z,2019-08-20T15:03:28Z
 awesome-static-website-services,https://github.com/agarrharr/awesome-static-website-services,agarrharr,📄 🛠 A curated list of awesome static websites services,,50,956,95,9,2019-08-20T11:50:22Z,2019-08-20T13:05:32Z
 awesome-steam,https://github.com/scholtzm/awesome-steam,scholtzm,😎 A curated list of packages and resources regarding Steam development,,33,265,20,1,2019-08-20T22:52:55Z,2018-04-24T10:44:54Z
@@ -1019,7 +1020,7 @@ awesome-yii,https://github.com/iJackUA/awesome-yii,iJackUA,ORIGINAL LIST MOVED T
 awesome-zsh-plugins,https://github.com/unixorn/awesome-zsh-plugins,unixorn,"A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.",,171,6526,272,7,2019-08-21T13:29:49Z,2019-08-21T13:29:48Z
 awesome,https://github.com/craftcms/awesome,craftcms,"A collection of awesome Craft CMS plugins, articles, resources and shiny things.",,23,379,39,0,2019-08-21T05:27:57Z,2019-04-30T16:02:29Z
 not-awesome-es6-classes,https://github.com/petsel/not-awesome-es6-classes,petsel,A curated list of resources on why ES6 (aka ES2015) classes are NOT awesome,,1,4,54,0,2019-08-05T21:17:45Z,2015-10-06T06:51:39Z
-awesome,https://github.com/sindresorhus/awesome,sindresorhus,😎 Awesome lists about all kinds of interesting topics,,6253,114457,15151,25,2019-08-21T12:22:57Z,2019-08-21T08:02:38Z
+awesome,https://github.com/sindresorhus/awesome,sindresorhus,😎 Awesome lists about all kinds of interesting topics,,6253,114460,15151,25,2019-08-21T13:52:22Z,2019-08-21T08:02:38Z
 awesome-all,https://github.com/bradoyler/awesome-all,bradoyler,"A curated list of awesome lists of awesome frameworks, libraries and software",http://bradoyler.github.io/awesome-all/,22,127,40,0,2019-07-29T08:05:42Z,2019-05-06T20:01:20Z
 awesome-android-awesomeness,https://github.com/yongjhih/awesome-android-awesomeness#awesomeness,yongjhih,A curated list of android awesomeness,,7,71,21,0,2019-08-18T16:48:45Z,2018-06-06T00:26:08Z
 awesome-awesome,https://github.com/aligoren/awesome-awesome,aligoren,A curated list of awesome lists,http://aligoren.github.io/awesome-awesome,1,17,3,0,2019-08-18T16:45:24Z,2015-05-27T17:32:32Z
@@ -1035,7 +1036,7 @@ getAwesomeness,https://github.com/panzhangwang/getAwesomeness,panzhangwang, Use 
 list-of-lists,https://github.com/cyrusstoller/list-of-lists,cyrusstoller,A meta list of lists of useful open source projects and developer tools,,2,15,2,0,2019-02-24T01:34:43Z,2014-12-30T00:39:29Z
 ListOfGithubLists,https://github.com/asciimoo/ListOfGithubLists,asciimoo,List of github lists,,23,309,36,0,2019-08-13T15:32:51Z,2016-10-15T16:20:05Z
 must-watch-list,https://github.com/adrianmoisey/must-watch-list,adrianmoisey,List of lists of videos that you must watch,,5,18,2,0,2019-07-30T11:58:54Z,2017-06-25T17:29:20Z
-lists,https://github.com/jnv/lists,jnv,The definitive list of lists (of lists) curated on GitHub,,282,5912,522,0,2019-08-21T13:27:53Z,2019-08-21T13:27:51Z
+lists,https://github.com/jnv/lists,jnv,The definitive list of lists (of lists) curated on GitHub,,282,5912,522,0,2019-08-21T13:50:50Z,2019-08-21T13:50:47Z
 wiki,https://github.com/huguangju/wiki,huguangju,"A curated list of awesome lists of JavaScript, CSS and Nodejs on Github",,8,67,34,10,2019-07-09T03:14:03Z,2017-11-17T02:06:12Z
 awesome-awesome-awesome,https://github.com/geekan/awesome-awesome-awesome,geekan,An awesome-awesome list.,,11,223,32,1,2019-08-18T16:51:35Z,2016-06-06T03:41:42Z
 awesome-awesome-awesome,https://github.com/t3chnoboy/awesome-awesome-awesome,t3chnoboy,:octocat: A a curated list of curated lists of awesome lists.,,95,1302,138,1,2019-08-21T02:18:54Z,2017-03-13T16:54:31Z
