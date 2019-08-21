@@ -615,6 +615,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-design](https://github.com/troyericg/awesome-design) – Resources for digital designers.
 * [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) – Resources on software design patterns.
 * [awesome-design-principles](https://github.com/robinstickel/awesome-design-principles)
+* [awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) – Implementing desktop apps with JavaScript
 * [awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun) – Fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 * [awesome-developer-blogs](https://github.com/endymion1818/awesome-developer-blogs)
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) – Tools, resources and workflow tips making an awesome development environment.
