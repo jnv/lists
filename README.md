@@ -116,6 +116,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [APTnotes](https://github.com/kbandla/APTnotes) – Various public documents, whitepapers and articles about APT [Advanced persistent threat] campaigns.
 * [asynchronous-php](https://github.com/elazar/asynchronous-php) – Asynchronous programming in PHP.
 * [Automated-SPA-Testing](https://github.com/webpro/Automated-SPA-Testing) – Automated unit & functional testing for web applications [JavaScript et al.].
+* [awmy](https://github.com/potch/awmy) – Are We Meta Yet?
+  - http://arewemetayet.com/
 * [Backpack](https://github.com/sevab/Backpack) – Various learning resources, organized by technology/topic.
 * [badass-dev-resources](https://github.com/sodevious/badass-dev-resources) – #bada55 front-end developer resources.
 * [bangalore-startups](https://github.com/hemanth/bangalore-startups) – Startups in Bangalore.
