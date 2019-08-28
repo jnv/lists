@@ -1000,6 +1000,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ruby](https://github.com/markets/awesome-ruby) by @markets
   - http://awesome-ruby.com/
 * [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby) by @Sdogruyol
+* [awesome-ruby-ast](https://github.com/rajasegar/awesome-ruby-ast) – Abstract Syntax Trees (AST) in Ruby
 * [AwesomeRubyist/awesome_podcast_list](https://github.com/AwesomeRubyist/awesome_podcast_list) – Podcasts about Ruby and development, also in Russian.
 * [AwesomeRubyist/awesome_reading_list](https://github.com/AwesomeRubyist/awesome_reading_list) – Books about Ruby and Rails.
 * [AwesomeRubyist/awesome_resource_list](https://github.com/AwesomeRubyist/awesome_resource_list) – Resources for Ruby and Rails.
