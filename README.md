@@ -214,6 +214,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [frontend-resources](https://github.com/zedix/frontend-resources) by @zedix
 * [frontend-stuff](https://github.com/moklick/frontend-stuff) – Framework/libraries/tools to use when building things on the web. Mostly Javascript stuff.
 * [frontend-tools](https://github.com/codylindley/frontend-tools) – Tools for frontend (i.e. html, js, css) desktop/laptop (i.e. does not include tablet or phone yet) web development
+* [fsharp-companies](https://github.com/Kavignon/fsharp-companies) – Companies that use F#
 * [game-datasets](https://github.com/leomaurodesenv/game-datasets) – Game datasets, tools for artificial intelligence in games
 * [games](https://github.com/leereilly/games) – Popular/awesome videos games, add-on, maps, etc. hosted on GitHub.
 * [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) – git and git flow cheat sheet
@@ -230,6 +231,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [guides](https://github.com/NARKOZ/guides) by @NARKOZ – Design and development guides
 * [guides](https://github.com/taniarascia/guides) by @taniarascia – Web Development Guides, Tutorials and Snippets.
 * [Hackathon-Resources](https://github.com/xasos/Hackathon-Resources) by @xasos – Hackathon Resources for organizers.
+* [haskell-companies](https://github.com/erkmos/haskell-companies) – Companies using Haskel
 * [haskell-must-watch](https://github.com/hzlmn/haskell-must-watch)
 * [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers)
 * [hipchat-alternatives](https://github.com/cjbarber/hipchat-alternatives)
@@ -323,6 +325,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [progressive-enhancement-resources](https://github.com/jbmoelker/progressive-enhancement-resources) – (code) examples.
 * [Projects](https://github.com/karan/Projects) – Practical projects that anyone can solve in any programming language.
 * [public-apis](https://github.com/public-apis/public-apis) – JSON APIs for use in web development.
+* [purescript-companies](https://github.com/ajnsit/purescript-companies) – Companies that use Purescript
 * [pycrumbs](https://github.com/kirang89/pycrumbs) – Bits and Bytes of Python from the Internet.
 * [py-must-watch](https://github.com/s16h/py-must-watch) by @s16h – Must-watch videos about Python.
 * [python-github-projects](https://github.com/checkcheckzz/python-github-projects) – Collect and classify python projects on Github.
