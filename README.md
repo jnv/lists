@@ -949,6 +949,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-pyramid](https://github.com/uralbash/awesome-pyramid) – Resources for Pyramid Python web framework.
 * [awesome-python](https://github.com/kevmo/awesome-python) by @kevmo
 * [awesome-python](https://github.com/vinta/awesome-python) by @vinta
+* [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - A curated list of Data science software in Python.
 * [awesome-python-in-education](https://github.com/quobit/awesome-python-in-education)
 * [awesome-python-models](https://github.com/grundic/awesome-python-models) – List of ORMs, models, schemas, serializers, etc. libraries  for python.
 * [awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) – Python software and packages related to scientific research in audio
