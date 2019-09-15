@@ -564,6 +564,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) – Competitive Programming, Algorithm and Data Structure resources
   - http://codeforces.com/blog/entry/23054
 * [awesome-composer](https://github.com/jakoch/awesome-composer) – Composer, Packagist, Satis PHP ecosystem
+* [awesome-computational-neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) – Schools and researchers in computational neuroscience
 * [awesome-computer-history](https://github.com/watson/awesome-computer-history) – Computer history videos, documentaries and related folklore.
 * [awesome-computer-vision](https://github.com/AGV-IIT-KGP/awesome-computer-vision) by @AGV-IIT-KGP
 * [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) by @jbhuang0604
