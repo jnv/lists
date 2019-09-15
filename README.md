@@ -134,6 +134,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) – Strings which have a high probability of causing issues when used as user-input data.
 * [bioinformatics-compbio-tools](https://github.com/lancelafontaine/bioinformatics-compbio-tools) – Bioinformatics and computational biology tools.
 * [bitcoin-reading-list](https://github.com/jashmenn/bitcoin-reading-list) – Learn to program Bitcoin transactions.
+* [BNN-ANN-papers](https://github.com/takyamamoto/BNN-ANN-papers) – Papers about Biological and Artificial Neural Networks related to (Computational) Neuroscience
 * [bookmarklets](https://github.com/RadLikeWhoa/bookmarklets) – Bookmarklets that are useful on the web
   - https://sacha.me/bookmarklets/
 * [bookshelf](https://github.com/OpenTechSchool/bookshelf) – Reading lists for learners.
