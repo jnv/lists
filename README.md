@@ -635,6 +635,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) – Tools, resources and workflow tips making an awesome development environment.
 * [awesome-devops](https://github.com/joubertredrat/awesome-devops)
 * [awesome-devtools](https://github.com/moimikey/awesome-devtools) – In-browser bookmarklets, tools, and resources for front-end devs.
+* [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) – Resources for Digital Nomads.
 * [awesome-digitalocean](https://github.com/jonleibowitz/awesome-digitalocean) – DigitalOcean cloud infrastructure provider
 * [awesome-diversity](https://github.com/folkswhocode/awesome-diversity) – Diversity in technology.
 * [awesome-django](https://github.com/wsvincent/awesome-django) – [Django](https://www.djangoproject.com/) Python web framewoek
