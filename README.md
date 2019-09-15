@@ -861,6 +861,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) _In Chinese_ – Resources and libraries for [Material Design](http://www.google.com/design/spec/material-design/introduction.html).
 * [awesome-math](https://github.com/rossant/awesome-math) – Mathematics
 * [awesome-MATLAB](https://github.com/mikecroucher/awesome-MATLAB)
+* [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) – Mechanical Keyboards
+  - https://keebfol.io
 * [awesome-mesos](https://github.com/dharmeshkakadia/awesome-mesos) by @dharmeshkakadia
 * [awesome-mesos](https://github.com/parolkar/awesome-mesos) by @parolkar
 * [awesome-meteor](https://github.com/Urigo/awesome-meteor)
