@@ -631,6 +631,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) – Computer vision / deep learning.
 * [awesome-deku](https://github.com/lambtron/awesome-deku) – Resources for the Deku library.
 * [awesome-delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
+* [awesome-deno](https://github.com/denolib/awesome-deno) – [Deno](https://deno.land/), a secure runtime for JavaScript and TypeScript.
 * [awesome-derby](https://github.com/russll/awesome-derby) – Components for DerbyJS.
 * [awesome-design](https://github.com/troyericg/awesome-design) – Resources for digital designers.
 * [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) – Resources on software design patterns.
