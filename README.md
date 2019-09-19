@@ -1151,6 +1151,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-vapor](https://github.com/Cellane/awesome-vapor) – [Vapor](https://vapor.codes/) Swift web framework
 * [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) – Implementations of the [Mapbox Vector Tile](https://www.mapbox.com/developers/vector-tiles/) specification.
 * [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) – Vehicle security and car hacking
+* [awesome-vhdl](https://github.com/VHDL/awesome-vhdl) – VHDL hardware description language
 * [awesome-vim](https://github.com/akrawchyk/awesome-vim) by @akrawchyk
 * [awesome-vim](https://github.com/matteocrippa/awesome-vim) by @matteocrippa
 * [awesome-volt](https://github.com/heri/awesome-volt) – [Volt](http://voltframework.com/) Ruby web framework.
