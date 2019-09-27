@@ -241,6 +241,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [haskell-must-watch](https://github.com/hzlmn/haskell-must-watch)
 * [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers)
 * [hipchat-alternatives](https://github.com/cjbarber/hipchat-alternatives)
+* [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - Companies that don't have a broken hiring process.
 * [htaccess](https://github.com/phanan/htaccess) – Useful .htaccess snippets.
 * [idaplugins-list](https://github.com/onethawt/idaplugins-list) – Plugins for [IDA disassembler](https://www.hex-rays.com/products/ida/).
 * [ideas](https://github.com/samsquire/ideas) – One Hundred Ideas for Computing
@@ -332,6 +333,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [programming-talks](https://github.com/hellerve/programming-talks) – Awesome & Interesting Talks concerning Programming
 * [progressive-enhancement-resources](https://github.com/jbmoelker/progressive-enhancement-resources) – (code) examples.
 * [Projects](https://github.com/karan/Projects) – Practical projects that anyone can solve in any programming language.
+* [project-based-learning](https://github.com/tuvtran/project-based-learning) – Project-based tutorials.
 * [public-apis](https://github.com/public-apis/public-apis) – JSON APIs for use in web development.
 * [purescript-companies](https://github.com/ajnsit/purescript-companies) – Companies that use Purescript
 * [pycrumbs](https://github.com/kirang89/pycrumbs) – Bits and Bytes of Python from the Internet.
