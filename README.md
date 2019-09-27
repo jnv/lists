@@ -329,6 +329,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [programmers-proverbs](https://github.com/AntJanus/programmers-proverbs) – Proverbs from the programmer
 * [programming-talks](https://github.com/hellerve/programming-talks) – Awesome & Interesting Talks concerning Programming
 * [progressive-enhancement-resources](https://github.com/jbmoelker/progressive-enhancement-resources) – (code) examples.
+* [project-based-learning](https://github.com/tuvtran/project-based-learning) – Project-based tutorials
+
 * [Projects](https://github.com/karan/Projects) – Practical projects that anyone can solve in any programming language.
 * [public-apis](https://github.com/public-apis/public-apis) – JSON APIs for use in web development.
 * [purescript-companies](https://github.com/ajnsit/purescript-companies) – Companies that use Purescript
