@@ -241,7 +241,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [haskell-must-watch](https://github.com/hzlmn/haskell-must-watch)
 * [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers)
 * [hipchat-alternatives](https://github.com/cjbarber/hipchat-alternatives)
-* [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - Companies that don't have a broken hiring process.
+* [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) – Companies that don't have a broken hiring process.
 * [htaccess](https://github.com/phanan/htaccess) – Useful .htaccess snippets.
 * [idaplugins-list](https://github.com/onethawt/idaplugins-list) – Plugins for [IDA disassembler](https://www.hex-rays.com/products/ida/).
 * [ideas](https://github.com/samsquire/ideas) – One Hundred Ideas for Computing
@@ -332,8 +332,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [programmers-proverbs](https://github.com/AntJanus/programmers-proverbs) – Proverbs from the programmer
 * [programming-talks](https://github.com/hellerve/programming-talks) – Awesome & Interesting Talks concerning Programming
 * [progressive-enhancement-resources](https://github.com/jbmoelker/progressive-enhancement-resources) – (code) examples.
-* [Projects](https://github.com/karan/Projects) – Practical projects that anyone can solve in any programming language.
 * [project-based-learning](https://github.com/tuvtran/project-based-learning) – Programming tutorials to build an application from scratch.
+* [Projects](https://github.com/karan/Projects) – Practical projects that anyone can solve in any programming language.
 * [public-apis](https://github.com/public-apis/public-apis) – JSON APIs for use in web development.
 * [purescript-companies](https://github.com/ajnsit/purescript-companies) – Companies that use Purescript
 * [pycrumbs](https://github.com/kirang89/pycrumbs) – Bits and Bytes of Python from the Internet.
@@ -372,8 +372,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [rx-react-flux](https://github.com/christianramsey/rx-react-flux) – RxJS + React/Flux implementations.
 * [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list) – Collected dispatches from The Quest for Scalable CSS.
 * [search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) – Checklist / collection of Search Engine Optimization (SEO) tips and technics.
-* [secure-email](https://github.com/OpenTechFund/secure-email) – Overview of projects working on next-generation secure email.
 * [SecLists](https://github.com/danielmiessler/SecLists) – Lists used during security assessments: usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, etc.
+* [secure-email](https://github.com/OpenTechFund/secure-email) – Overview of projects working on next-generation secure email.
 * [Security_list](https://github.com/zbetcheckin/Security_list)
 * [services-engineering](https://github.com/mmcgrana/services-engineering) – A reading list for services engineering, with a focus on cloud infrastructure services.
 * [shareable-links](https://github.com/vinkla/shareable-links) – URLs for sharing on social media.
@@ -429,8 +429,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [webdevresourcecuration](https://github.com/lwakefield/webdevresourcecuration)
 * [weekly](https://github.com/zenany/weekly) _In Chinese_ – Weekly summary of articles and resources.
 * [what-next](https://github.com/messa/what-next) _In Czech_ – Co dělat, když se chci naučit programovat ještě víc.
-* [Worth-Reading-the-Android-technical-articles](https://github.com/zmywly8866/Worth-Reading-the-Android-technical-articles) _In Chinese_
 * [Women-Made-It](https://github.com/LisaDziuba/Women-Made-It) – Design & development tools, books, podcasts, and blogs made by women.
+* [Worth-Reading-the-Android-technical-articles](https://github.com/zmywly8866/Worth-Reading-the-Android-technical-articles) _In Chinese_
 * [You-Dont-Need.com](https://github.com/you-dont-need/You-Dont-Need.com) – People choose popular projects, often not because it applies to their problems.
 
 
@@ -847,7 +847,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers) – Linux Containers frameworks, libraries and software
 * [awesome-linux-resources](https://github.com/itech001/awesome-linux-resources)
   - http://www.linux6.com
-* [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - Linux applications for all users and developers.
+* [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) – Linux applications for all users and developers.
 * [awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) – Professional audio/video/live events production on Linux.
 * [awesome-lit-html](https://github.com/web-padawan/awesome-lit-html) – [lit-html](https://lit-html.polymer-project.org/) HTML templating library
 * [awesome-livecoding](https://github.com/toplap/awesome-livecoding) – All things Livecoding.
@@ -956,7 +956,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art)
 * [awesome-play1](https://github.com/PerfectCarl/awesome-play1) – Play Framework 1.x modules, tools, and resources.
 * [awesome-plotters](https://github.com/beardicus/awesome-plotters) – Computer-controlled drawing machines and other visual art robots.
-* [awesome-podcasts](https://github.com/Ghosh/awesome-podcasts) – Podcasts for designers, developers, product managers, entrepreneurs and hustlers
+* [awesome-podcasts](https://github.com/Ghosh/awesome-podcasts) by @Ghosh – Podcasts for designers, developers, product managers, entrepreneurs and hustlers
   - http://podcasts.surge.sh/
 * [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) by @rShetty – Important Podcasts for software engineers.
 * [awesome-pokemon](https://github.com/tobiasbueschel/awesome-pokemon) – Pokémon & Pokémon Go
