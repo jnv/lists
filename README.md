@@ -20,6 +20,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [aksh](https://github.com/svaksha/aksh) – Bibliography of STEM (Science, Technology, Engineering & Mathematics) resources and grey literature.
 * [amas](https://github.com/sindresorhus/amas) – Awesome & Marvelous Amas (Ask Me Anything) on GitHub
 * [Annual-Reading-List](https://github.com/davidskeck/Annual-Reading-List) – Things to read every year.
+* [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - A list of creations you can do on your Raspberry Pi.
 * [awesomebandnames](https://github.com/jnv/awesomebandnames) – The open-source list of awesome band names.
 * [awesome-belarus-online](https://github.com/Friz-zy/awesome-belarus-online) – Useful belarusian online resources.
 * [awesome-biology](https://github.com/raivivek/awesome-biology) – Learning resources, research papers, tools and other resources related to Biology.
