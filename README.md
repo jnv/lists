@@ -240,6 +240,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [guides](https://github.com/NARKOZ/guides) by @NARKOZ – Design and development guides
 * [guides](https://github.com/taniarascia/guides) by @taniarascia – Web Development Guides, Tutorials and Snippets.
 * [Hackathon-Resources](https://github.com/xasos/Hackathon-Resources) by @xasos – Hackathon Resources for organizers.
+* [hack-chat/3rd-party-software-list](https://github.com/hack-chat/3rd-party-software-list) – Bots, clients, and other software people have made for [hack.chat](https://hack.chat).
 * [haskell-companies](https://github.com/erkmos/haskell-companies) – Companies using Haskel
 * [haskell-must-watch](https://github.com/hzlmn/haskell-must-watch)
 * [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers)
