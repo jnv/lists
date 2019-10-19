@@ -80,6 +80,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [sf-vegetarian-restaurants](https://github.com/mojombo/sf-vegetarian-restaurants) – Awesome vegetarian-friendly restaurants in SF
 * [shelfies](https://github.com/kyro/shelfies) – Bookshelves of awesome people, community-transcribed.
 * [SiliconValleyThingsToDo](https://github.com/cjbarber/SiliconValleyThingsToDo) – Things to do and activities within Silicon Valley.
+* [Sustainable-Earth](https://github.com/bizz84/Sustainable-Earth) – All things sustainable
 * [tacofancy](https://github.com/sinker/tacofancy) – community-driven taco repo. stars stars stars.
 * [teesites](https://github.com/elder-cb/teesites) – Great sites to buy awesome t-shirts and other cool stuff.
 
