@@ -748,6 +748,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-gists](https://github.com/vsouza/awesome-gists) – Amazing gists
 * [awesome-git](https://github.com/dictcp/awesome-git) – Git tools, resources and shiny things.
 * [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) – Add-ons that extend/enhance the git CLI.
+* [awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) – Easy-to-use git hooks for automating tasks during git workflows.
 * [awesome-github](https://github.com/AntBranch/awesome-github) _In Chinese_ by @AntBranch – GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
   - https://github.com/AntBranch/awesome-github
 * [awesome-github](https://github.com/fffaraz/awesome-github) by @fffaraz – Git and GitHub references.
