@@ -398,6 +398,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [structured-text-tools](https://github.com/dbohdan/structured-text-tools) – Command line tools for manipulating structured text data
 * [sublime](https://github.com/JaredCubilla/sublime) – Some of the best Sublime Text packages, themes, and goodies.
 * [sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks) – Sublime Text essential plugins and resources.
+* [svelte/integrations](https://github.com/sveltejs/integrations) – Ways to incorporate [Svelte](https://svelte.dev/) framework into your stack
 * [SwiftInFlux](https://github.com/ksm/SwiftInFlux) – An attempt to gather all that is in flux in Swift.
 * [tech-weekly](https://github.com/adrianmoisey/tech-weekly) – Weekly technical newsletters.
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) – Terminal frameworks, plugins & resources for CLI lovers.
@@ -1125,7 +1126,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-styleguides](https://github.com/RichardLitt/awesome-styleguides)
 * [awesome-svelte](https://github.com/CalvinWalzel/awesome-svelte) – [Svelte](https://svelte.dev/) framework
 * [awesome-svelte-resources](https://github.com/ryanatkn/awesome-svelte-resources) – [Svelte](https://svelte.dev/) framework
-* [awesome-sveltejs](https://github.com/flagello/awesome-sveltejs) – Ways to incorporate [Svelte](https://svelte.dev) web framework into your stack
 * [awesome-svg](https://github.com/willianjusten/awesome-svg)
 * [awesome-swedish-opensource](https://github.com/gurre/awesome-swedish-opensource) – Open-source projects from Swedes
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift) by @matteocrippa
