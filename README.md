@@ -776,6 +776,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-hacking](https://github.com/carpedm20/awesome-hacking)
 * [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) – Hadoop and Hadoop ecosystem resources.
 * [awesome-haskell](https://github.com/krispo/awesome-haskell)
+* [awesome-hasura](https://github.com/aaronhayes/awesome-hasura) - Hasura ecoystem resources, libraries, and tools.
 * [awesome-haxe-gamedev](https://github.com/dvergar/awesome-haxe-gamedev) – Game development in [Haxe](https://haxe.org/) cross-platform programming language
 * [awesome-hbase](https://github.com/rayokota/awesome-hbase) – Apache HBase
 * [awesome-hdl](https://github.com/drom/awesome-hdl) – Hardware Description Languages
