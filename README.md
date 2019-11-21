@@ -479,9 +479,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-asciidoc](https://github.com/bodiam/awesome-asciidoc) – Collection of AsciiDoc tools, guides, tutorials and examples of usage.
 * [awesome-asciidoctor](https://github.com/dongwq/awesome-asciidoctor) – Collection of asciidoctor’s intros, examples and usages.
 * [awesome-asm](https://github.com/lurumdare/awesome-asm) – Assembler
-* [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) – [asyncio](https://docs.python.org/3/library/asyncio.html) Python library
-* [awesome-asyncio-cn](https://github.com/chenjiandongx/awesome-asyncio-cn) _In Chinese_ – [asyncio](https://docs.python.org/3/library/asyncio.html) Python library
-  - https://awesome-asyncio-cn.chenjiandongx.com/
+* [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) – Python asyncio frameworks, libraries, software and resources
 * [awesome-atom](https://github.com/mehcode/awesome-atom) – [Atom](https://atom.io/) text editor
 * [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)
 * [awesome-aurelia](https://github.com/aurelia-contrib/awesome-aurelia) – [Aurelia](https://aurelia.io/) JavaScript framework
