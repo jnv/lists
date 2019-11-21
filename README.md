@@ -208,7 +208,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) – Open Source, Free Full Stack Training with hours of coding challenges, projects, and certifications.
   - https://www.freecodecamp.org/
 * [free-for-dev](https://github.com/ripienaar/free-for-dev) – Software, SaaS, PaaS etc offerings that have free tiers for devs.
-  - https://free-for.dev/
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
   - http://resrc.io/list/10/list-of-free-programming-books/
 * [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) _In Chinese_
