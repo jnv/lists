@@ -298,7 +298,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [net-libraries-that-make-your-life-easier](https://github.com/tallesl/net-libraries-that-make-your-life-easier) – Open Source .NET libraries that make your life easier.
 * [neural-network-papers](https://github.com/robertsdionne/neural-network-papers)
 * [nginx-resources](https://github.com/fcambus/nginx-resources) – Nginx web server (+ Lua), OpenResty and Tengine.
-* [nlp_thai_resources](https://github.com/kobkrit/nlp_thai_resources) – Natural Language Processing for Thai
 * [nlp-with-ruby](https://github.com/arbox/nlp-with-ruby) – Practical Natural Language Processing done in Ruby
   - http://rubynlp.org
 * [node-daily](https://github.com/dailyNode/node-daily) _In Chinese_ – Daily article about Node.js.
