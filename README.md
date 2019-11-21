@@ -756,7 +756,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-haskell](https://github.com/krispo/awesome-haskell)
 * [awesome-haxe-gamedev](https://github.com/dvergar/awesome-haxe-gamedev) – Game development in [Haxe](https://haxe.org/) cross-platform programming language
 * [awesome-hbase](https://github.com/rayokota/awesome-hbase) – Apache HBase
-* [awesome-hdl](https://github.com/drom/awesome-hdl) – Hardware Description Languages
 * [awesome-healthcare](https://github.com/kakoni/awesome-healthcare) – Open source healthcare software, libraries, tools and resources.
 * [awesome-heroku](https://github.com/ianstormtaylor/awesome-heroku) – Heroku resources.
 * [awesome_hierarchical_matrices](https://github.com/gchavez2/awesome_hierarchical_matrices) – Hierarchical matrices frameworks, libraries, and software.
