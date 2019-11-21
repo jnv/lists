@@ -1170,7 +1170,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-userscripts](https://github.com/brunocvcunha/awesome-userscripts)
 * [awesome-v](https://github.com/vlang/awesome-v) – [V](https://vlang.io/) programming language
 * [awesome-vagrant](https://github.com/iJackUA/awesome-vagrant)
-* [awesome-vanilla-js](https://github.com/davidhund/awesome-vanilla-js) – Plain—‘Vanilla’—JavaScript
 * [awesome-vapor](https://github.com/Cellane/awesome-vapor) – [Vapor](https://vapor.codes/) Swift web framework
 * [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) – Implementations of the [Mapbox Vector Tile](https://www.mapbox.com/developers/vector-tiles/) specification.
 * [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) – Vehicle security and car hacking
