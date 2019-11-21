@@ -678,8 +678,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-emacs](https://github.com/tacticiankerala/awesome-emacs) by @tacticiankerala
 * [awesome-emails](https://github.com/jonathandion/awesome-emails) – Build better emails.
 * [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) – Embedded and Low-level development in the Rust programming language
-* [awesome-ember](https://github.com/ember-community-russia/awesome-ember) by @ember-community-russia – [Ember.js](https://emberjs.com/) JavaScript framework
-* [awesome-ember](https://github.com/nmec/awesome-ember) by @nmec – Ember.js things.
+* [awesome-ember](https://github.com/nmec/awesome-ember) – Ember.js things.
 * [awesome-endless-codeforall-list](https://github.com/RobTranquillo/awesome-endless-codeforall-list) – Every tool that civic hackers worldwide use to work.
 * [awesome-eosio](https://github.com/DanailMinchev/awesome-eosio) – [EOS.IO](https://eos.io/) blockchain protocol
 * [awesome-erlang](https://github.com/drobakowski/awesome-erlang)
