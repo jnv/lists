@@ -43,7 +43,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - http://svaksha.github.io/diversity-index
 * [diversity-twitter](https://github.com/gregorycoleman/diversity-twitter) – Twitter feeds of interesting people to follow for Diversity & Inclusion
 * [endangered-languages](https://github.com/RichardLitt/endangered-languages) – Conservation, development, and documentation of endangered, minority, and low or under-resourced human languages.
-* [food](https://notabug.org/themusicgod1/food)
 * [food-recipes](https://github.com/obfuscurity/food-recipes) – Honest-to-goodness "real food" recipes
 * [frequent-transit-maps](https://github.com/wwcline/list-of-frequent-transit-maps) – Transit maps highlighting frequent all-day service
 * [isaacs/reading-list](https://github.com/isaacs/reading-list) – [isaac](https://github.com/isaacs)'s reading list.
