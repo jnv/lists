@@ -89,7 +89,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [10PL](https://github.com/nuprl/10PL) – 10 papers that all PhD students in programming languages ought to know, for some value of 10.
 * [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) – JavaScript snippets you can understand in 30 seconds or less.
   - https://30secondsofcode.org/
-* [30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) – Common interview questions to help you prepare for your next interview.
 * [a11yproject.com](https://github.com/a11yproject/a11yproject.com) – A community–driven effort to make web accessibility easier.
   - https://a11yproject.com
 * [addinslist](https://github.com/daattali/addinslist) – Useful [RStudio](https://www.rstudio.com/) addins
@@ -241,7 +240,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [haskell-must-watch](https://github.com/hzlmn/haskell-must-watch)
 * [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers)
 * [hipchat-alternatives](https://github.com/cjbarber/hipchat-alternatives)
-* [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - Companies that don't have a broken hiring process.
 * [htaccess](https://github.com/phanan/htaccess) – Useful .htaccess snippets.
 * [idaplugins-list](https://github.com/onethawt/idaplugins-list) – Plugins for [IDA disassembler](https://www.hex-rays.com/products/ida/).
 * [ideas](https://github.com/samsquire/ideas) – One Hundred Ideas for Computing
@@ -292,7 +290,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [maintenance-modules](https://github.com/maxogden/maintenance-modules) – NPM / Node.js modules useful for maintaining or developing modules
 * [manong](https://github.com/nemoTyrant/manong) _In Chinese_ – Weekly digest of technology
 * [markdown-resources](https://github.com/rhythmus/markdown-resources) – Markdown resources: apps, dialects, parsers, people, …
-* [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) – Marketing articles & tools to grow your product.
 * [mind-bicycles](https://github.com/pel-daniel/mind-bicycles) – Future of programming projects
 * [motion-ui-design](https://github.com/fliptheweb/motion-ui-design) – Motion UI design, animations and transitions.
 * [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
@@ -333,7 +330,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [programming-talks](https://github.com/hellerve/programming-talks) – Awesome & Interesting Talks concerning Programming
 * [progressive-enhancement-resources](https://github.com/jbmoelker/progressive-enhancement-resources) – (code) examples.
 * [Projects](https://github.com/karan/Projects) – Practical projects that anyone can solve in any programming language.
-* [project-based-learning](https://github.com/tuvtran/project-based-learning) – Programming tutorials to build an application from scratch.
 * [public-apis](https://github.com/public-apis/public-apis) – JSON APIs for use in web development.
 * [purescript-companies](https://github.com/ajnsit/purescript-companies) – Companies that use Purescript
 * [pycrumbs](https://github.com/kirang89/pycrumbs) – Bits and Bytes of Python from the Internet.
@@ -373,8 +369,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list) – Collected dispatches from The Quest for Scalable CSS.
 * [search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) – Checklist / collection of Search Engine Optimization (SEO) tips and technics.
 * [secure-email](https://github.com/OpenTechFund/secure-email) – Overview of projects working on next-generation secure email.
-* [SecLists](https://github.com/danielmiessler/SecLists) – Lists used during security assessments: usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, etc.
-* [Security_list](https://github.com/zbetcheckin/Security_list)
 * [services-engineering](https://github.com/mmcgrana/services-engineering) – A reading list for services engineering, with a focus on cloud infrastructure services.
 * [shareable-links](https://github.com/vinkla/shareable-links) – URLs for sharing on social media.
 * [shellshocker-pocs](https://github.com/mubix/shellshocker-pocs) – Proof of concepts and potential targets for Shellshock.
@@ -430,7 +424,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [weekly](https://github.com/zenany/weekly) _In Chinese_ – Weekly summary of articles and resources.
 * [what-next](https://github.com/messa/what-next) _In Czech_ – Co dělat, když se chci naučit programovat ještě víc.
 * [Worth-Reading-the-Android-technical-articles](https://github.com/zmywly8866/Worth-Reading-the-Android-technical-articles) _In Chinese_
-* [Women-Made-It](https://github.com/LisaDziuba/Women-Made-It) – Design & development tools, books, podcasts, and blogs made by women.
 * [You-Dont-Need.com](https://github.com/you-dont-need/You-Dont-Need.com) – People choose popular projects, often not because it applies to their problems.
 
 
@@ -644,9 +637,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-design](https://github.com/troyericg/awesome-design) – Resources for digital designers.
 * [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) – Resources on software design patterns.
 * [awesome-design-principles](https://github.com/robinstickel/awesome-design-principles)
-* [awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
-* [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
-  - https://flawlessapp.io/designtools
 * [awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) – Implementing desktop apps with JavaScript
 * [awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun) – Fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 * [awesome-developer-blogs](https://github.com/endymion1818/awesome-developer-blogs)
@@ -847,7 +837,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers) – Linux Containers frameworks, libraries and software
 * [awesome-linux-resources](https://github.com/itech001/awesome-linux-resources)
   - http://www.linux6.com
-* [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - Linux applications for all users and developers.
 * [awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) – Professional audio/video/live events production on Linux.
 * [awesome-lit-html](https://github.com/web-padawan/awesome-lit-html) – [lit-html](https://lit-html.polymer-project.org/) HTML templating library
 * [awesome-livecoding](https://github.com/toplap/awesome-livecoding) – All things Livecoding.
@@ -958,7 +947,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-plotters](https://github.com/beardicus/awesome-plotters) – Computer-controlled drawing machines and other visual art robots.
 * [awesome-podcasts](https://github.com/Ghosh/awesome-podcasts) – Podcasts for designers, developers, product managers, entrepreneurs and hustlers
   - http://podcasts.surge.sh/
-* [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) by @rShetty – Important Podcasts for software engineers.
 * [awesome-pokemon](https://github.com/tobiasbueschel/awesome-pokemon) – Pokémon & Pokémon Go
 * [awesome-polymer](https://github.com/Granze/awesome-polymer) – [Polymer Project](https://www.polymer-project.org/)
 * [awesome-postcss](https://github.com/jdrgomes/awesome-postcss) – [PostCSS](https://postcss.org/) CSS processor
@@ -991,7 +979,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) – Python software and packages related to scientific research in audio
 * [awesome-python-talks](https://github.com/jhermann/awesome-python-talks) – Videos related to Python, with a focus on training and gaining hands-on experience.
 * [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) – Python types, stubs, plugins, and tools to work with them.
-* [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) – [PyTorch](https://pytorch.org/) Python machine learning framework.
 * [awesome-qa](https://github.com/seriousmac/awesome-qa) – [Question Answering](https://en.wikipedia.org/wiki/Question_answering) systems automatically answer questions asked in a natural language
 * [awesome-qsharp](https://github.com/ebraminio/awesome-qsharp) – [Q#](https://docs.microsoft.com/en-us/quantum/) quantum programming language
 * [awesome-qt](https://github.com/JesseTG/awesome-qt) by @JesseTG – Qt framework
