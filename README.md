@@ -517,7 +517,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-blockchain](https://github.com/istinspring/awesome-blockchain) by @istinspring – Projects and services based on blockchain technology
 * [awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai) – Blockchain projects for Artificial Intelligence and Machine Learning
 * [awesome-blockchains](https://github.com/openblockchains/awesome-blockchains) – Blockchains - open distributed databases w/ crypto hashes incl. git
-* [awesome-blockstack](https://github.com/jackzampolin/awesome-blockstack) – [Blockstack](https://blockstack.org/) decentralized computing platform
 * [awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring) – Resources for technical book authors
 * [awesome-bootstrap](https://github.com/therebelrobot/awesome-bootstrap) – Free Bootstrap themes I think are cool.
 * [awesome-bpm](https://github.com/ungerts/awesome-bpm) – Business Process Management (BPM) awesomeness.
