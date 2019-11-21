@@ -130,7 +130,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Best-App](https://github.com/hzlzh/Best-App) _In Chinese_ – Recommendations for best desktop and mobile apps.
 * [best-of-awesomeness-and-usefulness-for-webdev](https://github.com/Pestov/best-of-awesomeness-and-usefulness-for-webdev) – Digest of the most useful tools and resources for the last year.
   - [Russian version](https://github.com/Pestov/best-of-awesomeness-and-usefulness-for-webdev/tree/master/ru)
-* [best-practices-checklist](https://github.com/palash25/best-practices-checklist) – Language-specific resources to look up the best practices followed by that particular language's community.
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) – Some useful websites for programmers.
 * [bigdata-ecosystem](https://github.com/zenkay/bigdata-ecosystem) – Big-data related projects packed into a JSON dataset.
   - http://bigdata.andreamostosi.name/
