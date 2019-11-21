@@ -542,6 +542,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-code-review](https://github.com/joho/awesome-code-review)
 * [awesome-codepoints](https://github.com/Codepoints/awesome-codepoints) – Interesting Unicode characters
 * [awesome-coins](https://github.com/kennethreitz/awesome-coins) – Guide to cryto-currencies and their algos.
+  - https://coinbin.org/
 * [awesome-coldfusion](https://github.com/seancoyne/awesome-coldfusion)
 * [awesome-common-lisp-learning-list](https://github.com/GustavBertram/awesome-common-lisp-learning-list)
 * [awesome-community](https://github.com/phpearth/awesome-community) – development, support and discussion channels, groups and communities.
@@ -626,7 +627,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-dotnet](https://github.com/quozd/awesome-dotnet) – .NET libraries, tools, frameworks and software.
 * [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) – .NET core libraries, tools, frameworks and software
 * [awesome-draft-js](https://github.com/nikgraf/awesome-draft-js) – [Draft.js](https://draftjs.org/) text editor framework
-* [awesome-dropwizard](https://github.com/stve/awesome-dropwizard) – [Dropwizard](https://www.dropwizard.io/) Java web framework
+* [awesome-dropwizard](https://github.com/stve/awesome-dropwizard) – [Dropwizar](https://www.dropwizard.io/) Java web framework
 * [awesome-drupal](https://github.com/emincansumer/awesome-drupal) by @emincansumer
 * [awesome-drupal](https://github.com/mrsinguyen/awesome-drupal) by @mrsinguyen
 * [awesome-drupal](https://github.com/nirgn975/awesome-drupal) by @nirgn975 – Useful resources for Drupal CMS :droplet:
@@ -650,10 +651,11 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ember](https://github.com/nmec/awesome-ember) – Ember.js things.
 * [awesome-endless-codeforall-list](https://github.com/RobTranquillo/awesome-endless-codeforall-list) – Every tool that civic hackers worldwide use to work.
 * [awesome-eosio](https://github.com/DanailMinchev/awesome-eosio) – [EOS.IO](https://eos.io/) blockchain protocol
+  - https://eos.io/
 * [awesome-erlang](https://github.com/drobakowski/awesome-erlang)
 * [awesome-eslint](https://github.com/dustinspecker/awesome-eslint) – [ESLint](https://eslint.org/) JavaScript linter
 * [awesome-esolangs](https://github.com/angrykoala/awesome-esolangs) – Esoteric languages
-* [awesome-eta](https://github.com/sfischer13/awesome-eta) – [Eta](https://eta-lang.org/) programming language
+* [awesome-eta](https://github.com/sfischer13/awesome-eta) – :star: Useful resources for the Eta programming language
 * [awesome-ethereum](https://github.com/btomashvili/awesome-ethereum) by @btomashvili – [Ethereum](https://ethereum.org/) decentralized software platform & Dapps.
 * [Awesome-Ethereum](https://github.com/Tom2718/Awesome-Ethereum) by @Tom2718
 * [awesome-ethereum](https://github.com/vinsgo/awesome-ethereum) by @vinsgo
@@ -913,6 +915,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell)
 * [awesome-preact](https://github.com/ooade/awesome-preact) – [Preact](https://github.com/preactjs/preact) JavaScript framework
 * [awesome-prisma](https://github.com/catalinmiron/awesome-prisma) – [Prisma](https://www.prisma.io/) GraphQL library
+  - https://www.prisma.io/
 * [awesome-product-design](https://github.com/teoga/awesome-product-design) – Bookmarks, resources, articles for product designers.
 * [awesome-product-management](https://github.com/dend/awesome-product-management) – Resources for product/program managers to learn and grow.
 * [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) – Delightful productivity resources.
@@ -1002,6 +1005,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-scala](https://github.com/lauris/awesome-scala) – Scala programming language
 * [awesome-scala-native](https://github.com/tindzk/awesome-scala-native) – [Scala Native](http://www.scala-native.org) compiler
 * [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) – The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+  - http://prostack.io/
 * [awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing) – Software for numerical analysis
 * [awesome-sdn](https://github.com/sdnds-tw/awesome-sdn) – Software Defined Network (SDN)
 * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) – Security talks.
