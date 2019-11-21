@@ -536,7 +536,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-clojurescript](https://github.com/hantuzun/awesome-clojurescript)
 * [awesome-cloud](https://github.com/JStumpp/awesome-cloud) – Delightful cloud services.
 * [awesome-cmake](https://github.com/onqtam/awesome-cmake) – CMake
-* [awesome-cms](https://github.com/postlight/awesome-cms) – Open and closed source Content Management Systems (CMS)
 * [awesome-cocoa](https://github.com/v-braun/awesome-cocoa) – Cocoa controls for iOS, watchOS and macOS
   - http://cocoa.rocks
 * [awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters)
