@@ -181,7 +181,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - http://hangtwenty.github.io/dive-into-machine-learning/
 * [django-must-watch](https://gitlab.com/rosarior/django-must-watch) – Must-watch videos bout Django web framework + Python.
 * [DL4NLP](https://github.com/andrewt3000/DL4NLP) – Deep Learning for Natural Language Processing resources.
-* [dumb-password-rules](https://github.com/dumb-password-rules/dumb-password-rules) – Shaming sites with dumb password rules.
 * [easy-application](https://github.com/j-delaney/easy-application) – Software engineering companies that are easy to apply to.
 * [effects-bibliography](https://github.com/yallop/effects-bibliography) – A collaborative bibliography of work related to the theory and practice of computational effects
 * [ElixirBooks](https://github.com/sger/ElixirBooks) – Elixir programming language books
