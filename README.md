@@ -203,7 +203,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [es6-tools](https://github.com/addyosmani/es6-tools) – An aggregation of tooling for ES6
 * [Essential-JavaScript-Links](https://github.com/starandtina/Essential-JavaScript-Links)
   - http://starandtina.github.io/Essential-JavaScript-Links/
-* [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) – (Mostly) technical things every software developer should know.
 * [Facets](https://github.com/O-I/Facets) – One-liners in Ruby
 * [fks](https://github.com/JacksonTian/fks) _In Chinese_ – Frontend Knowledge Structure.
 * [flat-file-cms](https://github.com/ahadb/flat-file-cms) – Stictly flat-file cms systems.
