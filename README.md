@@ -94,7 +94,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [addinslist](https://github.com/daattali/addinslist) – Useful [RStudio](https://www.rstudio.com/) addins
 * [admesh-projects](https://github.com/admesh/admesh-projects) – Projects using [ADMesh](https://github.com/admesh/admesh) (a triangulated solid meshes processor).
 * [AI-reading-list](https://github.com/m0nologuer/AI-reading-list) – Papers about Artificial Intelligence.
-* [alexandria](https://github.com/alxgcrz/alexandria) _In English and Spanish_ – Various resources by [@alxgcrz](https://github.com/alxgcrz)
 * [algovis](https://github.com/enjalot/algovis) – Algorithm Visualization.
 * [alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 * [amazing-deployment](https://github.com/delirehberi/amazing-deployment)
