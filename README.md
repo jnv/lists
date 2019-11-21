@@ -1123,7 +1123,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-storybook](https://github.com/lauthieb/awesome-storybook) – [Storybook](https://storybook.js.org/) UI web development
 * [awesome-streaming](https://github.com/manuzhang/awesome-streaming) – Streaming frameworks, applications, etc
 * [awesome-styleguides](https://github.com/RichardLitt/awesome-styleguides)
-* [awesome-svelte-resources](https://github.com/ryanatkn/awesome-svelte-resources) – [Svelte](https://svelte.dev/) framework
 * [awesome-sveltejs](https://github.com/flagello/awesome-sveltejs) – Ways to incorporate [Svelte](https://svelte.dev) web framework into your stack
 * [awesome-svg](https://github.com/willianjusten/awesome-svg)
 * [awesome-swedish-opensource](https://github.com/gurre/awesome-swedish-opensource) – Open-source projects from Swedes
