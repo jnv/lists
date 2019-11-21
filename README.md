@@ -1199,7 +1199,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Awesome-WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions) – WebExtensions development.
 * [awesome-webgl](https://github.com/sjfricke/awesome-webgl) – WebGL libraries, resources and much more
 * [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) – Webpack resources, libraries and tools
-* [awesome-webpack-perf](https://github.com/iamakulov/awesome-webpack-perf) – Webpack tools for web performance
 * [awesome-webservice](https://github.com/wapmorgan/awesome-webservice) – Web and cloud services, SaaS.
 * [awesome-websockets](https://github.com/facundofarias/awesome-websockets) – Websocket libraries and resources.
 * [awesome-webvis](https://github.com/rajsite/awesome-webvis) – [WebVI](http://www.webvi.io/) examples made using [LabVIEW](http://www.ni.com/en-us/support/software-technology-preview.html) systems engineering software.
