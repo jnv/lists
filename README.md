@@ -282,7 +282,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [language-list](https://github.com/thomasfoster96/language-list) – Programming languages being developed on GitHub.
 * [Laravel-Resources](https://github.com/abhimanyu003/Laravel-Resources) – Laravel Framework Resources and Blogs.
 * [learn-drupal](https://github.com/rocketeerbkw/learn-drupal) – Stuff to help you learn Drupal.
-* [learn-for-free](https://github.com/aviaryan/learn-for-free) – Free learning resources for all topics you can think of.
 * [learnhaskell](https://github.com/bitemyapp/learnhaskell) – A curated guide for learning Haskell.
 * [learn-python](https://github.com/adrianmoisey/learn-python) by @adrianmoisey – Links that teach Python.
 * [learn-python](https://github.com/trekhleb/learn-python) by @trekhleb – Python scripts that are split by topics and contain code examples with explanations.
