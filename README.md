@@ -37,6 +37,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-lockpicking](https://github.com/meitar/awesome-lockpicking) – Guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
 * [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) – Articles, websites and resources about mental health in the software industry.
   - https://dreamingechoes.github.io/awesome-mental-health
+* [awesome-motion-planning](https://github.com/AGV-IIT-KGP/awesome-motion-planning) – Papers, books and tools for motion planning.
 * [awesome-parasite](https://github.com/ecohealthalliance/awesome-parasite) – Parasites and host-pathogen interactions.
 * [awesome-philosophy](https://github.com/HussainAther/awesome-philosophy) – Philosophy
 * [awesome-scifi](https://github.com/sindresorhus/awesome-scifi) – Sci-Fi worth consuming.
@@ -655,10 +656,10 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-eslint](https://github.com/dustinspecker/awesome-eslint) – [ESLint](https://eslint.org/) JavaScript linter
 * [awesome-esolangs](https://github.com/angrykoala/awesome-esolangs) – Esoteric languages
 * [awesome-eta](https://github.com/sfischer13/awesome-eta) – :star: Useful resources for the Eta programming language
-* [Awesome-Ethereum](https://github.com/Tom2718/Awesome-Ethereum)
 * [awesome-ethereum](https://github.com/btomashvili/awesome-ethereum) by @btomashvili – [Ethereum](https://ethereum.org/) decentralized software platform & Dapps.
 * [awesome-ethereum](https://github.com/vinsgo/awesome-ethereum) by @vinsgo
   - http://awesome-ethereum.com/
+* [Awesome-Ethereum](https://github.com/Tom2718/Awesome-Ethereum)
 * [awesome-ethereum-virtual-machine](https://github.com/pirapira/awesome-ethereum-virtual-machine)
 * [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) – Falsehoods programmers believe in.
 * [awesome-fantasy](https://github.com/r7kamura/awesome-fantasy) – FinalFantasy-ish metaphors in software.
@@ -845,7 +846,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) – INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools for Operations.
   - http://canuxcheng.com/awesome-monitoring/
 * [awesome-motion-design-web](https://github.com/lucasmaiaesilva/awesome-motion-design-web)
-* [awesome-motion-planning](https://github.com/AGV-IIT-KGP/awesome-motion-planning) – Papers, books and tools for motion planning.
 * [awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt) – MQTT related stuff.
 * [awesome-msr](https://github.com/dspinellis/awesome-msr) – Empirical Software Engineering: evidence-based, data-driven research on software systems
 * [awesome-music](https://github.com/ciconia/awesome-music) – Music, audio, MIDI
@@ -1020,8 +1020,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-service-workers](https://github.com/TalAter/awesome-service-workers) – Service Workers for Progressive Web Applications
 * [awesome-servicefabric](https://github.com/lawrencegripper/awesome-servicefabric) – Azure [Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/) distributed services platform
 * [awesome-services](https://github.com/indrasantosa/awesome-services) – Services that make a painful programmer's life easier.
-* [awesome-sharepoint](https://github.com/BSUG/awesome-sharepoint)
 * [awesome-SharePoint](https://github.com/siaf/awesome-SharePoint) by @siaf
+* [awesome-sharepoint](https://github.com/BSUG/awesome-sharepoint)
 * [awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music) – Sheet music software, libraries and resources.
 * [awesome-shell](https://github.com/alebcay/awesome-shell) – Command-line frameworks, toolkits, guides and gizmos.
 * [awesome-sketch](https://github.com/diessica/awesome-sketch) – Guides, articles, videos about [Sketch 3](http://www.sketchapp.com/).
