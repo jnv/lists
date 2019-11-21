@@ -691,7 +691,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ethereum-virtual-machine](https://github.com/pirapira/awesome-ethereum-virtual-machine)
 * [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) – Falsehoods programmers believe in.
 * [awesome-fantasy](https://github.com/r7kamura/awesome-fantasy) – FinalFantasy-ish metaphors in software.
-* [awesome-fast-check](https://github.com/dubzzz/awesome-fast-check) – [fast-check](https://github.com/dubzzz/fast-check/) property based testing framework for JavaScript/TypeScript
 * [awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) – FFmpeg resources.
 * [awesome-firebase](https://github.com/jthegedus/awesome-firebase) – Firebase mobile development platform
 * [awesome-fish](https://github.com/jorgebucaran/awesome-fish) – Fish shell
