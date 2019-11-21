@@ -815,7 +815,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-legacy-code](https://github.com/legacycoderocks/awesome-legacy-code) – Legacy systems with publicly available source code
 * [awesome-less](https://github.com/LucasBassetti/awesome-less) – Less CSS preprocessor
 * [awesome-libgdx](https://github.com/rafaskb/awesome-libgdx) – [libGDX](https://libgdx.badlogicgames.com/) cross-platform games development framework
-* [awesome-libra](https://github.com/learndapp/awesome-libra) – [Libra](https://libra.org/) cryptocurrency by Facebook
 * [awesome-librehosters](https://github.com/libresh/awesome-librehosters) – Nice hosting providers
 * [awesome-linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics) – Tools, theory and platforms for linguistics.
 * [awesome-links](https://github.com/rbk/awesome-links) – Web Development Links by @richardbenjamin.
