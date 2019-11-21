@@ -164,7 +164,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [fks](https://github.com/JacksonTian/fks) _In Chinese_ – Frontend Knowledge Structure.
 * [flat-file-cms](https://github.com/ahadb/flat-file-cms) – Stictly flat-file cms systems.
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) – Open Source, Free Full Stack Training with hours of coding challenges, projects, and certifications.
-  - https://www.freecodecamp.org/
+  * https://www.freecodecamp.org/
 * [free-for-dev](https://github.com/ripienaar/free-for-dev) – Software, SaaS, PaaS etc offerings that have free tiers for devs.
 * [free-programming-books](https://github.com/vhf/free-programming-books)
   - http://resrc.io/list/10/list-of-free-programming-books/
@@ -395,7 +395,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) – Big data frameworks, resources and other awesomeness.
 * [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) – Open-source bioinformatics software and libraries.
 * [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) – Bitcoin services and tools for software developers.
-* [awesome-bitcoin-payment-processors](https://github.com/alexk111/awesome-bitcoin-payment-processors) – Bitcoin payment processors and stories from merchants using them.
+* [awesome-bitcoin-payment-processors](https://github.com/alexk111/awesome-bitcoin-payment-processors) - Bitcoin payment processors and stories from merchants using them.
 * [awesome-bootstrap](https://github.com/therebelrobot/awesome-bootstrap) – Free Bootstrap themes I think are cool.
 * [awesome-bpm](https://github.com/ungerts/awesome-bpm) – Business Process Management (BPM) awesomeness.
 * [awesome-c](https://github.com/kozross/awesome-c) – C frameworks, libraries, resources etc.
@@ -429,7 +429,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-courses](https://github.com/prakhar1989/awesome-courses) – University Computer Science courses across the web.
 * [awesome-cpp](https://github.com/fffaraz/awesome-cpp) – C/C++ frameworks, libraries, resources.
 * [Awesome-Cross-Platform-Apps](https://github.com/Juude/Awesome-Cross-Platform-Apps) – Solutions for building cross-platform apps.
-* [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) – Tools for writing cross-platform Node.js code.
+* [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - Tools for writing cross-platform Node.js code.
 * [awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies)
 * [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) – Cryptography and encryption resources.
 * [awesome-crystal](https://github.com/veelenga/awesome-crystal) – Crystal Language
@@ -547,10 +547,9 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-mesos](https://github.com/dharmeshkakadia/awesome-mesos) by @dharmeshkakadia
 * [awesome-mesos](https://github.com/parolkar/awesome-mesos) by @parolkar
 * [awesome-meteor](https://github.com/Urigo/awesome-meteor)
-* [awesome-microfrontends](https://github.com/ChristianUlbrich/awesome-microfrontends)
 * [awesome-mobile-dev](https://github.com/MakinGiants/awesome-mobile-dev) – A “study guide” for mobile development.
 * [awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt) – MQTT related stuff.
-* [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) – Papers on node embedding techniques.
+* [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) - Papers on node embedding techniques.
 * [Awesome-Networking](https://github.com/clowwindy/Awesome-Networking)
 * [awesome-newsletters](https://github.com/vredniy/awesome-newsletters)
 * [awesome-nlp](https://github.com/keonkim/awesome-nlp) – Natural Language Processing.
@@ -630,7 +629,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-sheet-music](https://github.com/adius/awesome-sheet-music) – Tools to create, edit and display sheet music.
 * [awesome-shell](https://github.com/alebcay/awesome-shell) – Command-line frameworks, toolkits, guides and gizmos.
 * [awesome-sketch](https://github.com/diessica/awesome-sketch) – Guides, articles, videos about [Sketch 3](http://www.sketchapp.com/).
-* [awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) – Design, reason around and build software using architectural patterns and methods
+* [awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) - Design, reason around and build software using architectural patterns and methods 
 * [awesome-software-craftsmanship](https://github.com/benas/awesome-software-craftsmanship) – [Software craftsmanship](http://manifesto.softwarecraftsmanship.org/) resources to help learn the craft.
 * [awesome-sound](https://github.com/hwclass/awesome-sound) – Sound & audio libraries and resources.
 * [awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc) – Tools for Sphinx Python Documentation Generator.
