@@ -252,6 +252,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [htaccess](https://github.com/phanan/htaccess) – Useful .htaccess snippets.
 * [idaplugins-list](https://github.com/onethawt/idaplugins-list) – Plugins for [IDA disassembler](https://www.hex-rays.com/products/ida/).
 * [ideas](https://github.com/samsquire/ideas) – One Hundred Ideas for Computing
+* [InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) – Deals for InfoSec related software/tools this Black Friday
 * [Inspire](https://github.com/NoahBuscher/Inspire) – Links to assist you in web design and development
 * [interviews](https://github.com/kdn251/interviews) – Your personal guide to Software Engineering technical interviews.
 * [InterviewThis](https://github.com/Twipped/InterviewThis) – Developer questions to ask prospective employers
@@ -776,7 +777,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-hacking](https://github.com/carpedm20/awesome-hacking)
 * [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) – Hadoop and Hadoop ecosystem resources.
 * [awesome-haskell](https://github.com/krispo/awesome-haskell)
-* [awesome-hasura](https://github.com/aaronhayes/awesome-hasura) - [Hasura](https://hasura.io/) is an instant realtime GraphQL engine for PostgreSQL.
+* [awesome-hasura](https://github.com/aaronhayes/awesome-hasura) – [Hasura](https://hasura.io/) is an instant realtime GraphQL engine for PostgreSQL.
 * [awesome-haxe-gamedev](https://github.com/dvergar/awesome-haxe-gamedev) – Game development in [Haxe](https://haxe.org/) cross-platform programming language
 * [awesome-hbase](https://github.com/rayokota/awesome-hbase) – Apache HBase
 * [awesome-hdl](https://github.com/drom/awesome-hdl) – Hardware Description Languages
