@@ -497,6 +497,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-appsec](https://github.com/paragonie/awesome-appsec) – Resources for developers to learn application security.
 * [awesome-arabic](https://github.com/OthmanAba/awesome-arabic) – Arabic supporting tools, fonts, and development resources.
 * [Awesome-arduino](https://github.com/Lembed/Awesome-arduino) – Arduino hardwares, libraries and softwares with update script
+* [awesome-arm-exploitation](https://github.com/HenryHoggard/awesome-arm-exploitation) - A collection of awesome videos, articles, books, tools and resources about ARM exploitation.
 * [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 * [awesome-asciidoc](https://github.com/bodiam/awesome-asciidoc) – Collection of AsciiDoc tools, guides, tutorials and examples of usage.
 * [awesome-asciidoctor](https://github.com/dongwq/awesome-asciidoctor) – Collection of asciidoctor’s intros, examples and usages.
