@@ -497,7 +497,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-appsec](https://github.com/paragonie/awesome-appsec) – Resources for developers to learn application security.
 * [awesome-arabic](https://github.com/OthmanAba/awesome-arabic) – Arabic supporting tools, fonts, and development resources.
 * [Awesome-arduino](https://github.com/Lembed/Awesome-arduino) – Arduino hardwares, libraries and softwares with update script
-* [awesome-arm-exploitation](https://github.com/HenryHoggard/awesome-arm-exploitation) - ARM processors security and exploitation.
+* [awesome-arm-exploitation](https://github.com/HenryHoggard/awesome-arm-exploitation) – ARM processors security and exploitation.
 * [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 * [awesome-asciidoc](https://github.com/bodiam/awesome-asciidoc) – Collection of AsciiDoc tools, guides, tutorials and examples of usage.
 * [awesome-asciidoctor](https://github.com/dongwq/awesome-asciidoctor) – Collection of asciidoctor’s intros, examples and usages.
@@ -988,6 +988,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-programming-for-kids](https://github.com/HollyAdele/awesome-programming-for-kids) – Teaching kids programming
 * [awesome-progressive-web-apps](https://github.com/TalAter/awesome-progressive-web-apps) – Progressive Web Apps (PWA)
 * [awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates)
+* [awesome-prolog](https://github.com/klaussinani/awesome-prolog) – Prolog logic programming language
 * [awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) – [Prometheus](https://prometheus.io/) monitoring system
 * [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) – Prometheus alerting rules
   - https://awesome-prometheus-alerts.grep.to
