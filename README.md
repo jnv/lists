@@ -1073,6 +1073,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-SAS](https://github.com/huyingjie/awesome-SAS) – [SAS](https://www.sas.com/) analysis system
 * [awesome-sass](https://github.com/Famolus/awesome-sass) by @Famolus – Sass and SCSS CSS preprocessor
 * [awesome-sass](https://github.com/HugoGiraudel/awesome-sass) by @HugoGiraudel – Sass and SCSS CSS preprocessor
+* [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) – Satellite imagery datasets with annotations for computer vision and deep learning.
 * [awesome-scala](https://github.com/lauris/awesome-scala) – Scala programming language
 * [awesome-scala-native](https://github.com/tindzk/awesome-scala-native) – [Scala Native](http://www.scala-native.org) compiler
 * [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) – The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
