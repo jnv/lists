@@ -153,6 +153,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - http://stefan-kolb.github.io/cloud-conferences/
 * [codeface](https://github.com/chrissimpkins/codeface) – Typefaces for source code / text editors.
 * [Colorful](https://github.com/Siddharth11/Colorful) – Choose your next color scheme
+* [CompilerJobs](https://github.com/mgaudet/CompilerJobs) – Compiler, language, and runtime teams for people looking for jobs in this area.
 * [compilers-targeting-c](https://github.com/dbohdan/compilers-targeting-c) – Compilers that can generate C code.
 * [computer-science](https://github.com/ossu/computer-science) – Path to a free self-taught graduation in Computer Science.
 * [content-management-systems](https://github.com/ahadb/content-management-systems) – Open source & proprietary content management systems.
