@@ -119,6 +119,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [app-ideas](https://github.com/florinpop17/app-ideas) – Application ideas which can be used to improve your coding skills.
 * [app-launch-guide](https://github.com/adamwulf/app-launch-guide) – Indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
 * [APTnotes](https://github.com/kbandla/APTnotes) – Various public documents, whitepapers and articles about APT [Advanced persistent threat] campaigns.
+* [architect-awesome](https://github.com/xingshaocheng/architect-awesome) _In Chinese_ – 后端架构师技术图谱
 * [asynchronous-php](https://github.com/elazar/asynchronous-php) – Asynchronous programming in PHP.
 * [Automated-SPA-Testing](https://github.com/webpro/Automated-SPA-Testing) – Automated unit & functional testing for web applications [JavaScript et al.].
 * [awmy](https://github.com/potch/awmy) – Are We Meta Yet?
