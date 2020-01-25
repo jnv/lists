@@ -914,6 +914,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-mobile](https://github.com/alec-c4/awesome-mobile) – Instruments for mobile marketing and development
 * [awesome-mobile-web-development](https://github.com/myshov/awesome-mobile-web-development) – All that you need to create a great mobile web experience
 * [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
+* [awesome-monte-carlo-tree-search-papers](https://github.com/alec-c4/awesome-mobile) – Monte Carlo tree search papers
 * [awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) – INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools for Operations.
   - http://canuxcheng.com/awesome-monitoring/
 * [awesome-motion-design-web](https://github.com/lucasmaiaesilva/awesome-motion-design-web)
