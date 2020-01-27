@@ -853,6 +853,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-laravel](https://github.com/TimothyDJones/awesome-laravel) by @TimothyDJones
 * [Awesome-Laravel-Education](https://github.com/fukuball/Awesome-Laravel-Education) _In English and Chinese_ – Laravel PHP framework learning resources.
 * [awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
+* [awesome-ld-preload](https://github.com/gaul/awesome-ld-preload) – LD_PRELOAD, a mechanism for changing application behavior at run-time.
 * [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) – Leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 * [awesome-learn-datascience](https://github.com/siboehm/awesome-learn-datascience) – Resources to help you get started with Data Science
 * [awesome-ledger](https://github.com/sfischer13/awesome-ledger) – Ledger command-line accounting system
