@@ -916,6 +916,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
 * [awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) – INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools for Operations.
   - http://canuxcheng.com/awesome-monitoring/
+* [awesome-monte-carlo-tree-search-papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) – Monte Carlo tree search, a heuristic search algorithm frequently used in games.
 * [awesome-motion-design-web](https://github.com/lucasmaiaesilva/awesome-motion-design-web)
 * [awesome-motion-planning](https://github.com/AGV-IIT-KGP/awesome-motion-planning) – Papers, books and tools for motion planning.
 * [awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt) – MQTT related stuff.
