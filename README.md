@@ -1216,6 +1216,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
   - https://awesomelists.top/#/repos/qazbnm456/awesome-web-security
 * [awesome-webaudio](https://github.com/notthetup/awesome-webaudio) – WebAudio packages and resources.
+* [awesome-webauthn](https://github.com/herrjemand/awesome-webauthn) – WebAuthn/FIDO2
 * [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents)
 * [Awesome-WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions) – WebExtensions development.
 * [awesome-webgl](https://github.com/sjfricke/awesome-webgl) – WebGL libraries, resources and much more
