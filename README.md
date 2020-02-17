@@ -91,6 +91,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 * [101](https://github.com/ojas/101) – Resources on running a software biz.
 * [10PL](https://github.com/nuprl/10PL) – 10 papers that all PhD students in programming languages ought to know, for some value of 10.
+* [1on1-questions](https://github.com/VGraupera/1on1-questions) – 1 on 1 meeting questions.
 * [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) – JavaScript snippets you can understand in 30 seconds or less.
   - https://30secondsofcode.org/
 * [30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) – Common interview questions to help you prepare for your next interview.
