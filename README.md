@@ -406,6 +406,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://staticsitegenerators.net/
 * [streaming-papers](https://github.com/sorenmacbeth/streaming-papers) – Papers on streaming algorithms.
 * [structured-text-tools](https://github.com/dbohdan/structured-text-tools) – Command line tools for manipulating structured text data
+* [styleguide-generators](https://github.com/davidhund/styleguide-generators) – Automatic living styleguide generators.
 * [sublime](https://github.com/JaredCubilla/sublime) – Some of the best Sublime Text packages, themes, and goodies.
 * [sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks) – Sublime Text essential plugins and resources.
 * [svelte/integrations](https://github.com/sveltejs/integrations) – Ways to incorporate [Svelte](https://svelte.dev/) framework into your stack
