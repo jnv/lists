@@ -303,6 +303,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Linux_websites](https://github.com/hduffddybz/Linux_websites) _In Chinese_ – Websites related to Linux kernel development.
 * [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) – Machine Learning and Deep Learning Tutorials
 * [machine-learning-with-ruby](https://github.com/arbox/machine-learning-with-ruby) – Machine learning in Ruby
+* [macos-apps](https://github.com/learn-anything/macos-apps)
 * [magictools](https://github.com/ellisonleao/magictools) – Game Development resources to make magic happen.
 * [maintenance-modules](https://github.com/maxogden/maintenance-modules) – NPM / Node.js modules useful for maintaining or developing modules
 * [manong](https://github.com/nemoTyrant/manong) _In Chinese_ – Weekly digest of technology
