@@ -341,6 +341,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [ParseAlternatives](https://github.com/relatedcode/ParseAlternatives) – Alternative backend service providers ala [Parse](http://parse.com/).
 * [pattern_classification](https://github.com/rasbt/pattern_classification) – A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks.
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) – Useful payloads and bypasses for Web Application Security and Pentest/CTF
+* [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 100+ tips for protecting digital security and privacy
 * [php-must-watch](https://github.com/phptodayorg/php-must-watch) – Must-watch videos about PHP.
 * [phpvietnam/bookmarks](https://github.com/phpvietnam/bookmarks) – PHP resources for Vietnamese.
 * [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) – “Where can I post my startup to get beta users?”
