@@ -808,7 +808,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-hyperapp](https://github.com/jorgebucaran/awesome-hyperapp) – Hyperapp JavaScript framework
 * [awesome-ibmcloud](https://github.com/victorshinya/awesome-ibmcloud) – IBM Cloud
   - https://awesome-ibmcloud.mybluemix.net
-* [awesome-icons](https://github.com/notlmn/awesome-icons) – Downloadable SVG/PNG/Font icon projects
+* [awesome-icons](https://github.com/notlmn/awesome-icons) – A curated list of awesome downloadable SVG/PNG/Font icon projects
 * [awesome-idris](https://github.com/joaomilho/awesome-idris) – 𝛌 [Idris](https://www.idris-lang.org/), functional programming language with dependent types
 * [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) – Resources useful for incident responders.
 * [awesome-indie](https://github.com/mezod/awesome-indie) – Resources for independent developers to make money
