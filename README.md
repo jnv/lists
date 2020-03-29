@@ -539,7 +539,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) – Bitcoin services and tools for software developers.
 * [awesome-bitcoin-payment-processors](https://github.com/alexk111/awesome-bitcoin-payment-processors) – Bitcoin payment processors and stories from merchants using them.
 * [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) – [Blazor](https://blazor.net/), a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-* [awesome-blender](https://github.com/AdrienTorris/awesome-blazor) – Blender add-ons, tools, tutorials and 3D resources.
+* [awesome-blender](https://github.com/agmmnn/awesome-blender) – Blender add-ons, tools, tutorials and 3D resources.
 * [awesome-blockchain](https://github.com/0xtokens/awesome-blockchain) by @0xtokens – Blockchain and Crytocurrency Resources
 * [awesome-blockchain](https://github.com/coderplex/awesome-blockchain) by @coderplex – Blockchain, Bitcoin and Ethereum related resources
 * [awesome-blockchain](https://github.com/cyberFund/awesome-blockchain) _In Russian_ by @cyberFund – Digest of knowledge about crypto networks (including cryptocurrencies).
