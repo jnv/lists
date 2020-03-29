@@ -11,7 +11,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   * [Lists of lists of lists](#lists-of-lists-of-lists)
     * [Lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists)
       * [Lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists)
-        * [Lists of lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists-of-lists) 😱
+        * [Lists of lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists-of-lists)
+          * [Lists of lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists-of-lists-of-lists) 😱
 
 <!-- lists-start -->
 
@@ -1304,6 +1305,12 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 * [awesome-awesome-awesome-awesome-awesome-awesome](https://github.com/enedil/awesome-awesome-awesome-awesome-awesome-awesome)
 * [the one above](#lists-of-lists-of-lists-of-lists-of-lists)
+
+
+###### Lists of lists of lists of lists of lists of lists of lists
+
+* [awesome-awesome-awesome-awesome-awesome-awesome-awesome](https://github.com/sparanoid/awesome-awesome-awesome-awesome-awesome-awesome-awesome)
+* [the one above](#lists-of-lists-of-lists-of-lists-of-lists-of-lists)
 
 <!-- lists-end -->
 
