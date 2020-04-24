@@ -26,8 +26,8 @@ for line in sys.stdin:
 
 		try:
 			query_url = "https://api.github.com/repos/%s?access_token=%s" % (repo_url[19:], access_token)
-
-			req = urllib2.Request(query_url)
+			headers = {'Authorization': 'token ' + access_token}
+			req = urllib2.Request(query_url, headers=headers)
 			response = urllib2.urlopen(req)
 			data = json.loads(response.read().decode())
 
