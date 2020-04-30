@@ -36,7 +36,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-kimchi](https://github.com/jeyraof/awesome-kimchi) – Kimchi of the people, by the people, for the people.
 * [awesome-lego](https://github.com/adius/awesome-lego)
 * [awesome-lockpicking](https://github.com/meitar/awesome-lockpicking) – Guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
-* [awesome-maps](https://github.com/simsieg/awesome-maps) - Various Online Maps 
+* [awesome-maps](https://github.com/simsieg/awesome-maps) – Various Online Maps
 * [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) – Articles, websites and resources about mental health in the software industry.
   - https://dreamingechoes.github.io/awesome-mental-health
 * [awesome-parasite](https://github.com/ecohealthalliance/awesome-parasite) – Parasites and host-pathogen interactions.
@@ -586,6 +586,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - http://www.ciandcd.com/
 * [awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython) – [CircuitPython](https://circuitpython.org/) microcontrollers programming language
 * [awesome-cl](https://github.com/CodyReichert/awesome-cl) – Common Lisp
+* [awesome-cl-software](https://github.com/azzamsa/awesome-cl-software) – Applications built with Common Lisp
 * [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) – Command line apps
 * [awesome-clojure](https://github.com/mbuczko/awesome-clojure) by @mbuczko – Useful links for clojurians
 * [awesome-clojure](https://github.com/razum2um/awesome-clojure) by @razum2um
