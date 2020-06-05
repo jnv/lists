@@ -562,6 +562,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-browserify](https://github.com/browserify/awesome-browserify) – [Browserify](http://browserify.org/) bundler
 * [awesome-btcdev](https://github.com/btcbrdev/awesome-btcdev) – Bitcoin development
 * [awesome-bugs](https://github.com/criswell/awesome-bugs) – Funny and interesting bugs
+* [awesome-building-blocks-for-web-apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps) - Standalone features to be integrated into web applications.
 * [awesome-c](https://github.com/aleksandar-todorovic/awesome-c) by @aleksandar-todorovic – Continuing the development of awesome-c on GitHub
 * [awesome-c](https://github.com/kozross/awesome-c) by @kozross – C frameworks, libraries, resources etc.
   - [mirror](https://notabug.org/koz.ross/awesome-c)
