@@ -526,6 +526,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) – AutoHotkey libraries, library distributions, scripts, tools and resources.
 * [awesome-AutoIt](https://github.com/J2TeaM/awesome-AutoIt) – UDFs, example scripts, tools and useful resources for AutoIt.
   - https://j2team.github.io/awesome-AutoIt/
+* [awesome-automotive](https://github.com/Marcin214/awesome-automotive) – Automotive engineering.
 * [awesome-ava](https://github.com/avajs/awesome-ava) – [AVA](https://github.com/avajs/ava) JavaScript test runner.
 * [awesome-avr](https://github.com/fffaraz/awesome-avr)
 * [awesome-aws](https://github.com/donnemartin/awesome-aws) – Amazon Web Services (AWS)
@@ -562,7 +563,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-browserify](https://github.com/browserify/awesome-browserify) – [Browserify](http://browserify.org/) bundler
 * [awesome-btcdev](https://github.com/btcbrdev/awesome-btcdev) – Bitcoin development
 * [awesome-bugs](https://github.com/criswell/awesome-bugs) – Funny and interesting bugs
-* [awesome-building-blocks-for-web-apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps) - Standalone features (services, components, libraries) to be integrated into web applications.
+* [awesome-building-blocks-for-web-apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps) – Standalone features (services, components, libraries) to be integrated into web applications.
   - https://www.componently.com/
 * [awesome-c](https://github.com/aleksandar-todorovic/awesome-c) by @aleksandar-todorovic – Continuing the development of awesome-c on GitHub
 * [awesome-c](https://github.com/kozross/awesome-c) by @kozross – C frameworks, libraries, resources etc.
