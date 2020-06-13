@@ -155,6 +155,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [browser-javascript-resource](https://github.com/azu/browser-javascript-resource) – Latest JavaScript information by browser.
 * [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) – Build your own (insert technology here)
 * [channels](https://github.com/andrew--r/channels) _In Russian_ – YouTube channels for web developers.
+* [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
 * [citizen-science](https://github.com/dylanrees/citizen-science) – Scientific tools to empower communities and/or practice various forms of non-institutional science
 * [classics](https://github.com/eyy/classics) – Classical studies (Latin and Ancient Greek) resources: software, code and raw data.
 * [cloud-conferences](https://github.com/stefan-kolb/cloud-conferences) – A collection of scientific and industry conferences focused on cloud computing.
