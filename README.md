@@ -62,6 +62,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [frequent-transit-maps](https://github.com/wwcline/list-of-frequent-transit-maps) – Transit maps highlighting frequent all-day service
 * [guitarspecs](https://github.com/gitfrage/guitarspecs) – Electric guitar's parts specs
   - https://gitfrage.github.io/guitarspecs/
+* [iptv](https://github.com/iptv-org/iptv) – 8000+ publicly available IPTV channels from all over the world
 * [isaacs/reading-list](https://github.com/isaacs/reading-list) – [isaac](https://github.com/isaacs)'s reading list.
 * [lawrence-veggie](https://github.com/codysoyland/lawrence-veggie) – Vegetarian/vegan restaurants in Lawrence, KS.
 * [lawyersongithub](https://github.com/dpp/lawyersongithub) – A club full of lawyers who also have GitHub accounts.
