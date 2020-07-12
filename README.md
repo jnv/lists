@@ -119,10 +119,10 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome) – “A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.”
 * [android-tech-frontier](https://github.com/hehonghui/android-tech-frontier) _In Chinese_ – Translation of articles about Android development.
 * [angular-education](https://github.com/timjacobi/angular-education) – Helpful material to develop using Angular
-* [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
 * [angularjs-fellows](https://github.com/best-coupon-codes/angularjs-fellows) – Free resources for learning AngularJS.
   - https://famousky.github.io/angularjs-fellows/
-* [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
+* [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) by @jmcunningham
+* [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) by @jmcunningham
 * [ansible-gentoo-roles](https://github.com/jirutka/ansible-gentoo-roles) – Ansible roles for Gentoo Linux.
 * [app-ideas](https://github.com/florinpop17/app-ideas) – Application ideas which can be used to improve your coding skills.
 * [app-launch-guide](https://github.com/adamwulf/app-launch-guide) – Indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
@@ -130,6 +130,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [architect-awesome](https://github.com/xingshaocheng/architect-awesome) _In Chinese_ – 后端架构师技术图谱
 * [asynchronous-php](https://github.com/elazar/asynchronous-php) – Asynchronous programming in PHP.
 * [Automated-SPA-Testing](https://github.com/webpro/Automated-SPA-Testing) – Automated unit & functional testing for web applications [JavaScript et al.].
+* [awful-ai](https://github.com/daviddao/awful-ai) – Current scary usages of AI, hoping to raise awareness to its misuses in society.
 * [awmy](https://github.com/potch/awmy) – Are We Meta Yet?
   - http://arewemetayet.com/
 * [Backpack](https://github.com/sevab/Backpack) – Various learning resources, organized by technology/topic.
@@ -306,7 +307,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [libertr](https://github.com/gaapt/libertr) – Resources for liberty seekers.
 * [lifeofjs](https://github.com/abhijeetkpawar/lifeofjs) – Curated source for all types of awesome resources available for JavaScript.
 * [Linux_websites](https://github.com/hduffddybz/Linux_websites) _In Chinese_ – Websites related to Linux kernel development.
-* [machine-learning-algorithms](https://github.com/Sahith02/machine-learning-algorithms) - Conceptual understanding of all machine learning algorithms.
+* [machine-learning-algorithms](https://github.com/Sahith02/machine-learning-algorithms) – Conceptual understanding of all machine learning algorithms.
 * [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) – Machine Learning and Deep Learning Tutorials
 * [machine-learning-with-ruby](https://github.com/arbox/machine-learning-with-ruby) – Machine learning in Ruby
 * [macos-apps](https://github.com/learn-anything/macos-apps)
