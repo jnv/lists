@@ -845,7 +845,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) – Online and free JavaScript books.
 * [awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) – Tiny list limited to the best JavaScript Learning Resources
 * [awesome-jmeter](https://github.com/aliesbelik/awesome-jmeter) – Apache JMeter load testing
-* [awesome-job-boards](https://github.com/tramcar/awesome-job-boards)
+* [awesome-job-boards](https://github.com/emredurukn/awesome-job-boards) by @emredurukn
+* [awesome-job-boards](https://github.com/tramcar/awesome-job-boards) by @tramcar
 * [awesome-jquery](https://github.com/petk/awesome-jquery)
 * [awesome-js-drama](https://github.com/scottcorgan/awesome-js-drama) – JavaScript topics the just might spark the next revolt!
 * [awesome-json](https://github.com/burningtree/awesome-json)
