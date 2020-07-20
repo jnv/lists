@@ -992,6 +992,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-perl](https://github.com/hachiojipm/awesome-perl)
 * [awesome-persian](https://github.com/fffaraz/awesome-persian) – Persian/Farsi supporting tools, fonts, and development resources.
 * [awesome-phalcon](https://github.com/phalcon/awesome-phalcon) – [Phalcon](https://phalconphp.com/en/) PHP framework libraries and resources.
+* [awesome-pharo](https://github.com/pharo-open-documentation/awesome-pharo) – [Pharo](https://pharo.org/) Smalltalk
 * [awesome-pharo-ml](https://github.com/pharo-open-documentation/awesome-pharo-ml) – Machine learning, AI, data science in Pharo.
 * [awesome-php](https://github.com/ziadoz/awesome-php)
 * [awesome-PICO-8](https://github.com/pico-8/awesome-PICO-8) – [PICO-8](https://www.lexaloffle.com/pico-8.php) fantasy console for making, sharing and playing tiny games
