@@ -1011,6 +1011,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-polymer](https://github.com/Granze/awesome-polymer) – [Polymer Project](https://www.polymer-project.org/)
 * [awesome-postcss](https://github.com/jdrgomes/awesome-postcss) – [PostCSS](https://postcss.org/) CSS processor
 * [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
+* [awesome-power-mode](https://github.com/codeinthedark/awesome-power-mode)
 * [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell)
 * [awesome-preact](https://github.com/ooade/awesome-preact) – [Preact](https://github.com/preactjs/preact) JavaScript framework
 * [awesome-prisma](https://github.com/catalinmiron/awesome-prisma) – [Prisma](https://www.prisma.io/) GraphQL library
