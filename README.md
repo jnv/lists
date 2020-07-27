@@ -411,6 +411,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [startup-must-watch](https://github.com/gerricchaplin/startup-must-watch) – Must-watch videos devoted to Entrepreneurship and Startups.
 * [startupreadings](https://github.com/dennybritz/startupreadings) – Reading list for all things startup-related.
 * [startup-resources](https://github.com/JonathanZWhite/startup-resources)
+* [state-machines](https://github.com/achou11/state-machines)
 * [Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators)
 * [staticsitegenerators-list](https://github.com/bevry/staticsitegenerators-list)
   - https://staticsitegenerators.net/
@@ -762,6 +763,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-free-software](https://github.com/johnjago/awesome-free-software) – Free as in freedom software
 * [awesome-frege](https://github.com/sfischer13/awesome-frege) – [Frege](https://github.com/Frege/frege) programming language
 * [awesome-fsharp](https://github.com/fsprojects/awesome-fsharp) – F# programming language
+* [awesome-fsm](https://github.com/leonardomso/awesome-fsm) by @leonardomso – Finite State Machines and Statecharts
+* [awesome-fsm](https://github.com/soixantecircuits/awesome-fsm) by @soixantecircuits – Finite State Machines
 * [awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) by @lucasviola
 * [awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) by @xgrommx
 * [awesome-funny-markov](https://github.com/sublimino/awesome-funny-markov) – Delightfully amusing and facetious Markov chain output.
