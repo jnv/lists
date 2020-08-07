@@ -273,6 +273,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [ios-awesome-libraries](https://github.com/kaiinui/ios-awesome-libraries) – Useful iOS development libraries with usage examples.
 * [iOS-Developer-and-Designer-Interview-Questions](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions)
 * [iOSDevResource](https://github.com/objcc/iOSDevResource)
+* [javascript-dev-bookmarks](https://github.com/didicodes/javascript-dev-bookmarks) – Articles that will help you get better at JavaScript.
 * [javascript-patterns](https://github.com/shichuan/javascript-patterns) – JavaScript Patterns
   - http://shichuan.github.io/javascript-patterns/
 * [javascript-resources](https://github.com/ztsu/javascript-resources)
