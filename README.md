@@ -851,6 +851,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) – Online and free JavaScript books.
 * [awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) – Tiny list limited to the best JavaScript Learning Resources
+* [awesome-jitsi](https://github.com/easyjitsi/awesome-jitsi) – [Jitsi](https://jitsi.org/) open-source video conferencing.
 * [awesome-jmeter](https://github.com/aliesbelik/awesome-jmeter) – Apache JMeter load testing
 * [awesome-job-boards](https://github.com/emredurukn/awesome-job-boards) by @emredurukn
 * [awesome-job-boards](https://github.com/tramcar/awesome-job-boards) by @tramcar
