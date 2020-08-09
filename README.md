@@ -144,6 +144,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) – Some useful websites for programmers.
 * [bigdata-ecosystem](https://github.com/zenkay/bigdata-ecosystem) – Big-data related projects packed into a JSON dataset.
   - http://bigdata.andreamostosi.name/
+* [Big-List-of-ActivityPub](https://github.com/shleeable/Big-List-of-ActivityPub) – ActivityPub Projects
 * [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) – Strings which have a high probability of causing issues when used as user-input data.
 * [bioinformatics-compbio-tools](https://github.com/lancelafontaine/bioinformatics-compbio-tools) – Bioinformatics and computational biology tools.
 * [bitcoin-reading-list](https://github.com/jashmenn/bitcoin-reading-list) – Learn to program Bitcoin transactions.
