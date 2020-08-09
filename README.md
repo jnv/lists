@@ -888,6 +888,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ledger](https://github.com/sfischer13/awesome-ledger) – Ledger command-line accounting system
 * [awesome-legacy-code](https://github.com/legacycoderocks/awesome-legacy-code) – Legacy systems with publicly available source code
 * [awesome-less](https://github.com/LucasBassetti/awesome-less) – Less CSS preprocessor
+* [awesome-lesscode](https://github.com/dream2023/awesome-lesscode) _In Chinese_ – Low code / no code projects
 * [awesome-libgdx](https://github.com/rafaskb/awesome-libgdx) – [libGDX](https://libgdx.badlogicgames.com/) cross-platform games development framework
 * [awesome-libra](https://github.com/learndapp/awesome-libra) – [Libra](https://libra.org/) cryptocurrency by Facebook
 * [awesome-librehosters](https://github.com/libresh/awesome-librehosters) – Nice hosting providers
@@ -904,6 +905,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-livecoding](https://github.com/toplap/awesome-livecoding) – All things Livecoding.
 * [awesome-logging](https://github.com/roundrobin/awesome-logging)
 * [awesome-love2d](https://github.com/love2d-community/awesome-love2d) – [LÖVE](http://love2d.org/) Lua game framework
+* [awesome-lowcode](https://github.com/taowen/awesome-lowcode) _In Chinese_ – Chinese low code platforms.
 * [awesome-lua](https://github.com/forhappy/awesome-lua) by @forhappy
 * [awesome-lua](https://github.com/LewisJEllis/awesome-lua) by @LewisJEllis
 * [awesome-lumen](https://github.com/unicodeveloper/awesome-lumen) – [Lumen](https://lumen.laravel.com/), PHP Microframework by Laravel
