@@ -60,6 +60,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [food](https://notabug.org/themusicgod1/food)
 * [food-recipes](https://github.com/obfuscurity/food-recipes) – Honest-to-goodness "real food" recipes
 * [frequent-transit-maps](https://github.com/wwcline/list-of-frequent-transit-maps) – Transit maps highlighting frequent all-day service
+* [global-reports](https://github.com/andressoop/global-reports) – Major global reports published by international organisations
 * [guitarspecs](https://github.com/gitfrage/guitarspecs) – Electric guitar's parts specs
   - https://gitfrage.github.io/guitarspecs/
 * [iptv](https://github.com/iptv-org/iptv) – 8000+ publicly available IPTV channels from all over the world
