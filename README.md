@@ -498,6 +498,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-android](https://github.com/JStumpp/awesome-android) by @JStumpp
 * [awesome-android](https://github.com/snowdream/awesome-android) _Partially in Chinese_ by @snowdream
 * [awesome-android-awesomeness](https://github.com/yongjhih/awesome-android-awesomeness)
+* [awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) – Open-source Android apps written in Kotlin with particular tech stack and libraries.
 * [awesome-android-learner](https://github.com/MakinGiants/awesome-android-learner) – A “study guide” for mobile development.
 * [awesome-android-learning-resources](https://github.com/androiddevnotes/awesome-android-learning-resources)
 * [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries) – General Android libraries.
