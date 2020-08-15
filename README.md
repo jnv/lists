@@ -1350,3 +1350,5 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 ## License
 
 [![CC0 Public Domain](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+Social preview photo by [Eli Francis](https://unsplash.com/@elifrancis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/books-clutter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
