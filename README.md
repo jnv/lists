@@ -457,6 +457,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [vertx-awesome](https://github.com/vert-x3/vertx-awesome) – [Vert.x](http://vertx.io/) toolkit
 * [vim-galore](https://github.com/mhinz/vim-galore) – All things Vim!
 * [visual-programming-codex](https://github.com/ivanreese/visual-programming-codex) – Resources and references for the past and future of visual programming.
+* [we-are-twtxt](https://github.com/mdom/we-are-twtxt) – [twtxt](https://twtxt.readthedocs.io/) users and bots
 * [web-audio-resources](https://github.com/alemangui/web-audio-resources) – A list of curated resources related to the Web audio API.
 * [WebComponents-Polymer-Resources](https://github.com/matthiasn/WebComponents-Polymer-Resources)
 * [webcomponents-the-right-way](https://github.com/mateusortiz/webcomponents-the-right-way) – Introduction to Web Components.
