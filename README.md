@@ -48,6 +48,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-uncopyright](https://github.com/johnjago/awesome-uncopyright) – All things public domain
 * [awesome-webcomics](https://github.com/dhamaniasad/awesome-webcomics)
 * [baby-sleep](https://github.com/simple10/baby-sleep) – Baby sleep guides curated from the best of the Internet.
+* [bailfunds.github.io](https://github.com/bailfunds/bailfunds.github.io) – Bail Funds for Protestors across the USA.
+  - https://bailfunds.github.io/
 * [boardgames](https://gitlab.com/gamearians/boardgames) – Boardgames and boardgame-related projects that can be found on GitHub.
 * [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) _In Chinese_ – The most comprehensive database of Chinese poetry
   - http://shici.store
