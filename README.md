@@ -344,6 +344,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [nodejs-conference-cfps](https://github.com/rosskukulinski/nodejs-conference-cfps) – NodeJS and Javascript Conference Call for Presentations.
 * [NodeJS-Learning](https://github.com/sergtitov/NodeJS-Learning) – Resources to help you learn Node.js and keep up to date.
 * [NotesIndex](https://github.com/Wilbeibi/NotesIndex)
+* [not-yet-awesome-rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust) – Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.
 * [npm-algos](https://github.com/npm-algos/npm-algos) – Node.js Modules Implementing Computer Science Concepts.
 * [offline-first](https://github.com/pazguille/offline-first) – Everything you need to know to create offline-first web apps.
 * [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) – Collection of Android Apps which are open source.
