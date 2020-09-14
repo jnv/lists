@@ -819,6 +819,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-gyazo](https://github.com/gyazo/awesome-gyazo) – Tools for [Gyazo](https://gyazo.com/) screen capture application.
 * [awesome-h2o](https://github.com/h2oai/awesome-h2o) – H2O Machine Learning
 * [awesome-hacking](https://github.com/carpedm20/awesome-hacking)
+* [awesome-hacktoberfest-2020](https://github.com/Piyushhbhutoria/awesome-hacktoberfest-2020) – [Hacktoberfest](https://hacktoberfest.digitalocean.com/)-friendly repositories and resources.
 * [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) – Hadoop and Hadoop ecosystem resources.
 * [awesome-haskell](https://github.com/krispo/awesome-haskell)
 * [awesome-hasura](https://github.com/aaronhayes/awesome-hasura) – [Hasura](https://hasura.io/) is an instant realtime GraphQL engine for PostgreSQL.
