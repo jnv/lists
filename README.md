@@ -624,6 +624,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-code-review](https://github.com/joho/awesome-code-review)
 * [awesome-codepoints](https://github.com/Codepoints/awesome-codepoints) – Interesting Unicode characters
 * [awesome-coins](https://github.com/kennethreitz/awesome-coins) – Guide to cryto-currencies and their algos.
+* [awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) – For when people get too hyped up about things.
 * [awesome-coldfusion](https://github.com/seancoyne/awesome-coldfusion)
 * [awesome-common-lisp-learning-list](https://github.com/GustavBertram/awesome-common-lisp-learning-list)
 * [awesome-community](https://github.com/phpearth/awesome-community) – development, support and discussion channels, groups and communities.
