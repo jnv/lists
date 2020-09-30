@@ -261,6 +261,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Hackathon-Resources](https://github.com/xasos/Hackathon-Resources) by @xasos – Hackathon Resources for organizers.
 * [hack-chat/3rd-party-software-list](https://github.com/hack-chat/3rd-party-software-list) – Bots, clients, and other software people have made for [hack.chat](https://hack.chat).
 * [hacker-laws](https://github.com/dwmkerr/hacker-laws) – Laws, Theories, Principles and Patterns that developers will find useful.
+* [hacktoberfest-swag](https://github.com/benbarth/hacktoberfest-swag) – Looking for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) swag? You've come to the right place.
 * [hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) – Companies giving out swag for participation in [Hacktoberfest](https://hacktoberfest.digitalocean.com/).
   - https://hacktoberfestswaglist.com
 * [haskell-companies](https://github.com/erkmos/haskell-companies) – Companies using Haskel
