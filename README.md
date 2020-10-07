@@ -757,6 +757,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) – Falsehoods programmers believe in.
 * [awesome-fantasy](https://github.com/r7kamura/awesome-fantasy) – FinalFantasy-ish metaphors in software.
 * [awesome-fast-check](https://github.com/dubzzz/awesome-fast-check) – [fast-check](https://github.com/dubzzz/fast-check/) property based testing framework for JavaScript/TypeScript
+* [awesome-feathersjs](https://github.com/feathersjs/awesome-feathersjs) – [Feathers](https://feathersjs.com/) Node.js framework for real-time applications REST APIs.
 * [awesome-fediverse](https://github.com/emilebosch/awesome-fediverse) – [Fediverse](https://en.wikipedia.org/wiki/Fediverse) resources.
 * [awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) – FFmpeg resources.
 * [awesome-firebase](https://github.com/jthegedus/awesome-firebase) – Firebase mobile development platform
