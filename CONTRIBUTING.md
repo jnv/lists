@@ -6,20 +6,6 @@ If you have any questions about the project or these guidelines, [open an issue]
 
 Most importantly, **have fun!** Don’t take this project _too_ seriously. While it is (hopefully) useful, there are better things in life than some arbitrary hoard of links.
 
-## Hacktoberfest Provisions
-
-If you wish to send a PR to this repository during October, pay attention to the following rules especially if you participate in [Hacktoberfest](https://hacktoberfest.digitalocean.com) and wish your PR to count to get a reward.
-
-While this project generally welcomes any contributions, I don't want it to be abused as a simple way to inflate contributions count. Hacktoberfest is about quality, not quantity. So during October a special rules are in place:
-
-- Only a single Pull Request from the first time contributors will be accepted (regardless of whether you have contributed earlier in the past or during October).
-- Low quality Pull Requests which clearly don't respect these guidelines won't be accepted.
-- Pull Requests to add low quality lists or recently started lists may not be accepted.
-
-PRs from non-first-time contributors and low-quality PRs will be labeled as `invalid` and won't count towards contribution count in Hacktoberfest. New resources may be still added to the project, marking original contributor as co-author. In case of a large amount of spam or low-quality PRs, the project will be opted-out of Hacktoberfest participation and no PRs will count.
-
-If you wish to participate meaningfully, see the [official Hacktoberfest Resources](https://hacktoberfest.digitalocean.com/details) and [awesome-hacktoberfest-2020](https://github.com/Piyushhbhutoria/awesome-hacktoberfest-2020) list. If you are here only for a swag, check out [hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list).
-
 ## What is Accepted
 
 If you wish to add some project to this list, make sure it meets the following criteria:
