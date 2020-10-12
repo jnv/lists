@@ -976,7 +976,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - http://akashtandon.com/awesome-neuroscience/
 * [awesome-newsletters](https://github.com/mpron/awesome-newsletters) by @mpron – Developer newsletters
 * [awesome-newsletters](https://github.com/webpro/awesome-newsletters) by @webpro – The best (weekly) newsletters
-  - https://github.com/webpro/awesome-newsletters
 * [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) by @zudochkin
 * [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) – [Next.js](https://nextjs.org/) React-based JavaScript framework
 * [awesome-nim](https://github.com/VPashkov/awesome-nim) – [Nim](https://nim-lang.org/) programming language
