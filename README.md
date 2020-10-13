@@ -78,7 +78,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [plastic-free](https://github.com/IrosTheBeggar/plastic-free) – Plastic-free products.
 * [ProjectSoundtracks](https://github.com/sarthology/ProjectSoundtracks) – Soundtracks to boost your Productivity and Focus.
 * [PublicMedia](https://github.com/melodykramer/PublicMedia) – Everything about public (broadcast) media.
-  - Also [an introduction to working with GitHub](http://melodykramer.github.io/2015/04/06/learning-github-without-one-line-of-code/) for non-programmers.
+  - Also [an introduction to working with GitHub](http://melodykramer.github.io/2015/04/06/learning-github-without-one-line-of-code) for non-programmers.
 * [recipes](https://github.com/bzimmerman/recipes) by @bzimmerman – This repository contains tasty open-source recipes.
 * [recipes](https://github.com/csswizardry/recipes) by @csswizardy – Collection of things I like cooking
 * [recipes](https://github.com/LarryMad/recipes) by @LarryMad
