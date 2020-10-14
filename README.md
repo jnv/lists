@@ -1156,6 +1156,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-sketch](https://github.com/diessica/awesome-sketch) – Guides, articles, videos about [Sketch 3](http://www.sketchapp.com/).
 * [awesome-slack](https://github.com/filipelinhares/awesome-slack) by @filipelinhares – Communities powered by Slack.
 * [awesome-slack](https://github.com/matiassingers/awesome-slack) by @matiassingers
+* [awesome-slack-communities](https://github.com/radermacher/awesome-slack-communities) – Public Slack Communities.
 * [awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv) – Smart TV apps
 * [awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) – Design, reason around and build software using architectural patterns and methods
 * [awesome-software-craftsmanship](https://github.com/benas/awesome-software-craftsmanship) – [Software craftsmanship](http://manifesto.softwarecraftsmanship.org/) resources to help learn the craft.
