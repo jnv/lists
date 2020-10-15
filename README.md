@@ -1297,6 +1297,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-yamada](https://github.com/supermomonga/awesome-yamada) – Dancing yamada
 * [awesome-yii](https://github.com/iJackUA/awesome-yii) – Yii PHP framework extensions, tutorials and other nice things.
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
+* [awesomo](https://github.com/lk-geimfari/awesomo) – Open source projects in various languages.
 * [craftcms/awesome](https://github.com/craftcms/awesome) – [Craft CMS](https://craftcms.com/)
 * [not-awesome-es6-classes](https://github.com/petsel/not-awesome-es6-classes) – Why ES6 (aka ES2015) classes are NOT awesome
   - https://matthias-endler.de/awesome-static-analysis/
