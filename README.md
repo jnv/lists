@@ -186,6 +186,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [data-science-must-watch](https://github.com/kmonsoor/data-must-watch)
 * [datasciencemasters](https://github.com/datasciencemasters/go) – The Curriculum for learning Data Science, Open Source and at your fingertips.
   - http://datasciencemasters.org/
+* [datascience-pizza](https://github.com/PizzaDeDados/datascience-pizza) _In Portugese_ – Materiais de estudo em análise de dados e áreas afins, empresas que trabalham com dados e dicionário de conceitos.
 * [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) – Python tutorials for Data Science, NLP and Machine Learning
 * [debugging-stories](https://github.com/danluu/debugging-stories) – Collection of links to various debugging stories.
 * [degoogle](https://github.com/tycrek/degoogle) – Alternatives to Google's products.
