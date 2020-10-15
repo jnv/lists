@@ -234,6 +234,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) – Helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
   - Available in [various translations](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions/tree/master/Translations)
 * [Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) _In Chinese_
+* [Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
+  - https://resources.ritikpatni.me/
 * [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) – Frontend development resources I collected over time.
 * [frontend-dev-resources](https://github.com/dmytroyarmak/frontend-dev-resources) – Frontend resources [conferences].
 * [frontend-resources](https://github.com/JonathanZWhite/frontend-resources) by @JonathanZWhite
