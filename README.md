@@ -749,9 +749,9 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ember](https://github.com/ember-community-russia/awesome-ember) by @ember-community-russia – [Ember.js](https://emberjs.com/) JavaScript framework
 * [awesome-ember](https://github.com/nmec/awesome-ember) by @nmec – Ember.js things.
 * [awesome-endless-codeforall-list](https://github.com/RobTranquillo/awesome-endless-codeforall-list) – Every tool that civic hackers worldwide use to work.
-* [awesome-engineer-onboarding](https://github.com/posquit0/awesome-engineer-onboarding) - A curated list of awesome resources for engineer onboarding.
-* [awesome-engineering-ladders](https://github.com/posquit0/awesome-engineering-ladders) - A curated list of awesome resources for Engineering Ladder.
-* [awesome-engineering-team-principles](https://github.com/posquit0/awesome-engineering-team-principles) - A curated list of awesome resources for engineering team principles.
+* [awesome-engineer-onboarding](https://github.com/posquit0/awesome-engineer-onboarding)
+* [awesome-engineering-ladders](https://github.com/posquit0/awesome-engineering-ladders)
+* [awesome-engineering-team-principles](https://github.com/posquit0/awesome-engineering-team-principles)
 * [awesome-eosio](https://github.com/DanailMinchev/awesome-eosio) – [EOS.IO](https://eos.io/) blockchain protocol
 * [awesome-erlang](https://github.com/drobakowski/awesome-erlang)
 * [awesome-eslint](https://github.com/dustinspecker/awesome-eslint) – [ESLint](https://eslint.org/) JavaScript linter
