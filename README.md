@@ -163,6 +163,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [classics](https://github.com/eyy/classics) – Classical studies (Latin and Ancient Greek) resources: software, code and raw data.
 * [cloud-conferences](https://github.com/stefan-kolb/cloud-conferences) – A collection of scientific and industry conferences focused on cloud computing.
   - http://stefan-kolb.github.io/cloud-conferences/
+* [code-canon](https://github.com/darius/code-canon) – Code worth reading.
 * [codeface](https://github.com/chrissimpkins/codeface) – Typefaces for source code / text editors.
 * [Colorful](https://github.com/Siddharth11/Colorful) – Choose your next color scheme
 * [CompilerJobs](https://github.com/mgaudet/CompilerJobs) – Compiler, language, and runtime teams for people looking for jobs in this area.
