@@ -1195,6 +1195,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-streaming](https://github.com/manuzhang/awesome-streaming) – Streaming frameworks, applications, etc
 * [awesome-styleguides](https://github.com/RichardLitt/awesome-styleguides)
 * [awesome-stylelint](https://github.com/stylelint/awesome-stylelint) – [Stylelint](https://stylelint.io/) CSS linter.
+* [awesome-sustainable-technology](https://github.com/protontypes/awesome-sustainable-technology) – Open technology projects sustaining stable climate, energy supply and vital natural resources.
+  - https://opensustain.tech/
 * [awesome-svelte](https://github.com/CalvinWalzel/awesome-svelte) – [Svelte](https://svelte.dev/) framework
 * [awesome-svelte-resources](https://github.com/ryanatkn/awesome-svelte-resources) – [Svelte](https://svelte.dev/) framework
 * [awesome-svg](https://github.com/willianjusten/awesome-svg)
