@@ -801,6 +801,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) – Podcasts we like to listen to.
   - http://ayr-ton.github.io/awesome-geek-podcasts
 * [awesome-geojson](https://github.com/tmcw/awesome-geojson) – GeoJSON
+* [awesome-ggplot2](https://github.com/erikgahner/awesome-ggplot2) – [ggplot2](https://ggplot2.tidyverse.org/) data visualization for R.
 * [awesome-gideros](https://github.com/stetso/awesome-gideros) – [Gideros](http://giderosmobile.com/) game development framework
 * [awesome-gif](https://github.com/davisonio/awesome-gif) – GIF software resources
   - https://davison.io/awesome-gif
