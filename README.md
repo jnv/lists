@@ -500,6 +500,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ad-free](https://github.com/johnjago/awesome-ad-free) – Ad-free alternatives to popular services on the web
 * [awesome-ada](https://github.com/ohenley/awesome-ada) – Ada and SPARK programming language
 * [awesome-adafruitio](https://github.com/adafruit/awesome-adafruitio) – [Adafruit IO](https://io.adafruit.com/) Internet of Things platform
+* [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) – [Advent of Code](https://adventofcode.com/)
 * [awesome-agile](https://github.com/lorabv/awesome-agile) – Agile Software Development.
   - https://lorabv.github.io/awesome-agile
 * [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) – Open source technology for agriculture, farming, and gardening
