@@ -950,6 +950,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
 * [awesome-marionette](https://github.com/sadcitizen/awesome-marionette) – [marionette.js](https://marionettejs.com/) framework
 * [awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown)
+* [awesome-markdown-alternatives](https://github.com/mundimark/awesome-markdown-alternatives) – Light-weight markup markdown alternatives.
 * [awesome-masonite](https://github.com/vaibhavmule/awesome-masonite) – [Masonite](https://docs.masoniteproject.com/) Python web framework
 * [awesome-mastodon](https://github.com/tleb/awesome-mastodon) – [Mastodon](https://joinmastodon.org/) decentralized microblogging network
 * [awesome-material](https://github.com/sachin1092/awesome-material) – Google's material design
