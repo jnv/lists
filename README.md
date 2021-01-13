@@ -627,6 +627,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-cloud-certifications](https://gitlab.com/edzob/awesome-cloud-certifications) – Certifications for cloud platforms
 * [awesome-cmake](https://github.com/onqtam/awesome-cmake) – CMake
 * [awesome-cms](https://github.com/postlight/awesome-cms) – Open and closed source Content Management Systems (CMS)
+* [Awesome-CobaltStrike-Defence](https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence) – Defences against [Cobalt Strike](https://www.cobaltstrike.com/), Adversary Simulations and Red Team Operations software.
 * [awesome-cobol](https://github.com/mickaelandrieu/awesome-cobol) – COBOL programming language
 * [awesome-cocoa](https://github.com/v-braun/awesome-cocoa) – Cocoa controls for iOS, watchOS and macOS
   - http://cocoa.rocks
