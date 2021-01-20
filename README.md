@@ -457,6 +457,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [tool_lists](https://github.com/johnyf/tool_lists) – Links to tools by theme. *Verification, synthesis, and static analysis.*
 * [tools](https://github.com/lvwzhen/tools) – Tools for web.
 * [toolsforactivism](https://github.com/drewrwilson/toolsforactivism) – Digital tools for activism
+* [tools-list](https://github.com/everestpipkin/tools-list) – Open source, experimental, and tiny tools for building game/website/interactive project.
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) – Tools of The Trade, from Hacker News.
 * [top-starred-devs-and-repos-to-follow](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow) – Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending).
 * [trending-repositories](https://github.com/Semigradsky/trending-repositories) – Repositories that were trending for a day.
