@@ -112,7 +112,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [algovis](https://github.com/enjalot/algovis) – Algorithm Visualization.
 * [alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 * [amazing-deployment](https://github.com/delirehberi/amazing-deployment)
-* [apis-list](https://github.com/apis-list/apis-list) - Community maintained, human and machine readable list of Public APIs
 * [android-awesome-libraries](https://github.com/kaiinui/android-awesome-libraries) – Useful Android development libraries with usage examples.
 * [android-dev-readme](https://github.com/anirudh24seven/android-dev-readme) – Links for every Android developer.
 * [AndroidDevTools](https://github.com/inferjay/AndroidDevTools) _In Chinese_ – SDK, development tools, libraries, and resources.
@@ -125,6 +124,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [angular-education](https://github.com/timjacobi/angular-education) – Helpful material to develop using Angular
 * [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
 * [ansible-gentoo-roles](https://github.com/jirutka/ansible-gentoo-roles) – Ansible roles for Gentoo Linux.
+* [apis-list](https://github.com/apis-list/apis-list) – Community maintained, human and machine readable list of Public APIs
 * [app-ideas](https://github.com/florinpop17/app-ideas) – Application ideas which can be used to improve your coding skills.
 * [app-launch-guide](https://github.com/adamwulf/app-launch-guide) – Indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
 * [applied-ml](https://github.com/eugeneyan/applied-ml) – Data science & machine learning in production.
