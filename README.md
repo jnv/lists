@@ -732,6 +732,9 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 * [awesome-dotnet](https://github.com/quozd/awesome-dotnet) – .NET libraries, tools, frameworks and software.
 * [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) – .NET core libraries, tools, frameworks and software
+* [awesome-dotnet-core-education](https://github.com/mehdihadeli/awesome-dotnet-core-education) – Collection of useful articles and resources to learning and practicing about .Net Core and its related technologies
+* [awesome-dotnet-async](https://github.com/mehdihadeli/awesome-dotnet-async) - Collection of useful articles and resources to learning and practicing about async, threading, and channels in .Net platform
+* [awesome-dotnet-architecture](https://github.com/mehdihadeli/awesome-dotnet-architecture) - Collection of useful articles and resources to learning and practicing about software architecture, patterns, and principles in .Net platform.
 * [awesome-draft-js](https://github.com/nikgraf/awesome-draft-js) – [Draft.js](https://draftjs.org/) text editor framework
 * [awesome-dropwizard](https://github.com/stve/awesome-dropwizard) – [Dropwizard](https://www.dropwizard.io/) Java web framework
 * [awesome-drupal](https://github.com/emincansumer/awesome-drupal) by @emincansumer
