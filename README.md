@@ -1007,6 +1007,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-nlp](https://github.com/keon/awesome-nlp) – Natural Language Processing.
 * [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) – Web apps that work without login
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) by @sindresorhus
+* [awesome-node-esm](https://github.com/talentlessguy/awesome-node-esm) - ES modules for Node.js
 * [awesome-non-financial-blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) – Non-financial applications of blockchain
 * [awesome-nosql-guides](https://github.com/erictleung/awesome-nosql-guides) – NoSQL databases
   - https://erictleung.com/awesome-nosql-guides/
