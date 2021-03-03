@@ -683,6 +683,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesomeCSV](https://github.com/secretGeek/awesomeCSV) – CSV, Comma Separated Values format
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf) – [Capture the Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security)
   - https://apsdehal.in/awesome-ctf/
+* [awesome-cto](https://github.com/kuchin/awesome-cto) – Resources for Chief Technology Officers, with the emphasis on startups
 * [awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) – [Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security)) resources
 * [awesome-cyclejs](https://github.com/cyclejs-community/awesome-cyclejs) – Cycle.js framework
 * [awesome-d](https://github.com/zhaopuming/awesome-d) – D programming language.
