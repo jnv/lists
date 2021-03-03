@@ -177,6 +177,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [cscs](https://github.com/SalGnt/cscs) – Coding Style Conventions and Standards.
 * [css-in-js](https://github.com/MicheleBertoli/css-in-js) – CSS in JS techniques comparison for React et al.
 * [css-protips](https://github.com/AllThingsSmitty/css-protips) – Take your CSS skills pro
+* [cto](https://github.com/92bondstreet/cto) – Chief Technology Officers resources.
 * [curated-list-espresso-sugar-plugins](https://github.com/GioSensation/curated-list-espresso-sugar-plugins) – Sugar plugins for Espresso, the code editor by MacRabbit.
 * [curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources) – Resources for learning programming and computer science.
 * [curatedseotools](https://github.com/sneg55/curatedseotools) – Best SEO Tools Stash
