@@ -39,6 +39,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-maps](https://github.com/simsieg/awesome-maps) – Various Online Maps
 * [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) – Articles, websites and resources about mental health in the software industry.
   - https://dreamingechoes.github.io/awesome-mental-health
+* [awesome-reddit-channels](https://github.com/MadhuNimmo/awesome-reddit-channels) - Reddit Channels every programmer must follow
 * [awesome-parasite](https://github.com/ecohealthalliance/awesome-parasite) – Parasites and host-pathogen interactions.
 * [awesome-philosophy](https://github.com/HussainAther/awesome-philosophy) – Philosophy
 * [awesome-scifi](https://github.com/sindresorhus/awesome-scifi) – Sci-Fi worth consuming.
