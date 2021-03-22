@@ -1331,6 +1331,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-xmpp](https://github.com/bluszcz/awesome-xmpp) – Curated list of awesome XMPP protocol resources.
 * [awesome-yamada](https://github.com/supermomonga/awesome-yamada) – Dancing yamada
 * [awesome-yii](https://github.com/iJackUA/awesome-yii) – Yii PHP framework extensions, tutorials and other nice things.
+* [awesome-zig](https://github.com/nrdmn/awesome-zig) – [Zig](https://ziglang.org/) programming language.
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 * [awesomo](https://github.com/lk-geimfari/awesomo) – Open source projects in various languages.
 * [craftcms/awesome](https://github.com/craftcms/awesome) – [Craft CMS](https://craftcms.com/)
