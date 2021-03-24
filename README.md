@@ -41,7 +41,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://dreamingechoes.github.io/awesome-mental-health
 * [awesome-parasite](https://github.com/ecohealthalliance/awesome-parasite) – Parasites and host-pathogen interactions.
 * [awesome-philosophy](https://github.com/HussainAther/awesome-philosophy) – Philosophy
-* [awesome-reddit-channels](https://github.com/MadhuNimmo/awesome-reddit-channels) - Reddit Channels every programmer must follow.
+* [awesome-reddit-channels](https://github.com/MadhuNimmo/awesome-reddit-channels) – Reddit Channels every programmer must follow.
 * [awesome-scifi](https://github.com/sindresorhus/awesome-scifi) – Sci-Fi worth consuming.
 * [awesome-speaking](https://github.com/matteofigus/awesome-speaking) – Resources about public speaking
 * [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) – Stock photography, video and illustration websites.
@@ -245,6 +245,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [frontend-challenges](https://github.com/felipefialho/frontend-challenges) – Playful challenges for job applicants to test your knowledge.
 * [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) – Frontend development resources I collected over time.
 * [frontend-dev-resources](https://github.com/dmytroyarmak/frontend-dev-resources) – Frontend resources [conferences].
+* [frontend-developer-resources](https://github.com/mrcodedev/frontend-developer-resources) _In Spanish._ – El camino del Frontend Developer.
 * [frontend-development](https://github.com/mojpm/frontend-development)
 * [frontend-resources](https://github.com/JonathanZWhite/frontend-resources) by @JonathanZWhite
 * [frontend-resources](https://github.com/zedix/frontend-resources) by @zedix
