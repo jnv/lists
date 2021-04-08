@@ -979,6 +979,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-mesos](https://github.com/parolkar/awesome-mesos) by @parolkar
 * [awesome-meteor](https://github.com/Urigo/awesome-meteor)
 * [awesome-meteor-developers](https://github.com/harryadel/awesome-meteor-developers) – Ways to support Meteor developers and packages.
+* [awesome-mews](https://github.com/MewsSystems/awesome-mews) – Resources Mews developers like and aligns with their vision.
 * [awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) – Small, focused npm packages.
 * [awesome-microbit](https://github.com/carlosperate/awesome-microbit) – BBC micro:bit
 * [awesome-microfrontends](https://github.com/ChristianUlbrich/awesome-microfrontends)
