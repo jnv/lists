@@ -24,6 +24,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesomebandnames](https://github.com/jnv/awesomebandnames) – The open-source list of awesome band names.
 * [awesome-belarus-online](https://github.com/Friz-zy/awesome-belarus-online) – Useful belarusian online resources.
 * [awesome-biology](https://github.com/raivivek/awesome-biology) – Learning resources, research papers, tools and other resources related to Biology.
+* [awesome-bitclout](https://github.com/barrymode/awesome-bitclout) – A curated list of awesome BitClout things.
 * [awesome-board-games](https://github.com/edm00se/awesome-board-games) – Awesome and exceptional board games
   - https://awesomeboard.games
 * [awesome-ethics](https://github.com/HussainAther/awesome-ethics)
