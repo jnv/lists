@@ -738,7 +738,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker) by @veggiemonk
 * [awesome-docsify](https://github.com/docsifyjs/awesome-docsify) – [docsify](https://docsify.js.org/) documentation site generator.
 * [awesome-doctrine](https://github.com/biberlabs/awesome-doctrine) – Doctrine ORM libraries and resources.
-* [awesome-document-understanding](https://github.com/tstanislawek/awesome-document-understanding) – document understanding links and resources.
+* [awesome-document-understanding](https://github.com/tstanislawek/awesome-document-understanding) – Automated data extraction from documents.
 * [awesome-dojo](https://github.com/petk/awesome-dojo) – Dojo JavaScript Toolkit resources and libraries.
 * [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 * [awesome-dotnet](https://github.com/quozd/awesome-dotnet) – .NET libraries, tools, frameworks and software.
