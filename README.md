@@ -1020,6 +1020,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-nim](https://github.com/VPashkov/awesome-nim) – [Nim](https://nim-lang.org/) programming language
 * [awesome-nlp](https://github.com/keon/awesome-nlp) – Natural Language Processing.
 * [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) – Web apps that work without login
+* [awesome-nocode](https://github.com/nslindtner/awesome-nocode)
 * [awesome-node-esm](https://github.com/talentlessguy/awesome-node-esm) – ES modules for Node.js
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) by @sindresorhus
 * [awesome-non-financial-blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) – Non-financial applications of blockchain
