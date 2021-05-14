@@ -1139,6 +1139,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-regex](https://github.com/aloisdg/awesome-regex) – Regular expressions
 * [awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) – Visual regression testing
 * [awesome-relay](https://github.com/expede/awesome-relay) – [Relay](https://relay.dev/) JavaScript framework for React and GraphQL
+* [awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) – [reMarkable](https://remarkable.com/) e-ink tablet.
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) – Remote companies and other resources.
 * [awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork) – Books and links about and for remote work.
 * [awesome-research](https://github.com/emptymalei/awesome-research) – Tools to help you with research/life
