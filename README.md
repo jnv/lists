@@ -77,6 +77,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [mining-resources](https://github.com/Mining-Resources/mining-resources) – Natural resources mining.
 * [no-free-basics](https://github.com/net-neutrality/no-free-basics) – Those who have spoken up against Facebook's “Free Basics”
   - https://net-neutrality.github.io/no-free-basics/
+* [open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) – Worldwide open technology projects preserving a stable climate, energy supply and vital natural resources.
 * [plastic-free](https://github.com/IrosTheBeggar/plastic-free) – Plastic-free products.
 * [ProjectSoundtracks](https://github.com/sarthology/ProjectSoundtracks) – Soundtracks to boost your Productivity and Focus.
 * [PublicMedia](https://github.com/melodykramer/PublicMedia) – Everything about public (broadcast) media.
