@@ -880,6 +880,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-idris](https://github.com/joaomilho/awesome-idris) – 𝛌 [Idris](https://www.idris-lang.org/), functional programming language with dependent types
 * [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) – Resources useful for incident responders.
 * [awesome-indie](https://github.com/mezod/awesome-indie) – Resources for independent developers to make money
+* [awesome-infinidash](https://github.com/joenash/awesome-infinidash)
 * [awesome-influxdb](https://github.com/mark-rushakoff/awesome-influxdb) – Resources for the time series database InfluxDB
 * [awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval) – Information retrieval resources
 * [awesome-inspectit](https://github.com/inspectit-labs/awesome-inspectit) – InspectIT documentations and resources.
