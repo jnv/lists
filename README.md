@@ -297,6 +297,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [iOS-Developer-and-Designer-Interview-Questions](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions)
 * [iOSDevResource](https://github.com/objcc/iOSDevResource)
 * [iptv](https://github.com/iptv-org/iptv) – 5000+ publicly available IPTV channels from all over the world.
+* [javacard-curated-list](https://github.com/EnigmaBridge/javacard-curated-list) – Java Card applets and related applications for cryptographic smartcards.
 * [javascript-dev-bookmarks](https://github.com/didicodes/javascript-dev-bookmarks) – Articles that will help you get better at JavaScript.
 * [javascript-patterns](https://github.com/shichuan/javascript-patterns) – JavaScript Patterns
   - http://shichuan.github.io/javascript-patterns/
@@ -974,7 +975,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://davidlambauer.github.io/awesome-magento2/
 * [awesome-maintainers](https://github.com/nayafia/awesome-maintainers) – Talks, blog posts, and interviews about the experience of being an open source maintainer
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
-* [awesome-manifestos](https://github.com/imsky/awesome-manifestos) - Interesting software manifestos and principles
+* [awesome-manifestos](https://github.com/imsky/awesome-manifestos) – Interesting software manifestos and principles
 * [awesome-marionette](https://github.com/sadcitizen/awesome-marionette) – [marionette.js](https://marionettejs.com/) framework
 * [awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown)
 * [awesome-markdown-alternatives](https://github.com/mundimark/awesome-markdown-alternatives) – Light-weight markup markdown alternatives.
