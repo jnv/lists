@@ -616,6 +616,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-captcha](https://github.com/ZYSzys/awesome-captcha) – Captcha libraries and crack tools.
   - http://zyszys.github.io/awesome-captcha/
 * [awesome-cassandra](https://github.com/yikebocai/awesome-cassandra)
+* [awesome-ccxt](https://github.com/suenot/awesome-ccxt) – [CryptoCurrency eXchange Trading Library](https://github.com/ccxt/ccxt)
 * [awesome_challenge_list](https://github.com/AwesomeRubyist/awesome_challenge_list) – Sites with challenges to improve your programming skills.
 * [awesome-challenges](https://github.com/mauriciovieira/awesome-challenges) – Algorithmic challenges
 * [awesome-charting](https://github.com/zingchart/awesome-charting) – Charts and dataviz.
