@@ -62,6 +62,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [diversity-index](https://github.com/svaksha/diversity-index) – Grants, scholarships and FA that encourages diversity in STEM fields aimed at half the world's population, Women!
   - http://svaksha.github.io/diversity-index
 * [diversity-twitter](https://github.com/gregorycoleman/diversity-twitter) – Twitter feeds of interesting people to follow for Diversity & Inclusion
+* [Find a Discord](https://findadiscord.com) - List of discord communities
 * [food](https://notabug.org/themusicgod1/food)
 * [food-recipes](https://github.com/obfuscurity/food-recipes) – Honest-to-goodness "real food" recipes
 * [frequent-transit-maps](https://github.com/wwcline/list-of-frequent-transit-maps) – Transit maps highlighting frequent all-day service
