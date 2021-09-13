@@ -728,6 +728,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
   - https://flawlessapp.io/designtools
 * [awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) – Implementing desktop apps with JavaScript
+* [awesome-dev-discord](https://github.com/ljosberinn/awesome-dev-discord) – Official, development-related Discord servers.
+  - https://dev-discords.now.sh/
 * [awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun) – Fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 * [awesome-developer-blogs](https://github.com/endymion1818/awesome-developer-blogs)
 * [awesome-developer-experience](https://github.com/prokopsimek/awesome-developer-experience)
