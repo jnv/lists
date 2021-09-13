@@ -4,15 +4,17 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 ✨ Now also available [in CSV](https://github.com/jnv/lists/blob/gh-pages/lists.csv)! ✨
 
-* [Non-technical](#non-technical)
-* [Technical](#technical)
-  * [awesome-*](#awesome-)
-* [Lists of lists](#lists-of-lists)
-  * [Lists of lists of lists](#lists-of-lists-of-lists)
-    * [Lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists)
-      * [Lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists)
-        * [Lists of lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists-of-lists)
-          * [Lists of lists of lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists-of-lists-of-lists) 😱
+- [Lists](#lists)
+  - [Non-technical](#non-technical)
+  - [Technical](#technical)
+    - [awesome-*](#awesome-)
+  - [Lists of lists](#lists-of-lists)
+    - [Lists of lists of lists](#lists-of-lists-of-lists)
+      - [Lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists)
+        - [Lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists)
+          - [Lists of lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists-of-lists)
+          - [Lists of lists of lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists-of-lists-of-lists)
+  - [License](#license)
 
 <!-- lists-start -->
 
@@ -937,6 +939,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-laravel](https://github.com/chiraggude/awesome-laravel) by @chiraggude
 * [awesome-laravel](https://github.com/TimothyDJones/awesome-laravel) by @TimothyDJones
 * [Awesome-Laravel-Education](https://github.com/fukuball/Awesome-Laravel-Education) _In English and Chinese_ – Laravel PHP framework learning resources.
+* [awesome-latam](https://github.com/gophers-latam/awesome-latam) _In Spanish_ – Recursos en Español para desarrolladores de Golang.
+  - https://gophers-latam.github.io/
 * [awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
 * [awesome-ld-preload](https://github.com/gaul/awesome-ld-preload) – LD_PRELOAD, a mechanism for changing application behavior at run-time.
 * [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) – Leading people and being a manager. Geared toward tech, but potentially useful to anyone.
