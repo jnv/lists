@@ -373,6 +373,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) – Open-source iOS apps.
 * [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) – macOS open source applications.
 * [open-source-meetup-alternatives](https://github.com/coderbyheart/open-source-meetup-alternatives)
+* [opensource-discordbots](https://github.com/gillesheinesch/opensource-discordbots) – Open-source bots for Discord.
 * [ops-books](https://github.com/stack72/ops-books) – Book recommendations related to Continuous Delivery, DevOps, Operations and Systems Thinking.
 * [osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) – OSX and iOS related security tools
 * [papers](https://github.com/NicolasT/papers) – A collection of papers found across the web.
