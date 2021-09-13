@@ -207,6 +207,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [DevopsWiki](https://github.com/Leo-G/DevopsWiki) – Devops Tools, Tutorials and Scripts.
 * [dev-resource](https://github.com/Ibrahim-Islam/dev-resource) – Resources for devs online and offline.
 * [digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) – Resources for gardeners tending their digital notes on the public interwebs.
+* [discord-resources](https://github.com/DTinker/discord-resources) – Discord modding resources.
 * [discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) – Discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 * [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) – Dive into Machine Learning with Python Jupyter notebook and scikit-learn
   - http://hangtwenty.github.io/dive-into-machine-learning/
