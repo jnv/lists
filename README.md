@@ -60,6 +60,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [cocktails](https://github.com/balevine/cocktails) – Cocktail Recipes
 * [corporate-logos](https://github.com/marketreef/corporate-logos) – Curated repo of publicly listed co. logos, identified by ticker. *Almost 1500 logos*
 * [creative-commons-media](https://github.com/shime/creative-commons-media) – Audio, graphics and other resources that provide media licensed under Creative Commons licenses.
+* [discord-listings](https://github.com/angrymouse/discord-listings) – Places where to promote Discord servers.
 * [dissertation-tips](https://github.com/katychuang/dissertation-tips) – Resources to help PhD students complete their dissertation successfully.
 * [diversity-index](https://github.com/svaksha/diversity-index) – Grants, scholarships and FA that encourages diversity in STEM fields aimed at half the world's population, Women!
   - http://svaksha.github.io/diversity-index
