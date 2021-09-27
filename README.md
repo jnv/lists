@@ -1024,6 +1024,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-msr](https://github.com/dspinellis/awesome-msr) – Empirical Software Engineering: evidence-based, data-driven research on software systems
 * [awesome-music](https://github.com/ciconia/awesome-music) – Music, audio, MIDI
 * [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) – MySQL software, libraries, tools and resources
+* [awesome-naming](https://github.com/gruhn/awesome-naming) – When naming things is done right.
 * [awesome-neo4j](https://github.com/neueda/awesome-neo4j) – Neo4j graph database
 * [awesome-netherlands-events](https://github.com/awkward/awesome-netherlands-events) – Dutch (tech related) events
 * [awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)
