@@ -116,6 +116,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [AI-reading-list](https://github.com/m0nologuer/AI-reading-list) – Papers about Artificial Intelligence.
 * [alexandria](https://github.com/alxgcrz/alexandria) _In English and Spanish_ – Various resources by [@alxgcrz](https://github.com/alxgcrz)
 * [algovis](https://github.com/enjalot/algovis) – Algorithm Visualization.
+* [alternative-front-ends](https://github.com/mendel5/alternative-front-ends) – Alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.).
 * [alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 * [amazing-deployment](https://github.com/delirehberi/amazing-deployment)
 * [android-awesome-libraries](https://github.com/kaiinui/android-awesome-libraries) – Useful Android development libraries with usage examples.
