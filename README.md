@@ -1169,6 +1169,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - http://openmetric.org/tool/
 * [awesome-rest](https://github.com/marmelab/awesome-rest) – Great resources about RESTful API architecture, development, test, and performance
 * [awesome-rethinkdb](https://github.com/d3viant0ne/awesome-rethinkdb) – [RethinkDB](https://rethinkdb.com/) realtime database
+* [awesome-retrospectives](https://github.com/josephearl/awesome-retrospectives) – Facilitating and learning about retrospectives.
 * [awesome-ripple](https://github.com/vhpoet/awesome-ripple) – [Ripple](https://ripple.com/) cryptocurrency
 * [awesome-rl](https://github.com/aikorea/awesome-rl) – Reinforcement Learning.
 * [awesome-rnn](https://github.com/kjw0612/awesome-rnn) – Recurrent Neural Networks.
