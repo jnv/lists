@@ -686,7 +686,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-cpp](https://github.com/fffaraz/awesome-cpp) – C/C++
 * [awesome-crdt](https://github.com/alangibson/awesome-crdt) – Conflict-free replicated data types
 * [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) – Creative Coding: Generative Art, Data visualization, Interaction Design
-  - https://creativecoding.rocks
+  - https://ccfest.rocks/
 * [Awesome-Cross-Platform-Apps](https://github.com/Juude/Awesome-Cross-Platform-Apps) – Solutions for building cross-platform apps.
 * [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) – Tools for writing cross-platform Node.js code.
 * [awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers) – Cryptography papers, articles, tutorials and howtos.
