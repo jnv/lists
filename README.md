@@ -971,6 +971,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-lit-html](https://github.com/web-padawan/awesome-lit-html) – [lit-html](https://lit-html.polymer-project.org/) HTML templating library
 * [awesome-livecoding](https://github.com/toplap/awesome-livecoding) – All things Livecoding.
 * [awesome-logging](https://github.com/roundrobin/awesome-logging)
+* [awesome-loginless](https://github.com/fiatjaf/awesome-loginless) – Internet services that don't require logins or registrations.
 * [awesome-love2d](https://github.com/love2d-community/awesome-love2d) – [LÖVE](http://love2d.org/) Lua game framework
 * [awesome-lowcode](https://github.com/taowen/awesome-lowcode) _In Chinese_ – Chinese low code platforms.
 * [awesome-lua](https://github.com/forhappy/awesome-lua) by @forhappy
