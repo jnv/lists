@@ -1393,6 +1393,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) – Lists for hackers, pentesters and security researchers.
 * [awesome-lists](https://github.com/pshah123/awesome-lists) – A curated list for your curated lists, including other curated lists of curated lists that may or may not contain other curated lists.
 * [curated-lists](https://github.com/learn-anything/curated-lists)
+* [delightful](https://codeberg.org/teaserbot-labs/delightful) – Home of delightful curated lists of free software, open science and information sources.
 * [getAwesomeness](https://github.com/panzhangwang/getAwesomeness) – Explorer designed for curated awesome list hosted on Github
   - https://getawesomeness.herokuapp.com/
 * [list-of-lists](https://github.com/cyrusstoller/list-of-lists) – A meta list of lists of useful open source projects and developer tools.
