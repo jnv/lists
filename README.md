@@ -530,6 +530,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) – Places to learn and/or practice algorithms.
 * [awesome-algorithms-education](https://github.com/gaerae/awesome-algorithms-education) – Learning and practicing algorithms
   - https://gaerae.com/awesome-algorithms
+* [awesome-alternatives](https://gitlab.com/linuxcafefederation/awesome-alternatives) – Mostly free and open source alternatives to proprietary software and services.
 * [awesome-ama-answers](https://github.com/stoeffel/awesome-ama-answers) – @stoeffel's AMA answers
 * [awesome-amazon-alexa](https://github.com/miguelmota/awesome-amazon-alexa) – Resources for the Amazon Alexa platform.
 * [awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller) – Tools and resources for Amazon sellers.
