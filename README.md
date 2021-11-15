@@ -223,6 +223,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [effects-bibliography](https://github.com/yallop/effects-bibliography) – A collaborative bibliography of work related to the theory and practice of computational effects
 * [ElixirBooks](https://github.com/sger/ElixirBooks) – Elixir programming language books
 * [elm-companies](https://github.com/jah2488/elm-companies) – Companies using Elm
+* [embedded-scripting-languages](https://github.com/dbohdan/embedded-scripting-languages)
 * [ember-links/list](https://github.com/ember-links/list) – Ember.js web framework
 * [empathy-in-engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) – Building and promoting more compassionate engineering cultures
 * [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
