@@ -677,6 +677,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
 * [awesome-connectivity-info](https://github.com/stevesong/awesome-connectivity-info) – Connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms.
 * [awesome-conservation-tech](https://github.com/anselmbradford/awesome-conservation-tech) – Intersection of tech and environmental conservation.
+* [awesome-console-services](https://github.com/chubin/awesome-console-services) – Console services (reachable via HTTP, HTTPS and other network protocols).
 * [awesome-construct](https://github.com/WebCreationClub/awesome-construct) – [Construct](https://www.construct.net/) game development toolkit
 * [awesome-container](https://github.com/tcnksm/awesome-container) – Container technologies and services.
 * [awesome-conversational](https://github.com/mortenjust/awesome-conversational) – Conversational UI
