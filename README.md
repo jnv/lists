@@ -440,6 +440,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [SecLists](https://github.com/danielmiessler/SecLists) – Lists used during security assessments: usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, etc.
 * [secure-email](https://github.com/OpenTechFund/secure-email) – Overview of projects working on next-generation secure email.
 * [Security_list](https://github.com/zbetcheckin/Security_list)
+* [selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview) – Software network services which can be hosted on your own servers.
 * [services-engineering](https://github.com/mmcgrana/services-engineering) – A reading list for services engineering, with a focus on cloud infrastructure services.
 * [shareable-links](https://github.com/vinkla/shareable-links) – URLs for sharing on social media.
 * [shellshocker-pocs](https://github.com/mubix/shellshocker-pocs) – Proof of concepts and potential targets for Shellshock.
