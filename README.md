@@ -569,7 +569,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 * [awesome-asciidoc](https://github.com/bodiam/awesome-asciidoc) – Collection of AsciiDoc tools, guides, tutorials and examples of usage.
 * [awesome-asciidoctor](https://github.com/dongwq/awesome-asciidoctor) – Collection of asciidoctor’s intros, examples and usages.
-* [awesome-ast](https://github.com/chadbrewbaker/awesome-ast) – Tools for Abstract Syntax Tree processing.
+* [awesome-ast](https://github.com/chadbrewbaker/awesome-ast) by @chadbrewbaker – Tools for Abstract Syntax Tree processing.
+* [awesome-ast](https://github.com/cowchimp/awesome-ast) by @cowchimp – Abstract Syntax Trees.
 * [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) – [asyncio](https://docs.python.org/3/library/asyncio.html) Python library
 * [awesome-asyncio-cn](https://github.com/chenjiandongx/awesome-asyncio-cn) _In Chinese_ – [asyncio](https://docs.python.org/3/library/asyncio.html) Python library
   - https://awesome-asyncio-cn.chenjiandongx.com/
