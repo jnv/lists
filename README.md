@@ -667,6 +667,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-coldfusion](https://github.com/seancoyne/awesome-coldfusion)
 * [awesome-common-lisp-learning](https://github.com/GustavBertram/awesome-common-lisp-learning)
 * [awesome-community](https://github.com/phpearth/awesome-community) – development, support and discussion channels, groups and communities.
+* [awesome-community-building](https://github.com/CrowdDevHQ/awesome-community-building) – Building developer communities.
 * [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) – Community detection papers with implementations.
 * [awesome-comparisons](https://github.com/dhamaniasad/awesome-comparisons) – Framework and code comparison projects, like TodoMVC and Notejam.
 * [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) – Competitive Programming, Algorithm and Data Structure resources
