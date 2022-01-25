@@ -142,6 +142,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awful-ai](https://github.com/daviddao/awful-ai) – Current scary usages of AI, hoping to raise awareness to its misuses in society.
 * [awmy](https://github.com/potch/awmy) – Are We Meta Yet?
   - http://arewemetayet.com/
+* [b1fipl](https://github.com/marcpaq/b1fipl) – A Bestiary of Single-File Implementations of Programming Languages.
 * [Backpack](https://github.com/sevab/Backpack) – Various learning resources, organized by technology/topic.
 * [badass-dev-resources](https://github.com/sodevious/badass-dev-resources) – #bada55 front-end developer resources.
 * [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) – Badges for GitHub profiles.
