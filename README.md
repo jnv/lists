@@ -1297,6 +1297,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://git.io/awesome-tailwindcss
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
 * [awesome-tap](https://github.com/sindresorhus/awesome-tap) – Test Anything Protocol
+* [awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) – Technical blogs
+  - https://tech-blogs.dev/
 * [awesome-tech-conferences](https://github.com/trstringer/awesome-tech-conferences) – Upcoming technical conferences.
 * [awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos) – Tech conferences from youtube, vimeo, etc for us to get inspired
 * [awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
