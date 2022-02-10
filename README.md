@@ -1335,6 +1335,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-userscripts](https://github.com/brunocvcunha/awesome-userscripts)
 * [awesome-uses](https://github.com/wesbos/awesome-uses) – `/uses` pages detailing developer setups, gear, software and configs.
   - https://uses.tech
+* [awesome-uxn](https://github.com/hundredrabbits/awesome-uxn) – The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playground, created to host small tools and games, programmable in its own unique assembly language.
 * [awesome-v](https://github.com/vlang/awesome-v) – [V](https://vlang.io/) programming language
 * [awesome-vagrant](https://github.com/iJackUA/awesome-vagrant)
 * [awesome-vanilla-js](https://github.com/davidhund/awesome-vanilla-js) – Plain—‘Vanilla’—JavaScript
