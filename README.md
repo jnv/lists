@@ -935,6 +935,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-jquery](https://github.com/petk/awesome-jquery)
 * [awesome-js-drama](https://github.com/scottcorgan/awesome-js-drama) – JavaScript topics the just might spark the next revolt!
 * [awesome-json](https://github.com/burningtree/awesome-json)
+* [awesome-jsonschema](https://github.com/jviotti/awesome-jsonschema) – [JSON Schema](http://json-schema.org/).
 * [awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) – JSON datasets that don't require authentication
 * [awesome-json-next](https://github.com/json-next/awesome-json-next) – What's Next for JSON for Structured (Meta) Data in Text.
 * [awesome-julia](https://github.com/melvin0008/awesome-julia)
