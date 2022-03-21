@@ -420,6 +420,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [remote-in-japan](https://github.com/remote-jp/remote-in-japan) – Tech companies in Japan that hire remote workers.
 * [remote-jobs](https://github.com/remoteintech/remote-jobs) – Semi to fully remote-friendly companies in tech.
 * [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil) – Remote-friendly Brazilian companies.
+* [remote-software-companies](https://github.com/RemoteByDefault/remote-software-companies) – remote companies with information about tech stack, salary transparency, etc.
 * [resource-list](https://github.com/kyasui/resource-list) – Design & Development Resources.
 * [resources](https://github.com/jbranchaud/resources) by @jbranchaud – Free, online resources for various technologies, languages, and tools.
 * [Resources](https://github.com/tevko/Resources) by @tevko – Tools for front end devs.
