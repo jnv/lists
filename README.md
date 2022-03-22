@@ -936,9 +936,9 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-jquery](https://github.com/petk/awesome-jquery)
 * [awesome-js-drama](https://github.com/scottcorgan/awesome-js-drama) – JavaScript topics the just might spark the next revolt!
 * [awesome-json](https://github.com/burningtree/awesome-json)
-* [awesome-jsonschema](https://github.com/jviotti/awesome-jsonschema) – [JSON Schema](http://json-schema.org/).
 * [awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) – JSON datasets that don't require authentication
 * [awesome-json-next](https://github.com/json-next/awesome-json-next) – What's Next for JSON for Structured (Meta) Data in Text.
+* [awesome-jsonschema](https://github.com/jviotti/awesome-jsonschema) – [JSON Schema](http://json-schema.org/).
 * [awesome-julia](https://github.com/melvin0008/awesome-julia)
 * [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) – [Jupyter](https://jupyter.org/)
 * [awesome-jvm](https://github.com/deephacks/awesome-jvm)
@@ -1083,6 +1083,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-open-science](https://github.com/silky/awesome-open-science)
 * [awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) – Companies that offer their services for free to Open Source projects
 * [awesome-opengl](https://github.com/eug/awesome-opengl) – OpenGL libraries, debuggers and resources.
+* [awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)
 * [awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) – Open source or open source licensed documents, guides, books.
 * [awesome-OpenSourcePhotography](https://github.com/ibaaj/awesome-OpenSourcePhotography) – Free open source software & libraries for photography. Also tools for video.
 * [awesome-osc](https://github.com/amir-arad/awesome-osc) – [Open Sound Control](http://opensoundcontrol.org/)
