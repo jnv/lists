@@ -1455,12 +1455,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [the one above](#lists-of-lists-of-lists-of-lists)
 
 
-###### Lists of lists of lists of lists of lists of lists
-
-* [awesome-awesome-awesome-awesome-awesome-awesome](https://github.com/enedil/awesome-awesome-awesome-awesome-awesome-awesome)
-* [the one above](#lists-of-lists-of-lists-of-lists-of-lists)
-
-
 ###### Lists of lists of lists of lists of lists of lists of lists
 
 * [awesome-awesome-awesome-awesome-awesome-awesome-awesome](https://github.com/sparanoid/awesome-awesome-awesome-awesome-awesome-awesome-awesome)
