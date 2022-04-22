@@ -403,6 +403,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [progressive-enhancement-resources](https://github.com/jbmoelker/progressive-enhancement-resources) – (code) examples.
 * [project-based-learning](https://github.com/tuvtran/project-based-learning) – Programming tutorials to build an application from scratch.
 * [Projects](https://github.com/karan/Projects) – Practical projects that anyone can solve in any programming language.
+* [public-api-lists](https://github.com/public-api-lists/public-api-lists) – Free APIs for use in software and web development (fork of [public-apis](https://github.com/public-apis/public-apis))
 * [public-apis](https://github.com/public-apis/public-apis) – JSON APIs for use in web development.
 * [purescript-companies](https://github.com/ajnsit/purescript-companies) – Companies that use Purescript
 * [pycrumbs](https://github.com/kirang89/pycrumbs) – Bits and Bytes of Python from the Internet.
