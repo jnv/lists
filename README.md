@@ -206,6 +206,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [debugging-stories](https://github.com/danluu/debugging-stories) – Collection of links to various debugging stories.
 * [Deep-NLP-Resources](https://github.com/pawangeek/Deep-NLP-Resources) – Deep Natural Language Processing
 * [degoogle](https://github.com/tycrek/degoogle) – Alternatives to Google's products.
+* [delightful-fediverse-apps](https://codeberg.org/fediverse/delightful-fediverse-apps) – Applications for the Fediverse that are based on the ActivityPub protocol and related standards.
 * [delightful-libre-hosters](https://codeberg.org/jonatasbaldin/delightful-libre-hosters) – People and organizations who deploy, maintain and offer open source services to the public.
 * [Developer-Conferences](https://github.com/MurtzaM/Developer-Conferences) – Upcoming developer conferences.
 * [dev-movies](https://github.com/aryaminus/dev-movies) – Recommended movies for people working in the Software and IT Industry.
