@@ -709,6 +709,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Awesome-Cross-Platform-Apps](https://github.com/Juude/Awesome-Cross-Platform-Apps) – Solutions for building cross-platform apps.
 * [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) – Tools for writing cross-platform Node.js code.
 * [awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers) – Cryptography papers, articles, tutorials and howtos.
+* [awesome-crypto-trackers](https://github.com/denisnazarov/awesome-crypto-trackers) – Crypto project trackers and analytics dashboards.
 * [awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies)
 * [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) – Cryptography and encryption resources.
 * [awesome-crystal](https://github.com/veelenga/awesome-crystal) – Crystal Language
