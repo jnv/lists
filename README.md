@@ -285,6 +285,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - http://tmrts.com/go-patterns
 * [graph-adversarial-learning-literature](https://github.com/YingtongDou/graph-adversarial-learning-literature) – Adversarial learning papers on graph-structured data.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) – Game development and realtime graphics programming.
+* [graphql-apis](https://github.com/IvanGoncharov/graphql-apis) – Public GraphQL APIs.
 * [guides](https://github.com/NARKOZ/guides) by @NARKOZ – Design and development guides
 * [guides](https://github.com/taniarascia/guides) by @taniarascia – Web Development Guides, Tutorials and Snippets.
 * [Hackathon-Resources](https://github.com/xasos/Hackathon-Resources) by @xasos – Hackathon Resources for organizers.
