@@ -352,6 +352,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [libertr](https://github.com/gaapt/libertr) – Resources for liberty seekers.
 * [lifeofjs](https://github.com/abhijeetkpawar/lifeofjs) – Curated source for all types of awesome resources available for JavaScript.
 * [Linux_websites](https://github.com/hduffddybz/Linux_websites) _In Chinese_ – Websites related to Linux kernel development.
+* [list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers) – Python API Wrappers and Libraries.
 * [lua-languages](https://github.com/hengestone/lua-languages) – Languages that compile to Lua.
 * [machine-learning-algorithms](https://github.com/Sahith02/machine-learning-algorithms) – Conceptual understanding of all machine learning algorithms.
 * [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) – Machine Learning and Deep Learning Tutorials
