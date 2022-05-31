@@ -492,6 +492,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://tinytools.directory/
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) – Tools of The Trade, from Hacker News.
 * [top-starred-devs-and-repos-to-follow](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow) – Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending).
+* [translations](https://github.com/oldratlee/translations) – Chinese translations for classic IT resources.
 * [trending-repositories](https://github.com/Semigradsky/trending-repositories) – Repositories that were trending for a day.
 * [trip-to-iOS](https://github.com/Aufree/trip-to-iOS) _In Chinese_ – Delightful iOS resources.
 * [twofactorauth](https://github.com/2factorauth/twofactorauth) – Sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
