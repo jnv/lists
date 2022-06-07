@@ -1086,6 +1086,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-non-financial-blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) – Non-financial applications of blockchain
 * [awesome-nosql-guides](https://github.com/erictleung/awesome-nosql-guides) – NoSQL databases
   - https://erictleung.com/awesome-nosql-guides/
+* [awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) – Ready to use data science templates.
 * [awesome-npm](https://github.com/sindresorhus/awesome-npm)
 * [awesome-npm-scripts](https://github.com/RyanZim/awesome-npm-scripts) – using npm as a build tool
 * [awesome-ntnu](https://github.com/michaelmcmillan/awesome-ntnu) – Projects by NTNU students.
