@@ -1335,6 +1335,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos) – Tech conferences from youtube, vimeo, etc for us to get inspired
 * [awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
 * [awesome-telegram](https://github.com/ebertti/awesome-telegram) – Telegram messaging service
+* [awesome-template-literal-types](https://github.com/ghoullier/awesome-template-literal-types) – TypeScript template literal types.
 * [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) – [TensorFlow](https://www.tensorflow.org/) machine intelligence library.
 * [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) – HashiCorp Terraform
 * [awesome-test-automation](https://github.com/atinfo/awesome-test-automation)
