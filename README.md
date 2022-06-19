@@ -1080,6 +1080,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) by @zudochkin
 * [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) – [Next.js](https://nextjs.org/) React-based JavaScript framework
 * [awesome-nim](https://github.com/VPashkov/awesome-nim) – [Nim](https://nim-lang.org/) programming language
+* [awesome-nix](https://github.com/nix-community/awesome-nix) – [Nix](https://github.com/nixos/nix), the purely functional package manager.
 * [awesome-nlp](https://github.com/keon/awesome-nlp) – Natural Language Processing.
 * [Awesome-no-code-tools](https://github.com/ElijT/Awesome-no-code-tools)
 * [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) – Web apps that work without login
