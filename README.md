@@ -988,6 +988,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ld-preload](https://github.com/gaul/awesome-ld-preload) – LD_PRELOAD, a mechanism for changing application behavior at run-time.
 * [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) – Leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 * [awesome-learn-datascience](https://github.com/siboehm/awesome-learn-datascience) – Resources to help you get started with Data Science
+* [awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell)
 * [awesome-ledger](https://github.com/sfischer13/awesome-ledger) – Ledger command-line accounting system
 * [awesome-legacy-code](https://github.com/legacycoderocks/awesome-legacy-code) – Legacy systems with publicly available source code
 * [awesome-less](https://github.com/LucasBassetti/awesome-less) – Less CSS preprocessor
