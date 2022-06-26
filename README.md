@@ -892,6 +892,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-go](https://github.com/avelino/awesome-go) by @avelino – Golang
   - http://awesome-go.com/
 * [awesome-go-books](https://github.com/heatroom/awesome-go-books) – Online and free golang books.
+* [awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) – Learning and practicing Golang and its related technologies.
+  - https://mehdihadeli.github.io/awesome-go-education/
 * [awesome-godot](https://github.com/godotengine/awesome-godot) – [Godot](https://godotengine.org/) game engine
 * [awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) – Gradient boosting research papers with implementations.
 * [awesome-grails](https://github.com/hitenpratap/awesome-grails)
