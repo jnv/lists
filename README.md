@@ -901,6 +901,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-graphql](https://github.com/chentsulin/awesome-graphql) – GraphQL & Relay Resources.
 * [awesome-groovy](https://github.com/kdabir/awesome-groovy)
 * [awesome-growth-hacking](https://github.com/bekatom/awesome-growth-hacking)
+* [awesome-guidelines](https://github.com/Kristories/awesome-guidelines) – Coding style conventions and standards.
+  - https://awesome-guidelines.com
 * [awesome-gulp](https://github.com/alferov/awesome-gulp) – [Gulp](http://gulpjs.com/) build system resources and plugins.
 * [awesome-gyazo](https://github.com/gyazo/awesome-gyazo) – Tools for [Gyazo](https://gyazo.com/) screen capture application.
 * [awesome-h2o](https://github.com/h2oai/awesome-h2o) – H2O Machine Learning
