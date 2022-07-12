@@ -1433,6 +1433,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-yaml](https://github.com/datatxt/awesome-yaml) by @datatxt – YAML (Ain't Markup Language) Goodies for Structured (Meta) Data in Text.
 * [awesome-yaml](https://github.com/dreftymac/awesome-yaml) by @dreftymac
 * [awesome-yii](https://github.com/iJackUA/awesome-yii) – Yii PHP framework extensions, tutorials and other nice things.
+* [awesome-ynab](https://github.com/scottrobertson/awesome-ynab) – [You Need A Budget](https://www.youneedabudget.com/)
 * [awesome-zig](https://github.com/nrdmn/awesome-zig) – [Zig](https://ziglang.org/) programming language.
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 * [awesomo](https://github.com/lk-geimfari/awesomo) – Open source projects in various languages.
