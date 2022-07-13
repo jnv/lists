@@ -1114,6 +1114,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-open-company](https://github.com/opencompany/awesome-open-company) – Open companies: Share as much as possible, charge as little as possible.
 * [awesome-open-science](https://github.com/silky/awesome-open-science)
 * [awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) – Companies that offer their services for free to Open Source projects
+* [awesome-openbudget](https://github.com/infoculture/awesome-openbudget) _In Russian_ – Open Budget government spending visualization.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) – OpenGL libraries, debuggers and resources.
 * [awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)
 * [awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) – Open source or open source licensed documents, guides, books.
