@@ -522,6 +522,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [weekly](https://github.com/zenany/weekly) _In Chinese_ – Weekly summary of articles and resources.
 * [what-next](https://github.com/messa/what-next) _In Czech_ – Co dělat, když se chci naučit programovat ještě víc.
 * [Women-Made-It](https://github.com/LisaDziuba/Women-Made-It) – Design & development tools, books, podcasts, and blogs made by women.
+* [work-from-anywhere](https://github.com/Nithur-M/work-from-anywhere) – Remote, location-independent jobs.
+  - https://nithur-m.github.io/work-from-anywhere/
 * [Worth-Reading-the-Android-technical-articles](https://github.com/zmywly8866/Worth-Reading-the-Android-technical-articles) _In Chinese_
 * [You-Dont-Need](https://github.com/you-dont-need/You-Dont-Need) – People choose popular projects, often not because it applies to their problems.
 
