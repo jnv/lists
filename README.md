@@ -1156,7 +1156,9 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell)
 * [awesome-preact](https://github.com/preactjs/awesome-preact) – [Preact](https://github.com/preactjs/preact) JavaScript framework
 * [awesome-prisma](https://github.com/catalinmiron/awesome-prisma) – [Prisma](https://www.prisma.io/) GraphQL library
-* [awesome-privacy](https://github.com/pluja/awesome-privacy) – Services and alternatives that respect your privacy because PRIVACY MATTERS.
+* [awesome-privacy](https://github.com/lissy93/awesome-privacy) by @lissy93 – Privacy & security-focused software and services.
+  - https://awesome-privacy.xyz
+* [awesome-privacy](https://github.com/pluja/awesome-privacy) by @pluja – Services and alternatives that respect your privacy because PRIVACY MATTERS.
 * [awesome-product-design](https://github.com/teoga/awesome-product-design) by @teoga – Bookmarks, resources, articles for product designers.
 * [awesome-product-design](https://github.com/ttt30ga/awesome-product-design) by @ttt30ga – Resources for product designers.
 * [awesome-product-management](https://github.com/dend/awesome-product-management) – Resources for product/program managers to learn and grow.
