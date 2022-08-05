@@ -140,6 +140,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [asynchronous-php](https://github.com/elazar/asynchronous-php) – Asynchronous programming in PHP.
 * [Automated-SPA-Testing](https://github.com/webpro/Automated-SPA-Testing) – Automated unit & functional testing for web applications [JavaScript et al.].
 * [awful-ai](https://github.com/daviddao/awful-ai) – Current scary usages of AI, hoping to raise awareness to its misuses in society.
+* [awful-oss-incidents](https://github.com/PayDevs/awful-oss-incidents) – Incidents caused by unappreciated OSS maintainers or underfunded OSS projects.
 * [awmy](https://github.com/potch/awmy) – Are We Meta Yet?
   - http://arewemetayet.com/
 * [b1fipl](https://github.com/marcpaq/b1fipl) – A Bestiary of Single-File Implementations of Programming Languages.
