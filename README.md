@@ -1129,6 +1129,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-osint](https://github.com/jivoi/awesome-osint) – Open-source intelligence (OSINT)
 * [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) – Open-source alternatives to established SaaS products.
 * [awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal) – Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things.
+* [awesome-password-cracking](https://github.com/narkopolo/awesome-password-cracking) - Tools, research, papers and other projects related to password cracking and password security.
 * [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) – Tools to process network traces.
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest) – Penetration testing resources and tools.
 * [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) – Penetration testing
