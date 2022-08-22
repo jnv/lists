@@ -1055,6 +1055,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-matrix](https://github.com/rodolpheh/awesome-matrix) by @rodolpheh – [matrix.org](https://matrix.org/) ecosystem.
 * [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) – Mechanical Keyboards
   - https://keebfol.io
+* [awesome-media-archive](https://github.com/louiscenter/awesome-media-archive) – Open source tools for archiving audio & video data for offline usage.
 * [awesome-mesos](https://github.com/dharmeshkakadia/awesome-mesos) by @dharmeshkakadia
 * [awesome-mesos](https://github.com/parolkar/awesome-mesos) by @parolkar
 * [awesome-meteor](https://github.com/Urigo/awesome-meteor)
