@@ -1114,6 +1114,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) – [Obsidian](https://obsidian.md/) knowledge base app.
 * [awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml)
 * [awesome-ocap](https://github.com/dckc/awesome-ocap) – Capability-based security enables the concise composition of powerful patterns of cooperation without vulnerability.
+* [awesome-offline](https://github.com/yangwao/awesome-offline) – Offline-first, progressive web applications (PWA).
 * [awesome-offline-rl](https://github.com/hanjuku-kaso/awesome-offline-rl) – Algorithms for offline reinforcement learning.
 * [awesome-okr](https://github.com/domenicosolazzo/awesome-okr) – Objective - Key Results, the best practice of setting and communicating company, team and employee objectives and measuring their progress based on achieved results
 * [awesome-online-ide](https://github.com/styfle/awesome-online-ide) – Online development environments
