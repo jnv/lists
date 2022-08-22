@@ -1184,6 +1184,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-puppet](https://github.com/rnelson0/awesome-puppet)
 * [awesome-pure-css-no-javascript](https://github.com/Zhangjd/awesome-pure-css-no-javascript) _In Chinese_
 * [awesome-purescript](https://github.com/passy/awesome-purescript)
+* [awesome-pwa](https://github.com/hemanth/awesome-pwa) – Progressive web apps.
 * [awesome-pyramid](https://github.com/uralbash/awesome-pyramid) – Resources for Pyramid Python web framework.
 * [awesome-python](https://github.com/kevmo/awesome-python) by @kevmo
 * [awesome-python](https://github.com/vinta/awesome-python) by @vinta
