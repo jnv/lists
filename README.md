@@ -386,6 +386,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [NotesIndex](https://github.com/Wilbeibi/NotesIndex)
 * [not-yet-awesome-rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust) – Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.
 * [offline-first](https://github.com/pazguille/offline-first) – Everything you need to know to create offline-first web apps.
+* [opendronelist](https://github.com/dronetag/opendronelist) – Database of drones and their common properties.
+  - https://dronetag.github.io/opendronelist/
 * [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) – Collection of Android Apps which are open source.
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) – Open-source iOS apps.
 * [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) – macOS open source applications.
