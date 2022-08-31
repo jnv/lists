@@ -933,6 +933,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-homematic](https://github.com/homematic-community/awesome-homematic) – [HomeMatic](https://www.homematic.com/) home automation
 * [awesome-honeypots](https://github.com/paralax/awesome-honeypots) – Honeypot resources
 * [awesome-html5](https://github.com/diegocard/awesome-html5)
+* [awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) – HTTP(S) benchmark tools, testing/debugging, REST APIs.
 * [awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) – Promoting Solutions that Improve Wellbeing, Freedom and Society
 * [awesome-hyper](https://github.com/bnb/awesome-hyper) – [Hyper](https://hyper.is/) terminal
 * [awesome-hyperscript](https://github.com/hyperhype/awesome-hyperscript) – [HyperScript](https://github.com/hyperhype/hyperscript) library for creating HTML with JavaScript.
