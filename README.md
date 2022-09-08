@@ -1136,6 +1136,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-osc](https://github.com/amir-arad/awesome-osc) – [Open Sound Control](http://opensoundcontrol.org/)
 * [awesome-osint](https://github.com/jivoi/awesome-osint) – Open-source intelligence (OSINT)
 * [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) – Open-source alternatives to established SaaS products.
+* [awesome-oss-monetization](https://github.com/PayDevs/awesome-oss-monetization) – Monetization approaches for open-source software.
 * [awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal) – Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things.
 * [awesome-password-cracking](https://github.com/narkopolo/awesome-password-cracking) – Password cracking and password security.
 * [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) – Tools to process network traces.
