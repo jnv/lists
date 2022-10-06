@@ -1422,6 +1422,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-wagtail](https://github.com/springload/awesome-wagtail) – [Wagtail](https://wagtail.io/) Python CMS
 * [awesome-wasm](https://github.com/mbasso/awesome-wasm) – WebAssembly
 * [awesome-watchos](https://github.com/yenchenlin/awesome-watchos) – Apple watchOS
+* [awesome-wayland](https://github.com/natpen/awesome-wayland) – [Wayland](https://wayland.freedesktop.org/) display protocol for Linux.
 * [awesome-web-animation](https://github.com/sergey-pimenov/awesome-web-animation) – Web animation libraries, books, apps etc.
   - https://awesome-web-animation.netlify.com
 * [awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) – Getting started with web archiving
