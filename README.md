@@ -1075,6 +1075,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-minimalist](https://github.com/neiesc/awesome-minimalist) – Minimalist frameworks (simple and lightweight).
 * [awesome-mobile](https://github.com/alec-c4/awesome-mobile) – Instruments for mobile marketing and development
 * [awesome-mobile-web-development](https://github.com/myshov/awesome-mobile-web-development) – All that you need to create a great mobile web experience
+* [awesome-modern-twitter-api](https://github.com/andypiper/awesome-modern-twitter-api) – Modern (post-v1.1) Twitter API.
 * [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
 * [awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) – INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools for Operations.
   - http://canuxcheng.com/awesome-monitoring/
