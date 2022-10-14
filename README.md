@@ -139,6 +139,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [architect-awesome](https://github.com/xingshaocheng/architect-awesome) _In Chinese_ – 后端架构师技术图谱
 * [asynchronous-php](https://github.com/elazar/asynchronous-php) – Asynchronous programming in PHP.
 * [Automated-SPA-Testing](https://github.com/webpro/Automated-SPA-Testing) – Automated unit & functional testing for web applications [JavaScript et al.].
+* [automatic-api](https://github.com/dbohdan/automatic-api) – Software that turns your database into a REST/GraphQL API.
 * [awful-ai](https://github.com/daviddao/awful-ai) – Current scary usages of AI, hoping to raise awareness to its misuses in society.
 * [awful-oss-incidents](https://github.com/PayDevs/awful-oss-incidents) – Incidents caused by unappreciated OSS maintainers or underfunded OSS projects.
 * [awmy](https://github.com/potch/awmy) – Are We Meta Yet?
