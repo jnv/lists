@@ -937,6 +937,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-html5](https://github.com/diegocard/awesome-html5)
 * [awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) – HTTP(S) benchmark tools, testing/debugging, REST APIs.
 * [awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) – Promoting Solutions that Improve Wellbeing, Freedom and Society
+* [awesome-hydrogen](https://github.com/Shopify/awesome-hydrogen) – [Hydrogen](https://hydrogen.shopify.dev/) framework, based on React, for building Shopify-powered storefronts.
 * [awesome-hyper](https://github.com/bnb/awesome-hyper) – [Hyper](https://hyper.is/) terminal
 * [awesome-hyperscript](https://github.com/hyperhype/awesome-hyperscript) – [HyperScript](https://github.com/hyperhype/hyperscript) library for creating HTML with JavaScript.
 * [awesome-ibmcloud](https://github.com/victorshinya/awesome-ibmcloud) – IBM Cloud
