@@ -813,6 +813,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf) – eBPF Linux packet filter
 * [awesome-economics](https://github.com/antontarasenko/awesome-economics) – Economics related projects, software, people
 * [awesome-ecs](https://github.com/nathanpeck/awesome-ecs) – AWS Elastic Container Service and Fargate.
+* [awesome-editorjs](https://github.com/editor-js/awesome-editorjs) – [Editor.js](https://editorjs.io/) block-styled editor component.
 * [awesome-edtech-tools](https://github.com/hkalant/awesome-edtech-tools) – Tools and resources for educators and virtual teachers.
 * [awesome-educate](https://github.com/mercer/awesome-educate) – Education resources online.
 * [awesome-educational-games](https://github.com/yrgo/awesome-educational-games) – Educational games to learn editors, languages, programming
