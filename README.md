@@ -1498,6 +1498,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://getawesomeness.herokuapp.com/
 * [list-of-lists](https://github.com/cyrusstoller/list-of-lists) – A meta list of lists of useful open source projects and developer tools.
 * [ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists) – List of github lists
+* [more-awesome](https://github.com/0ex/more-awesome) – An extensive list of "awesome" lists to help you find resources and starting points on every topic.
 * [must-watch-list](https://github.com/adrianmoisey/must-watch-list) – List of must-watch lists.
 * [this one](https://github.com/jnv/lists)
 * [wiki](https://github.com/huguangju/wiki) _In Chinese_ – A curated list of awesome lists.
