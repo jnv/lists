@@ -1392,6 +1392,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) – Transit APIs, apps, datasets, research, and software
 * [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – [Ngrok](https://ngrok.com/) alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 * [awesome-twilio](https://github.com/Twilio-org/awesome-twilio) – Curated repository of useful and generally awesome Twilio tools and technologies
+* [awesome-twitter-tools](https://github.com/hridaydutta123/awesome-twitter-tools) – Twitter research: tools, libraries, papers, browser extensions, datasets, and public lists.
 * [AwesomeTwitterAccounts](https://github.com/yask123/AwesomeTwitterAccounts) – Twitter accounts, organised by programming communities.
 * [awesome-typescript](https://github.com/dzharii/awesome-typescript) by @dzharii – TypeScript programming language
 * [awesome-typescript](https://github.com/ellerbrock/awesome-typescript) by @ellerbrock
