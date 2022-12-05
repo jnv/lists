@@ -1479,6 +1479,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 ## Lists of lists
 
+* [academics-on-mastodon](https://github.com/nathanlesage/academics-on-mastodon) – A list of various lists consisting of academics on Mastodon.
 * [awesome](https://github.com/sindresorhus/awesome) – A curated list of awesome lists.
 * [awesome-all](https://github.com/bradoyler/awesome-all) – A curated list of awesome lists of awesome frameworks, libraries and software
 * [awesome-android-awesomeness](https://github.com/yongjhih/awesome-android-awesomeness#awesomeness)
