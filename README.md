@@ -157,6 +157,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [best-practices-checklist](https://github.com/palash25/best-practices-checklist) – Language-specific resources to look up the best practices followed by that particular language's community.
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) – Some useful websites for programmers.
 * [Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) _In Chinese_ – 程序员应该访问的最佳网站中文版
+* [Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) – Data brokers and how to opt out from trading your personal information.
 * [bigdata-ecosystem](https://github.com/zenkay/bigdata-ecosystem) – Big-data related projects packed into a JSON dataset.
   - http://bigdata.andreamostosi.name/
 * [Big-List-of-ActivityPub](https://github.com/shleeable/Big-List-of-ActivityPub) – ActivityPub Projects
