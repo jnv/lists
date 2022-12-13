@@ -997,7 +997,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
   - https://ramitsurana.github.io/awesome-kubernetes
 * [awesome-landing-page](https://github.com/nordicgiant2/awesome-landing-page) – Landing pages templates
-* [awesome-languages](https://github.com/perfaram/awesome-languages) – Open-source programming languages.
 * [awesome-laravel](https://github.com/chiraggude/awesome-laravel) by @chiraggude
 * [awesome-laravel](https://github.com/TimothyDJones/awesome-laravel) by @TimothyDJones
 * [Awesome-Laravel-Education](https://github.com/fukuball/Awesome-Laravel-Education) _In English and Chinese_ – Laravel PHP framework learning resources.
