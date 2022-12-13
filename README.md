@@ -459,7 +459,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Security_list](https://github.com/zbetcheckin/Security_list)
 * [selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview) – Software network services which can be hosted on your own servers.
 * [services-engineering](https://github.com/mmcgrana/services-engineering) – A reading list for services engineering, with a focus on cloud infrastructure services.
-* [shareable-links](https://github.com/vinkla/shareable-links) – URLs for sharing on social media.
 * [shellshocker-pocs](https://github.com/mubix/shellshocker-pocs) – Proof of concepts and potential targets for Shellshock.
 * [slack-groups](https://github.com/learn-anything/slack-groups) – Public Slack communities.
 * [spark-joy](https://github.com/sw-yx/spark-joy) – Add design flair, user delight, and whimsy to your product.
