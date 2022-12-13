@@ -87,7 +87,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [recipes](https://github.com/bzimmerman/recipes) by @bzimmerman – This repository contains tasty open-source recipes.
 * [recipes](https://github.com/csswizardry/recipes) by @csswizardy – Collection of things I like cooking
 * [recipes](https://github.com/LarryMad/recipes) by @LarryMad
-* [recipes](https://github.com/nofunsir/recipes) by @nofunsir
 * [recipes](https://github.com/schacon/recipes) by @schacon
 * [recipes](https://github.com/silizuo/recipes) _In Chinese and English_ by @silizuo
 * [sf-vegetarian-restaurants](https://github.com/mojombo/sf-vegetarian-restaurants) – Awesome vegetarian-friendly restaurants in SF
