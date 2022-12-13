@@ -336,7 +336,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) – Public failure/horror stories related to Kubernetes
   - https://k8s.af
 * [langs-in-rust](https://github.com/alilleybrinker/langs-in-rust) – Programming languages implemented in Rust.
-* [language-list](https://github.com/thomasfoster96/language-list) – Programming languages being developed on GitHub.
 * [Laravel-Resources](https://github.com/abhimanyu003/Laravel-Resources) – Laravel Framework Resources and Blogs.
 * [learn-drupal](https://github.com/rocketeerbkw/learn-drupal) – Stuff to help you learn Drupal.
 * [learn-for-free](https://github.com/aviaryan/learn-for-free) – Free learning resources for all topics you can think of.
