@@ -1327,7 +1327,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc) – Tools for Sphinx Python Documentation Generator.
 * [awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) – Ergonomic split keyboards.
 * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) – Extra libraries for SQLAlchemy, a Python ORM.
-* [awesome-sqlite](https://github.com/sqlsite/awesome-sqlite)
 * [awesome-sre](https://github.com/dastergon/awesome-sre) – Site Reliability and Production Engineering
   - https://sre.xyz
 * [awesome-ssh](https://github.com/moul/awesome-ssh)
