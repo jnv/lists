@@ -1278,8 +1278,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [AwesomeRubyist/awesome_podcast_list](https://github.com/AwesomeRubyist/awesome_podcast_list) – Podcasts about Ruby and development, also in Russian.
 * [AwesomeRubyist/awesome_reading_list](https://github.com/AwesomeRubyist/awesome_reading_list) – Books about Ruby and Rails.
 * [AwesomeRubyist/awesome_resource_list](https://github.com/AwesomeRubyist/awesome_resource_list) – Resources for Ruby and Rails.
-* [awesome-rubymotion](https://github.com/motion-open-source/awesome-rubymotion) – [RubyMotion](http://www.rubymotion.com/), cross-platform development in Ruby
-  - http://motion-open-source.github.io/awesome-rubymotion/
 * [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 * [awesome-rxjava](https://github.com/eleventigers/awesome-rxjava) – RxJava, reactive programming library
 * [awesome-salesforce](https://github.com/mailtoharshit/awesome-salesforce) – Salesforce Platform Resources
