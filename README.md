@@ -322,7 +322,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [javascript-sdk-design](https://github.com/hueitan/javascript-sdk-design)
 * [jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
 * [jsemu](https://github.com/fcambus/jsemu) – Emulators written in JavaScript.
-* [jshomes/learning-resources](https://github.com/jshomes/learning-resources) – Web Platform/SaaS Learning Resources.
 * [jslibs](https://github.com/esamattis/jslibs) – My picks of promising/useful Javascript libraries.
   - *See also [JSwiki](http://jswiki.org/)*
 * [js-must-watch](https://github.com/bolshchikov/js-must-watch) – Must-watch videos about javascript.
