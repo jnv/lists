@@ -619,6 +619,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-bem](https://github.com/getbem/awesome-bem) – Tools, sites, articles about BEM (frontend development method).
 * [awesome-big-o](https://github.com/okulbilisim/awesome-big-o) – Big O notation
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) – Big data frameworks, resources and other awesomeness.
+* [Awesome-Billing](https://github.com/kdeldycke/awesome-billing) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 * [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) – Open-source bioinformatics software and libraries.
 * [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) – Bitcoin services and tools for software developers.
 * [awesome-bitcoin-payment-processors](https://github.com/alexk111/awesome-bitcoin-payment-processors) – Bitcoin payment processors and stories from merchants using them.
