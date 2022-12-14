@@ -838,6 +838,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-endless-codeforall-list](https://github.com/RobTranquillo/awesome-endless-codeforall-list) – Every tool that civic hackers worldwide use to work.
 * [awesome-engineer-onboarding](https://github.com/posquit0/awesome-engineer-onboarding)
 * [awesome-engineering-ladders](https://github.com/posquit0/awesome-engineering-ladders)
+* [awesome-Engineering-Team-Management](https://github.com/kdeldycke/awesome-engineering-team-management) - How to transition from software development to engineering management.
 * [awesome-engineering-team-principles](https://github.com/posquit0/awesome-engineering-team-principles)
 * [awesome-eosio](https://github.com/DanailMinchev/awesome-eosio) – [EOS.IO](https://eos.io/) blockchain protocol
 * [awesome-erlang](https://github.com/drobakowski/awesome-erlang)
