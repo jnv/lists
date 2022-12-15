@@ -612,7 +612,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-bem](https://github.com/getbem/awesome-bem) – Tools, sites, articles about BEM (frontend development method).
 * [awesome-big-o](https://github.com/okulbilisim/awesome-big-o) – Big O notation
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) – Big data frameworks, resources and other awesomeness.
-* [Awesome-Billing](https://github.com/kdeldycke/awesome-billing) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
+* [Awesome-Billing](https://github.com/kdeldycke/awesome-billing) – Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 * [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) – Open-source bioinformatics software and libraries.
 * [awesome-bitclout](https://github.com/davidshq/awesome-bitclout) – [BitClout](https://bitclout.com/) blockchain social network.
 * [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) – Bitcoin services and tools for software developers.
@@ -832,7 +832,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-endless-codeforall-list](https://github.com/RobTranquillo/awesome-endless-codeforall-list) – Every tool that civic hackers worldwide use to work.
 * [awesome-engineer-onboarding](https://github.com/posquit0/awesome-engineer-onboarding)
 * [awesome-engineering-ladders](https://github.com/posquit0/awesome-engineering-ladders)
-* [awesome-Engineering-Team-Management](https://github.com/kdeldycke/awesome-engineering-team-management) - How to transition from software development to engineering management.
+* [awesome-Engineering-Team-Management](https://github.com/kdeldycke/awesome-engineering-team-management) – How to transition from software development to engineering management.
 * [awesome-engineering-team-principles](https://github.com/posquit0/awesome-engineering-team-principles)
 * [awesome-eosio](https://github.com/DanailMinchev/awesome-eosio) – [EOS.IO](https://eos.io/) blockchain protocol
 * [awesome-erlang](https://github.com/drobakowski/awesome-erlang)
@@ -940,7 +940,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-hydrogen](https://github.com/Shopify/awesome-hydrogen) – [Hydrogen](https://hydrogen.shopify.dev/) framework, based on React, for building Shopify-powered storefronts.
 * [awesome-hyper](https://github.com/bnb/awesome-hyper) – [Hyper](https://hyper.is/) terminal
 * [awesome-hyperscript](https://github.com/hyperhype/awesome-hyperscript) – [HyperScript](https://github.com/hyperhype/hyperscript) library for creating HTML with JavaScript.
-* [awesome-IAM](https://github.com/kdeldycke/awesome-iam) - User accounts, authentication and authorization.
+* [awesome-IAM](https://github.com/kdeldycke/awesome-iam) – User accounts, authentication and authorization.
 * [awesome-ibmcloud](https://github.com/victorshinya/awesome-ibmcloud) – IBM Cloud
   - https://awesome-ibmcloud.mybluemix.net
 * [awesome-icons](https://github.com/notlmn/awesome-icons) – Downloadable SVG/PNG/Font icon projects
@@ -1327,6 +1327,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc) – Tools for Sphinx Python Documentation Generator.
 * [awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) – Ergonomic split keyboards.
 * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) – Extra libraries for SQLAlchemy, a Python ORM.
+* [awesome-sqlite](https://github.com/planetopendata/awesome-sqlite)
 * [awesome-sre](https://github.com/dastergon/awesome-sre) – Site Reliability and Production Engineering
   - https://sre.xyz
 * [awesome-ssh](https://github.com/moul/awesome-ssh)
