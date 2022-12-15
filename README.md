@@ -20,6 +20,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 ## Non-technical
 
+* [aero-structures](https://github.com/specifics/aero-structures) – Resources for analyzing aircraft structures for aerospace engineers.
 * [aksh](https://github.com/svaksha/aksh) – Bibliography of STEM (Science, Technology, Engineering & Mathematics) resources and grey literature.
 * [amas](https://github.com/sindresorhus/amas) – Awesome & Marvelous Amas (Ask Me Anything) on GitHub
 * [Annual-Reading-List](https://github.com/davidskeck/Annual-Reading-List) – Things to read every year.
