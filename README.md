@@ -45,6 +45,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-philosophy](https://github.com/HussainAther/awesome-philosophy) – Philosophy
 * [awesome-reddit-channels](https://github.com/MadhuNimmo/awesome-reddit-channels) – Reddit Channels every programmer must follow.
 * [awesome-scifi](https://github.com/sindresorhus/awesome-scifi) – Sci-Fi worth consuming.
+* [awesome-space](https://github.com/elburz/awesome-space) – Outer Space.
+* [awesome-space-books](https://github.com/Hunter-Github/awesome-space-books) – Space exploration related book.
 * [awesome-speaking](https://github.com/matteofigus/awesome-speaking) – Resources about public speaking
 * [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) – Stock photography, video and illustration websites.
 * [awesome-theravada](https://github.com/johnjago/awesome-theravada) – Theravada Buddhist teachings
@@ -1319,8 +1321,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-software-quality](https://github.com/ligurio/awesome-software-quality) – Free software testing books.
 * [awesome-solid](https://github.com/kustomzone/awesome-solid) – [Solid](https://solidproject.org/) (social linked data) project.
 * [awesome-sound](https://github.com/hwclass/awesome-sound) – Sound & audio libraries and resources.
-* [awesome-space](https://github.com/elburz/awesome-space) – Outer Space
-* [awesome-space-books](https://github.com/Hunter-Github/awesome-space-books) – Space exploration related book
 * [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp) – Linguistic Resources for doing NLP & CL on Spanish
 * [awesome-spark](https://github.com/awesome-spark/awesome-spark) – Apache Spark packages and resources.
 * [awesome-speakers](https://github.com/karlhorky/awesome-speakers) – Speakers in the programming and design communities
