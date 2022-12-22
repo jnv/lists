@@ -292,6 +292,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [graph-adversarial-learning-literature](https://github.com/YingtongDou/graph-adversarial-learning-literature) – Adversarial learning papers on graph-structured data.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) – Game development and realtime graphics programming.
 * [graphql-apis](https://github.com/IvanGoncharov/graphql-apis) – Public GraphQL APIs.
+* [guide.onym.co](https://github.com/onymco/guide.onym.co) – Tools and resources for naming things.
+  - https://guide.onym.co
 * [guides](https://github.com/NARKOZ/guides) by @NARKOZ – Design and development guides
 * [Hackathon-Resources](https://github.com/xasos/Hackathon-Resources) by @xasos – Hackathon Resources for organizers.
 * [hack-chat/3rd-party-software-list](https://github.com/hack-chat/3rd-party-software-list) – Bots, clients, and other software people have made for [hack.chat](https://hack.chat).
