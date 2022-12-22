@@ -201,7 +201,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://curatedseotools.com
 * [cycle-ecosystem](https://github.com/Widdershin/cycle-ecosystem) – What are the most popular and trending libraries for [Cycle.js](http://cycle.js.org/)?
 * [dad-jokes](https://github.com/wesbos/dad-jokes) – Dad style programming jokes.
-* [dark-knowledge](https://github.com/prescience-data/dark-knowledge) – Research papers and presentations for counter-detection and web privacy enthusiasts.
+* [dark-knowledge](https://github.com/prescience-data/dark-knowledge) – Research papers and presentations for counter-detection and web privacy enthusiasts.
 * [datajournalists-toolbox](https://github.com/basilesimon/datajournalists-toolbox) – Tools for datajournalists, with examples and gists.
 * [datascience](https://github.com/r0f1/datascience) – Python resources for data science.
 * [data-science-blogs](https://github.com/rushter/data-science-blogs)
