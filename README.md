@@ -20,6 +20,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 ## Non-technical
 
+* [4dayweek](https://github.com/rafaelcamargo/4dayweek) – Companies friendly to the 4-day workweek.
+  - https://4dayweek.rafaelcamargo.com/
 * [aero-structures](https://github.com/specifics/aero-structures) – Resources for analyzing aircraft structures for aerospace engineers.
 * [aksh](https://github.com/svaksha/aksh) – Bibliography of STEM (Science, Technology, Engineering & Mathematics) resources and grey literature.
 * [amas](https://github.com/sindresorhus/amas) – Awesome & Marvelous Amas (Ask Me Anything) on GitHub
