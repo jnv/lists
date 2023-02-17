@@ -223,7 +223,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [devopsbookmarks.com](https://github.com/devopsbookmarks/devopsbookmarks.com) – To discover tools in the devops landscape.
   - http://www.devopsbookmarks.com/
 * [devops_resources](https://github.com/dustinmm80/devops_resources)
-* [DevopsWiki](https://github.com/Leo-G/DevopsWiki) – Devops Tools, Tutorials and Scripts.
 * [dev-resource](https://github.com/Ibrahim-Islam/dev-resource) – Resources for devs online and offline.
 * [digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) – Resources for gardeners tending their digital notes on the public interwebs.
 * [discord-open-source](https://github.com/discord/discord-open-source) – Open source communities living on Discord.
