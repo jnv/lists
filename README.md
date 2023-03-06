@@ -230,7 +230,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) – Discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 * [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) – Dive into Machine Learning with Python Jupyter notebook and scikit-learn
   - http://hangtwenty.github.io/dive-into-machine-learning/
-* [django-must-watch](https://gitlab.com/rosarior/django-must-watch) – Must-watch videos bout Django web framework + Python.
+* [django-must-watch](https://gitlab.com/rosarior/django-must-watch) – Must-watch videos about Django web framework + Python.
 * [DL4NLP](https://github.com/andrewt3000/DL4NLP) – Deep Learning for Natural Language Processing resources.
 * [dumb-password-rules](https://github.com/dumb-password-rules/dumb-password-rules) – Shaming sites with dumb password rules.
 * [easy-application](https://github.com/j-delaney/easy-application) – Software engineering companies that are easy to apply to.
