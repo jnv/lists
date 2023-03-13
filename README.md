@@ -219,6 +219,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [delightful-fediverse-apps](https://codeberg.org/fediverse/delightful-fediverse-apps) – Applications for the Fediverse that are based on the ActivityPub protocol and related standards.
 * [delightful-libre-hosters](https://codeberg.org/jonatasbaldin/delightful-libre-hosters) – People and organizations who deploy, maintain and offer open source services to the public.
 * [Developer-Conferences](https://github.com/MurtzaM/Developer-Conferences) – Upcoming developer conferences.
+* [developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda)
+  - https://developers.events/
 * [dev-movies](https://github.com/aryaminus/dev-movies) – Recommended movies for people working in the Software and IT Industry.
 * [devopsbookmarks.com](https://github.com/devopsbookmarks/devopsbookmarks.com) – To discover tools in the devops landscape.
   - http://www.devopsbookmarks.com/
