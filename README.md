@@ -1180,7 +1180,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) – Pipeline toolkits.
 * [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) – Warez and piracy links
 * [awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art)
-* [awesome-plan9](https://github.com/henesy/awesome-plan9)
 * [awesome-play1](https://github.com/PerfectCarl/awesome-play1) – Play Framework 1.x modules, tools, and resources.
 * [awesome-plotters](https://github.com/beardicus/awesome-plotters) – Computer-controlled drawing machines and other visual art robots.
 * [awesome-podcasts](https://github.com/Ghosh/awesome-podcasts) by @Ghosh – Podcasts for designers, developers, product managers, entrepreneurs and hustlers
