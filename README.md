@@ -291,7 +291,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [go-must-watch](https://github.com/sauravtom/go-must-watch) – Must-watch videos about Golang.
 * [go-patterns](https://github.com/tmrts/go-patterns) – Go design patterns, recipes and idioms
   - http://tmrts.com/go-patterns
-* [graph-adversarial-learning-literature](https://github.com/YingtongDou/graph-adversarial-learning-A list of lightweight versions of websites without all the bloatrature) – Adversarial learning papers on graph-structured data.
+* [graph-adversarial-learning-literature](https://github.com/YingtongDou/graph-adversarial-learning-literature) – Adversarial learning papers on graph-structured data.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) – Game development and realtime graphics programming.
 * [graphql-apis](https://github.com/IvanGoncharov/graphql-apis) – Public GraphQL APIs.
 * [guide.onym.co](https://github.com/onymco/guide.onym.co) – Tools and resources for naming things.
