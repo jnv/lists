@@ -1042,6 +1042,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) – Linux applications for all users and developers.
 * [awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) – Professional audio/video/live events production on Linux.
 * [awesome-lit-html](https://github.com/web-padawan/awesome-lit-html) – [lit-html](https://lit-html.polymer-project.org/) HTML templating library
+* [awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites) - Lightweight versions of websites without all the bloat
 * [awesome-livecoding](https://github.com/toplap/awesome-livecoding) – All things Livecoding.
 * [awesome-lnurl](https://github.com/lnurl/awesome-lnurl) – [LNURL](https://github.com/lnurl/luds) (Lightning Network protocols)
 * [awesome-logging](https://github.com/roundrobin/awesome-logging)
