@@ -493,6 +493,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) – Inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 * [The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) – Templates & tips on writing high-quality documentation
 * [the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist) – Books for people who are or aspire to manage/lead team(s) of software engineers.
+* [The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) – Building Startups with an AI Co-Founder.
 * [think-awesome](https://github.com/thinkjs/think-awesome) – [ThinkJS](https://thinkjs.org/) Node.js framework
 * [til](https://github.com/jbranchaud/til) – Today I Learned.
 * [tips](https://github.com/git-tips/tips) – Most commonly used git tips and tricks.
