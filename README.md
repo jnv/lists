@@ -791,6 +791,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-developer-blogs](https://github.com/endymion1818/awesome-developer-blogs)
 * [awesome-developer-experience](https://github.com/prokopsimek/awesome-developer-experience)
 * [awesome-developer-first](https://github.com/agamm/awesome-developer-first) – Developer-first products.
+* [awesome-developer-first-directories](https://github.com/fmerian/awesome-developer-first-directories) - places to promote your developer-first product.
 * [awesome-developer-marketing](https://github.com/ronakganatra/awesome-developer-marketing)
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) – Tools, resources and workflow tips making an awesome development environment.
 * [awesome-devops](https://github.com/joubertredrat/awesome-devops)
