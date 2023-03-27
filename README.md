@@ -254,6 +254,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Facets](https://github.com/O-I/Facets) – One-liners in Ruby
 * [fks](https://github.com/JacksonTian/fks) _In Chinese_ – Frontend Knowledge Structure.
 * [flat-file-cms](https://github.com/ahadb/flat-file-cms) – Stictly flat-file cms systems.
+* [forced-alignment-tools](https://github.com/pettarin/forced-alignment-tools) – Forced alignment (synchronization of speech with text)
 * [FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev) – Free and open-source software for developers
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) – Open Source, Free Full Stack Training with hours of coding challenges, projects, and certifications.
   - https://www.freecodecamp.org/
@@ -1044,7 +1045,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) – Linux applications for all users and developers.
 * [awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) – Professional audio/video/live events production on Linux.
 * [awesome-lit-html](https://github.com/web-padawan/awesome-lit-html) – [lit-html](https://lit-html.polymer-project.org/) HTML templating library
-* [awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites) - Lightweight versions of websites without all the bloat
+* [awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites) – Lightweight versions of websites without all the bloat
 * [awesome-livecoding](https://github.com/toplap/awesome-livecoding) – All things Livecoding.
 * [awesome-lnurl](https://github.com/lnurl/awesome-lnurl) – [LNURL](https://github.com/lnurl/luds) (Lightning Network protocols)
 * [awesome-logging](https://github.com/roundrobin/awesome-logging)
