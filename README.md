@@ -790,7 +790,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://dev-discords.now.sh/
 * [awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun) – Fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 * [awesome-developer-blogs](https://github.com/endymion1818/awesome-developer-blogs)
-* [awesome-developer-experience](https://github.com/prokopsimek/awesome-developer-experience)
+* [awesome-developer-experience](https://github.com/prokopsimek/awesome-developer-experience) by @prokopsimek
+* [awesome-developer-experience](https://github.com/workos/awesome-developer-experience) by @workos
 * [awesome-developer-first](https://github.com/agamm/awesome-developer-first) – Developer-first products.
 * [awesome-developer-first-directories](https://github.com/fmerian/awesome-developer-first-directories) - places to promote your developer-first product.
 * [awesome-developer-marketing](https://github.com/ronakganatra/awesome-developer-marketing)
