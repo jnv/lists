@@ -793,7 +793,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-developer-experience](https://github.com/prokopsimek/awesome-developer-experience) by @prokopsimek
 * [awesome-developer-experience](https://github.com/workos/awesome-developer-experience) by @workos
 * [awesome-developer-first](https://github.com/agamm/awesome-developer-first) – Developer-first products.
-* [awesome-developer-first-directories](https://github.com/fmerian/awesome-developer-first-directories) - places to promote your developer-first product.
+* [awesome-developer-first-directories](https://github.com/fmerian/awesome-developer-first-directories) – places to promote your developer-first product.
 * [awesome-developer-marketing](https://github.com/ronakganatra/awesome-developer-marketing)
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) – Tools, resources and workflow tips making an awesome development environment.
 * [awesome-devops](https://github.com/joubertredrat/awesome-devops)
@@ -1162,7 +1162,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)
 * [awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) – Open source or open source licensed documents, guides, books.
 * [awesome-OpenSourcePhotography](https://github.com/ibaaj/awesome-OpenSourcePhotography) – Free open source software & libraries for photography. Also tools for video.
-* [awesome-orgs](https://github.com/beansource/awesome-orgs) - GitHub Organizations.
+* [awesome-orgs](https://github.com/beansource/awesome-orgs) – GitHub Organizations.
 * [awesome-osc](https://github.com/amir-arad/awesome-osc) – [Open Sound Control](http://opensoundcontrol.org/)
 * [awesome-osint](https://github.com/jivoi/awesome-osint) – Open-source intelligence (OSINT)
 * [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) – Open-source alternatives to established SaaS products.
@@ -1493,6 +1493,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-yaml](https://github.com/dreftymac/awesome-yaml) by @dreftymac
 * [awesome-yii](https://github.com/iJackUA/awesome-yii) – Yii PHP framework extensions, tutorials and other nice things.
 * [awesome-ynab](https://github.com/scottrobertson/awesome-ynab) – [You Need A Budget](https://www.youneedabudget.com/)
+* [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) – YouTubers that teach about technology.
 * [awesome-zig](https://github.com/nrdmn/awesome-zig) – [Zig](https://ziglang.org/) programming language.
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 * [awesomo](https://github.com/lk-geimfari/awesomo) – Open source projects in various languages.
