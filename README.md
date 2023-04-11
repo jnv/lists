@@ -1163,6 +1163,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) – Open source or open source licensed documents, guides, books.
 * [awesome-OpenSourcePhotography](https://github.com/ibaaj/awesome-OpenSourcePhotography) – Free open source software & libraries for photography. Also tools for video.
 * [awesome-orgs](https://github.com/beansource/awesome-orgs) – GitHub Organizations.
+* [awesome-os](https://github.com/jubalh/awesome-os) – Open source operating systems and hobby operating systems.
 * [awesome-osc](https://github.com/amir-arad/awesome-osc) – [Open Sound Control](http://opensoundcontrol.org/)
 * [awesome-osint](https://github.com/jivoi/awesome-osint) – Open-source intelligence (OSINT)
 * [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) – Open-source alternatives to established SaaS products.
