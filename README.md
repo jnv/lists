@@ -971,6 +971,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-influxdb](https://github.com/mark-rushakoff/awesome-influxdb) – Resources for the time series database InfluxDB
 * [awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval) – Information retrieval resources
 * [awesome-inspectit](https://github.com/inspectit-labs/awesome-inspectit) – InspectIT documentations and resources.
+* [awesome-integration](https://github.com/stn1slv/awesome-integration) – Sntegration software, patterns, and resources.
 * [AwesomeInterpreter](https://github.com/BaseMax/AwesomeInterpreter) – Open-source code interpreters on GitHub.
 * [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) – Interview questions.
 * [awesome-ionic](https://github.com/candelibas/awesome-ionic) – [Ionic](https://ionicframework.com/) mobile development framework
