@@ -307,7 +307,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) – Companies giving out swag for participation in [Hacktoberfest](https://hacktoberfest.digitalocean.com/).
   - https://hacktoberfestswaglist.com
 * [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) – [HarmonyOS](https://www.harmonyos.com/en/) by Huawei
-* [haskell-companies](https://github.com/erkmos/haskell-companies) – Companies using Haskel
+* [haskell-companies](https://github.com/erkmos/haskell-companies) – Companies using Haskell.
 * [haskell-must-watch](https://github.com/hzlmn/haskell-must-watch)
 * [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers)
 * [hipchat-alternatives](https://github.com/cjbarber/hipchat-alternatives)
