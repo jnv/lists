@@ -1264,6 +1264,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) by @thibmaek – Raspberry Pi tools, projects, images and resources
 * [awesome-react](https://github.com/enaqx/awesome-react) – ReactJS tools, resources, videos.
 * [awesome-react-components](https://github.com/brillout/awesome-react-components) – React Components & Libraries.
+* [awesome-react-graphql](https://github.com/hasura/awesome-react-graphql) – GraphQL + React/React Native
 * [awesome-react-hooks](https://github.com/glauberfc/awesome-react-hooks) – React Hooks
 * [awesome-react-native](https://github.com/jondot/awesome-react-native)
   - http://www.awesome-react-native.com
