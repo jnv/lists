@@ -1461,6 +1461,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-vscode](https://github.com/viatsko/awesome-vscode) – Visual Studio Code
   - https://viatsko.github.io/awesome-vscode/
 * [awesome-vue](https://github.com/vuejs/awesome-vue) – Resources for [Vue.js](http://vuejs.org/) JavaScript UI library.
+* [awesome-vue-graphql](https://github.com/hasura/awesome-vue-graphql) – GraphQL + Vue.js
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) – [3D graphics and compute API](https://www.khronos.org/vulkan/)
 * [awesome-wagtail](https://github.com/springload/awesome-wagtail) – [Wagtail](https://wagtail.io/) Python CMS
 * [awesome-wasm](https://github.com/mbasso/awesome-wasm) – WebAssembly
