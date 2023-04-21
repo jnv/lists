@@ -416,6 +416,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [planetruby/calendar](https://github.com/planetruby/calendar) – Ruby events (meetups, conferences, camps, etc.) from around the world.
   - https://planetruby.github.io/calendar/
 * [post-mortems](https://github.com/danluu/post-mortems)
+* [Product-Management-and-Leadership](https://github.com/ElizaLo/Product-Management-and-Leadership)
 * [programmers-proverbs](https://github.com/AntJanus/programmers-proverbs) – Proverbs from the programmer
 * [programming-talks](https://github.com/hellerve/programming-talks) – Awesome & Interesting Talks concerning Programming
 * [progressive-enhancement-resources](https://github.com/jbmoelker/progressive-enhancement-resources) – (code) examples.
