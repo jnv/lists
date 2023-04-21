@@ -933,6 +933,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-grails](https://github.com/hitenpratap/awesome-grails)
 * [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) – Graph embedding papers with implementations.
 * [awesome-graphql](https://github.com/chentsulin/awesome-graphql) – GraphQL & Relay Resources.
+* [awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) – Projects related to [graphql-java](https://www.graphql-java.com/).
 * [awesome-groovy](https://github.com/kdabir/awesome-groovy)
 * [awesome-growth-hacking](https://github.com/bekatom/awesome-growth-hacking)
 * [awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) – [gRPC](https://grpc.io/) RPC framework.
