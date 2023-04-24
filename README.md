@@ -772,6 +772,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-db-tools](https://github.com/mgramin/awesome-db-tools) – Everything that makes working with databases easier.
 * [awesome-ddd](https://github.com/heynickc/awesome-ddd) by @heynickc – Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming
 * [awesome-ddd](https://github.com/wkjagt/awesome-ddd) by @wkjagt – Domain-Driven Design
+* [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) – Large Language Models (LLM) for building products you can "own" or to perform reproducible research.
 * [awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) – Decentralized services and technologies
 * [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) – Decision Tree Research Papers
 * [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) – Deep Learning tutorials, projects and communities.
