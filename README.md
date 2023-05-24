@@ -1405,6 +1405,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) by @n1trux – Open source sysadmin resources.
 * [awesome-system-design](https://github.com/madd86/awesome-system-design) – Distributed systems design
 * [awesome-system-fonts](https://github.com/mrmrs/awesome-system-fonts) – Websites that use system fonts.
+* [Awesome-System-for-Machine-Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) – Research in machine learning systems (MLSys).
+  - https://ai-engineering.club/
 * [awesome-taglines](https://github.com/miketheman/awesome-taglines) – Software taglines
 * [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) – [Tailwind CSS](https://tailwindcss.com/)
   - https://git.io/awesome-tailwindcss
