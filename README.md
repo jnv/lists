@@ -236,6 +236,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [DL4NLP](https://github.com/andrewt3000/DL4NLP) – Deep Learning for Natural Language Processing resources.
 * [dumb-password-rules](https://github.com/dumb-password-rules/dumb-password-rules) – Shaming sites with dumb password rules.
 * [easy-application](https://github.com/j-delaney/easy-application) – Software engineering companies that are easy to apply to.
+* [edge-ai](https://github.com/crespum/edge-ai) – Embedded / Edge AI
 * [effects-bibliography](https://github.com/yallop/effects-bibliography) – A collaborative bibliography of work related to the theory and practice of computational effects
 * [ElixirBooks](https://github.com/sger/ElixirBooks) – Elixir programming language books
 * [elm-companies](https://github.com/jah2488/elm-companies) – Companies using Elm
