@@ -398,6 +398,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [offline-first](https://github.com/pazguille/offline-first) – Everything you need to know to create offline-first web apps.
 * [opendronelist](https://github.com/dronetag/opendronelist) – Database of drones and their common properties.
   - https://dronetag.github.io/opendronelist/
+* [open-llms](https://github.com/eugeneyan/open-llms) – Open Large Language Models available for commercial use.
 * [open-product-management](https://github.com/ProductHired/open-product-management) – Product management advice for technical people.
 * [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) – Collection of Android Apps which are open source.
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) – Open-source iOS apps.
