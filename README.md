@@ -1063,6 +1063,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-lit-html](https://github.com/web-padawan/awesome-lit-html) – [lit-html](https://lit-html.polymer-project.org/) HTML templating library
 * [awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites) – Lightweight versions of websites without all the bloat
 * [awesome-livecoding](https://github.com/toplap/awesome-livecoding) – All things Livecoding.
+* [awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) – Autonomous Large Language Model agents.
 * [awesome-lnurl](https://github.com/lnurl/awesome-lnurl) – [LNURL](https://github.com/lnurl/luds) (Lightning Network protocols)
 * [awesome-logging](https://github.com/roundrobin/awesome-logging)
 * [awesome-loginless](https://github.com/fiatjaf/awesome-loginless) – Internet services that don't require logins or registrations.
