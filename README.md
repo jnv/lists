@@ -1441,7 +1441,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-themes](https://github.com/AdrienTorris/awesome-themes) – Web themes and templates
 * [awesome-tikz](https://github.com/xiaohanyu/awesome-tikz) – [TikZ](https://pgf-tikz.github.io/) graph drawing package for TeX/LaTeX/ConTeXt
 * [awesome-tinkerpop](https://github.com/mohataher/awesome-tinkerpop) – [Apache TinkerPop](http://tinkerpop.apache.org/) graph computing framework
-* [awesome-token-sale](https://github.com/holographicio/awesome-token-sale) – Token sale / ICO resources
 * [awesome-torch](https://github.com/carpedm20/awesome-torch) – Tutorials, projects and communities for [Torch](http://torch.ch/), a scientific computing framework for LuaJIT.
 * [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) – Transit APIs, apps, datasets, research, and software
 * [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – [Ngrok](https://ngrok.com/) alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
