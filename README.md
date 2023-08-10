@@ -755,6 +755,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-css](https://github.com/bring2dip/awesome-css) by @deepakbhattarai
 * [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) – CSS frameworks
 * [awesome-css-learning](https://github.com/micromata/awesome-css-learning) – A tiny list limited to the best CSS Learning Resources
+* [awesome-css-only](https://github.com/refusado/awesome-css-only) - An awesome & curated list of beautiful projects made with pure CSS.
 * [awesomeCSV](https://github.com/secretGeek/awesomeCSV) – CSV, Comma Separated Values format
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf) – [Capture the Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security)
   - https://apsdehal.in/awesome-ctf/
