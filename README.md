@@ -257,6 +257,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [flat-file-cms](https://github.com/ahadb/flat-file-cms) – Stictly flat-file cms systems.
 * [forced-alignment-tools](https://github.com/pettarin/forced-alignment-tools) – Forced alignment (synchronization of speech with text)
 * [FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev) – Free and open-source software for developers
+* [foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries) – Free and Open Source Photo Libraries.
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) – Open Source, Free Full Stack Training with hours of coding challenges, projects, and certifications.
   - https://www.freecodecamp.org/
 * [free-for-dev](https://github.com/ripienaar/free-for-dev) – Software, SaaS, PaaS etc offerings that have free tiers for devs.
