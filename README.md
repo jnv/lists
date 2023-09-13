@@ -361,6 +361,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [learn-tt](https://github.com/jozefg/learn-tt) – Resources for learning type theory.
 * [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) – Code documentation written as code!
   - https://learnxinyminutes.com/
+* [Lesser-Known-Terminal-Editors](https://codeberg.org/CoopCoding/Lesser-Known-Terminal-Editors)
 * [libertr](https://github.com/gaapt/libertr) – Resources for liberty seekers.
 * [lifeofjs](https://github.com/abhijeetkpawar/lifeofjs) – Curated source for all types of awesome resources available for JavaScript.
 * [Linux_websites](https://github.com/hduffddybz/Linux_websites) _In Chinese_ – Websites related to Linux kernel development.
