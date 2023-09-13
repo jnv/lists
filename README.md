@@ -398,6 +398,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [NotesIndex](https://github.com/Wilbeibi/NotesIndex)
 * [not-yet-awesome-rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust) – Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.
 * [offline-first](https://github.com/pazguille/offline-first) – Everything you need to know to create offline-first web apps.
+* [OpenAI](https://github.com/sqlshep/OpenAI) – Landing Page for OpenAI related links and topics.
 * [openapi-specification-extensions](https://github.com/Mermade/openapi-specification-extensions) – Common and standardised OpenAPI specification (vendor) extensions.
 * [opendronelist](https://github.com/dronetag/opendronelist) – Database of drones and their common properties.
   - https://dronetag.github.io/opendronelist/
