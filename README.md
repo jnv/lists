@@ -625,6 +625,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-AutoIt](https://github.com/J2TeaM/awesome-AutoIt) – UDFs, example scripts, tools and useful resources for AutoIt.
   - https://j2team.github.io/awesome-AutoIt/
 * [awesome-automotive](https://github.com/Marcin214/awesome-automotive) – Automotive engineering.
+* [awesome-autonomous-gpt](https://github.com/ScarletPan/awesome-autonomous-gpt) – Autonomous AI agents.
 * [awesome-ava](https://github.com/avajs/awesome-ava) – [AVA](https://github.com/avajs/ava) JavaScript test runner.
 * [awesome-avr](https://github.com/fffaraz/awesome-avr)
 * [awesome-aws](https://github.com/donnemartin/awesome-aws) – Amazon Web Services (AWS)
