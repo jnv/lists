@@ -841,6 +841,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-drupal](https://github.com/nirgn975/awesome-drupal) by @nirgn975 – Useful resources for Drupal CMS :droplet:
 * [awesome-dtrace](https://github.com/xen0l/awesome-dtrace) – DTrace books, articles, videos, tools and resources.
   - https://awesome-dtrace.com
+* [awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) – [DuckDB](https://duckdb.org/) in-process SQL OLAP database management system.
 * [awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf) – eBPF Linux packet filter
 * [awesome-economics](https://github.com/antontarasenko/awesome-economics) – Economics related projects, software, people
 * [awesome-ecs](https://github.com/nathanpeck/awesome-ecs) – AWS Elastic Container Service and Fargate.
@@ -1560,7 +1561,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) – Lists for hackers, pentesters and security researchers.
 * [awesome-lists](https://github.com/cuuupid/awesome-lists) by @cuuupid – A curated list of curated lists.
 * [awesome-lists](https://github.com/pshah123/awesome-lists) by @pshah123 – A curated list for your curated lists, including other curated lists of curated lists that may or may not contain other curated lists.
-* [awesome-lists](https://github.com/szabgab/awesome-lists) by @szabgab - Another curated list of curated lists.
+* [awesome-lists](https://github.com/szabgab/awesome-lists) by @szabgab – Another curated list of curated lists.
 * [curated-lists](https://github.com/learn-anything/curated-lists)
 * [delightful](https://codeberg.org/teaserbot-labs/delightful) – Home of delightful curated lists of free software, open science and information sources.
 * [delightful-club](https://codeberg.org/yarmo/delightful-club) – The delightful curated list of delightful curated lists
