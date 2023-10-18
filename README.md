@@ -226,6 +226,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - http://www.devopsbookmarks.com/
 * [devops_resources](https://github.com/dustinmm80/devops_resources)
 * [dev-resource](https://github.com/Ibrahim-Islam/dev-resource) – Resources for devs online and offline.
+* [dhnotes](https://github.com/dh-notes/dhnotes) – Digital Humanities
 * [digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) – Resources for gardeners tending their digital notes on the public interwebs.
 * [discord-open-source](https://github.com/discord/discord-open-source) – Open source communities living on Discord.
 * [discord-resources](https://github.com/DTinker/discord-resources) – Discord modding resources.
