@@ -1401,6 +1401,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://manfred.life/awesome-ssh
 * [awesome-stacks](https://github.com/stackshareio/awesome-stacks) – Tech stacks for building different applications & features
   - https://awesomestacks.dev
+* [awesome-standalones](https://github.com/davatron5000/awesome-standalones) – Framework-agnostic standalone web components.
 * [awesome-standard](https://github.com/standard/awesome-standard) – Documenting the explosion of packages in the [standard](http://standardjs.com/) (JavaScript code style) ecosystem.
 * [awesome-stars](https://github.com/lichunqiang/awesome-stars) _In Chinese_ – Useful libraries with personal remarks.
 * [awesome-startup](https://github.com/KrishMunot/awesome-startup) – Resources to build your own startup
