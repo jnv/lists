@@ -190,6 +190,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [compilers-targeting-c](https://github.com/dbohdan/compilers-targeting-c) – Compilers that can generate C code.
 * [computer-science](https://github.com/ossu/computer-science) – Path to a free self-taught graduation in Computer Science.
 * [content-management-systems](https://github.com/ahadb/content-management-systems) – Open source & proprietary content management systems.
+* [cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) – Free to use AI APIs and sites.
 * [critical-path-css-tools](https://github.com/addyosmani/critical-path-css-tools) – Tools to help prioritize above-the-fold CSS.
 * [CryptoList](https://github.com/coinpride/CryptoList) – Blockchain & cryptocurrency resources.
 * [crypto-might-not-suck](https://github.com/sweis/crypto-might-not-suck) – Crypto Projects that Might not Suck.
