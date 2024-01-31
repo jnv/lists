@@ -457,6 +457,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Resources](https://github.com/tevko/Resources) by @tevko – Tools for front end devs.
 * [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) – Getting started with bug bounties.
 * [Resources-for-Writing-Shaders-in-Unity](https://github.com/VoxelBoy/Resources-for-Writing-Shaders-in-Unity)
+* [retro-computing-internet-resources](https://github.com/ssshake/retro-computing-internet-resources) – Various projects to get vintage computers connected to the internet.
 * [retter](https://github.com/MaciejCzyzewski/retter) – Hash functions, ciphers, tools, libraries, and materials related to cryptography & security.
 * [reverse-interview](https://github.com/viraptor/reverse-interview) – Questions to ask the company during your interview
 * [Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) – Rich Hickey's works on the internet.
