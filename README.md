@@ -320,6 +320,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [hyperawesome](https://github.com/jorgebucaran/hyperawesome) – Hyperapp JavaScript framework
 * [idaplugins-list](https://github.com/onethawt/idaplugins-list) – Plugins for [IDA disassembler](https://www.hex-rays.com/products/ida/).
 * [ideas](https://github.com/samsquire/ideas) – One Hundred Ideas for Computing
+* [idiomatic-rust](https://github.com/mre/idiomatic-rust) – Articles/talks/repos which teach concise, idiomatic Rust.
+  - http://idiomatic.rs
 * [InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) – Deals for InfoSec related software/tools this Black Friday
 * [Inspire](https://github.com/NoahBuscher/Inspire) – Links to assist you in web design and development
 * [interviews](https://github.com/kdn251/interviews) – Your personal guide to Software Engineering technical interviews.
