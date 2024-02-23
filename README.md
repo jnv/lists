@@ -527,6 +527,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [twofactorauth](https://github.com/2factorauth/twofactorauth) – Sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
   - https://twofactorauth.org/
 * [type-findings](https://github.com/charliewilco/type-findings) – Posts about web typography.
+* [TypeFunc](https://github.com/williamdemeo/TypeFunc) – Type theory, functional programming, and related subjects.
 * [type-trident](https://github.com/anuraghazra/type-trident) – Advanced type level madness for TypeScript.
 * [typography](https://github.com/deanhume/typography) – Web typography
   - https://deanhume.github.io/typography/
