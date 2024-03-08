@@ -863,6 +863,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-electron](https://github.com/sindresorhus/awesome-electron) – Resources for creating apps with [Electron](http://electron.atom.io/) (formerly atom-shell).
 * [awesome-electronics](https://github.com/kitspace/awesome-electronics) – Electronic engineering
 * [awesome-eleventy](https://github.com/chrissy-dev/awesome-eleventy) – [Eleventy (11ty)](https://www.11ty.dev/) static site generator.
+* [awesome-elisp](https://github.com/p3r7/awesome-elisp) – Emacs Lisp development resources.
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir)
 * [awesome-elm](https://github.com/sporto/awesome-elm) – [Elm](https://elm-lang.org/), a functional reactive language
 * [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) by @emacs-tw
