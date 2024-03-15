@@ -1444,6 +1444,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-system-fonts](https://github.com/mrmrs/awesome-system-fonts) – Websites that use system fonts.
 * [Awesome-System-for-Machine-Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) – Research in machine learning systems (MLSys).
   - https://ai-engineering.club/
+* [awesome-tagged-templates](https://github.com/kay-is/awesome-tagged-templates) – ES2015 tagged template literals.
 * [awesome-taglines](https://github.com/miketheman/awesome-taglines) – Software taglines
 * [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) – [Tailwind CSS](https://tailwindcss.com/)
   - https://git.io/awesome-tailwindcss
