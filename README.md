@@ -1479,6 +1479,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://ellerbrock.github.io/awesome-typescript
 * [awesome-typescript-projects](https://github.com/brookshi/awesome-typescript-projects) – TypeScript open-source projects
 * [awesome-typography](https://github.com/Jolg42/awesome-typography) – Resources on OpenType & TrueType.
+* [awesome-typst](https://github.com/qjcg/awesome-typst) – [Typst](https://typst.app/) typesetting system.
 * [awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) – Framework component libraries for UI styles/toolkit
   - https://anubhavsrivastava.github.io/awesome-ui-component-library/
 * [awesome-umbraco](https://github.com/umbraco-community/awesome-umbraco) – Resources for Umbraco 7, a .NET CMS.
