@@ -889,6 +889,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ethereum](https://github.com/vinsgo/awesome-ethereum) by @vinsgo
   - http://awesome-ethereum.com/
 * [awesome-ethereum-virtual-machine](https://github.com/pirapira/awesome-ethereum-virtual-machine)
+* [awesome-etl](https://github.com/pawl/awesome-etl) – ETL (extract, transform, load) frameworks, libraries, and software.
 * [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) – Falsehoods programmers believe in.
 * [awesome-fantasy](https://github.com/r7kamura/awesome-fantasy) – FinalFantasy-ish metaphors in software.
 * [awesome-fast-check](https://github.com/dubzzz/awesome-fast-check) – [fast-check](https://github.com/dubzzz/fast-check/) property based testing framework for JavaScript/TypeScript
