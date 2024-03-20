@@ -675,6 +675,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-bugs](https://github.com/criswell/awesome-bugs) – Funny and interesting bugs
 * [awesome-building-blocks-for-web-apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps) – Standalone features (services, components, libraries) to be integrated into web applications.
   - https://www.componently.com/
+* [awesome-bun](https://github.com/oven-sh/awesome-bun) – [Bun](https://bun.sh/) JavaScript runtime and toolkit.
 * [awesome-buttplug](https://github.com/buttplugio/awesome-buttplug) – Projects that use the [Buttplug Sex Toy Control Library](https://buttplug.io/).
 * [awesome-c](https://github.com/aleksandar-todorovic/awesome-c) by @aleksandar-todorovic – Continuing the development of awesome-c on GitHub
 * [awesome-c](https://github.com/kozross/awesome-c) by @kozross – C frameworks, libraries, resources etc.
