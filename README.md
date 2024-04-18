@@ -384,6 +384,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [motion-ui-design](https://github.com/fliptheweb/motion-ui-design) – Motion UI design, animations and transitions.
 * [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
   - https://hackermovie.club/
+* [Music-Megathread](https://github.com/MoonWalker440/Music-Megathread) – Free music players, tools, downloaders, streaming sites, and Telegram bots for music.
 * [must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) – Must-watch videos about CSS.
 * [must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) – Must-watch videos about JavaScript.
 * [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) – Open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
