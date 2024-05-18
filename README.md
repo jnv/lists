@@ -1503,6 +1503,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-vhdl](https://github.com/VHDL/awesome-vhdl) – VHDL hardware description language
 * [awesome-vim](https://github.com/akrawchyk/awesome-vim) by @akrawchyk
 * [awesome-vim](https://github.com/matteocrippa/awesome-vim) by @matteocrippa
+* [Awesome-Vision-Pro](https://github.com/jtmuller5/Awesome-Vision-Pro) – Apple Vision Pro.
 * [awesome-vite](https://github.com/vitejs/awesome-vite) – [Vite](https://vitejs.dev/) front-end build tooling.
 * [awesome-vjing](https://github.com/LimeLimeW/awesome-vjing) – VJing / visuals.
 * [awesome-vlc](https://github.com/mfkl/awesome-vlc) – [VideoLAN VLC](https://www.videolan.org/) multimedia player and framework.
