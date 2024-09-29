@@ -291,7 +291,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) – git and git flow cheat sheet
   - http://bilalarslan.me/git-cheat-sheet/
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) – Cool features of Git and GitHub.
-* [github-drama](https://github.com/nikolas/github-drama)
+* [github-drama](https://github.com/neodrama/github-drama) - Heated/controversial Github discussions
 * [github-hall-of-fame](https://github.com/mehulkar/github-hall-of-fame) – Hall of Fame for spectacular things on Github.
 * [GoBooks](https://github.com/dariubs/GoBooks) – Golang books.
 * [go-is-not-good](https://github.com/ksimka/go-is-not-good) – Articles that complain about Golang's imperfection.
