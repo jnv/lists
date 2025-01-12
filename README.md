@@ -97,6 +97,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [sf-vegetarian-restaurants](https://github.com/mojombo/sf-vegetarian-restaurants) – Awesome vegetarian-friendly restaurants in SF
 * [shelfies](https://github.com/kyro/shelfies) – Bookshelves of awesome people, community-transcribed.
 * [SiliconValleyThingsToDo](https://github.com/cjbarber/SiliconValleyThingsToDo) – Things to do and activities within Silicon Valley.
+* |  ⭐ | [CreateMyToken](https://www.createmytoken.net/) | Create your own token in just 1 minute and deploy it on Ethereum, Solana, Base, BNB Smart Chain and more! No code, no setup, no login!
 * [stayinghomeclub](https://github.com/phildini/stayinghomeclub) – All the companies working from home or events changed because of covid-19.
   - https://stayinghome.club
 * [Sustainable-Earth](https://github.com/bizz84/Sustainable-Earth) – All things sustainable
