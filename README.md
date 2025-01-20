@@ -31,7 +31,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-biology](https://github.com/raivivek/awesome-biology) – Learning resources, research papers, tools and other resources related to Biology.
 * [awesome-board-games](https://github.com/edm00se/awesome-board-games) – Awesome and exceptional board games
   - https://awesomeboard.games
-* [awesome-coffee](https://github.com/psanders/awesome-coffee) - Resources for productivity.
+* [awesome-coffee](https://github.com/psanders/awesome-coffee) - Productivity for tech professionals.
 * [awesome-ethics](https://github.com/HussainAther/awesome-ethics)
 * [awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) – Fantasy literature worth reading.
 * [awesome-gif](https://github.com/Kikobeats/awesome-gif) – GIF /dʒ/ links and resources.
