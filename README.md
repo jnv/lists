@@ -118,6 +118,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://a11yproject.com
 * [addinslist](https://github.com/daattali/addinslist) – Useful [RStudio](https://www.rstudio.com/) addins
 * [admesh-projects](https://github.com/admesh/admesh-projects) – Projects using [ADMesh](https://github.com/admesh/admesh) (a triangulated solid meshes processor).
+* [AI Coding Tools](https://github.com/tokyo-dal/awesome-ai-coding-tools) - A curated list of AI-powered coding tools
 * [AI-reading-list](https://github.com/m0nologuer/AI-reading-list) – Papers about Artificial Intelligence.
 * [alexandria](https://github.com/alxgcrz/alexandria) _In English and Spanish_ – Various resources by [@alxgcrz](https://github.com/alxgcrz)
 * [algovis](https://github.com/enjalot/algovis) – Algorithm Visualization.
