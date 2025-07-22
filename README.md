@@ -1608,6 +1608,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-awesome-awesome](https://github.com/geekan/awesome-awesome-awesome) by @geekan – An awesome-awesome list.
 * [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) by @t3chnoboy – A a curated list of curated lists of awesome lists.
 * [awesomecubed](https://github.com/hunterboerner/awesomecubed) – A curated list of awesome awesomeness awesomenesses.
+* [List of lists of lists Wikipedia](https://en.wikipedia.org/wiki/List_of_lists_of_lists) is a list of Wikipedia articles that are lists of other list articles.
 * [lologl](https://github.com/yaph/lologl) – List of Lists of Github Lists.
 * [meta-awesome](https://github.com/PatrickMcDonald/meta-awesome)
 * [the one above](#lists-of-lists)
