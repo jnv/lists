@@ -103,6 +103,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Sustainable-Earth](https://github.com/bizz84/Sustainable-Earth) – All things sustainable
 * [tacofancy](https://github.com/sinker/tacofancy) – community-driven taco repo. stars stars stars.
 * [teesites](https://github.com/elder-cb/teesites) – Great sites to buy awesome t-shirts and other cool stuff.
+* [the-DLES](https://github.com/aukspot/dles) - Hundreds of free daily web games in a similar vein to Wordle and FoodGuessr.
+  - https://dles.aukspot.com
 * [warren](https://github.com/torchhound/warren) – Interesting and deep corners of the internet to explore.
 
 
