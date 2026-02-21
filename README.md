@@ -550,6 +550,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [webdev-jokes](https://github.com/jerstew/webdev-jokes) – Web development jokes.
 * [webdevresourcecuration](https://github.com/lwakefield/webdevresourcecuration)
 * [weekly](https://github.com/zenany/weekly) _In Chinese_ – Weekly summary of articles and resources.
+* [WFGY 16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) – Open-source checklist of 16 common RAG and LLM failure modes, each mapped to a practical fix for AI pipelines.
 * [what-next](https://github.com/messa/what-next) _In Czech_ – Co dělat, když se chci naučit programovat ještě víc.
 * [Women-Made-It](https://github.com/LisaDziuba/Women-Made-It) – Design & development tools, books, podcasts, and blogs made by women.
 * [work-from-anywhere](https://github.com/Nithur-M/work-from-anywhere) – Remote, location-independent jobs.
