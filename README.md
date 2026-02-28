@@ -237,6 +237,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - http://hangtwenty.github.io/dive-into-machine-learning/
 * [django-must-watch](https://gitlab.com/rosarior/django-must-watch) – Must-watch videos about Django web framework + Python.
 * [DL4NLP](https://github.com/andrewt3000/DL4NLP) – Deep Learning for Natural Language Processing resources.
+* [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) – Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories and generating terminal-style HTML visualization.
 * [dumb-password-rules](https://github.com/dumb-password-rules/dumb-password-rules) – Shaming sites with dumb password rules.
 * [easy-application](https://github.com/j-delaney/easy-application) – Software engineering companies that are easy to apply to.
 * [edge-ai](https://github.com/crespum/edge-ai) – Embedded / Edge AI
