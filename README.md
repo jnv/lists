@@ -267,6 +267,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://www.freecodecamp.org/
 * [free-for-dev](https://github.com/ripienaar/free-for-dev) – Software, SaaS, PaaS etc offerings that have free tiers for devs.
   - https://free-for.dev/
+* [Free-Online-Developer-Utilities](https://github.com/yuanerhh/Free-Online-Developer-Utilities) – DevTools - Free Online Developer Utilities.
+  - https://yuanerapp.org/
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
   - http://resrc.io/list/10/list-of-free-programming-books/
 * [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) _In Chinese_
