@@ -1309,7 +1309,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-raspberry-pi](https://github.com/blackout314/awesome-raspberry-pi) by @blackout314
   - http://blackout314.github.io/awesome-raspberry-pi/
 * [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) by @thibmaek – Raspberry Pi tools, projects, images and resources
-* [awesome-rclone](https://github.com/awesome-rclone/awesome-rclone#readme) - Move data to/from anywhere. The Swiss army knife for cloud storage.
+* [awesome-rclone](https://github.com/awesome-rclone/awesome-rclone) – [Rclone](https://rclone.org/), the “Swiss army knife of cloud storage”.
 * [awesome-react](https://github.com/enaqx/awesome-react) – ReactJS tools, resources, videos.
 * [awesome-react-components](https://github.com/brillout/awesome-react-components) – React Components & Libraries.
 * [awesome-react-graphql](https://github.com/hasura/awesome-react-graphql) – GraphQL + React/React Native
