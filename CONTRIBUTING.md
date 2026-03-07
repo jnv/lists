@@ -6,7 +6,7 @@ If you have any questions about the project or these guidelines, [open an issue]
 
 Most importantly, **have fun!** Don’t take this project _too_ seriously. While it is (hopefully) useful, there are better things in life than some arbitrary hoard of links.
 
-## What Is Accepted
+## What is accepted
 
 If you wish to add some project to this list, make sure it meets the following criteria:
 
@@ -16,7 +16,9 @@ If you wish to add some project to this list, make sure it meets the following c
 * The project can be forked, cloned and maintained without reliance on the original source.
 * Non-English lists and lists about non-technical subjects are very welcome!
 
-## Adding a List
+List maintainers have the final say in what is and isn't accepted. Blatant self-promotion and AI slop will be most likely rejected.
+
+## Adding a list
 
 Lists are alphabetically sorted, so find a proper place to put your list in and an item in the following format:
 
@@ -53,7 +55,7 @@ If there is a website for the list, add a link into the sub-item. For example, `
 * [awesome-ruby](https://github.com/markets/awesome-ruby) by @markets
   - http://awesome-ruby.com/
 
-### Technical and Non-technical Lists
+### Technical and non-technical lists
 
 Is your list related to software, programming, video games, or development activities? Then it is probably Technical. If the project’s name starts with `awesome`, put it into the [awesome-*](https://github.com/jnv/lists#awesome-) section.
 
@@ -61,7 +63,7 @@ If your list is related to cooking, fiction books, pictures, people or pretty mu
 
 When in doubt, [just ask](https://github.com/jnv/lists/issues). Or just send a pull request, we’ll sort it out.
 
-## Removing Lists
+## Removing lists
 
 You are welcome to propose a removal or change of an existing entry if:
 
