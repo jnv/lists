@@ -185,6 +185,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [classics](https://github.com/eyy/classics) – Classical studies (Latin and Ancient Greek) resources: software, code and raw data.
 * [classless-css](https://github.com/dbohdan/classless-css) – Classless CSS themes/frameworks.
 * [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) – Open-source clones of popular sites.
+* [cloudcredits.io](https://github.com/t3-sh/cloudcredits.io) - Cloud/SaaS/startup credits and discounts with zero affiliations.
+  - https://cloudcredits.io/
 * [cloud-conferences](https://github.com/stefan-kolb/cloud-conferences) – A collection of scientific and industry conferences focused on cloud computing.
   - http://stefan-kolb.github.io/cloud-conferences/
 * [code-canon](https://github.com/darius/code-canon) – Code worth reading.
