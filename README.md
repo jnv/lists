@@ -1078,6 +1078,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-lesscode](https://github.com/dream2023/awesome-lesscode) _In Chinese_ – Low code / no code projects
 * [awesome-libgdx](https://github.com/rafaskb/awesome-libgdx) – [libGDX](https://libgdx.badlogicgames.com/) cross-platform games development framework
 * [awesome-libgen](https://github.com/freereadorg/awesome-libgen) – Library Genesis, the world's largest free library.
+* [awesome-libghostty]([https://github.com/jc00ke/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty)) – Projects built with [Ghostty](https://ghostty.org/)'s libghostty embedded terminal library.
 * [awesome-libra](https://github.com/learndapp/awesome-libra) by @learndapp – [Libra](https://libra.org/) cryptocurrency by Facebook
 * [awesome-libra](https://github.com/reed-hong/awesome-libra) by @reed-hong – [Facebook Diem](https://www.diem.com/) (née Libra) digital currency.
 * [awesome-librehosters](https://github.com/libresh/awesome-librehosters) – Nice hosting providers
