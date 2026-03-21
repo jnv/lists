@@ -1174,6 +1174,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - http://f.briatte.org/r/awesome-network-analysis-list
 * [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) – Papers on node embedding techniques.
 * [awesome-network-js](https://github.com/Kikobeats/awesome-network-js) – Network layer resources in pure JavaScript
+* [awesome-n8n-templates](https://github.com/ScraperNode/awesome-n8n-templates) – [n8n](https://n8n.io/) workflow templates.
 * [Awesome-Networking](https://github.com/clowwindy/Awesome-Networking)
 * [awesome-neural-reprogramming-prompting](https://github.com/huckiyang/awesome-neural-reprogramming-prompting) – Adversarial reprogramming and input prompting methods for neural networks.
 * [awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) – Neuroscience libraries, software and resources
