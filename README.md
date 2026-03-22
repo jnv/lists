@@ -520,6 +520,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) – Building Startups with an AI Co-Founder.
 * [think-awesome](https://github.com/thinkjs/think-awesome) – [ThinkJS](https://thinkjs.org/) Node.js framework
 * [til](https://github.com/jbranchaud/til) – Today I Learned.
+* [TimeClick Time Tracking Tools](https://github.com/timeclick-software/time-tracking-tools) - Curated list of time tracking software (SaaS and open source) for payroll, productivity, and workforce management.
 * [tips](https://github.com/git-tips/tips) – Most commonly used git tips and tricks.
   - http://git.io/git-tips
 * [Toolbox](https://github.com/Dillion/Toolbox) – Open source iOS stuff.
