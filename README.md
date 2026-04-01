@@ -875,6 +875,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-educational-games](https://github.com/yrgo/awesome-educational-games) – Educational games to learn editors, languages, programming
 * [awesome-ejabberd](https://github.com/shantanu-deshmukh/awesome-ejabberd) – All awesome stuff of the ejabberd ecosystem.
   - https://ejabberd.shantanudeshmukh.com
+* [awesome-embodied-ai-safety](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) – Safety in embodied AI: 500+ papers on risks, attacks, and defenses across perception, cognition, planning, action, and agentic layers.
+  - https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/
 * [awesome-electron](https://github.com/sindresorhus/awesome-electron) – Resources for creating apps with [Electron](http://electron.atom.io/) (formerly atom-shell).
 * [awesome-electronics](https://github.com/kitspace/awesome-electronics) – Electronic engineering
 * [awesome-eleventy](https://github.com/chrissy-dev/awesome-eleventy) – [Eleventy (11ty)](https://www.11ty.dev/) static site generator.
