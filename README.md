@@ -15,6 +15,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
           - [Lists of lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists-of-lists)
           - [Lists of lists of lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists-of-lists-of-lists)
   - [License](#license)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multi-agent development orchestration, automated code review, and workflow coordination. MIT licensed.
 
 <!-- lists-start -->
 
