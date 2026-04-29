@@ -1444,6 +1444,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-structure-editors](https://github.com/yairchu/awesome-structure-editors) – Projectional and structural code editor projects.
 * [awesome-styleguides](https://github.com/RichardLitt/awesome-styleguides)
 * [awesome-stylelint](https://github.com/stylelint/awesome-stylelint) – [Stylelint](https://stylelint.io/) CSS linter.
+* [awesome-subreddits](https://github.com/soarsh/awesome-subreddits) – Curated subreddit shortlists for B2B and consumer marketers, organized by vertical (B2B SaaS, fintech, ecommerce, healthtech, developer tools, productivity, gaming, consumer brands).
 * [awesome-sustainable-technology](https://github.com/protontypes/awesome-sustainable-technology) – Open technology projects sustaining stable climate, energy supply and vital natural resources.
   - https://opensustain.tech/
 * [awesome-svelte](https://github.com/CalvinWalzel/awesome-svelte) – [Svelte](https://svelte.dev/) framework
