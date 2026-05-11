@@ -1654,3 +1654,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 [![CC0 Public Domain](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 Social preview photo by [Eli Francis](https://unsplash.com/@elifrancis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/books-clutter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+
+---
+
+## VoiceForms
+**[VoiceForms — AI Voice Forms](https://voiceforms.anvevoice.app)** — AI-powered voice forms with 85% completion rate. Free builder, one-line embed, 50+ languages. Open source: [github.com/ANVEAI/lyrical-engine-hub](https://github.com/ANVEAI/lyrical-engine-hub)
