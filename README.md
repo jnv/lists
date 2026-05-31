@@ -20,6 +20,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 ## Non-technical
 
+
+- [Awesome Saju](https://github.com/leekyuhaiambox-ops/awesome-saju) — Korean four-pillars (saju, 사주) astrology — calculators, day-pillar references, theory, in Korean and English.
 * [4dayweek](https://github.com/rafaelcamargo/4dayweek) – Companies friendly to the 4-day workweek.
   - https://4dayweek.rafaelcamargo.com/
 * [aero-structures](https://github.com/specifics/aero-structures) – Resources for analyzing aircraft structures for aerospace engineers.
