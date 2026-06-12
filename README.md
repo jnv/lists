@@ -802,6 +802,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) – Data visualizations frameworks, libraries and software.
 * [awesome-db](https://github.com/numetriclabz/awesome-db) – Database libraries and resources.
 * [awesome-db-tools](https://github.com/mgramin/awesome-db-tools) – Everything that makes working with databases easier.
+* [awesome-dcs-world](https://github.com/DaKerboul/awesome-dcs-world) – Resources for [DCS World](https://www.digitalcombatsimulator.com/) (Digital Combat Simulator): tools, scripting, mission design, multiplayer, and hardware.
 * [awesome-ddd](https://github.com/heynickc/awesome-ddd) by @heynickc – Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming
 * [awesome-ddd](https://github.com/wkjagt/awesome-ddd) by @wkjagt – Domain-Driven Design
 * [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) – Large Language Models (LLM) for building products you can "own" or to perform reproducible research.
