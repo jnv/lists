@@ -1580,6 +1580,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [craftcms/awesome](https://github.com/craftcms/awesome) – [Craft CMS](https://craftcms.com/)
 * [not-awesome-es6-classes](https://github.com/petsel/not-awesome-es6-classes) – Why ES6 (aka ES2015) classes are NOT awesome
   - https://matthias-endler.de/awesome-static-analysis/
+* [awesome-developer-conferences](https://github.com/Infrasity-Labs/awesome-developer-conferences) - A daily-updated directory of developer conferences worldwide.
 
 
 ## Lists of lists
