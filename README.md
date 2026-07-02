@@ -530,6 +530,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [tools-list](https://github.com/everestpipkin/tools-list) – Open source, experimental, and tiny tools for building game/website/interactive project.
   - https://tinytools.directory/
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) – Tools of The Trade, from Hacker News.
+* [Top-AI-repos](https://github.com/ishandutta2007/Top-AI-repos) - Top 100 Most starred opensource AI repos on github
 * [top-starred-devs-and-repos-to-follow](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow) – Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending).
 * [translations](https://github.com/oldratlee/translations) – Chinese translations for classic IT resources.
 * [trending-repositories](https://github.com/Semigradsky/trending-repositories) – Repositories that were trending for a day.
