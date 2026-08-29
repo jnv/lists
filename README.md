@@ -1517,6 +1517,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) – Implementations of the [Mapbox Vector Tile](https://www.mapbox.com/developers/vector-tiles/) specification.
 * [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) – Vehicle security and car hacking
 * [awesome-vhdl](https://github.com/VHDL/awesome-vhdl) – VHDL hardware description language
+* [awesome-video-to-slides](https://github.com/larry-xue/awesome-video-to-slides) – Tools for recovering slides from recorded talks, and for generating a new deck from video.
 * [awesome-vim](https://github.com/akrawchyk/awesome-vim) by @akrawchyk
 * [awesome-vim](https://github.com/matteocrippa/awesome-vim) by @matteocrippa
 * [Awesome-Vision-Pro](https://github.com/jtmuller5/Awesome-Vision-Pro) – Apple Vision Pro.
