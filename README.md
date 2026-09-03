@@ -1282,7 +1282,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-prolog](https://github.com/klaussinani/awesome-prolog) – Prolog logic programming language
 * [awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) – [Prometheus](https://prometheus.io/) monitoring system
 * [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) – Prometheus alerting rules
-  - https://awesome-prometheus-alerts.grep.to
+  - https://samber.github.io/awesome-prometheus-alerts
 * [awesome-promises](https://github.com/wbinnssmith/awesome-promises) – JavaScript Promises.
 * [Awesome_Prompting_Papers_in_Computer_Vision](https://github.com/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision) – Prompt-based papers in computer vision and vision-language learning.
 * [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) by @awesomedata – (Large-scale) public datasets on the Internet.
