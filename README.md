@@ -662,6 +662,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-biological-image-analysis](https://github.com/hallvaaw/awesome-biological-image-analysis) – Image analysis in biology.
 * [awesome-bitclout](https://github.com/davidshq/awesome-bitclout) – [BitClout](https://bitclout.com/) blockchain social network.
 * [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) – Bitcoin services and tools for software developers.
+* [awesome-bitcoin-events](https://github.com/itstomekk/awesome-bitcoin-events) – Community-maintained calendar of international Bitcoin conferences, meetups, retreats, and festivals with source verification.
 * [awesome-bitcoin-payment-processors](https://github.com/alexk111/awesome-bitcoin-payment-processors) – Bitcoin payment processors and stories from merchants using them.
 * [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) – Deals on Black Friday: Apps, SaaS, Books, Courses, etc. (2022)
 * [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) – [Blazor](https://blazor.net/), a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
