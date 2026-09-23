@@ -424,6 +424,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [weekly](https://github.com/zenany/weekly) _In Chinese_ – Weekly summary of articles and resources.
 * [what-next](https://github.com/messa/what-next) _In Czech_ – Co dělat, když se chci naučit programovat ještě víc.
 * [Worth-Reading-the-Android-technical-articles](https://github.com/zmywly8866/Worth-Reading-the-Android-technical-articles) _In Chinese_
+* [Women-Made-It](https://github.com/LisaDziuba/Women-Made-It) – Design & development tools, books, podcasts, and blogs made by women.
 * [You-Dont-Need.com](https://github.com/you-dont-need/You-Dont-Need.com) – People choose popular projects, often not because it applies to their problems.
 
 
@@ -637,6 +638,9 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-design](https://github.com/troyericg/awesome-design) – Resources for digital designers.
 * [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) – Resources on software design patterns.
 * [awesome-design-principles](https://github.com/robinstickel/awesome-design-principles)
+* [awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
+* [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+  - https://flawlessapp.io/designtools
 * [awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) – Implementing desktop apps with JavaScript
 * [awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun) – Fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 * [awesome-developer-blogs](https://github.com/endymion1818/awesome-developer-blogs)
@@ -678,7 +682,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-emacs](https://github.com/tacticiankerala/awesome-emacs) by @tacticiankerala
 * [awesome-emails](https://github.com/jonathandion/awesome-emails) – Build better emails.
 * [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) – Embedded and Low-level development in the Rust programming language
-* [awesome-ember](https://github.com/nmec/awesome-ember) – Ember.js things.
+* [awesome-ember](https://github.com/ember-community-russia/awesome-ember) by @ember-community-russia – [Ember.js](https://emberjs.com/) JavaScript framework
+* [awesome-ember](https://github.com/nmec/awesome-ember) by @nmec – Ember.js things.
 * [awesome-endless-codeforall-list](https://github.com/RobTranquillo/awesome-endless-codeforall-list) – Every tool that civic hackers worldwide use to work.
 * [awesome-eosio](https://github.com/DanailMinchev/awesome-eosio) – [EOS.IO](https://eos.io/) blockchain protocol
 * [awesome-erlang](https://github.com/drobakowski/awesome-erlang)
@@ -836,6 +841,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers) – Linux Containers frameworks, libraries and software
 * [awesome-linux-resources](https://github.com/itech001/awesome-linux-resources)
   - http://www.linux6.com
+* [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - Linux applications for all users and developers.
 * [awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) – Professional audio/video/live events production on Linux.
 * [awesome-lit-html](https://github.com/web-padawan/awesome-lit-html) – [lit-html](https://lit-html.polymer-project.org/) HTML templating library
 * [awesome-livecoding](https://github.com/toplap/awesome-livecoding) – All things Livecoding.
@@ -946,6 +952,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-plotters](https://github.com/beardicus/awesome-plotters) – Computer-controlled drawing machines and other visual art robots.
 * [awesome-podcasts](https://github.com/Ghosh/awesome-podcasts) – Podcasts for designers, developers, product managers, entrepreneurs and hustlers
   - http://podcasts.surge.sh/
+* [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) by @rShetty – Important Podcasts for software engineers.
 * [awesome-pokemon](https://github.com/tobiasbueschel/awesome-pokemon) – Pokémon & Pokémon Go
 * [awesome-polymer](https://github.com/Granze/awesome-polymer) – [Polymer Project](https://www.polymer-project.org/)
 * [awesome-postcss](https://github.com/jdrgomes/awesome-postcss) – [PostCSS](https://postcss.org/) CSS processor
@@ -978,6 +985,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) – Python software and packages related to scientific research in audio
 * [awesome-python-talks](https://github.com/jhermann/awesome-python-talks) – Videos related to Python, with a focus on training and gaining hands-on experience.
 * [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) – Python types, stubs, plugins, and tools to work with them.
+* [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) – [PyTorch](https://pytorch.org/) Python machine learning framework.
 * [awesome-qa](https://github.com/seriousmac/awesome-qa) – [Question Answering](https://en.wikipedia.org/wiki/Question_answering) systems automatically answer questions asked in a natural language
 * [awesome-qsharp](https://github.com/ebraminio/awesome-qsharp) – [Q#](https://docs.microsoft.com/en-us/quantum/) quantum programming language
 * [awesome-qt](https://github.com/JesseTG/awesome-qt) by @JesseTG – Qt framework
