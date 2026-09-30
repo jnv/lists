@@ -838,6 +838,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-devrel](https://github.com/devrelcollective/awesome-devrel) – Developer Relations
 * [awesome-devtools](https://github.com/moimikey/awesome-devtools) – In-browser bookmarklets, tools, and resources for front-end devs.
 * [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) – Resources for Digital Nomads.
+* [awesome-digital-signage](https://github.com/awesome-digital-signage/awesome-digital-signage) – Digital signage platforms, technologies, tools and resources.
 * [awesome-digitalocean](https://github.com/jonleibowitz/awesome-digitalocean) – DigitalOcean cloud infrastructure provider
 * [awesome-discord](https://github.com/alfg/awesome-discord) by @alfg
 * [awesome-discord](https://github.com/jacc/awesome-discord) by @jacc – Discord chat and VoIP application.
