@@ -1418,6 +1418,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) – Penetration testing
 * [Awesome-People-in-Computer-Vision](https://github.com/solarlee/Awesome-People-in-Computer-Vision)
 * [awesome-perfocards](https://github.com/Wolg/awesome-perfocards) _See [perfokaart](https://et.wikipedia.org/wiki/Perfokaart)._
+* [awesome-performance-engineering](https://github.com/be-next/awesome-performance-engineering) – Observability and performance testing tools and resources.
+  - https://idle-ti.me/awesome-performance-engineering/
 * [awesome-perl](https://github.com/hachiojipm/awesome-perl)
 * [awesome-permacomputing](https://github.com/isamorph/awesome-permacomputing) – Resilient and regenerative computing practices inspired by permaculture.
 * [awesome-persian](https://github.com/fffaraz/awesome-persian) – Persian/Farsi supporting tools, fonts, and development resources.
