@@ -1557,6 +1557,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-styleguides](https://github.com/RichardLitt/awesome-styleguides)
 * [awesome-stylelint](https://github.com/stylelint/awesome-stylelint) – [Stylelint](https://stylelint.io/) CSS linter.
 * [awesome-subreddits](https://github.com/soarsh/awesome-subreddits) – Subreddits for marketers.
+* [awesome-substrate](https://github.com/polkadot-developers/awesome-substrate) – Framework for writing scalable, upgradeable blockchains in Rust.
+  - https://substrate.io/ecosystem/resources/awesome-substrate
 * [awesome-supabase](https://github.com/lyqht/awesome-supabase) – An open-source alternative to Firebase.
 * [awesome-suricata](https://github.com/satta/awesome-suricata) – Intrusion detection/prevention system and network security monitoring engine.
 * [awesome-svelte](https://github.com/CalvinWalzel/awesome-svelte) by @CalvinWalzel – [Svelte](https://svelte.dev/) framework
