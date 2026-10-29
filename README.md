@@ -1529,6 +1529,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-rxjava](https://github.com/eleventigers/awesome-rxjava) – RxJava, reactive programming library
 * [awesome-salesforce](https://github.com/mailtoharshit/awesome-salesforce) – Salesforce Platform Resources
 * [awesome-saltstack](https://github.com/hbokh/awesome-saltstack) – [SaltStack](https://www.saltstack.com/) configuration management
+* [awesome-sap-commerce](https://github.com/eminyagiz42/awesome-sap-commerce) – [SAP Commerce](https://www.sap.com/products/crm/commerce-cloud.html), an e-commerce platform built with Java, Spring MVC, and Angular.
 * [awesome-sarl](https://github.com/sarl/awesome-sarl) – Resources for [SARL](http://www.sarl.io/) Agent-Oriented Programming Language.
 * [awesome-SAS](https://github.com/huyingjie/awesome-SAS) – [SAS](https://www.sas.com/) analysis system
 * [awesome-sass](https://github.com/Famolus/awesome-sass) by @Famolus – Sass and SCSS CSS preprocessor
