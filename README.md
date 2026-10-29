@@ -1642,6 +1642,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) – Technical blogs
   - https://tech-blogs.dev/
 * [awesome-tech-conferences](https://github.com/trstringer/awesome-tech-conferences) – Upcoming technical conferences.
+* [awesome-tech-ethics](https://github.com/sampart/awesome-tech-ethics) – Mitigating and avoiding the potential negative effects of technology on society.
 * [awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos) – Tech conferences from youtube, vimeo, etc for us to get inspired
 * [awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
 * [awesome-telegram](https://github.com/ebertti/awesome-telegram) – Telegram messaging service
