@@ -623,6 +623,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ama-answers](https://github.com/stoeffel/awesome-ama-answers) – @stoeffel's AMA answers
 * [awesome-amazon-alexa](https://github.com/miguelmota/awesome-amazon-alexa) – Resources for the Amazon Alexa platform.
 * [awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller) – Tools and resources for Amazon sellers.
+* [awesome-analysis](https://github.com/sbarkalov/awesome-analysis) – Tools, standards, and resources for business, systems, and product analysis.
+  - https://sbarkalov.github.io/awesome-analysis/
 * [awesome-analytics](https://github.com/oxnr/awesome-analytics) – Analytics services, frameworks, software and other tools.
 * [awesome-android](https://github.com/Jackgris/awesome-android) _In Spanish._ by @Jackgris
 * [awesome-android](https://github.com/JStumpp/awesome-android) by @JStumpp
