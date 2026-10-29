@@ -1554,6 +1554,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-weekly](https://github.com/jondot/awesome-weekly) – Quality weekly subscription newsletters from the software world.
 * [awesome-wicket](https://github.com/PhantomYdn/awesome-wicket) – [Apache Wicket](http://wicket.apache.org/) Java web framework
 * [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) – Wikipedia-related frameworks, libraries, software, datasets and references.
+* [awesome-windows](https://github.com/0PandaDEV/awesome-windows) – Consumer desktop operating system.
 * [awesome-wordpress](https://github.com/dropndot/awesome-wordpress) by @dropndot
 * [awesome-wordpress](https://github.com/endel/awesome-wordpress) by @endel
 * [awesome-wordpress](https://github.com/miziomon/awesome-wordpress) by @miziomon
