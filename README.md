@@ -563,6 +563,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-accessibility](https://github.com/GonzagaAccess/awesome-accessibility) – Utilities for accessibility-based web development
 * [awesome-acf](https://github.com/navidkashani/awesome-acf) – Add-ons for the Advanced Custom Field plugin for WordPress.
 * [awesome-actions](https://github.com/sdras/awesome-actions) – [GitHub Actions](https://github.com/features/actions)
+* [awesome-actions-on-google](https://github.com/ravirupareliya/awesome-actions-on-google) – Developer platform for Google Assistant.
 * [awesome-actionscript3](https://github.com/robinrodricks/awesome-actionscript3) – ActionScript 3 and Adobe AIR.
 * [awesome-activeadmin](https://github.com/serradura/awesome-activeadmin) – Active Admin resources, extensions, posts and utilities. *For Rails.*
 * [awesome-activitypub](https://github.com/BasixKOR/awesome-activitypub) – ActivityPub based projects
