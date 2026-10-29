@@ -600,8 +600,9 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-age](https://github.com/FiloSottile/awesome-age) – [age file encryption](https://age-encryption.org/) ecosystem.
 * [awesome-agent-bounties](https://github.com/Scottcjn/awesome-agent-bounties) – Bug bounty and grant programs which accept contributions from AI agents.
 * [awesome-agent-workspaces](https://github.com/jimy-r/awesome-agent-workspaces) – Building AI agent workspaces: durable context, memory, verification and human oversight.
-* [awesome-agentic-engineering](https://github.com/fatihkc/awesome-agentic-engineering) – Building and shipping software by directing AI coding agents across the development lifecycle.
+* [awesome-agentic-engineering](https://github.com/fatihkc/awesome-agentic-engineering) by @fatihkc – Building and shipping software by directing AI coding agents across the development lifecycle.
   - https://awesomeagenticengineering.com
+* [awesome-agentic-engineering](https://github.com/jordimas/awesome-agentic-engineering) by @jordimas – Practices and tools for software development with AI agents.
 * [awesome-agentos](https://github.com/Egv2/awesome-agentos) – Open-source frameworks and tools for agent orchestration, automation, and infrastructure.
 * [awesome-agents](https://github.com/Scottcjn/awesome-agents) – AI agents.
 * [awesome-agi-cocosci](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci) – The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
