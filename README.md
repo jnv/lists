@@ -51,6 +51,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-space](https://github.com/elburz/awesome-space) – Outer Space.
 * [awesome-space-books](https://github.com/Hunter-Github/awesome-space-books) – Space exploration related book.
 * [awesome-speaking](https://github.com/matteofigus/awesome-speaking) – Resources about public speaking
+* [awesome-steam](https://github.com/RahulBirCodes/awesome-steam) by @RahulBirCodes – Science, technology, engineering, art, and math resources for students and teachers.
+  - https://awesomesteam.org
 * [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) – Stock photography, video and illustration websites.
 * [awesome-theravada](https://github.com/johnjago/awesome-theravada) – Theravada Buddhist teachings
 * [awesome-uncopyright](https://github.com/johnjago/awesome-uncopyright) – All things public domain
