@@ -1106,6 +1106,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
 * [awesome-ld-preload](https://github.com/gaul/awesome-ld-preload) – LD_PRELOAD, a mechanism for changing application behavior at run-time.
 * [awesome-learn-datascience](https://github.com/siboehm/awesome-learn-datascience) – Resources to help you get started with Data Science
+* [awesome-learn-gamedev](https://github.com/dawdle-deer/awesome-learn-gamedev) – The craft of video game creation.
 * [awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell)
 * [awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) – Learning Resources on Web Development.
 * [awesome-ledger](https://github.com/sfischer13/awesome-ledger) – Ledger command-line accounting system
