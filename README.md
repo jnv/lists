@@ -1261,6 +1261,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
 * [awesome-power-mode](https://github.com/codeinthedark/awesome-power-mode)
 * [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell)
+* [awesome-powertoys-run-plugins](https://github.com/hlaueriksson/awesome-powertoys-run-plugins) – Community plugins for the Windows quick launcher.
+  - https://ptrun.net
 * [awesome-preact](https://github.com/preactjs/awesome-preact) – [Preact](https://github.com/preactjs/preact) JavaScript framework
 * [awesome-prisma](https://github.com/catalinmiron/awesome-prisma) – [Prisma](https://www.prisma.io/) GraphQL library
 * [awesome-privacy](https://github.com/lissy93/awesome-privacy) by @lissy93 – Privacy & security-focused software and services.
