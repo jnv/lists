@@ -602,6 +602,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-agent-workspaces](https://github.com/jimy-r/awesome-agent-workspaces) – Building AI agent workspaces: durable context, memory, verification and human oversight.
 * [awesome-agentic-engineering](https://github.com/fatihkc/awesome-agentic-engineering) – Building and shipping software by directing AI coding agents across the development lifecycle.
   - https://awesomeagenticengineering.com
+* [awesome-agentos](https://github.com/Egv2/awesome-agentos) – Open-source frameworks and tools for agent orchestration, automation, and infrastructure.
 * [awesome-agents](https://github.com/Scottcjn/awesome-agents) – AI agents.
 * [awesome-agi-cocosci](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci) – The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
 * [awesome-agile](https://github.com/lorabv/awesome-agile) – Agile Software Development.
