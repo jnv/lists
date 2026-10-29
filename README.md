@@ -1175,6 +1175,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-motherfucking-website](https://github.com/lyoshenka/awesome-motherfucking-website) – Websites about minimal web design and copious swearing.
 * [awesome-motion-design-web](https://github.com/lucasmaiaesilva/awesome-motion-design-web)
 * [awesome-motion-planning](https://github.com/AGV-IIT-KGP/awesome-motion-planning) – Papers, books and tools for motion planning.
+* [awesome-move](https://github.com/MystenLabs/awesome-move) – Move programming language projects and learning resources.
 * [awesome-mqtt](https://github.com/awesome-mqtt/awesome-mqtt) – MQTT related stuff.
 * [awesome-msr](https://github.com/dspinellis/awesome-msr) – Empirical Software Engineering: evidence-based, data-driven research on software systems
 * [awesome-music](https://github.com/noteflakes/awesome-music) – Music, audio, MIDI
