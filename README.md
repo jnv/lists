@@ -1229,6 +1229,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-logging](https://github.com/roundrobin/awesome-logging)
 * [awesome-loginless](https://github.com/fiatjaf/awesome-loginless) – Internet services that don't require logins or registrations.
 * [awesome-logseq](https://github.com/logseq/awesome-logseq) – [Logseq](https://logseq.com/) personal knowledge management.
+* [awesome-loop-engineering](https://github.com/ChaoYue0307/awesome-loop-engineering) – Resources for designing and operating recurring AI agent workflows.
+  - https://chaoyue0307.github.io/awesome-loop-engineering/
 * [awesome-love2d](https://github.com/love2d-community/awesome-love2d) – [LÖVE](http://love2d.org/) Lua game framework
 * [awesome-low-code](https://github.com/zenitysec/awesome-low-code)
 * [awesome-low-latency](https://github.com/penberg/awesome-low-latency) – Patterns and resources of low latency programming.
