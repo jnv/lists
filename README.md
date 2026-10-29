@@ -679,6 +679,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-big-o](https://github.com/okulbilisim/awesome-big-o) – Big O notation
 * [awesome-bigdata](https://github.com/oxnr/awesome-bigdata) – Big data frameworks, resources and other awesomeness.
 * [Awesome-Billing](https://github.com/kdeldycke/awesome-billing) – Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
+* [awesome-bioie](https://github.com/caufieldjh/awesome-bioie) – How to extract information from unstructured biomedical data and text.
 * [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) – Open-source bioinformatics software and libraries.
 * [awesome-biological-image-analysis](https://github.com/hallvaaw/awesome-biological-image-analysis) – Image analysis in biology.
 * [awesome-bitclout](https://github.com/davidshq-legacy/awesome-bitclout) – [BitClout](https://bitclout.com/) blockchain social network.
