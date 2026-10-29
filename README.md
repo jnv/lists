@@ -634,7 +634,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-angularjs](https://github.com/gianarb/awesome-angularjs) by @gianarb
 * [awesome-animation](https://github.com/Animatious/awesome-animation) – Open-source UI animations by Animatious Group.
 * [awesome-annual-security-reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) – Annual cybersecurity reports.
-* [awesome-ansible](https://github.com/jdauphant/awesome-ansible) – [Ansible](https://www.ansible.com/) configuration management
+* [awesome-ansible](https://github.com/ansible-community/awesome-ansible) by @ansible-community – Ansible tools, playbooks, roles, and learning resources.
+* [awesome-ansible](https://github.com/jdauphant/awesome-ansible) by @jdauphant – [Ansible](https://www.ansible.com/) configuration management
 * [awesome-answers](https://github.com/cyberglot/awesome-answers) – Inspiring and thoughtful answers given at stackoverflow, quora, etc.
 * [awesome-ant-design](https://github.com/websemantics/awesome-ant-design) – [Ant Design](https://ant.design/) system
 * [awesome-aoip](https://github.com/Mo-way/awesome-aoip) – Reliably transmit uncompressed, low-latency audio over an IP (layer 3) network.
