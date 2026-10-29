@@ -1643,6 +1643,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-tor](https://github.com/Polycarbohydrate/awesome-tor) – A free overlay network for enabling anonymous communication.
 * [awesome-torch](https://github.com/carpedm20/awesome-torch) – Tutorials, projects and communities for [Torch](http://torch.ch/), a scientific computing framework for LuaJIT.
 * [awesome-transit](https://github.com/MobilityData/awesome-transit) – Transit APIs, apps, datasets, research, and software
+* [awesome-translations](https://github.com/mbiesiad/awesome-translations) – The transfer of the meaning of a text from one language to another.
+  - https://mbiesiad.github.io/awesome-translations/
 * [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – [Ngrok](https://ngrok.com/) alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 * [awesome-twilio](https://github.com/Twilio-org/awesome-twilio) – Curated repository of useful and generally awesome Twilio tools and technologies
 * [awesome-twitter-tools](https://github.com/hridaydutta123/awesome-twitter-tools) – Twitter research: tools, libraries, papers, browser extensions, datasets, and public lists.
