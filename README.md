@@ -1614,6 +1614,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-software-factories](https://github.com/camplight/awesome-software-factories) – Software factory systems spanning intent, implementation, deployment, and maintenance.
 * [awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) – Programmers and software-related Patreon accounts.
 * [awesome-solid](https://github.com/kustomzone/awesome-solid) – [Solid](https://solidproject.org/) (social linked data) project.
+* [awesome-solidity](https://github.com/solidity-developer/awesome-solidity) – Resources for the Solidity smart contract programming language.
 * [awesome-sound](https://github.com/hwclass/awesome-sound) – Sound & audio libraries and resources.
 * [awesome-spain](https://github.com/GeiserX/awesome-spain) _In Spanish_ – Open source software for Spain including e-government, tax systems, and autonomous communities.
   - https://geiserx.github.io/awesome-spain/
