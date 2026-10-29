@@ -1455,7 +1455,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-standard](https://github.com/standard/awesome-standard) – Documenting the explosion of packages in the [standard](http://standardjs.com/) (JavaScript code style) ecosystem.
 * [awesome-stars](https://github.com/lichunqiang/awesome-stars) _In Chinese_ – Useful libraries with personal remarks.
 * [awesome-startup](https://github.com/KrishMunot/awesome-startup) – Resources to build your own startup
-* [awesome-static-generators](https://github.com/myles/awesome-static-generators) – Static web site generators.
 * [awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services)
 * [awesome-steam](https://github.com/scholtzm/awesome-steam) – Steam video games distribution platform development
 * [awesome-storybook](https://github.com/lauthieb/awesome-storybook) – [Storybook](https://storybook.js.org/) UI web development
