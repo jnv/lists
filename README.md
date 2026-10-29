@@ -729,6 +729,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) – Bitcoin services and tools for software developers.
 * [awesome-bitcoin-payment-processors](https://github.com/alexk111/awesome-bitcoin-payment-processors) – Bitcoin payment processors and stories from merchants using them.
 * [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) – Deals on Black Friday: Apps, SaaS, Books, Courses, etc. (2022)
+* [awesome-blackhat-arsenal](https://github.com/elbraino/awesome-blackhat-arsenal) – Cybersecurity tools showcased at Black Hat Arsenal events.
+  - https://elbraino.github.io/awesome-blackhat-arsenal/
 * [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) – [Blazor](https://blazor.net/), a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 * [awesome-ble](https://github.com/dotintent/awesome-ble) – Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications.
 * [awesome-blender](https://github.com/agmmnn/awesome-blender) – [Blender](https://www.blender.org/) add-ons, tools, tutorials and 3D resources.
