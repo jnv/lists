@@ -1646,6 +1646,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-vue-graphql](https://github.com/hasura/awesome-vue-graphql) – GraphQL + Vue.js
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) – [3D graphics and compute API](https://www.khronos.org/vulkan/)
 * [awesome-wagtail](https://github.com/wagtail/awesome-wagtail) – [Wagtail](https://wagtail.io/) Python CMS
+* [awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps) – Provides high situational awareness to help improve strategic planning and decision making.
+  - http://list.wardleymaps.com
 * [awesome-wasm](https://github.com/mbasso/awesome-wasm) – WebAssembly
 * [awesome-watchos](https://github.com/yenchenlin/awesome-watchos) – Apple watchOS
 * [awesome-wayland](https://github.com/natpen/awesome-wayland) – [Wayland](https://wayland.freedesktop.org/) display protocol for Linux.
