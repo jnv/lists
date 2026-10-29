@@ -935,6 +935,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-fiber](https://github.com/gofiber/awesome-fiber) – Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
 * [awesome-finger](https://github.com/reiver/awesome-finger) – Finger protocol ecosystem.
 * [awesome-firebase](https://github.com/jthegedus/awesome-firebase) – Firebase mobile development platform
+* [awesome-flame](https://github.com/flame-engine/awesome-flame) – Game engine for Flutter.
 * [awesome-flask](https://github.com/humiaozuzu/awesome-flask) by @humiaozuzu – Flask Python web framework resources and plugins.
 * [awesome-flask](https://github.com/mjhea0/awesome-flask) by @mjhea0 – Python framework.
 * [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) – CSS Flexible Box Layout Module.
