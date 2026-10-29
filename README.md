@@ -1685,6 +1685,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - http://automated-testing.info
 * [awesome-testing](https://github.com/TheJambo/awesome-testing)
   - https://git.io/v1hSm
+* [awesome-testing-tools](https://github.com/ZoranPandovski/awesome-testing-tools) – Software testing tools for automation, accessibility, performance, APIs, and security.
+  - https://awesometesting.tools/
 * [awesome-text-editing](https://github.com/dok/awesome-text-editing) – Text editing resources and libraries for the web
 * [awesome-textpattern](https://github.com/drmonkeyninja/awesome-textpattern)
 * [awesome-tf](https://github.com/shuaibiyy/awesome-tf) – HashiCorp Terraform
