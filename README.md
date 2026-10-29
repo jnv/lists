@@ -1013,6 +1013,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-faststream](https://github.com/lesnik512/awesome-faststream) – Libraries, tools, templates, and resources for the FastStream Python framework.
 * [awesome-feathersjs](https://github.com/feathersjs/awesome-feathersjs) – [Feathers](https://feathersjs.com/) Node.js framework for real-time applications REST APIs.
 * [awesome-feature-flag-management](https://github.com/andrewdmaclean/awesome-feature-flag-management) – Features flagging & management.
+* [awesome-feature-flags](https://github.com/tech-and-finance/awesome-feature-flags) – Feature flag tools, SDKs, services, and progressive delivery resources.
 * [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) – Federated Learning (FL) is a new machine learning framework, which enables multiple devices collaboratively to train a shared model without compromising data privacy and security.
 * [awesome-fediverse](https://github.com/emilebosch/awesome-fediverse) – [Fediverse](https://en.wikipedia.org/wiki/Fediverse) resources.
 * [awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg)
