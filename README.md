@@ -1361,6 +1361,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) – Prometheus alerting rules
   - https://samber.github.io/awesome-prometheus-alerts
 * [awesome-promises](https://github.com/wbinnssmith/awesome-promises) – JavaScript Promises.
+* [awesome-prompt-injection](https://github.com/Joe-B-Security/awesome-prompt-injection) – A type of vulnerability that specifically targets machine learning models.
 * [Awesome_Prompting_Papers_in_Computer_Vision](https://github.com/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision) – Prompt-based papers in computer vision and vision-language learning.
 * [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) by @awesomedata – (Large-scale) public datasets on the Internet.
   - [source data](https://github.com/awesomedata/apd-core)
