@@ -1701,6 +1701,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-swift-and-tutorial-resources](https://github.com/MaxChen/awesome-swift-and-tutorial-resources)
 * [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education)
 * [Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) – Swift Playgrounds
+* [awesome-symbian](https://github.com/hstsethi/awesome-symbian) – Symbian OS documentation, development tools, emulators, apps, and communities.
 * [awesome-symfony](https://github.com/sitepoint-editors/awesome-symfony) – [Symfony PHP framework](http://symfony.com/) bundles, utilities and resources.
 * [awesome-symfony-education](https://github.com/pehapkari/awesome-symfony-education)
 * [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) by @awesome-foss – Open source sysadmin resources.
