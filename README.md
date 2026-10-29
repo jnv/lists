@@ -1528,6 +1528,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-uxn](https://github.com/hundredrabbits/awesome-uxn) – The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playground, created to host small tools and games, programmable in its own unique assembly language.
 * [awesome-v](https://github.com/vlang/awesome-v) – [V](https://vlang.io/) programming language
 * [awesome-vagrant](https://github.com/iJackUA/awesome-vagrant)
+* [awesome-vala](https://github.com/vala-lang/awesome-vala) – Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
 * [awesome-vanilla-js](https://github.com/davidhund/awesome-vanilla-js) – Plain—‘Vanilla’—JavaScript
 * [awesome-vapor](https://github.com/vapor-community/awesome-vapor) – [Vapor](https://vapor.codes/) Swift web framework
 * [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) – Implementations of the [Mapbox Vector Tile](https://docs.mapbox.com/data/tilesets/guides/vector-tiles-standards/) specification.
