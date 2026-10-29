@@ -1447,6 +1447,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-quantified-self](https://github.com/woop/awesome-quantified-self) – Devices, Wearables, Applications, and Platforms for Self Tracking
 * [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) – Quantum computing learning and developing resources.
 * [awesome-quarantine](https://github.com/ishamsu/awesome-quarantine)
+* [awesome-quarto](https://github.com/mcanouil/awesome-quarto) – Scientific and technical open-source publishing system built on Pandoc.
 * [awesome-R](https://github.com/qinwf/awesome-R)
 * [awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources) – Resources for learning the R programming language.
 * [awesome-radio](https://github.com/kyleterry/awesome-radio) – Radio and citizens band (CB) radio resources.
