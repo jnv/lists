@@ -1020,6 +1020,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-gulp](https://github.com/alferov/awesome-gulp) – [Gulp](http://gulpjs.com/) build system resources and plugins.
 * [awesome-gyazo](https://github.com/gyazo/awesome-gyazo) – Tools for [Gyazo](https://gyazo.com/) screen capture application.
 * [awesome-h2o](https://github.com/h2oai/awesome-h2o) – H2O Machine Learning
+* [awesome-hackathon](https://github.com/dribdat/awesome-hackathon) – Platforms, tools, and guides for hackathon organizers.
+  - https://open-awesome.com/awesome/hackathon
 * [awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) – Search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty.
 * [awesome-hacking](https://github.com/carpedm20/awesome-hacking)
 * [awesome-hacktoberfest-2026](https://github.com/Piyushhbhutoria/awesome-hacktoberfest-2026) – [Hacktoberfest](https://hacktoberfest.digitalocean.com/)-friendly repositories and resources.
