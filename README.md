@@ -1491,6 +1491,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-python-in-education](https://github.com/quobit/awesome-python-in-education)
 * [awesome-python-math-packages](https://github.com/VascoSch92/awesome-python-math-packages) – Python packages for mathematics.
 * [awesome-python-models](https://github.com/grundic/awesome-python-models) – List of ORMs, models, schemas, serializers, etc. libraries  for python.
+* [awesome-python-rs](https://github.com/ritwiktiwari/awesome-python-rs) – Python tools, libraries, and frameworks powered by Rust.
 * [awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) – Python software and packages related to scientific research in audio
 * [awesome-python-talks](https://github.com/jhermann/awesome-python-talks) – Videos related to Python, with a focus on training and gaining hands-on experience.
 * [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) – Python types, stubs, plugins, and tools to work with them.
