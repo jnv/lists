@@ -1493,7 +1493,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-twilio](https://github.com/Twilio-org/awesome-twilio) – Curated repository of useful and generally awesome Twilio tools and technologies
 * [awesome-twitter-tools](https://github.com/hridaydutta123/awesome-twitter-tools) – Twitter research: tools, libraries, papers, browser extensions, datasets, and public lists.
 * [AwesomeTwitterAccounts](https://github.com/yask123/AwesomeTwitterAccounts) – Twitter accounts, organised by programming communities.
-* [awesome-typesafe-jev](https://github.com/AbdelStark/awesome-typesafe-jev) – Resources for TypeSafe's Jev model, including SDKs, integrations, demos, and independent projects.
+* [awesome-typesafe-jev](https://github.com/AbdelStark/awesome-typesafe-jev) – Resources for [TypeSafe](https://typesafe.ai/)'s Jev model, including SDKs, integrations, demos, and independent projects.
   - https://abdelstark.github.io/awesome-typesafe-jev/
 * [awesome-typescript](https://github.com/dzharii/awesome-typescript) by @dzharii – TypeScript programming language
 * [awesome-typescript](https://github.com/ellerbrock/awesome-typescript) by @ellerbrock
