@@ -1185,6 +1185,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-latam](https://github.com/gophers-latam/awesome-latam) _In Spanish_ – Recursos en Español para desarrolladores de Golang.
   - https://gophers-latam.github.io/
 * [awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
+* [awesome-lazycat-microserver](https://github.com/mxuexxmy/awesome-lazycat-microserver) – Resources for the LazyCat Microserver private cloud appliance.
 * [awesome-ld-preload](https://github.com/gaul/awesome-ld-preload) – LD_PRELOAD, a mechanism for changing application behavior at run-time.
 * [awesome-learn-datascience](https://github.com/siboehm/awesome-learn-datascience)
 * [awesome-learn-gamedev](https://github.com/dawdle-deer/awesome-learn-gamedev) – The craft of video game creation.
