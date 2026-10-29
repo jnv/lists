@@ -1696,6 +1696,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) – Getting started with web archiving
 * [awesome-web-design](https://github.com/nicolesaidy/awesome-web-design) – Resources for digital designers.
 * [awesome-web-effect](https://github.com/lindelof/awesome-web-effect) – Exquisite and compact web page effects.
+* [awesome-web-monetization](https://github.com/thomasbnt/awesome-web-monetization) – A free open web standard service that allows you to send money directly in your browser.
+  - https://awesomewebmonetization.netlify.app
 * [awesome-web-performance-budget](https://github.com/pajaydev/awesome-web-performance-budget)
 * [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) – tools and programming libraries related to web scraping and data processing
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
