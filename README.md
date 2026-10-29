@@ -714,6 +714,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-chef](https://github.com/obazoud/awesome-chef) – Cookbooks, handlers, add-ons and other resources for Chef, a configuration management tool.
 * [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) – Chemical informatics
 * [awesome-chess](https://github.com/hkirat/awesome-chess) – Chess software, libraries, and resources
+* [awesome-chip-8](https://github.com/tobiasvl/awesome-chip-8) – Virtual computer game machine from the 70s.
+  - https://chip-8.github.io/links/
 * [awesome-choo](https://github.com/choojs/awesome-choo) – [choo](https://choo.io/) web framework
 * [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) – Chrome DevTools ecosystem tooling and resources.
 * [awesome-ci](https://github.com/ligurio/awesome-ci) by @ligurio – Comparison of cloud based CI services.
