@@ -788,6 +788,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-conversational-ai](https://github.com/jyguyomarch/awesome-conversational-ai) – Build awesome chatbots and digital assistants.
 * [awesome-coq](https://github.com/rocq-community/awesome-coq) – Coq libraries, plugins, tools, verification projects, and learning resources.
   - https://rocq-community.org/awesome-coq
+* [awesome-corda](https://github.com/chainstacklabs/awesome-corda) – Open source Blockchain platform designed for business.
 * [awesome-cordova](https://github.com/busterc/awesome-cordova) _Apache Cordova / PhoneGap_
 * [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) – Models for Core ML (for iOS 11+)
 * [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) – Projects and resources related to SARS-CoV-2 and COVID-19.
