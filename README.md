@@ -1463,6 +1463,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-roslyn](https://github.com/ironcev/awesome-roslyn) – Roslyn .NET Compiler Platform
 * [awesome-rshiny](https://github.com/grabear/awesome-rshiny) – A curated list of resources for the R shiny package.
   - https://grabear.github.io/awesome-rshiny/
+* [awesome-rtc](https://github.com/rtckit/awesome-rtc) – Network protocols for near simultaneous exchange of media and data.
 * [awesome-ruby](https://github.com/markets/awesome-ruby) by @markets
   - http://awesome-ruby.com/
 * [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby) by @Sdogruyol
