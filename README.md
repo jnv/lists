@@ -25,6 +25,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [amas](https://github.com/sindresorhus/amas) – Awesome & Marvelous Amas (Ask Me Anything) on GitHub
 * [Annual-Reading-List](https://github.com/davidskeck/Annual-Reading-List) – Things to read every year.
 * [awesome-animal-care](https://github.com/omkar-foss/awesome-animal-care) – Caring for dogs, cats, fishes, horses, parrots, and others.
+* [awesome-astrophotography](https://github.com/lunohodov/awesome-astrophotography) – Photography of astronomical objects, celestial events, or areas of the night sky.
 * [awesomebandnames](https://github.com/jnv/awesomebandnames) – The open-source list of awesome band names.
 * [awesome-belarus-online](https://github.com/Friz-zy/awesome-belarus-online) – Useful belarusian online resources.
 * [awesome-biology](https://github.com/raivivek/awesome-biology) – Learning resources, research papers, tools and other resources related to Biology.
