@@ -1468,6 +1468,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - http://www.awesome-react-native.com
 * [awesome-react-state-management](https://github.com/olegrjumin/awesome-react-state-management)
 * [awesome-react-state-management-tools](https://github.com/cs01/awesome-react-state-management-tools)
+* [awesome-read-the-docs](https://github.com/readthedocs-examples/awesome-read-the-docs) – Example [Read the Docs](https://about.readthedocs.com/) documentation projects.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme) – READMEs examples and best practices
 * [awesome-reasonml](https://github.com/vramana/awesome-reasonml) – [ReasonML](https://reasonml.github.io/), [BuckleScript](https://bucklescript.github.io/) and [OCaml](https://ocaml.org/) programming languages.
 * [awesome-recommender-system](https://github.com/Geek4IT/awesome-recommender-system) – Recommender System frameworks, libraries and software.
