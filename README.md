@@ -1039,6 +1039,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-github](https://github.com/Kikobeats/awesome-github) by @Kikobeats – GitHub secrets and goodies.
 * [awesome-github](https://github.com/phillipadsmith/awesome-github) by @phillipadsmith – GitHub's awesomeness
 * [awesome-github-repo](https://github.com/flyhigher139/awesome-github-repo) – GitHub repositories; various topics like study materials, Raspberry Pi etc.
+* [awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) – Projects using GitHub Wikis for documentation.
 * [awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) – Gnome Desktop Environment.
 * [awesome-go](https://github.com/avelino/awesome-go) by @avelino – Golang
   - http://awesome-go.com/
