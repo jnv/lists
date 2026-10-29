@@ -1267,6 +1267,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) by @rShetty – Important Podcasts for software engineers.
 * [awesome-pokemon](https://github.com/tobiasbueschel/awesome-pokemon) – Pokémon & Pokémon Go
 * [awesome-polymer](https://github.com/Granze/awesome-polymer) – [Polymer Project](https://www.polymer-project.org/)
+* [awesome-ponyfills](https://github.com/Richienb/awesome-ponyfills) – Like polyfills but without overriding native APIs.
 * [awesome-postcss](https://github.com/jdrgoms/awesome-postcss) – [PostCSS](https://postcss.org/) CSS processor
 * [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
 * [awesome-power-mode](https://github.com/codeinthedark/awesome-power-mode)
