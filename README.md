@@ -50,6 +50,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://awesome-japanese.japantv.app/
 * [awesome-kimchi](https://github.com/jeyraof/awesome-kimchi) – Kimchi of the people, by the people, for the people.
 * [awesome-lego](https://github.com/ad-si/awesome-lego)
+* [awesome-living-in-korea](https://github.com/seoulstart/awesome-living-in-korea) – Government portals, services, and guides for foreign residents in South Korea.
 * [awesome-lockpicking](https://github.com/fabacab/awesome-lockpicking) – Guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
 * [awesome-lucid-dreams](https://github.com/IAmCoder/awesome-lucid-dreams) – Lucid dreaming research, guides, communities, and tools.
 * [awesome-maps](https://github.com/simsieg/awesome-maps)
