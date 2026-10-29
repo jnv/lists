@@ -1308,6 +1308,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-pagespeed-metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) – Metrics to help understand page speed and user experience.
 * [awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal) – Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things.
 * [awesome-password-cracking](https://github.com/n0kovo/awesome-password-cracking) – Password cracking and password security.
+* [awesome-payload](https://github.com/DanailMinchev/awesome-payload) – [Payload CMS](https://payloadcms.com) resources for users and developers.
 * [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) – Tools to process network traces.
 * [awesome-pdm](https://github.com/pdm-project/awesome-pdm) – [PDM](https://pdm.fming.dev/) Python package manager.
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest) – Penetration testing resources and tools.
