@@ -1251,6 +1251,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-perl](https://github.com/hachiojipm/awesome-perl)
 * [awesome-persian](https://github.com/fffaraz/awesome-persian) – Persian/Farsi supporting tools, fonts, and development resources.
 * [awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) – Personal tech blogs.
+* [awesome-pest](https://github.com/pest-parser/awesome-pest) – [pest](https://pest.rs) parser generator for Rust.
 * [awesome-phalcon](https://github.com/phalcon/awesome-phalcon) – [Phalcon](https://phalconphp.com/en/) PHP framework libraries and resources.
 * [awesome-pharo](https://github.com/pharo-open-documentation/awesome-pharo) – [Pharo](https://pharo.org/) Smalltalk
 * [awesome-pharo-ml](https://github.com/pharo-ai/awesome-pharo-ml) – Machine learning, AI, data science in Pharo.
