@@ -1277,7 +1277,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://awesome-privacy.xyz
 * [awesome-privacy](https://github.com/pluja/awesome-privacy) by @pluja – Services and alternatives that respect your privacy because PRIVACY MATTERS.
 * [awesome-product-design](https://github.com/ttt30ga/awesome-product-design) by @ttt30ga – Bookmarks, resources, articles for product designers.
-* [awesome-product-design](https://github.com/ttt30ga/awesome-product-design) by @ttt30ga – Resources for product designers.
 * [awesome-product-hunt](https://github.com/fmerian/awesome-product-hunt) – Developer tools launched on Product Hunt.
 * [awesome-product-management](https://github.com/dend/awesome-product-management) by @dend – Resources for product/program managers to learn and grow.
 * [Awesome-Product-Management](https://github.com/prakashsellathurai/Awesome-Product-Management) by @prakashsellathurai
@@ -1419,7 +1418,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv) – Smart TV apps
 * [awesome-smithy](https://github.com/smithy-lang/awesome-smithy) – Build-tools, code-generators, examples, and other resources related to the [Smithy IDL](https://smithy.io/).
 * [awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) by @mehdihadeli – Software architecture, patterns, and principles in .NET platform.
-* [awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) by @mehdihadeli – Software architecture, patterns, and principles.
 * [awesome-software-architecture](https://github.com/simonaronsson/awesome-software-architecture) by @simonaronsson – Design, reason around and build software using architectural patterns and methods
 * [awesome-software-craftsmanship](https://github.com/fmbenhassine/awesome-software-craftsmanship) – [Software craftsmanship](http://manifesto.softwarecraftsmanship.org/) resources to help learn the craft.
 * [awesome-software-factories](https://github.com/camplight/awesome-software-factories) – Software factory systems spanning intent, implementation, deployment, and maintenance.
@@ -1574,7 +1572,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-workshopper](https://github.com/therebelrobot/awesome-workshopper)
 * [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) – Web Performance Optimization
 * [awesome-xamarin](https://github.com/XamSome/awesome-xamarin) by @XamSome – [Xamarin](https://visualstudio.microsoft.com/xamarin/) mobile application framework
-* [awesome-xamarin](https://github.com/XamSome/awesome-xamarin) by @XamSome – Interesting libraries/tools for Xamarin mobile projects
 * [awesome-xcode-plugin](https://github.com/aashishtamsya/awesome-xcode-scripts) – XCode IDE scripts
 * [awesome-xmpp](https://github.com/bluszcz/awesome-xmpp) – Curated list of awesome XMPP protocol resources.
 * [awesome-yamada](https://github.com/supermomonga/awesome-yamada) – Dancing yamada
@@ -1591,8 +1588,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [craftcms/awesome](https://github.com/craftcms/awesome) – [Craft CMS](https://craftcms.com/)
 * [not-awesome-es6-classes](https://github.com/petsel/not-awesome-es6-classes) – Why ES6 (aka ES2015) classes are NOT awesome
   - https://matthias-endler.de/awesome-static-analysis/
-* [open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) – Open technology projects sustaining stable climate, energy supply and vital natural resources.
-  - https://opensustain.tech/
 * [prompts.chat](https://github.com/f/prompts.chat) – [ChatGPT](https://chat.openai.com/) prompt examples.
 * [sqa-wiki](https://github.com/ligurio/sqa-wiki) – Free software testing books.
 * [wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) _In Chinese_ – WeChat mini-programs development
@@ -1603,7 +1598,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [academics-on-mastodon](https://github.com/nathanlesage/academics-on-mastodon) – A list of various lists consisting of academics on Mastodon.
 * [awesome](https://github.com/sindresorhus/awesome) – A curated list of awesome lists.
 * [awesome-all](https://github.com/bradoyler/awesome-all) – A curated list of awesome lists of awesome frameworks, libraries and software
-* [awesome-android-awesomeness](https://github.com/yongjhih/awesome-android-awesomeness)
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome) by @emijrp – A curated list of awesome curated lists of many topics.
 * [awesome-awesome](https://github.com/erichs/awesome-awesome) by @erichs – A curated list of awesome curated lists! Inspired by inspiration.
 * [awesome-awesome](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen – A curated list of curated lists of libraries, resources and shiny things for various languages.
@@ -1613,7 +1607,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) – Awesome collection of awesome lists of libraries, tools, frameworks and software for any programming language
 * [awesome-collection](https://github.com/flyhigher139/awesome-collection) – A list of awesome repos.
 * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) – Lists for hackers, pentesters and security researchers.
-* [awesome-lists](https://github.com/cuuupid/awesome-lists) by @cuuupid – A curated list of curated lists.
 * [awesome-lists](https://github.com/cuuupid/awesome-lists) by @cuuupid – A curated list for your curated lists, including other curated lists of curated lists that may or may not contain other curated lists.
 * [awesome-lists](https://github.com/szabgab/awesome-lists) by @szabgab – Another curated list of curated lists.
 * [curated-lists](https://github.com/linsa-io/curated-lists)
