@@ -1427,6 +1427,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-software-quality](https://github.com/ligurio/awesome-software-quality) – Free software testing books.
 * [awesome-solid](https://github.com/kustomzone/awesome-solid) – [Solid](https://solidproject.org/) (social linked data) project.
 * [awesome-sound](https://github.com/hwclass/awesome-sound) – Sound & audio libraries and resources.
+* [awesome-spain](https://github.com/GeiserX/awesome-spain) _In Spanish_ – Open source software for Spain including e-government, tax systems, and autonomous communities.
+  - https://geiserx.github.io/awesome-spain/
 * [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp) – Linguistic Resources for doing NLP & CL on Spanish
 * [awesome-spark](https://github.com/awesome-spark/awesome-spark) – Apache Spark packages and resources.
 * [awesome-speakers](https://github.com/karlhorky/awesome-speakers) – Speakers in the programming and design communities
