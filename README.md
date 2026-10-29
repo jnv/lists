@@ -1409,6 +1409,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-sdn](https://github.com/sdnds-tw/awesome-sdn) – Software Defined Network (SDN)
 * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) – Security talks.
 * [awesome-security](https://github.com/sbilly/awesome-security) – Software, libraries, documents, books, resources and cool stuff about security.
+* [awesome-seed-rs](https://github.com/seed-rs/awesome-seed-rs) – Rust framework for creating web apps running in WebAssembly.
 * [awesome-selenium](https://github.com/christian-bromann/awesome-selenium)
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) – Network services and web applications which can be hosted locally.
 * [awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) – Semantic web and linked data
