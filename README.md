@@ -1152,6 +1152,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-MATLAB](https://github.com/mikecroucher/awesome-MATLAB)
 * [awesome-matrix](https://github.com/jryans/awesome-matrix) by @jryans – [matrix.org](https://matrix.org/) ecosystem.
 * [awesome-matrix](https://github.com/rodolpheh/awesome-matrix) by @rodolpheh – [matrix.org](https://matrix.org/) ecosystem.
+* [awesome-mdbootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap) – [MDBootstrap](https://mdbootstrap.com/) templates, layouts, components, and widgets for building websites.
 * [awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) – Mechanical Keyboards
   - https://keebfol.io
 * [awesome-media-archive](https://github.com/louiscenter/awesome-media-archive) – Open source tools for archiving audio & video data for offline usage.
