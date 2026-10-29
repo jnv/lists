@@ -938,6 +938,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://geiserx.github.io/awesome-europe/
 * [awesome-evidence-synthesis](https://github.com/evidencesynthesis-tools/awesome-evidence-synthesis) – Systematic reviews, meta-analysis, and evidence synthesis.
   - https://evidencesynthesis-tools.github.io/
+* [awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) – Executable packing tools, research, and resources.
 * [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) – Falsehoods programmers believe in.
 * [awesome-fantasy](https://github.com/r7kamura/awesome-fantasy) – FinalFantasy-ish metaphors in software.
 * [awesome-fast-check](https://github.com/dubzzz/awesome-fast-check) – [fast-check](https://github.com/dubzzz/fast-check/) property based testing framework for JavaScript/TypeScript
