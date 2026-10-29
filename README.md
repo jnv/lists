@@ -762,7 +762,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython) – [CircuitPython](https://circuitpython.org/) microcontrollers programming language
 * [awesome-cl](https://github.com/CodyReichert/awesome-cl) – Common Lisp
 * [awesome-cl-software](https://github.com/azzamsa/awesome-cl-software) – Applications built with Common Lisp
-* [awesome-claude-code](https://github.com/erkcet/awesome-claude-code) – Claude Code tools, configuration patterns, hooks, MCP integrations, and workflows.
+* [awesome-claude-code](https://github.com/erkcet/awesome-claude-code) by @erkcet – Claude Code tools, configuration patterns, hooks, MCP integrations, and workflows.
+* [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) by @hesreallyhim – Terminal-based AI coding assistant by Anthropic.
 * [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) – Command line apps
 * [awesome-clojure](https://github.com/mbuczko/awesome-clojure) by @mbuczko – Useful links for clojurians
 * [awesome-clojure](https://github.com/razum2um/awesome-clojure) by @razum2um
