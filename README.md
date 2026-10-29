@@ -1370,6 +1370,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-openbudget](https://github.com/infoculture/awesome-openbudget) _In Russian_ – Open Budget government spending visualization.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) – OpenGL libraries, debuggers and resources.
 * [awesome-openid-connect](https://github.com/cerberauth/awesome-openid-connect) – [OpenID Connect](https://openid.net), an identity standard and authentication protocol built on OAuth 2.0.
+* [awesome-opensource](https://github.com/hadez8877/awesome-opensource) – Open-source applications and developer tools.
 * [awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) – Open-source AI models, libraries, infrastructure, and developer tools.
   - https://awesomeosai.com/
 * [awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)
