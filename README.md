@@ -625,6 +625,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-apple](https://github.com/joeljfischer/awesome-apple) – 3rd party libraries and tools for Apple platforms development.
 * [awesome-appsec](https://github.com/paragonie/awesome-appsec) – Resources for developers to learn application security.
 * [awesome-arabic](https://github.com/OthmanAba/awesome-arabic) – Arabic supporting tools, fonts, and development resources.
+* [awesome-arcgis-developers](https://github.com/Esri/awesome-arcgis-developers) – Mapping and location analysis platform for developers.
 * [Awesome-Arch](https://github.com/PandaFoss/Awesome-Arch) – Linux distributions and projects based on Arch Linux.
   - https://awesome-arch.netlify.app
 * [Awesome-arduino](https://github.com/Lembed/Awesome-arduino) – Arduino hardwares, libraries and softwares with update script
