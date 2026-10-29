@@ -1114,6 +1114,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://open-awesome.com/awesome/hackathon
 * [awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) – Search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty.
 * [awesome-hacking](https://github.com/carpedm20/awesome-hacking)
+* [awesome-hacking-training](https://github.com/Smithech/awesome-hacking-training) – Platforms and resources for practicing cybersecurity skills in legal environments.
 * [awesome-hacktoberfest-2026](https://github.com/Piyushhbhutoria/awesome-hacktoberfest-2026) – [Hacktoberfest](https://hacktoberfest.digitalocean.com/)-friendly repositories and resources.
 * [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop)
 * [awesome-hands-on-neuroscience](https://github.com/cYoren/awesome-hands-on-neuroscience) – Tutorials, tools, datasets, and code for computational and cognitive neuroscience.
