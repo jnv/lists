@@ -732,6 +732,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ci](https://github.com/pditommaso/awesome-ci) by @pditommaso – Continuous integation services.
 * [awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) – Continuous Integration and Continuous Delivery
   - http://www.ciandcd.com/
+* [awesome-cicd-attacks](https://github.com/TupleType/awesome-cicd-attacks) – Offensive research of systems and processes related to developing and deploying code.
 * [awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython) – [CircuitPython](https://circuitpython.org/) microcontrollers programming language
 * [awesome-cl](https://github.com/CodyReichert/awesome-cl) – Common Lisp
 * [awesome-cl-software](https://github.com/azzamsa/awesome-cl-software) – Applications built with Common Lisp
