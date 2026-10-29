@@ -1688,6 +1688,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) – [TensorFlow](https://www.tensorflow.org/)
 * [awesome-tensorflow-js](https://github.com/aaronhma/awesome-tensorflow-js) – [TensorFlow.js](https://www.tensorflow.org/js/), a JavaScript library for training and deploying machine learning models.
 * [awesome-tensorflow-lite](https://github.com/margaretmz/awesome-tensorflow-lite) – Framework that optimizes TensorFlow models for on-device machine learning.
+* [awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance) – Compliance, security, and governance tools for Terraform and OpenTofu.
 * [awesome-test-automation](https://github.com/atinfo/awesome-test-automation)
   - http://automated-testing.info
 * [awesome-testing](https://github.com/TheJambo/awesome-testing)
