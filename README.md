@@ -1039,6 +1039,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) – Podcasts we like to listen to.
   - http://ayr-ton.github.io/awesome-geek-podcasts
 * [awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) – [Gemini protocol](https://gemini.circumlunar.space/)
+* [awesome-gemini-cli](https://github.com/Piebald-AI/awesome-gemini-cli) – Terminal-based AI coding assistant by Google.
 * [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) – Automatically generates a wide range of unique content in text, image, and audio format.
 * [awesome-genkit](https://github.com/xavidop/awesome-genkit) – [Genkit](https://genkit.dev/), an open-source framework for building AI-powered apps and features.
 * [awesome-geojson](https://github.com/tmcw/awesome-geojson) – GeoJSON
