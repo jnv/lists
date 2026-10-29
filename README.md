@@ -1421,6 +1421,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-password-cracking](https://github.com/n0kovo/awesome-password-cracking) – Password cracking and password security.
 * [awesome-payload](https://github.com/DanailMinchev/awesome-payload) – [Payload CMS](https://payloadcms.com) resources for users and developers.
 * [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) – Tools to process network traces.
+* [awesome-pdf](https://github.com/OneOffTech/awesome-pdf) – Libraries, services, and resources for working with PDF files.
+  - https://oneofftech.xyz/blog/awesome-pdf/
 * [awesome-pdm](https://github.com/pdm-project/awesome-pdm) – [PDM](https://pdm.fming.dev/) Python package manager.
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest) – Penetration testing resources and tools.
 * [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) – Penetration testing
