@@ -1525,6 +1525,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-text-editing](https://github.com/dok/awesome-text-editing) – Text editing resources and libraries for the web
 * [awesome-textpattern](https://github.com/drmonkeyninja/awesome-textpattern) – Textpattern plugins and resources
 * [awesome-tf](https://github.com/shuaibiyy/awesome-tf) – HashiCorp Terraform
+* [awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) – The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 * [awesome-tikz](https://github.com/xiaohanyu/awesome-tikz) – [TikZ](https://pgf-tikz.github.io/) graph drawing package for TeX/LaTeX/ConTeXt
 * [awesome-tinkerpop](https://github.com/mohataher/awesome-tinkerpop) – [Apache TinkerPop](http://tinkerpop.apache.org/) graph computing framework
 * [awesome-tiny-js](https://github.com/thoughtspile/awesome-tiny-js) – Frontend libraries that fit into 2 kB with dependencies.
