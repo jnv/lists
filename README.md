@@ -1080,6 +1080,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-kr-foss](https://github.com/darjeeling/awesome-kr-foss) – Korean open source projects.
 * [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
   - https://ramitsurana.github.io/awesome-kubernetes
+* [awesome-kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize) – Kubernetes native declarative configuration management tool.
 * [awesome-landing-page](https://github.com/nordicgiant2/awesome-landing-page) – Landing pages templates
 * [awesome-langchain](https://github.com/kyrolabs/awesome-langchain) – [LangChain](https://langchain.com/) LLM applications framework.
 * [awesome-laravel](https://github.com/chiraggude/awesome-laravel) by @chiraggude
