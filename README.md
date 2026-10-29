@@ -45,6 +45,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-hacking-locations](https://github.com/daviddias/awesome-hacking-locations) – Hacking places, organised by Country and City, listing if it features power and wifi.
 * [awesome-health](https://github.com/prabhic/awesome-health)
 * [awesome-images](https://github.com/heyalexej/awesome-images) – Free (stock) photo resources for your projects.
+* [awesome-japanese](https://github.com/yudataguy/awesome-japanese) – Japanese language learning resources.
+  - https://awesome-japanese.japantv.app/
 * [awesome-kimchi](https://github.com/jeyraof/awesome-kimchi) – Kimchi of the people, by the people, for the people.
 * [awesome-lego](https://github.com/ad-si/awesome-lego)
 * [awesome-lockpicking](https://github.com/fabacab/awesome-lockpicking) – Guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
