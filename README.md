@@ -968,6 +968,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips) – .NET, software architecture, microservice and cloud-native.
 * [awesome-draft-js](https://github.com/nikgraf/awesome-draft-js) – [Draft.js](https://draftjs.org/) text editor framework
 * [awesome-dropwizard](https://github.com/stve/awesome-dropwizard) – [Dropwizard](https://www.dropwizard.io/) Java web framework
+* [awesome-drug-discovery](https://github.com/yboulaamane/awesome-drug-discovery) – Computational tools, datasets, and methods for drug discovery.
 * [awesome-drupal](https://github.com/emincansumer/awesome-drupal) by @emincansumer
 * [awesome-drupal](https://github.com/mrsinguyen/awesome-drupal) by @mrsinguyen
 * [awesome-drupal](https://github.com/nirgn975/awesome-drupal) by @nirgn975
