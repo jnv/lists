@@ -908,6 +908,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-emacs](https://github.com/sefakilic/awesome-emacs) by @sefakilic
 * [awesome-emacs](https://github.com/tacticiankerala/awesome-emacs) by @tacticiankerala
 * [awesome-emails](https://github.com/jonathandion/awesome-emails) – Build better emails.
+* [awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) – Embedded and IoT Security resources.
 * [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) – Embedded and Low-level development in the Rust programming language
 * [awesome-embedded-security](https://github.com/hexsecs/awesome-embedded-security)
 * [awesome-ember](https://github.com/ember-community-russia/awesome-ember) by @ember-community-russia – [Ember.js](https://emberjs.com/) JavaScript framework
