@@ -903,6 +903,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-embedded-security](https://github.com/hexsecs/awesome-embedded-security)
 * [awesome-ember](https://github.com/ember-community-russia/awesome-ember) by @ember-community-russia – [Ember.js](https://emberjs.com/) JavaScript framework
 * [awesome-ember](https://github.com/nmec/awesome-ember) by @nmec – Ember.js things.
+* [Awesome-Embodied-AI-Safety](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) – Survey of papers about safety in embodied AI.
+  - https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/
 * [awesome-endless-codeforall-list](https://github.com/RobTranquillo/awesome-endless-codeforall-list) – Every tool that civic hackers worldwide use to work.
 * [awesome-engineer-onboarding](https://github.com/posquit0/awesome-engineer-onboarding)
 * [awesome-engineering-ladders](https://github.com/posquit0/awesome-engineering-ladders)
