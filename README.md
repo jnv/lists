@@ -1534,6 +1534,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-vala](https://github.com/vala-lang/awesome-vala) – Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
 * [awesome-vanilla-js](https://github.com/davidhund/awesome-vanilla-js) – Plain—‘Vanilla’—JavaScript
 * [awesome-vapor](https://github.com/vapor-community/awesome-vapor) – [Vapor](https://vapor.codes/) Swift web framework
+* [awesome-vba](https://github.com/sancarn/awesome-vba) – An event-driven version of Visual Basic 6.0 built into most Microsoft Office apps for automation and scripting.
 * [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) – Implementations of the [Mapbox Vector Tile](https://docs.mapbox.com/data/tilesets/guides/vector-tiles-standards/) specification.
 * [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) – Vehicle security and car hacking
 * [awesome-vhdl](https://github.com/VHDL/awesome-vhdl) – VHDL hardware description language
