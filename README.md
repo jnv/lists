@@ -585,6 +585,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome](https://github.com/nuxt/awesome) – Resources for [Nuxt.js](https://nuxtjs.org/), framework for universal Vue.js applications.
 * [awesome-11ty-buildawesome](https://github.com/buildawesome-one/awesome-11ty-buildawesome) – [Eleventy (11ty)](https://www.11ty.dev/) static site generator.
 * [awesome-2048-and-beyond](https://github.com/cstrap/awesome-2048-and-beyond) – Waste and lose at least 8 hours of your life… then **multiply** it…
+* [awesome-3d-drawing](https://github.com/n1ckfg/awesome-3d-drawing) – Tools and research for drawing, art, and animation in extended reality.
 * [awesome4girls](https://github.com/cristianoliveira/awesome4girls) – Inclusive events/projects/initiatives for women in the tech area.
 * [awesome-a11y](https://github.com/brunopulis/awesome-a11y) – Accesibility tools, articles and resources.
 * [awesome-a2a-libraries](https://github.com/nMaroulis/awesome-a2a-libraries) – [Agent2Agent (A2A) protocol](https://a2a-protocol.org/) libraries and SDKs.
