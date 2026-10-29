@@ -1203,6 +1203,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-masonite](https://github.com/vaibhavmule/awesome-masonite) – [Masonite](https://docs.masoniteproject.com/) Python web framework
 * [awesome-master-css](https://github.com/master-co/awesome-master-css) – [Master CSS](https://css.master.co), a virtual CSS language with enhanced syntax.
 * [awesome-mastodon](https://github.com/hueyy/awesome-mastodon) by @hueyy – [Mastodon](https://joinmastodon.org/) social media platform.
+* [awesome-mastodon](https://github.com/hyperupcall/awesome-mastodon) by @hyperupcall – Open source decentralized microblogging network.
 * [awesome-mastodon](https://github.com/tleb/awesome-mastodon) by @tleb – [Mastodon](https://joinmastodon.org/) decentralized microblogging network
 * [awesome-material](https://github.com/sachin1092/awesome-material) – Google's material design
 * [awesome-material-ui](https://github.com/nadunindunil/awesome-material-ui) – [Material-UI](https://material-ui.com/) components, tools, and learning resources.
