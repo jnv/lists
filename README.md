@@ -1726,6 +1726,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-tikz](https://github.com/xiaohanyu/awesome-tikz) – [TikZ](https://pgf-tikz.github.io/) graph drawing package for TeX/LaTeX/ConTeXt
 * [awesome-tinkerpop](https://github.com/mohataher/awesome-tinkerpop) – [Apache TinkerPop](http://tinkerpop.apache.org/) graph computing framework
 * [awesome-tiny-js](https://github.com/thoughtspile/awesome-tiny-js) – Frontend libraries that fit into 2 kB with dependencies.
+* [awesome-tla](https://github.com/tla-ecosystem/awesome-tla) – Total Learning Architecture implementations, tools, and standards.
 * [awesome-tor](https://github.com/Polycarbohydrate/awesome-tor) – A free overlay network for enabling anonymous communication.
 * [awesome-torch](https://github.com/carpedm20/awesome-torch) – Tutorials, projects and communities for [Torch](http://torch.ch/), a scientific computing framework for LuaJIT.
 * [awesome-transit](https://github.com/MobilityData/awesome-transit) – Transit APIs, apps, datasets, research, and software
