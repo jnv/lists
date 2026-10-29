@@ -1630,6 +1630,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-solid](https://github.com/kustomzone/awesome-solid) – [Solid](https://solidproject.org/) (social linked data) project.
 * [awesome-solidity](https://github.com/solidity-developer/awesome-solidity) – Resources for the Solidity smart contract programming language.
 * [awesome-sound](https://github.com/hwclass/awesome-sound) – Sound & audio libraries and resources.
+* [awesome-space-robotics](https://github.com/AndrejOrsula/awesome-space-robotics) – Hardware, software, datasets, and research for space robotics.
 * [awesome-spain](https://github.com/GeiserX/awesome-spain) _In Spanish_ – Open source software for Spain including e-government, tax systems, and autonomous communities.
   - https://geiserx.github.io/awesome-spain/
 * [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp) – Linguistic Resources for doing NLP & CL on Spanish
