@@ -914,6 +914,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-eslint](https://github.com/dustinspecker/awesome-eslint) – [ESLint](https://eslint.org/) JavaScript linter
 * [awesome-esolangs](https://github.com/angrykoala/awesome-esolangs) – Esoteric languages
 * [awesome-esp](https://github.com/agucova/awesome-esp) – Low-cost microcontrollers with WiFi and broad IoT applications.
+* [awesome-esports](https://github.com/Strift/awesome-esports) – Video games played as a sport.
+  - https://strift.dev/esports-oss
 * [awesome-eta](https://github.com/sfischer13/awesome-eta) – [Eta](https://eta-lang.org/) programming language
 * [awesome-ethereum](https://github.com/bekatom/awesome-ethereum) by @bekatom – [Ethereum](https://ethereum.org/) decentralized software platform & Dapps.
 * [awesome-ethereum](https://github.com/lampGit/awesome-ethereum) by @lampGit
