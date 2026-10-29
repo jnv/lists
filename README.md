@@ -961,6 +961,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-funny-markov](https://github.com/sublimino/awesome-funny-markov) – Delightfully amusing and facetious Markov chain output.
 * [awesome-fuse](https://github.com/fuse-compound/awesome-fuse) – [Fuse](https://fuseopen.com/) mobile development framework
 * [awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) – Fuzzing (or Fuzz Testing) for software security
+* [awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes) – Actively maintained open-source game remakes.
 * [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) – Gaming talks (development, design, etc)
 * [awesome-gbdev](https://github.com/gbdev/awesome-gbdev) – Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs
   - https://gbdev.io/resources
