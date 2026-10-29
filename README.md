@@ -1434,6 +1434,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) – [PyTorch](https://pytorch.org/) Python machine learning framework.
 * [awesome-qa](https://github.com/seriousran/awesome-qa) – [Question Answering](https://en.wikipedia.org/wiki/Question_answering) systems automatically answer questions asked in a natural language
 * [awesome-qlik](https://github.com/ambster-public/awesome-qlik) – Qlik Sense and QlikView extensions and resources.
+* [awesome-qr-code](https://github.com/make-github-pseudonymous-again/awesome-qr-code) – A type of matrix barcode that can be used to store and share a small amount of information.
 * [awesome-qsharp](https://github.com/ebraminio/awesome-qsharp) – [Q#](https://docs.microsoft.com/en-us/quantum/) quantum programming language
 * [awesome-qt](https://github.com/JesseTG/awesome-qt) by @JesseTG – Qt framework
 * [awesome-qt](https://github.com/skhaz/awesome-qt) by @skhaz – Qt framework
