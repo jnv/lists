@@ -619,6 +619,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ansible](https://github.com/jdauphant/awesome-ansible) – [Ansible](https://www.ansible.com/) configuration management
 * [awesome-answers](https://github.com/cyberglot/awesome-answers) – Inspiring and thoughtful answers given at stackoverflow, quora, etc.
 * [awesome-ant-design](https://github.com/websemantics/awesome-ant-design) – [Ant Design](https://ant.design/) system
+* [awesome-aoip](https://github.com/Mo-way/awesome-aoip) – Reliably transmit uncompressed, low-latency audio over an IP (layer 3) network.
 * [awesome-api](https://github.com/Kikobeats/awesome-api) – Design and implement RESTful API's
 * [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs)
 * [awesome-apollo-graphql](https://github.com/ooade/awesome-apollo-graphql) – [Apollo GraphQL](https://www.apollographql.com/)
