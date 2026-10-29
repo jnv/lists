@@ -1580,6 +1580,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-vite](https://github.com/vitejs/awesome-vite) – [Vite](https://vitejs.dev/) front-end build tooling.
 * [awesome-vjing](https://github.com/LimeLimeW/awesome-vjing) – VJing / visuals.
 * [awesome-vlc](https://github.com/mfkl/awesome-vlc) – [VideoLAN VLC](https://www.videolan.org/) multimedia player and framework.
+* [awesome-vlm-architectures](https://github.com/gokayfem/awesome-vlm-architectures) – Vision Language Model architectures.
 * [awesome-volt](https://github.com/heri/awesome-volt) – Volt Ruby web framework.
 * [awesome-vorpal](https://github.com/vorpaljs/awesome-vorpal) – [Vorpal](http://vorpal.js.org/) Node.js interactive CLI framework
 * [awesome-vscode](https://github.com/viatsko/awesome-vscode) – Visual Studio Code
