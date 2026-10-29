@@ -42,6 +42,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ethics](https://github.com/HussainAther/awesome-ethics)
 * [awesome-eu-ai-act](https://github.com/GenAI-Gurus/awesome-eu-ai-act) – Official sources, tools, templates, and guides for EU AI Act compliance.
 * [awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) – Fantasy literature worth reading.
+* [awesome-free-nonprofits](https://github.com/athman3/awesome-free-nonprofits) – Free and discounted technology resources for nonprofit organizations.
+  - https://nonprofits.athman3.com
 * [awesome-geocaching](https://github.com/FoxFil/awesome-geocaching) – Outdoor treasure-hunting activity that uses GPS-enabled devices.
 * [awesome-gif](https://github.com/Kikobeats/awesome-gif) – GIF /dʒ/ links and resources.
 * [awesome-glasgow](https://github.com/allyjweir/awesome-glasgow) – Some highlights around Glasgow, Scotland.
