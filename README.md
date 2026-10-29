@@ -584,6 +584,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-age](https://github.com/FiloSottile/awesome-age) – [age file encryption](https://age-encryption.org/) ecosystem.
 * [awesome-agentic-engineering](https://github.com/fatihkc/awesome-agentic-engineering) – Building and shipping software by directing AI coding agents across the development lifecycle.
   - https://awesomeagenticengineering.com
+* [awesome-agent-workspaces](https://github.com/jimy-r/awesome-agent-workspaces) – Building AI agent workspaces: durable context, memory, verification and human oversight.
 * [awesome-agents](https://github.com/Scottcjn/awesome-agents) – AI agents.
 * [awesome-agent-bounties](https://github.com/Scottcjn/awesome-agent-bounties) – Bug bounty and grant programs which accept contributions from AI agents.
 * [awesome-agile](https://github.com/lorabv/awesome-agile) – Agile Software Development.
