@@ -1124,6 +1124,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-hbase](https://github.com/rayokota/awesome-hbase)
 * [awesome-hdl](https://github.com/drom/awesome-hdl) – Hardware Description Languages
 * [awesome-healthcare](https://github.com/kakoni/awesome-healthcare) – Open source healthcare software, libraries, tools and resources.
+* [awesome-helix](https://github.com/npupko/awesome-helix) – Resources, plugins, themes, and tools for the Helix text editor.
 * [awesome-heroku](https://github.com/ianstormtaylor/awesome-heroku)
 * [awesome_hierarchical_matrices](https://github.com/gchavez2/awesome_hierarchical_matrices) – Hierarchical matrices frameworks, libraries, and software.
 * [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) – [Home Assistant](https://www.home-assistant.io/) home automation
