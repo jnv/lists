@@ -32,7 +32,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-biology](https://github.com/raivivek/awesome-biology) – Learning resources, research papers, tools and other resources related to Biology.
 * [awesome-board-games](https://github.com/edm00se/awesome-board-games) – Awesome and exceptional board games
   - https://awesomeboard.games
-* [awesome-coffee](https://github.com/psanders/awesome-coffee) - Productivity for tech professionals.
+* [awesome-coffee](https://github.com/psanders/awesome-coffee) – Productivity for tech professionals.
 * [awesome-ethics](https://github.com/HussainAther/awesome-ethics)
 * [awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) – Fantasy literature worth reading.
 * [awesome-gif](https://github.com/Kikobeats/awesome-gif) – GIF /dʒ/ links and resources.
@@ -104,7 +104,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Sustainable-Earth](https://github.com/bizz84/Sustainable-Earth) – All things sustainable
 * [tacofancy](https://github.com/sinker/tacofancy) – community-driven taco repo. stars stars stars.
 * [teesites](https://github.com/elder-cb/teesites) – Great sites to buy awesome t-shirts and other cool stuff.
-* [the-DLES](https://github.com/aukspot/dles) - Hundreds of free daily web games in a similar vein to Wordle and FoodGuessr.
+* [the-DLES](https://github.com/aukspot/dles) – Hundreds of free daily web games in a similar vein to Wordle and FoodGuessr.
   - https://dles.aukspot.com
 * [warren](https://github.com/torchhound/warren) – Interesting and deep corners of the internet to explore.
 
@@ -185,10 +185,10 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [classics](https://github.com/eyy/classics) – Classical studies (Latin and Ancient Greek) resources: software, code and raw data.
 * [classless-css](https://github.com/dbohdan/classless-css) – Classless CSS themes/frameworks.
 * [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) – Open-source clones of popular sites.
-* [cloudcredits.io](https://github.com/t3-sh/cloudcredits.io) - Cloud/SaaS/startup credits and discounts with zero affiliations.
-  - https://cloudcredits.io/
 * [cloud-conferences](https://github.com/stefan-kolb/cloud-conferences) – A collection of scientific and industry conferences focused on cloud computing.
   - http://stefan-kolb.github.io/cloud-conferences/
+* [cloudcredits.io](https://github.com/t3-sh/cloudcredits.io) – Cloud/SaaS/startup credits and discounts with zero affiliations.
+  - https://cloudcredits.io/
 * [code-canon](https://github.com/darius/code-canon) – Code worth reading.
 * [codeface](https://github.com/chrissimpkins/codeface) – Typefaces for source code / text editors.
 * [Colorful](https://github.com/Siddharth11/Colorful) – Choose your next color scheme
@@ -299,7 +299,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) – git and git flow cheat sheet
   - http://bilalarslan.me/git-cheat-sheet/
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) – Cool features of Git and GitHub.
-* [github-drama](https://github.com/neodrama/github-drama) - Heated/controversial Github discussions
+* [github-drama](https://github.com/neodrama/github-drama) – Heated/controversial Github discussions
 * [github-hall-of-fame](https://github.com/mehulkar/github-hall-of-fame) – Hall of Fame for spectacular things on Github.
 * [GoBooks](https://github.com/dariubs/GoBooks) – Golang books.
 * [go-is-not-good](https://github.com/ksimka/go-is-not-good) – Articles that complain about Golang's imperfection.
@@ -530,7 +530,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [tools-list](https://github.com/everestpipkin/tools-list) – Open source, experimental, and tiny tools for building game/website/interactive project.
   - https://tinytools.directory/
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) – Tools of The Trade, from Hacker News.
-* [Top-AI-repos](https://github.com/ishandutta2007/Top-AI-repos) - Top 100 Most starred opensource AI repos on github
+* [Top-AI-repos](https://github.com/ishandutta2007/Top-AI-repos) – Top 100 Most starred opensource AI repos on github
 * [top-starred-devs-and-repos-to-follow](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow) – Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending).
 * [translations](https://github.com/oldratlee/translations) – Chinese translations for classic IT resources.
 * [trending-repositories](https://github.com/Semigradsky/trending-repositories) – Repositories that were trending for a day.
@@ -582,20 +582,20 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-adafruitio](https://github.com/adafruit/awesome-adafruitio) – [Adafruit IO](https://io.adafruit.com/) Internet of Things platform
 * [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) – [Advent of Code](https://adventofcode.com/)
 * [awesome-age](https://github.com/FiloSottile/awesome-age) – [age file encryption](https://age-encryption.org/) ecosystem.
+* [awesome-agent-bounties](https://github.com/Scottcjn/awesome-agent-bounties) – Bug bounty and grant programs which accept contributions from AI agents.
+* [awesome-agent-workspaces](https://github.com/jimy-r/awesome-agent-workspaces) – Building AI agent workspaces: durable context, memory, verification and human oversight.
 * [awesome-agentic-engineering](https://github.com/fatihkc/awesome-agentic-engineering) – Building and shipping software by directing AI coding agents across the development lifecycle.
   - https://awesomeagenticengineering.com
-* [awesome-agent-workspaces](https://github.com/jimy-r/awesome-agent-workspaces) – Building AI agent workspaces: durable context, memory, verification and human oversight.
 * [awesome-agents](https://github.com/Scottcjn/awesome-agents) – AI agents.
-* [awesome-agent-bounties](https://github.com/Scottcjn/awesome-agent-bounties) – Bug bounty and grant programs which accept contributions from AI agents.
 * [awesome-agile](https://github.com/lorabv/awesome-agile) – Agile Software Development.
   - https://lorabv.github.io/awesome-agile
 * [awesome-agile-essentials](https://github.com/SaadAAkash/awesome-agile-essentials) – Agile Software Development
 * [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) – Open source technology for agriculture, farming, and gardening
-* [awesome-ai-companion](https://github.com/DasterProkio/awesome-ai-companion) – Long-term AI companion systems: clients, memory, proactive behavior, embodiment, and shared activities.
-  - https://lutopia.app/companion/
 * [awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) – Tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
 * [awesome-ai-coding-sandboxes](https://github.com/fhiltscher/awesome-ai-coding-sandboxes) – Sandboxes for running AI coding agents' code, ranked by isolation, egress control, and secrets handling.
   - https://fhiltscher.github.io/awesome-ai-coding-sandboxes/
+* [awesome-ai-companion](https://github.com/DasterProkio/awesome-ai-companion) – Long-term AI companion systems: clients, memory, proactive behavior, embodiment, and shared activities.
+  - https://lutopia.app/companion/
 * [awesome-ai-tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) – Measuring, monitoring, and optimizing token spend in LLM and AI agent workflows.
 * [awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) – [Alfred](https://www.alfredapp.com/) macOS app workflows
 * [awesome-algolia](https://github.com/algolia/awesome-algolia) – [Algolia](https://www.algolia.com/) web search service
@@ -726,9 +726,9 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) – Continuous Integration and Continuous Delivery
   - http://www.ciandcd.com/
 * [awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython) – [CircuitPython](https://circuitpython.org/) microcontrollers programming language
-* [awesome-claude-code](https://github.com/erkcet/awesome-claude-code) – Claude Code tools, configuration patterns, hooks, MCP integrations, and workflows.
 * [awesome-cl](https://github.com/CodyReichert/awesome-cl) – Common Lisp
 * [awesome-cl-software](https://github.com/azzamsa/awesome-cl-software) – Applications built with Common Lisp
+* [awesome-claude-code](https://github.com/erkcet/awesome-claude-code) – Claude Code tools, configuration patterns, hooks, MCP integrations, and workflows.
 * [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) – Command line apps
 * [awesome-clojure](https://github.com/mbuczko/awesome-clojure) by @mbuczko – Useful links for clojurians
 * [awesome-clojure](https://github.com/razum2um/awesome-clojure) by @razum2um
@@ -849,7 +849,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://adurrr.github.io/awesome-devops-freelance/
 * [awesome-devrel](https://github.com/devrelcollective/awesome-devrel) – Developer Relations
 * [awesome-devtools](https://github.com/moimikey/awesome-devtools) – In-browser bookmarklets, tools, and resources for front-end devs.
-* [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) – Resources for Digital Nomads.
+* [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) by @cbovis – Resources for Digital Nomads.
 * [awesome-digital-nomads](https://github.com/cloudfloo/awesome-digital-nomads) by @cloudfloo – Finance and FIRE, visas, insurance, eSIMs, and communities for digital nomads.
 * [awesome-digital-signage](https://github.com/awesome-digital-signage/awesome-digital-signage) – Digital signage platforms, technologies, tools and resources.
 * [awesome-digitalocean](https://github.com/jonleibowitz/awesome-digitalocean) – DigitalOcean cloud infrastructure provider
@@ -1187,6 +1187,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-msr](https://github.com/dspinellis/awesome-msr) – Empirical Software Engineering: evidence-based, data-driven research on software systems
 * [awesome-music](https://github.com/ciconia/awesome-music) – Music, audio, MIDI
 * [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) – MySQL software, libraries, tools and resources
+* [awesome-n8n-templates](https://github.com/ScraperNode/awesome-n8n-templates) – [n8n](https://n8n.io/) workflow templates.
 * [awesome-naming](https://github.com/gruhn/awesome-naming) – When naming things is done right.
 * [awesome-neo4j](https://github.com/neueda/awesome-neo4j) – Neo4j graph database
 * [awesome-neocities](https://github.com/lime360/awesome-neocities) – [Neocities](https://neocities.org/), a social network of websites and free static hosting.
@@ -1195,7 +1196,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - http://f.briatte.org/r/awesome-network-analysis-list
 * [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) – Papers on node embedding techniques.
 * [awesome-network-js](https://github.com/Kikobeats/awesome-network-js) – Network layer resources in pure JavaScript
-* [awesome-n8n-templates](https://github.com/ScraperNode/awesome-n8n-templates) – [n8n](https://n8n.io/) workflow templates.
 * [Awesome-Networking](https://github.com/clowwindy/Awesome-Networking)
 * [awesome-neural-reprogramming-prompting](https://github.com/huckiyang/awesome-neural-reprogramming-prompting) – Adversarial reprogramming and input prompting methods for neural networks.
 * [awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) – Neuroscience libraries, software and resources
@@ -1239,9 +1239,9 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) – Companies that offer their services for free to Open Source projects
 * [awesome-openbudget](https://github.com/infoculture/awesome-openbudget) _In Russian_ – Open Budget government spending visualization.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) – OpenGL libraries, debuggers and resources.
-* [awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)
 * [awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) – Open-source AI models, libraries, infrastructure, and developer tools.
   - https://awesomeosai.com/
+* [awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)
 * [awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) – Open source or open source licensed documents, guides, books.
 * [awesome-OpenSourcePhotography](https://github.com/ibaaj/awesome-OpenSourcePhotography) – Free open source software & libraries for photography. Also tools for video.
 * [awesome-orgs](https://github.com/beansource/awesome-orgs) – GitHub Organizations.
