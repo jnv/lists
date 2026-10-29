@@ -619,6 +619,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs)
 * [awesome-apollo-graphql](https://github.com/ooade/awesome-apollo-graphql) – [Apollo GraphQL](https://www.apollographql.com/)
 * [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas) – Ideas for apps to demonstrate how framework or library approach specific problems.
+* [awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage) – Package apps in a single file that works on various mainstream Linux distributions.
 * [awesome-appium](https://github.com/SrinivasanTarget/awesome-appium) – [Appium](http://appium.io/) test automation frmework
 * [awesome-apple](https://github.com/joeljfischer/awesome-apple) – 3rd party libraries and tools for Apple platforms development.
 * [awesome-appsec](https://github.com/paragonie/awesome-appsec) – Resources for developers to learn application security.
