@@ -604,6 +604,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://lorabv.github.io/awesome-agile
 * [awesome-agile-essentials](https://github.com/SaadAAkash/awesome-agile-essentials) – Agile Software Development
 * [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) – Open source technology for agriculture, farming, and gardening
+* [awesome-ai-agent-governance](https://github.com/permission-protocol/awesome-ai-agent-governance) – Frameworks, tools, standards, and research for governing autonomous AI agents.
 * [awesome-ai-agent-tools](https://github.com/michielhdoteth/awesome-ai-agent-tools) – Skills, MCP servers, workflows, and CLI tools for AI coding assistants.
   - https://awesome-ai-agent-tools.vercel.app
 * [awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) – Tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
