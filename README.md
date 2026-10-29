@@ -62,6 +62,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-steam](https://github.com/RahulBirCodes/awesome-steam) by @RahulBirCodes – Science, technology, engineering, art, and math resources for students and teachers.
   - https://awesomesteam.org
 * [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) – Stock photography, video and illustration websites.
+* [awesome-stock-trading](https://github.com/shi-rudo/awesome-stock-trading) – Purchase and sale of equities of publicly traded companies to generate profits.
 * [awesome-theravada](https://github.com/johnjago/awesome-theravada) – Theravada Buddhist teachings
 * [awesome-transgender](https://github.com/cvyl/awesome-transgender) – LGBTQ+ resources focused on transgender individuals.
 * [awesome-uncopyright](https://github.com/johnjago/awesome-uncopyright) – All things public domain
