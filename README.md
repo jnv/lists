@@ -858,6 +858,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-devops-freelance](https://github.com/adurrr/awesome-devops-freelance) – DevOps tools, practices, and career resources for freelancers.
   - https://adurrr.github.io/awesome-devops-freelance/
 * [awesome-devrel](https://github.com/devrelcollective/awesome-devrel) – Developer Relations
+* [awesome-devsecops](https://github.com/jakob-pennington/awesome-devsecops) – Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
 * [awesome-devtools](https://github.com/moimikey/awesome-devtools) – In-browser bookmarklets, tools, and resources for front-end devs.
 * [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) by @cbovis – Resources for Digital Nomads.
 * [awesome-digital-nomads](https://github.com/cloudfloo/awesome-digital-nomads) by @cloudfloo – Finance and FIRE, visas, insurance, eSIMs, and communities for digital nomads.
