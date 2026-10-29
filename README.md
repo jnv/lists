@@ -524,6 +524,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [trip-to-iOS](https://github.com/Aufree/trip-to-iOS) _In Chinese_ – Delightful iOS resources.
 * [twofactorauth](https://github.com/2factorauth/twofactorauth) – Sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
   - https://twofactorauth.org/
+* [typedb-awesome](https://github.com/typedb/typedb-awesome) – [TypeDB](https://typedb.com/), a logical database for organizing complex networks of data.
 * [type-findings](https://github.com/charliewilco/type-findings) – Posts about web typography.
 * [TypeFunc](https://github.com/williamdemeo/TypeFunc) – Type theory, functional programming, and related subjects.
 * [type-trident](https://github.com/anuraghazra/type-trident) – Advanced type level madness for TypeScript.
