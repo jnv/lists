@@ -1362,6 +1362,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-plan9](https://github.com/henesy/awesome-plan9)
 * [awesome-play1](https://github.com/PerfectCarl/awesome-play1) – Play Framework 1.x modules, tools, and resources.
 * [awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) – [PlayCanvas](https://playcanvas.com) game engine.
+* [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) – Node.js library to automate Chromium, Firefox and WebKit with a single API.
+  - https://mxschmitt.github.io/awesome-playwright/
 * [awesome-plone](https://github.com/collective/awesome-plone) – Open source Python CMS.
 * [awesome-plotters](https://github.com/beardicus/awesome-plotters) – Computer-controlled drawing machines and other visual art robots.
 * [awesome-pocketbase](https://github.com/benallfree/awesome-pocketbase) – An open-source, Go-based backend in one file.
