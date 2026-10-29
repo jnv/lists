@@ -868,6 +868,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-digital-nomads](https://github.com/cloudfloo/awesome-digital-nomads) by @cloudfloo – Finance and FIRE, visas, insurance, eSIMs, and communities for digital nomads.
 * [awesome-digital-signage](https://github.com/awesome-digital-signage/awesome-digital-signage) – Digital signage platforms, technologies, tools and resources.
 * [awesome-digitalocean](https://github.com/jonleibowitz/awesome-digitalocean) – DigitalOcean cloud infrastructure provider
+* [awesome-directus](https://github.com/directus-labs/awesome-directus) – A real-time API and app dashboard for managing SQL database content.
 * [awesome-discord](https://github.com/alfg/awesome-discord) by @alfg
 * [awesome-discord](https://github.com/jacc/awesome-discord) by @jacc – Discord chat and VoIP application.
 * [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) – Discord communities for programmers.
