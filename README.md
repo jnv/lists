@@ -1595,6 +1595,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-stacks-chain](https://github.com/friedger/awesome-stacks-chain) – A smart contract platform secured by Bitcoin.
 * [awesome-standalones](https://github.com/davatron5000/awesome-standalones) – Framework-agnostic standalone web components.
 * [awesome-standard](https://github.com/standard/awesome-standard) – Documenting the explosion of packages in the [standard](http://standardjs.com/) (JavaScript code style) ecosystem.
+* [awesome-standards](https://github.com/donbarbos/awesome-standards) – Proposals and standards that define and enhance software, languages, and related technologies.
+  - https://donbarbos.github.io/awesome-standards/
 * [awesome-stars](https://github.com/lichunqiang/awesome-stars) _In Chinese_ – Useful libraries with personal remarks.
 * [awesome-startup](https://github.com/KrishMunot/awesome-startup) – Resources to build your own startup
 * [awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services)
