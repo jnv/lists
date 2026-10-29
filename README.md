@@ -1190,6 +1190,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-nocode](https://github.com/nslindtner/awesome-nocode)
 * [awesome-node-esm](https://github.com/v1rtl/awesome-node-esm) – ES modules for Node.js
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) by @sindresorhus
+* [awesome-nodered](https://github.com/naimo84/awesome-nodered) – A programming tool for wiring together hardware devices, APIs, and online services.
 * [awesome-non-financial-blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) – Non-financial applications of blockchain
 * [awesome-nosql-guides](https://github.com/erictleung/awesome-nosql-guides) – NoSQL databases
   - https://erictleung.com/awesome-nosql-guides/
