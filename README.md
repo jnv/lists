@@ -1129,6 +1129,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-julia](https://github.com/melvin0008/awesome-julia)
 * [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) – [Jupyter](https://jupyter.org/)
 * [awesome-jvm](https://github.com/deephacks/awesome-jvm)
+* [awesome-k6](https://github.com/grafana/awesome-k6) – Open-source, developer-centric performance monitoring and load testing solution.
 * [awesome-kafka](https://github.com/monksy/awesome-kafka) – [Apache Kafka](http://kafka.apache.org/), distributed streaming platform
 * [awesome-katas](https://github.com/gamontal/awesome-katas) – Code katas
 * [awesome-kde](https://github.com/francoism90/awesome-kde) – KDE Desktop Environment.
