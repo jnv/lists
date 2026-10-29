@@ -1577,6 +1577,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-scala-native](https://github.com/tindzk/awesome-scala-native) – [Scala Native](http://www.scala-native.org) compiler
 * [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) – The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 * [awesome-scapy](https://github.com/secdev/awesome-scapy)
+* [awesome-scientific-ai-tools](https://github.com/Harsh9005/awesome-scientific-ai-tools) – AI tools, MCP servers, and agent skills for scientific research.
 * [awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing) – Software for numerical analysis
 * [awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing) – Tools, demos and resources to go beyond LaTeX.
 * [awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable) – [Scriptable](https://scriptable.app/) iOS app for automation with JavaScript.
