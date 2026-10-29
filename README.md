@@ -1846,7 +1846,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ynab](https://github.com/scottrobertson/awesome-ynab) – [You Need A Budget](https://www.youneedabudget.com/)
 * [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) – YouTubers that teach about technology.
 * [awesome-zeronet](https://github.com/zolagonano/awesome-zeronet) – A decentralized web-like network of peer-to-peer users.
-* [awesome-zig](https://github.com/nrdmn/awesome-zig) – [Zig](https://ziglang.org/)
+* [awesome-zig](https://github.com/nrdmn/awesome-zig) by @nrdmn – [Zig](https://ziglang.org/)
+* [awesome-zig](https://github.com/zigcc/awesome-zig) by @zigcc – Zig libraries, tools, and learning resources.
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 * [awesomo](https://github.com/lk-geimfari/awesomo) – Open source projects in various languages.
 * [awsm.fish](https://github.com/jorgebucaran/awsm.fish) – Fish shell
