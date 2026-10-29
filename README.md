@@ -55,6 +55,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-parasite](https://github.com/ecohealthalliance/awesome-parasite) – Parasites and host-pathogen interactions.
 * [awesome-philosophy](https://github.com/HussainAther/awesome-philosophy)
 * [awesome-reddit-channels](https://github.com/MadhuNimmo/awesome-reddit-channels) – Reddit Channels every programmer must follow.
+* [awesome-running-tools](https://github.com/reinaldosimoes/awesome-running-tools) – Training, route planning, race discovery, and performance tracking for distance running.
 * [awesome-scifi](https://github.com/sindresorhus/awesome-scifi) – Sci-Fi worth consuming.
 * [awesome-security-card-games](https://github.com/Karneades/awesome-security-card-games) – Train your skills and discuss various security topics.
 * [awesome-social-enterprise](https://github.com/RayBB/awesome-social-enterprise) – Building an organization primarily focused on social impact that is at least partially self-funded.
