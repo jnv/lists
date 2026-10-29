@@ -605,6 +605,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) – [Advent of Code](https://adventofcode.com/)
 * [awesome-age](https://github.com/FiloSottile/awesome-age) – [age file encryption](https://age-encryption.org/) ecosystem.
 * [awesome-agent-bounties](https://github.com/Scottcjn/awesome-agent-bounties) – Bug bounty and grant programs which accept contributions from AI agents.
+* [awesome-agent-failures](https://github.com/vectara/awesome-agent-failures) – AI agent failure cases, failure modes, and mitigation resources.
 * [awesome-agent-services](https://github.com/farol-team/awesome-agent-services) – Services, APIs, and infrastructure for AI agents.
 * [awesome-agent-skills](https://github.com/skillmatic-ai/awesome-agent-skills) – Resources for learning, using, and building AI agent skills.
 * [awesome-agent-workspaces](https://github.com/jimy-r/awesome-agent-workspaces) – Building AI agent workspaces: durable context, memory, verification and human oversight.
