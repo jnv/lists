@@ -44,6 +44,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-kimchi](https://github.com/jeyraof/awesome-kimchi) – Kimchi of the people, by the people, for the people.
 * [awesome-lego](https://github.com/ad-si/awesome-lego)
 * [awesome-lockpicking](https://github.com/fabacab/awesome-lockpicking) – Guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
+* [awesome-lucid-dreams](https://github.com/IAmCoder/awesome-lucid-dreams) – Lucid dreaming research, guides, communities, and tools.
 * [awesome-maps](https://github.com/simsieg/awesome-maps) – Various Online Maps
 * [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) – Articles, websites and resources about mental health in the software industry.
   - https://dreamingechoes.github.io/awesome-mental-health
