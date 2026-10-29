@@ -1512,6 +1512,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://git.io/Awesome-Unicode
 * [awesome-unity](https://github.com/RyanNielson/awesome-unity) – Assets and resources for [Unity](http://unity3d.com/) game engine.
 * [awesome-unix](https://github.com/sirredbeard/Awesome-UNIX)
+* [awesome-uno-platform](https://github.com/MartinZikmund/awesome-uno-platform) – [Uno Platform](https://platform.uno/), an open-source .NET UI platform for building cross-platform apps.
 * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts)
 * [awesome-uses](https://github.com/wesbos/awesome-uses) – `/uses` pages detailing developer setups, gear, software and configs.
   - https://uses.tech
