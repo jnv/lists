@@ -40,6 +40,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://maehr.github.io/awesome-digital-history/
 * [awesome-earth](https://github.com/philsturgeon/awesome-earth) – Find ways to resolve the climate crisis.
 * [awesome-ethics](https://github.com/HussainAther/awesome-ethics)
+* [awesome-eu-ai-act](https://github.com/GenAI-Gurus/awesome-eu-ai-act) – Official sources, tools, templates, and guides for EU AI Act compliance.
 * [awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) – Fantasy literature worth reading.
 * [awesome-geocaching](https://github.com/FoxFil/awesome-geocaching) – Outdoor treasure-hunting activity that uses GPS-enabled devices.
 * [awesome-gif](https://github.com/Kikobeats/awesome-gif) – GIF /dʒ/ links and resources.
