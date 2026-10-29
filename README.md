@@ -789,6 +789,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - http://codeforces.com/blog/entry/23054
 * [awesome-complexity](https://github.com/sellisd/awesome-complexity) – The scientific field studying systems with multiple interacting parts and emergent properties.
 * [awesome-composer](https://github.com/jakoch/awesome-composer) – Composer, Packagist, Satis PHP ecosystem
+* [awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology) – Computational biology tools and learning resources.
 * [awesome-computational-geometry](https://github.com/atkirtland/awesome-computational-geometry) – Computational approaches for problems in geometry.
 * [awesome-computational-neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) – Schools and researchers in computational neuroscience
 * [awesome-computer-history](https://github.com/watson/awesome-computer-history) – Computer history videos, documentaries and related folklore.
