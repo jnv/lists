@@ -1417,6 +1417,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-rnn](https://github.com/kjw0612/awesome-rnn) – Recurrent Neural Networks.
 * [awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) – Skills roadmaps for software development
 * [awesome-roam](https://github.com/roam-unofficial/awesome-roam) – Roam Research networked note-taking
+* [awesome-roblox](https://github.com/awesome-roblox/awesome-roblox) – Immersive platform for hosting millions of diverse experiences.
 * [awesome-robotics](https://github.com/Kiloreux/awesome-robotics)
 * [awesome-ros2](https://github.com/fkromer/awesome-ros2) – [Robot Operating System](http://www.ros.org/)
   - https://fkromer.github.io/awesome-ros2
