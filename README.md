@@ -589,6 +589,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) – Open source technology for agriculture, farming, and gardening
 * [awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) – Tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
 * [awesome-ai-coding-sandboxes](https://github.com/fhiltscher/awesome-ai-coding-sandboxes) – Sandboxes for running AI coding agents' code, ranked by isolation, egress control, and secrets handling.
+  - https://fhiltscher.github.io/awesome-ai-coding-sandboxes/
 * [awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) – [Alfred](https://www.alfredapp.com/) macOS app workflows
 * [awesome-algolia](https://github.com/algolia/awesome-algolia) – [Algolia](https://www.algolia.com/) web search service
 * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) – Places to learn and/or practice algorithms.
