@@ -763,6 +763,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-construct](https://github.com/ConstructCommunity/awesome-construct) – [Construct](https://www.construct.net/) game development toolkit
 * [awesome-container](https://github.com/tcnksm/awesome-container) – Container technologies and services.
 * [awesome-conversational](https://github.com/mortenjust/awesome-conversational) – Conversational UI
+* [awesome-conversational-ai](https://github.com/jyguyomarch/awesome-conversational-ai) – Build awesome chatbots and digital assistants.
 * [awesome-coq](https://github.com/rocq-community/awesome-coq) – Coq libraries, plugins, tools, verification projects, and learning resources.
   - https://rocq-community.org/awesome-coq
 * [awesome-cordova](https://github.com/busterc/awesome-cordova) _Apache Cordova / PhoneGap_
