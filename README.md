@@ -1728,6 +1728,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-wordpress-gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby) – Web development technology stack with WordPress as a back end and Gatsby as a front end.
 * [awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) – Open source workflow engines
 * [awesome-workshopper](https://github.com/therebelrobot/awesome-workshopper)
+* [awesome-wp-cli](https://github.com/schlessera/awesome-wp-cli) – [WP-CLI](https://wp-cli.org), the command-line interface for WordPress.
 * [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) – Web Performance Optimization
 * [awesome-xai](https://github.com/altamiracorp/awesome-xai) – Providing insight, explanations, and interpretability to machine learning methods.
 * [awesome-xamarin](https://github.com/XamSome/awesome-xamarin) by @XamSome – [Xamarin](https://visualstudio.microsoft.com/xamarin/) mobile application framework
