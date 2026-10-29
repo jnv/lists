@@ -1371,6 +1371,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-npm-scripts](https://github.com/RyanZim/awesome-npm-scripts) – using npm as a build tool
 * [awesome-ntnu](https://github.com/michaelmcmillan/awesome-ntnu) – Projects by NTNU students.
 * [awesome-objc-frameworks](https://github.com/follyxing/awesome-objc-frameworks)
+* [awesome-obs](https://github.com/Pralhad-Nasane/awesome-obs) – Plugins, tools, and resources for OBS Studio recording and streaming.
 * [awesome-observables](https://github.com/sindresorhus/awesome-observables) – An Observable is a collection that arrives over time.
 * [awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) – [Obsidian](https://obsidian.md/) knowledge base app.
 * [awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml)
