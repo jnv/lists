@@ -1602,6 +1602,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-scapy](https://github.com/secdev/awesome-scapy)
 * [awesome-scientific-ai-tools](https://github.com/Harsh9005/awesome-scientific-ai-tools) – AI tools, MCP servers, and agent skills for scientific research.
 * [awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing) – Software for numerical analysis
+* [awesome-scientific-image-analysis](https://github.com/EPFL-Center-for-Imaging/awesome-scientific-image-analysis) – Scientific image analysis resources and software tools.
 * [awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing) – Tools, demos and resources to go beyond LaTeX.
 * [awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable) – [Scriptable](https://scriptable.app/) iOS app for automation with JavaScript.
 * [awesome-sdn](https://github.com/sdnds-tw/awesome-sdn) – Software Defined Network (SDN)
