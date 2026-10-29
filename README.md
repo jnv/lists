@@ -34,6 +34,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-chess](https://github.com/atamano/awesome-chess) by @atamano – Chess resources, tools, engines, and communities.
 * [awesome-clean-tech](https://github.com/nglgzz/awesome-clean-tech) – Fighting climate change with technology.
 * [awesome-coffee](https://github.com/psanders/awesome-coffee) – Productivity for tech professionals.
+* [awesome-company-as-a-service](https://github.com/sandrfunder/awesome-company-as-a-service) – European services for company formation, invoicing, payroll, and remote business administration.
 * [awesome-credit-modeling](https://github.com/mourarthur/awesome-credit-modeling) – Methods for classifying credit applicants into risk classes.
 * [awesome-digital-history](https://github.com/maehr/awesome-digital-history) – Computer-aided scientific investigation of history.
   - https://maehr.github.io/awesome-digital-history/
