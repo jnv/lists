@@ -61,6 +61,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://awesomesteam.org
 * [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) – Stock photography, video and illustration websites.
 * [awesome-theravada](https://github.com/johnjago/awesome-theravada) – Theravada Buddhist teachings
+* [awesome-transgender](https://github.com/cvyl/awesome-transgender) – LGBTQ+ resources focused on transgender individuals.
 * [awesome-uncopyright](https://github.com/johnjago/awesome-uncopyright) – All things public domain
 * [awesome-webcomics](https://github.com/dhamaniasad/awesome-webcomics)
 * [baby-sleep](https://github.com/simple10/baby-sleep) – Baby sleep guides curated from the best of the Internet.
