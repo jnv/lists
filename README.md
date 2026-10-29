@@ -848,6 +848,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-doctrine](https://github.com/biberlabs/awesome-doctrine) – Doctrine ORM libraries and resources.
 * [awesome-document-understanding](https://github.com/tstanislawek/awesome-document-understanding) – Automated data extraction from documents.
 * [awesome-dojo](https://github.com/petk/awesome-dojo) – Dojo JavaScript Toolkit resources and libraries.
+* [awesome-dos](https://github.com/balintkissdev/awesome-dos) – Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
 * [awesome-dot-dev](https://github.com/orbit-love/awesome-dot-dev) – Developer resources on the .dev TLD.
 * [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 * [awesome-dotnet](https://github.com/quozd/awesome-dotnet) – .NET libraries, tools, frameworks and software.
