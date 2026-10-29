@@ -653,6 +653,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) – [asyncio](https://docs.python.org/3/library/asyncio.html) Python library
 * [awesome-asyncio-cn](https://github.com/chenjiandongx/awesome-asyncio-cn) _In Chinese_ – [asyncio](https://docs.python.org/3/library/asyncio.html) Python library
 * [awesome-atom](https://github.com/mehcode/awesome-atom) – [Atom](https://atom.io/) text editor
+* [awesome-atproto](https://github.com/atblueprints/awesome-atproto) – Open, decentralized network for building social apps.
+  - https://blueprints.at/awesome-atproto
 * [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)
 * [awesome-audiovisual](https://github.com/stingalleman/awesome-audiovisual) – Audiovisual tools, projects, and resources.
 * [awesome-audit-algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms) – Algorithmic audits of algorithms.
