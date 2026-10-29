@@ -1595,6 +1595,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-yamada](https://github.com/supermomonga/awesome-yamada) – Dancing yamada
 * [awesome-yaml](https://github.com/dreftymac/awesome-yaml) by @dreftymac
 * [awesome-yaml](https://github.com/json-next/awesome-yaml) by @json-next – YAML (Ain't Markup Language) Goodies for Structured (Meta) Data in Text.
+* [awesome-yew](https://github.com/jetli/awesome-yew) – [Yew](https://yew.rs/), a Rust framework for creating frontend web apps with WebAssembly.
 * [awesome-yii](https://github.com/iJackUA/awesome-yii) – Yii PHP framework extensions, tutorials and other nice things.
 * [awesome-ynab](https://github.com/scottrobertson/awesome-ynab) – [You Need A Budget](https://www.youneedabudget.com/)
 * [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) – YouTubers that teach about technology.
