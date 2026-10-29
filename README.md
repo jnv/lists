@@ -1055,6 +1055,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-katas](https://github.com/gamontal/awesome-katas) – Code katas
 * [awesome-kde](https://github.com/francoism90/awesome-kde) – KDE Desktop Environment.
 * [awesome-keepass](https://github.com/lgg/awesome-keepass) – [KeePass](https://keepass.info/) password manager and related projects.
+* [awesome-kindle-workflows](https://github.com/erkcet/awesome-kindle-workflows) – Organizing, converting, delivering, reading, and annotating legally obtained Kindle content.
 * [awesome-knockout](https://github.com/dnbard/awesome-knockout) – Plugins for Knockout MVVM framework.
 * [awesome-koa](https://github.com/ellerbrock/awesome-koa) – [Koa.js](https://koajs.com/) Web Framework
   - https://ellerbrock.github.io/awesome-koa
