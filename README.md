@@ -599,6 +599,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ai-tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) – Measuring, monitoring, and optimizing token spend in LLM and AI agent workflows.
 * [awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) – [Alfred](https://www.alfredapp.com/) macOS app workflows
 * [awesome-algolia](https://github.com/algolia/awesome-algolia) – [Algolia](https://www.algolia.com/) web search service
+* [awesome-algorand](https://github.com/awesome-algorand/awesome-algorand) – An open-source, proof of stake Blockchain and smart contract computing platform.
+  - https://awesomealgo.com
 * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) – Places to learn and/or practice algorithms.
 * [awesome-algorithms-education](https://github.com/gaerae/awesome-algorithms-education) – Learning and practicing algorithms
   - https://gaerae.com/awesome-algorithms
