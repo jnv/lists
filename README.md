@@ -1030,6 +1030,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) – Learning and practicing Golang and its related technologies.
   - https://mehdihadeli.github.io/awesome-go-education/
 * [awesome-godot](https://github.com/Calinou/awesome-godot) – [Godot](https://godotengine.org/) game engine
+* [awesome-golem](https://github.com/golemfactory/awesome-golem) – Open source peer-to-peer marketplace for computing resources.
 * [awesome-gpt4](https://github.com/taranjeet/awesome-gpt4) – OpenAI GPT-4.
 * [awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) – Gradient boosting research papers with implementations.
 * [awesome-grails](https://github.com/hitenpratap/awesome-grails)
