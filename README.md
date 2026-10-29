@@ -1590,6 +1590,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music) – Sheet music software, libraries and resources.
 * [awesome-shell](https://github.com/alebcay/awesome-shell) – Command-line frameworks, toolkits, guides and gizmos.
 * [awesome-silverstripe-cms](https://github.com/wernerkrauss/awesome-silverstripe-cms) – PHP MVC framework that serves as a classic or headless CMS.
+* [awesome-singapore-cs1010](https://github.com/coding-solutions-sg/awesome-singapore-cs1010) – Resources for introductory programming courses at the National University of Singapore.
 * [awesome-sitecore](https://github.com/MartinMiles/awesome-sitecore) – .NET digital marketing platform that combines CMS with tools for managing multiple websites.
 * [awesome-sketch](https://github.com/diessica/awesome-sketch) – Guides, articles, videos about [Sketch 3](http://www.sketchapp.com/).
 * [awesome-slack](https://github.com/filipelinhares/awesome-slack) by @filipelinhares – Communities powered by Slack.
