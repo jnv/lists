@@ -966,6 +966,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) – CSS Flexible Box Layout Module.
 * [awesome-fluidapp](https://github.com/lborgav/awesome-fluidapp) – Icons, Userstyles and Userscripts for Fluid Apps
 * [awesome-flutter](https://github.com/Solido/awesome-flutter) – An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+* [awesome-flying-fpv](https://github.com/Matthias84/awesome-flying-fpv) – Open hardware and software related to drones / UAVs.
 * [awesome-fonts](https://github.com/brabadu/awesome-fonts) – Fonts and everything
 * [awesome-food](https://github.com/jzarca01/awesome-food) – Food related software projects
 * [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) – Beginner-friendly projects to start contributing.
