@@ -811,6 +811,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-container](https://github.com/tcnksm/awesome-container) – Container technologies and services.
 * [awesome-conversational](https://github.com/mortenjust/awesome-conversational) – Conversational UI
 * [awesome-conversational-ai](https://github.com/jyguyomarch/awesome-conversational-ai) – Build awesome chatbots and digital assistants.
+* [awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) – AI pair programming assistant by GitHub that provides code suggestions and completions.
 * [awesome-coq](https://github.com/rocq-community/awesome-coq) – Coq libraries, plugins, tools, verification projects, and learning resources.
   - https://rocq-community.org/awesome-coq
 * [awesome-corda](https://github.com/chainstacklabs/awesome-corda) – Open source Blockchain platform designed for business.
