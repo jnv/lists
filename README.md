@@ -1156,6 +1156,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) – Small, focused npm packages.
 * [awesome-microbit](https://github.com/carlosperate/awesome-microbit) – BBC micro:bit
 * [awesome-microfrontends](https://github.com/ChristianUlbrich/awesome-microfrontends)
+* [awesome-micropython](https://github.com/mcauser/awesome-micropython) – A lean and efficient implementation of Python 3 for microcontrollers.
+  - https://awesome-micropython.com
 * [awesome-microservices](https://github.com/mfornos/awesome-microservices) – Microservice Architecture related principles and technologies.
 * [awesome-minecraft](https://github.com/bs-community/awesome-minecraft)
 * [awesome-minimalist](https://github.com/neiesc/awesome-minimalist) – Minimalist frameworks (simple and lightweight).
