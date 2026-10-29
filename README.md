@@ -1582,6 +1582,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents)
 * [Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) – WebExtensions development.
 * [awesome-webgl](https://github.com/sjfricke/awesome-webgl) – WebGL libraries, resources and much more
+* [awesome-webgpu](https://github.com/mikbry/awesome-webgpu) – JavaScript API for rendering and compute on GPUs.
 * [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) – Webpack resources, libraries and tools
 * [awesome-webpack-perf](https://github.com/iamakulov/awesome-webpack-perf) – Webpack tools for web performance
 * [awesome-webservice](https://github.com/wapmorgan/awesome-webservice) – Web and cloud services, SaaS.
