@@ -1036,6 +1036,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://awesome.ipfs.io/
 * [awesome-irc](https://github.com/davisonio/awesome-irc) – Internet Relay Chat protocol.
 * [awesome-it-quotes](https://github.com/victorlaerte/awesome-it-quotes) – Collect all relevant quotes said over the history of IT
+* [awesome-j2me](https://github.com/hstsethi/awesome-j2me) – Java specification designed for old keypad phones and PDAs..
 * [awesome-jamstack](https://github.com/automata/awesome-jamstack) – [JAMstack](https://jamstack.org) (JavaScript, APIs, Markup)
 * [awesome-java](https://github.com/akullpp/awesome-java)
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
