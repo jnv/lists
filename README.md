@@ -1013,6 +1013,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-gamemaker](https://github.com/bytecauldron/awesome-gamemaker) – [GameMaker](https://gamemaker.io/) game engine.
 * [awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding) – Learn a programming language by making games.
 * [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) – Gaming talks (development, design, etc)
+* [awesome-gatling](https://github.com/aliesbelik/awesome-gatling) – Open-source load and performance testing framework based on Scala, Akka, and Netty.
+  - https://aliesbelik.github.io/awesome-gatling/
 * [awesome-gbdev](https://github.com/gbdev/awesome-gbdev) – Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs
   - https://gbdev.io/resources
 * [awesome-gdpr](https://github.com/oppoverbakke/awesome-gdpr) – Regulation on data protection and privacy for all individuals within EU.
