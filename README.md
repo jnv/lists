@@ -1204,6 +1204,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-offline](https://github.com/yangwao/awesome-offline) – Offline-first, progressive web applications (PWA).
 * [awesome-offline-rl](https://github.com/hanjuku-kaso/awesome-offline-rl) – Algorithms for offline reinforcement learning.
 * [awesome-okr](https://github.com/domenicosolazzo/awesome-okr) – Objective - Key Results, the best practice of setting and communicating company, team and employee objectives and measuring their progress based on achieved results
+* [awesome-omarchy](https://github.com/aorumbayev/awesome-omarchy) – Opinionated Arch Linux and Hyprland desktop environment from the creator of Ruby on Rails.
+  - https://awesome-omarchy.com/
 * [awesome-online-ide](https://github.com/styfle/awesome-online-ide) – Online development environments
   - https://styfle.dev/projects/awesome-online-ide
 * [awesome-online-machine-learning](https://github.com/online-ml/awesome-online-machine-learning) – [Online machine learning](https://en.wikipedia.org/wiki/Online_machine_learning)
