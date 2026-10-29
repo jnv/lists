@@ -620,6 +620,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://fhiltscher.github.io/awesome-ai-coding-sandboxes/
 * [awesome-ai-companion](https://github.com/DasterProkio/awesome-ai-companion) – Long-term AI companion systems: clients, memory, proactive behavior, embodiment, and shared activities.
   - https://lutopia.app/companion/
+* [awesome-ai-hardware](https://github.com/ai-hpc/awesome-ai-hardware) – AI accelerators, edge devices, compilers, runtimes, and benchmarks.
 * [awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) – Solving problems in finance with machine learning.
 * [awesome-ai-search-readiness](https://github.com/VictorOsondu/awesome-ai-search-readiness) – Tools and resources for making websites discoverable in AI search results.
 * [awesome-ai-tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) – Measuring, monitoring, and optimizing token spend in LLM and AI agent workflows.
