@@ -1515,6 +1515,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-slim](https://github.com/nekofar/awesome-slim) – PHP framework.
 * [awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv) – Smart TV apps
 * [awesome-smithy](https://github.com/smithy-lang/awesome-smithy) – Build-tools, code-generators, examples, and other resources related to the [Smithy IDL](https://smithy.io/).
+* [awesome-snmp](https://github.com/eozer/awesome-snmp) – A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
 * [awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) by @mehdihadeli – Software architecture, patterns, and principles in .NET platform.
 * [awesome-software-architecture](https://github.com/simonaronsson/awesome-software-architecture) by @simonaronsson – Design, reason around and build software using architectural patterns and methods
 * [awesome-software-craftsmanship](https://github.com/fmbenhassine/awesome-software-craftsmanship) – [Software craftsmanship](http://manifesto.softwarecraftsmanship.org/) resources to help learn the craft.
