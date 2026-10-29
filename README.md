@@ -985,6 +985,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) – Gaming talks (development, design, etc)
 * [awesome-gbdev](https://github.com/gbdev/awesome-gbdev) – Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs
   - https://gbdev.io/resources
+* [awesome-gdpr](https://github.com/oppoverbakke/awesome-gdpr) – Regulation on data protection and privacy for all individuals within EU.
 * [awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) – Podcasts we like to listen to.
   - http://ayr-ton.github.io/awesome-geek-podcasts
 * [awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) – [Gemini protocol](https://gemini.circumlunar.space/)
