@@ -48,6 +48,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-philosophy](https://github.com/HussainAther/awesome-philosophy) – Philosophy
 * [awesome-reddit-channels](https://github.com/MadhuNimmo/awesome-reddit-channels) – Reddit Channels every programmer must follow.
 * [awesome-scifi](https://github.com/sindresorhus/awesome-scifi) – Sci-Fi worth consuming.
+* [awesome-security-card-games](https://github.com/Karneades/awesome-security-card-games) – Train your skills and discuss various security topics.
 * [awesome-space](https://github.com/elburz/awesome-space) – Outer Space.
 * [awesome-space-books](https://github.com/Hunter-Github/awesome-space-books) – Space exploration related book.
 * [awesome-speaking](https://github.com/matteofigus/awesome-speaking) – Resources about public speaking
