@@ -927,7 +927,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-fhe-cryptography](https://github.com/oiwn/awesome-fhe-cryptography) – Projects and services based on blockchain technology
 * [awesome-finger](https://github.com/reiver/awesome-finger) – Finger protocol ecosystem.
 * [awesome-firebase](https://github.com/jthegedus/awesome-firebase) – Firebase mobile development platform
-* [awesome-flask](https://github.com/humiaozuzu/awesome-flask) – Flask Python web framework resources and plugins.
+* [awesome-flask](https://github.com/humiaozuzu/awesome-flask) by @humiaozuzu – Flask Python web framework resources and plugins.
+* [awesome-flask](https://github.com/mjhea0/awesome-flask) by @mjhea0 – Python framework.
 * [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) – CSS Flexible Box Layout Module.
 * [awesome-fluidapp](https://github.com/lborgav/awesome-fluidapp) – Icons, Userstyles and Userscripts for Fluid Apps
 * [awesome-flutter](https://github.com/Solido/awesome-flutter) – An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
