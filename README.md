@@ -1093,6 +1093,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://awesome-ha.com
 * [awesome-homematic](https://github.com/homematic-community/awesome-homematic) – [HomeMatic](https://www.homematic.com/) home automation
 * [awesome-honeypots](https://github.com/paralax/awesome-honeypots) – Honeypot resources
+* [awesome-hpc](https://github.com/dstdev/awesome-hpc) – High Performance Computing.
 * [awesome-html5](https://github.com/diegocard/awesome-html5)
 * [awesome-htmx](https://github.com/rajasegar/awesome-htmx) – [htmx](https://htmx.org/) JavaScript library for building hypermedia-driven applications.
 * [awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) – HTTP(S) benchmark tools, testing/debugging, REST APIs.
