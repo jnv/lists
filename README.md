@@ -1159,6 +1159,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-java](https://github.com/akullpp/awesome-java)
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) – Online and free JavaScript books.
+* [awesome-javascript-grids](https://github.com/statico/awesome-javascript-grids) – JavaScript data grid and spreadsheet libraries.
+  - https://jsgrids.statico.io
 * [awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) – Tiny list limited to the best JavaScript Learning Resources
 * [awesome-jax](https://github.com/n2cholas/awesome-jax) – Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
 * [awesome-jitsi](https://github.com/xceejay/awesome-jitsi) – [Jitsi](https://jitsi.org/) open-source video conferencing.
