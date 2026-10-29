@@ -1461,6 +1461,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-storybook](https://github.com/lauthieb/awesome-storybook) – [Storybook](https://storybook.js.org/) UI web development
 * [awesome-streaming](https://github.com/manuzhang/awesome-streaming) – Streaming frameworks, applications, etc
 * [awesome-structure-editors](https://github.com/yairchu/awesome-structure-editors) – Projectional and structural code editor projects.
+* [awesome-study-tools](https://github.com/studyarena-com/awesome-study-tools)
 * [awesome-styleguides](https://github.com/RichardLitt/awesome-styleguides)
 * [awesome-stylelint](https://github.com/stylelint/awesome-stylelint) – [Stylelint](https://stylelint.io/) CSS linter.
 * [awesome-subreddits](https://github.com/soarsh/awesome-subreddits) – Subreddits for marketers.
