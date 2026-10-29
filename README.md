@@ -1630,6 +1630,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-svelte](https://github.com/TheComputerM/awesome-svelte) by @TheComputerM
 * [awesome-svelte-resources](https://github.com/ryanatkn/awesome-svelte-resources) – [Svelte](https://svelte.dev/)
 * [awesome-svg](https://github.com/willianjusten/awesome-svg)
+* [awesome-swarm](https://github.com/ethersphere/awesome-swarm) – Projects and resources for the Swarm peer-to-peer storage and communication system.
 * [awesome-swedish-opensource](https://github.com/gurre/awesome-swedish-opensource) – Open-source projects from Swedes
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift) by @matteocrippa
 * [awesome-swift](https://github.com/Wolg/awesome-swift) by @Wolg
