@@ -1245,6 +1245,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) – Open-source alternatives to established SaaS products.
 * [awesome-oss-investors](https://github.com/jonathimer/awesome-oss-investors) – VCs investing in commercial open-source startups.
 * [awesome-oss-monetization](https://github.com/PayDevs/awesome-oss-monetization) – Monetization approaches for open-source software.
+* [awesome-pagespeed-metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) – Metrics to help understand page speed and user experience.
 * [awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal) – Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things.
 * [awesome-password-cracking](https://github.com/n0kovo/awesome-password-cracking) – Password cracking and password security.
 * [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) – Tools to process network traces.
