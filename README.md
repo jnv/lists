@@ -1577,6 +1577,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) – tools and programming libraries related to web scraping and data processing
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
   - https://awesomelists.top/#/repos/qazbnm456/awesome-web-security
+* [awesome-webassembly](https://github.com/isamorph/awesome-webassembly) – A portable binary format for running code efficiently across platforms.
 * [awesome-webaudio](https://github.com/notthetup/awesome-webaudio) – WebAudio packages and resources.
 * [awesome-webauthn](https://github.com/yackermann/awesome-webauthn) – WebAuthn/FIDO2
 * [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents)
