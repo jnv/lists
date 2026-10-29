@@ -1325,6 +1325,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) – Quantum computing learning and developing resources.
 * [awesome-quarantine](https://github.com/ishamsu/awesome-quarantine)
 * [awesome-R](https://github.com/qinwf/awesome-R)
+* [awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources) – Resources for learning the R programming language.
 * [awesome-radio](https://github.com/kyleterry/awesome-radio) – Radio and citizens band (CB) radio resources.
 * [awesome-rails](https://github.com/dpaluy/awesome-rails) by @dpaluy
 * [awesome-rails](https://github.com/gramantin/awesome-rails) by @gramantin – Projects and sites made with Rails.
