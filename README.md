@@ -1418,6 +1418,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) by @mehdihadeli – Software architecture, patterns, and principles.
 * [awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) by @simskij – Design, reason around and build software using architectural patterns and methods
 * [awesome-software-craftsmanship](https://github.com/benas/awesome-software-craftsmanship) – [Software craftsmanship](http://manifesto.softwarecraftsmanship.org/) resources to help learn the craft.
+* [awesome-software-factories](https://github.com/camplight/awesome-software-factories) – Software factory systems spanning intent, implementation, deployment, and maintenance.
 * [awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) – Programmers and software-related Patreon accounts.
 * [awesome-software-quality](https://github.com/ligurio/awesome-software-quality) – Free software testing books.
 * [awesome-solid](https://github.com/kustomzone/awesome-solid) – [Solid](https://solidproject.org/) (social linked data) project.
