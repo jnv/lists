@@ -758,6 +758,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-computer-vision](https://github.com/AGV-IIT-KGP/awesome-computer-vision) by @AGV-IIT-KGP
 * [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) by @jbhuang0604
 * [awesome-computer-vision-models](https://github.com/gmalivenko/awesome-computer-vision-models) – Popular deep learning models related to classification and segmentation task
+* [awesome-computercraft](https://github.com/tomodachi94/awesome-computercraft) – Minecraft mod that adds programmable computers.
 * [awesome-conference-playlists](https://github.com/chentsulin/awesome-conference-playlists) – Video playlists for conferences.
 * [awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
 * [awesome-connectivity-info](https://github.com/stevesong/awesome-connectivity-info) – Connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms.
