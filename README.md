@@ -978,6 +978,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-etl](https://github.com/pawl/awesome-etl) – ETL (extract, transform, load) frameworks, libraries, and software.
 * [awesome-europe](https://github.com/GeiserX/awesome-europe) – Open source software for European institutions, regulations, standards, and cross-border infrastructure.
   - https://geiserx.github.io/awesome-europe/
+* [awesome-event-driven-architecture](https://github.com/lutzh/awesome-event-driven-architecture) – A software architecture approach where services collaborate by publishing and subscribing to events.
 * [awesome-evidence-synthesis](https://github.com/evidencesynthesis-tools/awesome-evidence-synthesis) – Systematic reviews, meta-analysis, and evidence synthesis.
   - https://evidencesynthesis-tools.github.io/
 * [awesome-evm-security](https://github.com/kareniel/awesome-evm-security) – Understanding the Ethereum Virtual Machine security ecosystem.
