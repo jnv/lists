@@ -758,6 +758,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-celery](https://github.com/svfat/awesome-celery) – [Celery](https://docs.celeryq.dev/) task queue.
 * [awesome-certificates](https://github.com/PanXProject/awesome-certificates) – Free courses with certificates in IT, computer science, design, and business.
   - https://panx.io/awesome-certificates/
+* [awesome-cesium](https://github.com/reed-soul/awesome-cesium) – CesiumJS resources, libraries, tools, and integrations for 3D geospatial applications.
 * [awesome_challenge_list](https://github.com/AwesomeRubyist/awesome_challenge_list) – Sites with challenges to improve your programming skills.
 * [awesome-challenges](https://github.com/mauriciovieira/awesome-challenges) – Algorithmic challenges
 * [awesome-charting](https://github.com/zingchart/awesome-charting) – Charts and dataviz.
