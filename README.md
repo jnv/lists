@@ -1483,7 +1483,9 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-redux](https://github.com/xgrommx/awesome-redux) by @xgrommx – [Redux](https://github.com/rackt/redux) web application state container
 * [awesome-refinerycms](https://github.com/refinerycms-contrib/awesome-refinerycms) – [Refinery](https://www.refinerycms.com/) Ruby on Rails CMS
 * [awesome-reflex](https://github.com/reflex-dev/awesome-reflex) – [Reflex](https://reflex.dev), a Python web framework for building frontends and backends.
-* [awesome-regex](https://github.com/aloisdg/awesome-regex) – Regular expressions
+* [awesome-regex](https://github.com/aloisdg/awesome-regex) by @aloisdg – Regular expressions
+* [awesome-regex](https://github.com/slevithan/awesome-regex) by @slevithan – Specialized language for matching patterns in text.
+  - https://regex.cool
 * [awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) – Visual regression testing
 * [awesome-relay](https://github.com/expede/awesome-relay) – [Relay](https://relay.dev/) JavaScript framework for React and GraphQL
 * [awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) – [reMarkable](https://remarkable.com/) e-ink tablet.
