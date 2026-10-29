@@ -1036,6 +1036,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg)
 * [awesome-fhe-cryptography](https://github.com/oiwn/awesome-fhe-cryptography) – Projects and services based on blockchain technology
 * [awesome-fiber](https://github.com/gofiber/awesome-fiber) – Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
+* [awesome-filamentphp](https://github.com/damian-developer/awesome-filamentphp) – Packages, tutorials, and resources for the Filament Laravel framework.
 * [awesome-finger](https://github.com/reiver/awesome-finger) – Finger protocol ecosystem.
 * [awesome-firebase](https://github.com/jthegedus/awesome-firebase)
 * [awesome-flame](https://github.com/flame-engine/awesome-flame) – Game engine for Flutter.
