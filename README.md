@@ -1223,6 +1223,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-livecoding](https://github.com/toplap/awesome-livecoding)
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) – Large Language Models
 * [awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) – Autonomous Large Language Model agents.
+* [awesome-llm-attacks](https://github.com/martinholovsky/awesome-llm-attacks) – Attack techniques and security research for large language models and generative AI.
 * [awesome-llm-biomedicine](https://github.com/infonality/awesome-llm-biomedicine) – Language models, datasets, tools, and benchmarks for biomedical and clinical applications.
 * [awesome-llm-json](https://github.com/imaurer/awesome-llm-json) – Large Language Models (LLM) for building products you can "own" or to perform reproducible research.
 * [awesome-lnurl](https://github.com/lnurl/awesome-lnurl) – [LNURL](https://github.com/lnurl/luds) (Lightning Network protocols)
