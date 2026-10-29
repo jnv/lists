@@ -942,6 +942,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-frc](https://github.com/andrewda/awesome-frc) – First Robotics Competition
 * [awesome-free-software](https://github.com/johnjago/awesome-free-software) – Free as in freedom software
 * [awesome-frege](https://github.com/sfischer13/awesome-frege) – [Frege](https://github.com/Frege/frege) programming language
+* [awesome-frontend-gis](https://github.com/joewdavies/awesome-frontend-gis) – Geographic Information Systems (GIS) for web browsers.
+  - https://joewdavies.github.io/awesome-frontend-gis/
 * [awesome-fsharp](https://github.com/fsprojects/awesome-fsharp) – F# programming language
 * [awesome-fsm](https://github.com/leonardomso/awesome-fsm) by @leonardomso – Finite State Machines and Statecharts
 * [awesome-fsm](https://github.com/soixantecircuits/awesome-fsm) by @soixantecircuits – Finite State Machines
