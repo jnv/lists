@@ -1472,6 +1472,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://awesome-privacy.xyz
 * [awesome-privacy](https://github.com/pluja/awesome-privacy) by @pluja – Services and alternatives that respect your privacy because PRIVACY MATTERS.
 * [awesome-product-design](https://github.com/ttt30ga/awesome-product-design) by @ttt30ga – Bookmarks, resources, articles for product designers.
+* [awesome-product-engineer](https://github.com/marcelkalveram/awesome-product-engineer) – Resources combining software development with product design and user engagement.
 * [awesome-product-hunt](https://github.com/fmerian/awesome-product-hunt) – Developer tools launched on Product Hunt.
 * [awesome-product-management](https://github.com/dend/awesome-product-management) by @dend – Resources for product/program managers to learn and grow.
 * [Awesome-Product-Management](https://github.com/prakashsellathurai/Awesome-Product-Management) by @prakashsellathurai
