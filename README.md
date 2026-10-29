@@ -1323,6 +1323,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-newsletters](https://github.com/webpro/awesome-newsletters) by @webpro – The best (weekly) newsletters
 * [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) by @zudochkin
 * [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) – [Next.js](https://nextjs.org/)
+* [awesome-nginx](https://github.com/GetPageSpeed/awesome-nginx) – NGINX modules, tools, distributions, and learning resources.
 * [awesome-nim](https://github.com/VPashkov/awesome-nim) – [Nim](https://nim-lang.org/) programming language
 * [awesome-nix](https://github.com/nix-community/awesome-nix) – [Nix](https://github.com/nixos/nix), the purely functional package manager.
 * [awesome-nlg](https://github.com/accelerated-text/awesome-nlg) – Generation of text used in data-to-text, conversational agents, and narrative generation applications.
