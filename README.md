@@ -1467,7 +1467,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-postcss](https://github.com/jdrgoms/awesome-postcss) – [PostCSS](https://postcss.org/)
 * [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
 * [awesome-power-mode](https://github.com/codeinthedark/awesome-power-mode)
-* [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell)
+* [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) by @janikvonrotz
+* [awesome-powershell](https://github.com/Neon-Cyber-Crutches/awesome-powershell) by @Neon-Cyber-Crutches – PowerShell modules and learning resources.
 * [awesome-powertoys-run-plugins](https://github.com/hlaueriksson/awesome-powertoys-run-plugins) – Community plugins for the Windows quick launcher.
   - https://ptrun.net
 * [awesome-preact](https://github.com/preactjs/awesome-preact) – [Preact](https://github.com/preactjs/preact)
