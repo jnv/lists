@@ -1282,6 +1282,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard)
   - https://keebfol.io
 * [awesome-media-archive](https://github.com/louiscenter/awesome-media-archive) – Open source tools for archiving audio & video data for offline usage.
+* [awesome-medical-imaging-agents](https://github.com/Nanboy-Ronan/awesome-medical-imaging-agents) – Research, tools, datasets, and benchmarks for AI agents in medical imaging.
 * [awesome-mesos](https://github.com/dharmeshkakadia/awesome-mesos) by @dharmeshkakadia
 * [awesome-mesos](https://github.com/parolkar/awesome-mesos) by @parolkar
 * [awesome-meteor](https://github.com/Urigo/awesome-meteor)
