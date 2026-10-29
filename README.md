@@ -1583,6 +1583,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-wordpress](https://github.com/dropndot/awesome-wordpress) by @dropndot
 * [awesome-wordpress](https://github.com/endel/awesome-wordpress) by @endel
 * [awesome-wordpress](https://github.com/miziomon/awesome-wordpress) by @miziomon
+* [awesome-wordpress-gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby) – Web development technology stack with WordPress as a back end and Gatsby as a front end.
 * [awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) – Open source workflow engines
 * [awesome-workshopper](https://github.com/therebelrobot/awesome-workshopper)
 * [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) – Web Performance Optimization
