@@ -740,6 +740,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome_challenge_list](https://github.com/AwesomeRubyist/awesome_challenge_list) – Sites with challenges to improve your programming skills.
 * [awesome-challenges](https://github.com/mauriciovieira/awesome-challenges) – Algorithmic challenges
 * [awesome-charting](https://github.com/zingchart/awesome-charting) – Charts and dataviz.
+* [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) – Artificial intelligence chatbot developed by OpenAI.
 * [awesome-ChatGPT-with-AI](https://github.com/xirong/Awesome-ChatGPT-with-AI) _In Chinese_ – 个人学习 chatGPT 等 AI 大模型过程中收集的资料
 * [awesome-chatops](https://github.com/exAspArk/awesome-chatops) – ChatOps – managing operations through a chat
 * [awesome-chef](https://github.com/obazoud/awesome-chef) – Cookbooks, handlers, add-ons and other resources for Chef, a configuration management tool.
