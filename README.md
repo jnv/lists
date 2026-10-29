@@ -1368,6 +1368,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Awesome-People-in-Computer-Vision](https://github.com/solarlee/Awesome-People-in-Computer-Vision)
 * [awesome-perfocards](https://github.com/Wolg/awesome-perfocards) _See [perfokaart](https://et.wikipedia.org/wiki/Perfokaart)._
 * [awesome-perl](https://github.com/hachiojipm/awesome-perl)
+* [awesome-permacomputing](https://github.com/isamorph/awesome-permacomputing) – Resilient and regenerative computing practices inspired by permaculture.
 * [awesome-persian](https://github.com/fffaraz/awesome-persian) – Persian/Farsi supporting tools, fonts, and development resources.
 * [awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) – Personal tech blogs.
 * [awesome-pest](https://github.com/pest-parser/awesome-pest) – [pest](https://pest.rs) parser generator for Rust.
