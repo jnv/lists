@@ -1144,6 +1144,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-mastodon](https://github.com/hueyy/awesome-mastodon) by @hueyy – [Mastodon](https://joinmastodon.org/) social media platform.
 * [awesome-mastodon](https://github.com/tleb/awesome-mastodon) by @tleb – [Mastodon](https://joinmastodon.org/) decentralized microblogging network
 * [awesome-material](https://github.com/sachin1092/awesome-material) – Google's material design
+* [awesome-material-ui](https://github.com/nadunindunil/awesome-material-ui) – [Material-UI](https://material-ui.com/) components, tools, and learning resources.
 * [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) _In Chinese_ – Resources and libraries for [Material Design](http://www.google.com/design/spec/material-design/introduction.html).
 * [awesome-math](https://github.com/rossant/awesome-math) – Mathematics
 * [awesome-MATLAB](https://github.com/mikecroucher/awesome-MATLAB)
