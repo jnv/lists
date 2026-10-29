@@ -807,6 +807,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-computercraft](https://github.com/tomodachi94/awesome-computercraft) – Minecraft mod that adds programmable computers.
 * [awesome-conference-playlists](https://github.com/chentsulin/awesome-conference-playlists) – Video playlists for conferences.
 * [awesome-conferences](https://github.com/RichardLitt/awesome-conferences)
+* [awesome-connected-things-sec](https://github.com/V33RU/awesome-connected-things-sec) – Security resources for IoT, embedded, industrial, and automotive systems.
+  - https://v33ru.github.io/awesome-connected-things-sec/
 * [awesome-connectivity-info](https://github.com/stevesong/awesome-connectivity-info) – Connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms.
 * [awesome-conservation-tech](https://github.com/anselmbradford/awesome-conservation-tech) – Intersection of tech and environmental conservation.
 * [awesome-console-services](https://github.com/chubin/awesome-console-services) – Console services (reachable via HTTP, HTTPS and other network protocols).
