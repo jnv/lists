@@ -694,6 +694,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-cakephp](https://github.com/FriendsOfCake/awesome-cakephp) – [CakePHP](https://cakephp.org/) web framework
 * [awesome-calculators](https://github.com/xxczaki/awesome-calculators)
 * [awesome-canvas](https://github.com/raphamorim/awesome-canvas) – HTML5 Canvas
+* [awesome-capacitor](https://github.com/riderx/awesome-capacitor) – [Capacitor](https://capacitorjs.com/), a cross-platform runtime for building native apps with web technologies.
 * [awesome-captcha](https://github.com/ZYSzys/awesome-captcha) – Captcha libraries and crack tools.
   - http://zyszys.github.io/awesome-captcha/
 * [awesome-ccxt](https://github.com/suenot/awesome-ccxt) – [CryptoCurrency eXchange Trading Library](https://github.com/ccxt/ccxt)
