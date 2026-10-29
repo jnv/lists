@@ -31,6 +31,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-biology](https://github.com/raivivek/awesome-biology) – Learning resources, research papers, tools and other resources related to Biology.
 * [awesome-board-games](https://github.com/edm00se/awesome-board-games)
   - https://awesomeboard.games
+* [awesome-chess](https://github.com/atamano/awesome-chess) by @atamano – Chess resources, tools, engines, and communities.
 * [awesome-clean-tech](https://github.com/nglgzz/awesome-clean-tech) – Fighting climate change with technology.
 * [awesome-coffee](https://github.com/psanders/awesome-coffee) – Productivity for tech professionals.
 * [awesome-credit-modeling](https://github.com/mourarthur/awesome-credit-modeling) – Methods for classifying credit applicants into risk classes.
@@ -757,7 +758,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-chatops](https://github.com/exAspArk/awesome-chatops) – ChatOps – managing operations through a chat
 * [awesome-chef](https://github.com/obazoud/awesome-chef) – Cookbooks, handlers, add-ons and other resources for Chef, a configuration management tool.
 * [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) – Chemical informatics
-* [awesome-chess](https://github.com/hkirat/awesome-chess) – Chess software, libraries, and resources
+* [awesome-chess](https://github.com/hkirat/awesome-chess) by @hkirat – Chess software, libraries, and resources
 * [awesome-chip-8](https://github.com/tobiasvl/awesome-chip-8) – Virtual computer game machine from the 70s.
   - https://chip-8.github.io/links/
 * [awesome-choo](https://github.com/choojs/awesome-choo) – [choo](https://choo.io/) web framework
