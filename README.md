@@ -1294,6 +1294,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art)
 * [awesome-plan9](https://github.com/henesy/awesome-plan9)
 * [awesome-play1](https://github.com/PerfectCarl/awesome-play1) – Play Framework 1.x modules, tools, and resources.
+* [awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) – [PlayCanvas](https://playcanvas.com) game engine.
 * [awesome-plotters](https://github.com/beardicus/awesome-plotters) – Computer-controlled drawing machines and other visual art robots.
 * [awesome-podcasts](https://github.com/Ghosh/awesome-podcasts) by @Ghosh – Podcasts for designers, developers, product managers, entrepreneurs and hustlers
   - http://podcasts.surge.sh/
