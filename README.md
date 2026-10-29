@@ -1016,6 +1016,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ibmcloud](https://github.com/victorshinya/awesome-ibmcloud) – IBM Cloud
 * [awesome-icons](https://github.com/notlmn/awesome-icons) – Downloadable SVG/PNG/Font icon projects
 * [awesome-idris](https://github.com/joaomilho/awesome-idris) – 𝛌 [Idris](https://www.idris-lang.org/), functional programming language with dependent types
+* [awesome-imba](https://github.com/koolamusic/awesome-imba) – Programming language inspired by Ruby and Python and compiles to performant JavaScript.
 * [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) – Resources useful for incident responders.
 * [awesome-indie](https://github.com/mezod/awesome-indie) – Resources for independent developers to make money
 * [awesome-infinidash](https://github.com/joenash/awesome-infinidash)
