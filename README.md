@@ -34,6 +34,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-coffee](https://github.com/psanders/awesome-coffee) – Productivity for tech professionals.
 * [awesome-digital-history](https://github.com/maehr/awesome-digital-history) – Computer-aided scientific investigation of history.
   - https://maehr.github.io/awesome-digital-history/
+* [awesome-earth](https://github.com/philsturgeon/awesome-earth) – Find ways to resolve the climate crisis.
 * [awesome-ethics](https://github.com/HussainAther/awesome-ethics)
 * [awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) – Fantasy literature worth reading.
 * [awesome-gif](https://github.com/Kikobeats/awesome-gif) – GIF /dʒ/ links and resources.
