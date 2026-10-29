@@ -1179,6 +1179,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-magento2](https://github.com/run-as-root/awesome-magento2) – [Magento 2](https://magento.com/) PHP eCommerce platform
 * [awesome-maintainers](https://github.com/nayafia/awesome-maintainers) – Talks, blog posts, and interviews about the experience of being an open source maintainer
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
+* [awesome-malware-persistence](https://github.com/Karneades/awesome-malware-persistence) – Malware persistence tools and resources.
 * [awesome-manifestos](https://github.com/imsky/awesome-manifestos) – Interesting software manifestos and principles
 * [awesome-marionette](https://github.com/sadcitizen/awesome-marionette) – [marionette.js](https://marionettejs.com/) framework
 * [awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown)
