@@ -39,6 +39,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-earth](https://github.com/philsturgeon/awesome-earth) – Find ways to resolve the climate crisis.
 * [awesome-ethics](https://github.com/HussainAther/awesome-ethics)
 * [awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) – Fantasy literature worth reading.
+* [awesome-geocaching](https://github.com/FoxFil/awesome-geocaching) – Outdoor treasure-hunting activity that uses GPS-enabled devices.
 * [awesome-gif](https://github.com/Kikobeats/awesome-gif) – GIF /dʒ/ links and resources.
 * [awesome-glasgow](https://github.com/allyjweir/awesome-glasgow) – Some highlights around Glasgow, Scotland.
 * [awesome-hacking-locations](https://github.com/daviddias/awesome-hacking-locations) – Hacking places, organised by Country and City, listing if it features power and wifi.
