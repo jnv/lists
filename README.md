@@ -746,6 +746,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://www.componently.com/
 * [awesome-bun](https://github.com/oven-sh/awesome-bun) – [Bun](https://bun.sh/)
 * [awesome-buttplug](https://github.com/buttplugio/awesome-buttplug) – Projects that use the [Buttplug Sex Toy Control Library](https://buttplug.io/).
+* [awesome-byoc](https://github.com/nuonco/awesome-byoc) – Tools and platforms supporting Bring Your Own Cloud deployments.
+  - https://awesomebyoc.com
 * [awesome-c](https://github.com/inputsh/awesome-c) by @inputsh – Continuing the development of awesome-c on GitHub
 * [awesome-c](https://github.com/oz123/awesome-c) by @oz123
   - [mirror](https://notabug.org/koz.ross/awesome-c)
