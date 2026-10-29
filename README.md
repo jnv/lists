@@ -1040,6 +1040,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 * [awesome-frc](https://github.com/andrewda/awesome-frc) – First Robotics Competition
 * [awesome-free-byok-models](https://github.com/velo4705/awesome-free-byok-models) – Language models and API providers with free inference tiers.
+* [awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) – Language model APIs with permanent free tiers.
 * [awesome-free-software](https://github.com/johnjago/awesome-free-software) – Free as in freedom software
 * [awesome-frege](https://github.com/sfischer13/awesome-frege) – [Frege](https://github.com/Frege/frege) programming language
 * [awesome-frontend-gis](https://github.com/joewdavies/awesome-frontend-gis) – Geographic Information Systems (GIS) for web browsers.
