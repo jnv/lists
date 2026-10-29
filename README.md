@@ -45,6 +45,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-glasgow](https://github.com/allyjweir/awesome-glasgow) – Some highlights around Glasgow, Scotland.
 * [awesome-hacking-locations](https://github.com/daviddias/awesome-hacking-locations) – Hacking places, organised by Country and City, listing if it features power and wifi.
 * [awesome-health](https://github.com/prabhic/awesome-health)
+* [awesome-high-school-homeschool](https://github.com/dataindataout/awesome-high-school-homeschool) – Resources and curricula for homeschooling at the high school level.
 * [awesome-images](https://github.com/heyalexej/awesome-images) – Free (stock) photo resources for your projects.
 * [awesome-japanese](https://github.com/yudataguy/awesome-japanese) – Japanese language learning resources.
   - https://awesome-japanese.japantv.app/
