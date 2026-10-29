@@ -952,6 +952,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) – Podcasts we like to listen to.
   - http://ayr-ton.github.io/awesome-geek-podcasts
 * [awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) – [Gemini protocol](https://gemini.circumlunar.space/)
+* [awesome-genkit](https://github.com/xavidop/awesome-genkit) – [Genkit](https://genkit.dev/), an open-source framework for building AI-powered apps and features.
 * [awesome-geojson](https://github.com/tmcw/awesome-geojson) – GeoJSON
 * [awesome-ggplot2](https://github.com/erikgahner/awesome-ggplot2) – [ggplot2](https://ggplot2.tidyverse.org/) data visualization for R.
 * [awesome-gideros](https://github.com/stetso/awesome-gideros) – [Gideros](http://giderosmobile.com/) game development framework
