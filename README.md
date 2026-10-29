@@ -1426,6 +1426,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-qsharp](https://github.com/ebraminio/awesome-qsharp) – [Q#](https://docs.microsoft.com/en-us/quantum/) quantum programming language
 * [awesome-qt](https://github.com/JesseTG/awesome-qt) by @JesseTG – Qt framework
 * [awesome-qt](https://github.com/skhaz/awesome-qt) by @skhaz – Qt framework
+* [awesome-quality-assurance-roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap) – How to start & build a career in software testing.
 * [awesome-quantified-self](https://github.com/woop/awesome-quantified-self) – Devices, Wearables, Applications, and Platforms for Self Tracking
 * [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) – Quantum computing learning and developing resources.
 * [awesome-quarantine](https://github.com/ishamsu/awesome-quarantine)
