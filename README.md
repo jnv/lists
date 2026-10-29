@@ -926,6 +926,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-fediverse](https://github.com/emilebosch/awesome-fediverse) – [Fediverse](https://en.wikipedia.org/wiki/Fediverse) resources.
 * [awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) – FFmpeg resources.
 * [awesome-fhe-cryptography](https://github.com/oiwn/awesome-fhe-cryptography) – Projects and services based on blockchain technology
+* [awesome-fiber](https://github.com/gofiber/awesome-fiber) – Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
 * [awesome-finger](https://github.com/reiver/awesome-finger) – Finger protocol ecosystem.
 * [awesome-firebase](https://github.com/jthegedus/awesome-firebase) – Firebase mobile development platform
 * [awesome-flask](https://github.com/humiaozuzu/awesome-flask) by @humiaozuzu – Flask Python web framework resources and plugins.
