@@ -864,6 +864,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://apsdehal.in/awesome-ctf/
 * [awesome-cto](https://github.com/kuchin/awesome-cto) – Resources for Chief Technology Officers, with the emphasis on startups
 * [awesome-cto-resources](https://github.com/mateusz-brainhub/awesome-cto-resources) – Grow as a Chief Technology Officer.
+* [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) – Configuration files for customizing Cursor AI coding behavior.
 * [awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) – Free cybersecurity courses and learning resources.
   - https://brootware.github.io/awesome-cyber-security-university/
 * [awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) – [Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security)) resources
