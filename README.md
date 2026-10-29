@@ -1022,6 +1022,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-imba](https://github.com/koolamusic/awesome-imba) – Programming language inspired by Ruby and Python and compiles to performant JavaScript.
 * [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) – Resources useful for incident responders.
 * [awesome-indie](https://github.com/mezod/awesome-indie) – Resources for independent developers to make money
+* [awesome-inertiajs](https://github.com/innocenzi/awesome-inertiajs) – [Inertia.js](https://inertiajs.com), for building single-page apps without an API.
 * [awesome-infinidash](https://github.com/joenash/awesome-infinidash)
 * [awesome-influxdb](https://github.com/mark-rushakoff/awesome-influxdb) – Resources for the time series database InfluxDB
 * [awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval) – Information retrieval resources
