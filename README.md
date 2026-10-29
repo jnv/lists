@@ -1760,6 +1760,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) – Vehicle security and car hacking
 * [awesome-vhdl](https://github.com/VHDL/awesome-vhdl) – VHDL hardware description language
 * [awesome-vibe-coding](https://github.com/taskade/awesome-vibe-coding) by @taskade
+* [awesome-vibecoded-apps](https://github.com/levz0r/awesome-vibecoded-apps) – Applications built with AI-assisted coding tools.
+  - https://vibecodedapps.dev
 * [awesome-video-to-slides](https://github.com/itsyujay/awesome-video-to-slides) – Tools for recovering slides from recorded talks, and for generating a new deck from video.
 * [awesome-vim](https://github.com/akrawchyk/awesome-vim) by @akrawchyk
 * [awesome-vim](https://github.com/matteocrippa/awesome-vim) by @matteocrippa
