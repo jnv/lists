@@ -761,6 +761,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-construct](https://github.com/ConstructCommunity/awesome-construct) – [Construct](https://www.construct.net/) game development toolkit
 * [awesome-container](https://github.com/tcnksm/awesome-container) – Container technologies and services.
 * [awesome-conversational](https://github.com/mortenjust/awesome-conversational) – Conversational UI
+* [awesome-coq](https://github.com/rocq-community/awesome-coq) – Coq libraries, plugins, tools, verification projects, and learning resources.
+  - https://rocq-community.org/awesome-coq
 * [awesome-cordova](https://github.com/busterc/awesome-cordova) _Apache Cordova / PhoneGap_
 * [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) – Models for Core ML (for iOS 11+)
 * [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) – Projects and resources related to SARS-CoV-2 and COVID-19.
