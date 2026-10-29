@@ -854,6 +854,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) – Free cybersecurity courses and learning resources.
   - https://brootware.github.io/awesome-cyber-security-university/
 * [awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) – [Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security)) resources
+* [awesome-cybersecurity-datasets](https://github.com/jordanricky1604-ship-it/awesome-cybersecurity-datasets) – Datasets for cybersecurity research and threat intelligence.
+  - https://jordanricky1604-ship-it.github.io/awesome-cybersecurity-datasets/
 * [awesome-cyclejs](https://github.com/cyclejs-community/awesome-cyclejs) – Cycle.js framework
 * [awesome-cytodata](https://github.com/cytodata/awesome-cytodata) – Image-based profiling resources for computational biology.
 * [awesome-d](https://github.com/dlang-community/awesome-d) – D programming language.
