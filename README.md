@@ -653,6 +653,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ava](https://github.com/avajs/awesome-ava) – [AVA](https://github.com/avajs/ava) JavaScript test runner.
 * [awesome-avr](https://github.com/fffaraz/awesome-avr)
 * [awesome-aws](https://github.com/donnemartin/awesome-aws) – Amazon Web Services (AWS)
+* [awesome-babylonjs](https://github.com/Symbitic/awesome-babylonjs) – Game engine for cross-platform web and native game development.
 * [awesome-backbone](https://github.com/sadcitizen/awesome-backbone) – Resources for [Backbone.js](http://backbonejs.org/)
 * [awesome-backstage](https://github.com/shano/awesome-backstage) – [Backstage](https://backstage.io/), an open-source platform for building Internal Developer Portals.
 * [awesome-bash](https://github.com/awesome-lists/awesome-bash)
