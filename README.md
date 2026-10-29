@@ -1427,6 +1427,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-selenium](https://github.com/christian-bromann/awesome-selenium)
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) – Network services and web applications which can be hosted locally.
 * [awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) – Semantic web and linked data
+* [awesome-seml](https://github.com/SE-ML/awesome-seml) – From experiment to production-level machine learning.
 * [awesome-seo](https://github.com/teles/awesome-seo) – SEO (Search Engine Optimization) links.
   - https://teles.dev.br/awesome-seo/
 * [awesome-serverless](https://github.com/anaibol/awesome-serverless) by @anaibol – Services, solutions and resources for serverless / nobackend applications.
