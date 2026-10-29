@@ -1734,6 +1734,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-webxr](https://github.com/msub2/awesome-webxr) – WebXR tools, projects, and learning resources.
 * [awesome-weekly](https://github.com/jondot/awesome-weekly) – Quality weekly subscription newsletters from the software world.
 * [awesome-wezterm](https://github.com/michaelbrusegard/awesome-wezterm) – WezTerm plugins and resources.
+* [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) – Open-source AI-powered speech recognition system developed by OpenAI.
 * [awesome-wicket](https://github.com/PhantomYdn/awesome-wicket) – [Apache Wicket](http://wicket.apache.org/) Java web framework
 * [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) – Wikipedia-related frameworks, libraries, software, datasets and references.
 * [awesome-windows](https://github.com/0PandaDEV/awesome-windows) – Consumer desktop operating system.
