@@ -1592,6 +1592,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-startup](https://github.com/KrishMunot/awesome-startup) – Resources to build your own startup
 * [awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services)
 * [awesome-steam](https://github.com/scholtzm/awesome-steam) – Steam video games distribution platform development
+* [awesome-steam-deck](https://github.com/airscripts/awesome-steam-deck) – A handheld gaming computer developed by Valve.
+  - https://asd.airscript.it
 * [awesome-storybook](https://github.com/lauthieb/awesome-storybook) – [Storybook](https://storybook.js.org/) UI web development
 * [awesome-streaming](https://github.com/manuzhang/awesome-streaming) – Streaming frameworks, applications, etc
 * [awesome-structure-editors](https://github.com/yairchu/awesome-structure-editors) – Projectional and structural code editor projects.
