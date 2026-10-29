@@ -967,6 +967,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-fuse](https://github.com/fuse-compound/awesome-fuse) – [Fuse](https://fuseopen.com/) mobile development framework
 * [awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) – Fuzzing (or Fuzz Testing) for software security
 * [awesome-game-engine-dev](https://github.com/stevinz/awesome-game-engine-dev) – Building software to speed up game creation.
+* [awesome-game-production](https://github.com/vhladiienko/awesome-game-production) – Leading the process of designing, developing, testing and distributing a video game from concept to release.
 * [awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes) – Actively maintained open-source game remakes.
 * [awesome-gamemaker](https://github.com/bytecauldron/awesome-gamemaker) – [GameMaker](https://gamemaker.io/) game engine.
 * [awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding) – Learn a programming language by making games.
