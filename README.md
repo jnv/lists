@@ -1450,7 +1450,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://oneofftech.xyz/blog/awesome-pdf/
 * [awesome-pdm](https://github.com/pdm-project/awesome-pdm) – [PDM](https://pdm.fming.dev/) Python package manager.
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest) – Penetration testing resources and tools.
-* [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) – Penetration testing
+* [awesome-pentest-cheat-sheets](https://github.com/ByteSnipers/awesome-pentest-cheat-sheets) by @ByteSnipers – Cheat sheets and checklists for penetration testing.
+* [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) by @coreb1t – Penetration testing
 * [Awesome-People-in-Computer-Vision](https://github.com/solarlee/Awesome-People-in-Computer-Vision)
 * [awesome-perfocards](https://github.com/Wolg/awesome-perfocards) _See [perfokaart](https://et.wikipedia.org/wiki/Perfokaart)._
 * [awesome-performance-engineering](https://github.com/be-next/awesome-performance-engineering) – Observability and performance testing tools and resources.
