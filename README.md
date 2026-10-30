@@ -1433,6 +1433,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-opentofu](https://github.com/virtualroot/awesome-opentofu) – Open-source infrastructure as code tool.
   - https://awesome-opentofu.com
 * [awesome-opsec](https://github.com/Dev2023-Op/awesome-opsec) – Operational security resources and tools.
+* [awesome-opsgenie-alternatives](https://github.com/spikehq/awesome-opsgenie-alternatives) – Alternatives to Opsgenie for on-call scheduling, alerting, and incident management.
 * [awesome-orgs](https://github.com/beansource/awesome-orgs) – GitHub Organizations.
 * [awesome-os](https://github.com/jubalh/awesome-os) – Open source operating systems and hobby operating systems.
 * [awesome-osc](https://github.com/amir-arad/awesome-osc) – [Open Sound Control](http://opensoundcontrol.org/)
