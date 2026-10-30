@@ -328,6 +328,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [go-is-not-good](https://github.com/ksimka/go-is-not-good) – Articles that complain about Golang's imperfection.
 * [go-must-watch](https://github.com/sauravtom/go-must-watch) – Must-watch videos about Golang.
 * [go-patterns](https://github.com/tmrts/go-patterns) – Go design patterns, recipes and idioms
+* [google-apps-script-awesome-list](https://github.com/oshliaer/google-apps-script-awesome-list) – Google Apps Script libraries, tools, examples, and learning resources.
 * [graph-adversarial-learning-literature](https://github.com/YingtongDou/graph-adversarial-learning-literature) – Adversarial learning papers on graph-structured data.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) – Game development and realtime graphics programming.
 * [graphql-apis](https://github.com/APIs-guru/graphql-apis) – Public GraphQL APIs.
