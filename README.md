@@ -620,6 +620,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://lorabv.github.io/awesome-agile
 * [awesome-agile-essentials](https://github.com/SaadAAkash/awesome-agile-essentials) – Agile Software Development
 * [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) – Open source technology for agriculture, farming, and gardening
+* [awesome-ai-agents](https://github.com/ianwieds/awesome-ai-agents) – AI agent frameworks, coding agents, browser agents, tools, platforms and research.
 * [awesome-ai-agent-governance](https://github.com/permission-protocol/awesome-ai-agent-governance) – Frameworks, tools, standards, and research for governing autonomous AI agents.
 * [awesome-ai-agent-tools](https://github.com/michielhdoteth/awesome-ai-agent-tools) – Skills, MCP servers, workflows, and CLI tools for AI coding assistants.
   - https://awesome-ai-agent-tools.vercel.app
