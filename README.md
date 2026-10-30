@@ -876,6 +876,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-critical-tech-reading-list](https://github.com/chobeat/awesome-critical-tech-reading-list) – Reading list for the modern critical programmer.
 * [Awesome-Cross-Platform-Apps](https://github.com/Juude/Awesome-Cross-Platform-Apps) – Solutions for building cross-platform apps.
 * [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) – Tools for writing cross-platform Node.js code.
+* [awesome-crypto-mcp-servers](https://github.com/hive-intel/awesome-crypto-mcp-servers) – Model Context Protocol servers for cryptocurrency, Web3, DeFi, wallets, and blockchain data.
 * [awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers) – Cryptography papers, articles, tutorials and howtos.
 * [awesome-crypto-trackers](https://github.com/denisnazarov/awesome-crypto-trackers) – Crypto project trackers and analytics dashboards.
 * [awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies)
