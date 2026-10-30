@@ -693,6 +693,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 * [awesome-asciidoc](https://github.com/bodiam/awesome-asciidoc)
 * [awesome-asciidoctor](https://github.com/dongwq/awesome-asciidoctor)
+* [awesome-aspm](https://github.com/jpalanco/awesome-aspm) – Application Security Posture Management (ASPM), application security tools, and software supply chain security resources.
 * [awesome-ast](https://github.com/chadbrewbaker/awesome-ast) by @chadbrewbaker – Tools for Abstract Syntax Tree processing.
 * [awesome-ast](https://github.com/cowchimp/awesome-ast) by @cowchimp – Abstract Syntax Trees.
 * [awesome-astro-integrations](https://github.com/RichLewis007/awesome-astro-integrations) – Extensions and integrations for the Astro web framework.
