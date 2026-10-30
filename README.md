@@ -1694,6 +1694,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-sre](https://github.com/dastergon/awesome-sre) – Site Reliability and Production Engineering
   - https://sre.xyz
 * [awesome-sre-agents](https://github.com/last9/awesome-sre-agents) – AI agents and tools for site reliability engineering and DevOps.
+* [awesome-sre-interviews](https://github.com/spikehq/awesome-sre-interviews) – SRE, DevOps, and incident-response interview questions and preparation resources.
 * [awesome-ssh](https://github.com/moul/awesome-ssh)
   - https://manfred.life/awesome-ssh
 * [awesome-stacks](https://github.com/stackshareio/awesome-stacks) – Tech stacks for building different applications & features
