@@ -1911,6 +1911,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-awesome](https://github.com/erichs/awesome-awesome) by @erichs – A curated list of awesome curated lists! Inspired by inspiration.
 * [awesome-awesome](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen – A curated list of curated lists of libraries, resources and shiny things for various languages.
 * [awesome-awesome-ai](https://github.com/dukeluo/awesome-awesome-ai) – An awesome list for collecting awesome lists related to prompt engineering.
+* [awesome-awesome-claude-code](https://github.com/ykdojo/awesome-awesome-claude-code) – Claude Code resource lists.
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) – A curated list of awesome awesomeness
 * [awesome-awesomeness-zh_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN) _In Chinese_ – 中文版awesome list 系列文章
 * [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) – Awesome collection of awesome lists of libraries, tools, frameworks and software for any programming language
