@@ -1252,6 +1252,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-legacy-code](https://github.com/legacycoderocks/awesome-legacy-code) – Legacy systems with publicly available source code
 * [awesome-lemmy](https://github.com/dbeley/awesome-lemmy) – Useful apps, tools and websites for [Lemmy](https://join-lemmy.org/) federated social link aggregator.
 * [awesome-lemmy-instances](https://github.com/maltfield/awesome-lemmy-instances) – Comparison of different instances of [Lemmy](https://join-lemmy.org/).
+* [awesome-lens-protocol](https://github.com/juancito-dev/awesome-lens-protocol) – Projects, libraries, tools, and learning resources for the Lens Protocol decentralized social network.
 * [awesome-less](https://github.com/LucasBassetti/awesome-less) – Less CSS preprocessor
 * [awesome-lesscode](https://github.com/dream2023/awesome-lesscode) _In Chinese_ – Low code / no code projects
 * [awesome-libgdx](https://github.com/rafaskb/awesome-libgdx) – [libGDX](https://libgdx.com/) cross-platform games development framework
