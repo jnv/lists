@@ -29,10 +29,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesomebandnames](https://github.com/jnv/awesomebandnames)
 * [awesome-belarus-online](https://github.com/Friz-zy/awesome-belarus-online) – Useful belarusian online resources.
 * [awesome-biology](https://github.com/raivivek/awesome-biology) – Learning resources, research papers, tools and other resources related to Biology.
-* [awesome-bitcoin-culture](https://github.com/itstomekk/awesome-bitcoin-culture) – Art, film, books, music and games about Bitcoin.
-  - https://awesomebitcoinculture.com/
-* [awesome-bitcoin-events](https://github.com/itstomekk/awesome-bitcoin-events) – Conferences, meetups, festivals and retreats around the world.
-  - https://itstomekk.github.io/awesome-bitcoin-events/
 * [awesome-board-games](https://github.com/edm00se/awesome-board-games)
   - https://awesomeboard.games
 * [awesome-chess](https://github.com/atamano/awesome-chess) by @atamano – Chess resources, tools, engines, and communities.
@@ -732,6 +728,10 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-biological-visualizations](https://github.com/keller-mark/awesome-biological-visualizations) – Interactive visualization of biological data on the web.
 * [awesome-bitclout](https://github.com/davidshq-legacy/awesome-bitclout) – [BitClout](https://bitclout.com/) blockchain social network.
 * [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) – Bitcoin services and tools for software developers.
+* [awesome-bitcoin-culture](https://github.com/itstomekk/awesome-bitcoin-culture) – Art, film, books, music and games about Bitcoin.
+  - https://awesomebitcoinculture.com/
+* [awesome-bitcoin-events](https://github.com/itstomekk/awesome-bitcoin-events) – Conferences, meetups, festivals and retreats around the world.
+  - https://itstomekk.github.io/awesome-bitcoin-events/
 * [awesome-bitcoin-payment-processors](https://github.com/alexk111/awesome-bitcoin-payment-processors) – Bitcoin payment processors and stories from merchants using them.
 * [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) – Deals on Black Friday: Apps, SaaS, Books, Courses, etc. (2022)
 * [awesome-blackhat-arsenal](https://github.com/elbraino/awesome-blackhat-arsenal) – Cybersecurity tools showcased at Black Hat Arsenal events.
