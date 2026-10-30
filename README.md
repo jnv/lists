@@ -1618,6 +1618,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [AwesomeRubyist/awesome_resource_list](https://github.com/AwesomeRubyist/awesome_resource_list) – Resources for Ruby and Rails.
 * [awesome-runbook](https://github.com/runbear-io/awesome-runbook) – Runbook documents, guidebooks, software, and resources.
 * [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+* [awesome-rust-migrations](https://github.com/kevincouton/awesome-rust-migrations) – Case studies, tools, research, and guides for migrating existing codebases to Rust.
 * [awesome-rust-python](https://github.com/rp-libs/awesome-rust-python) – Python libraries and tools powered by Rust.
 * [awesome-rxjava](https://github.com/eleventigers/awesome-rxjava) – RxJava, reactive programming library
 * [awesome-salesforce](https://github.com/mailtoharshit/awesome-salesforce) – Salesforce Platform Resources
