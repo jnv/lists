@@ -1621,6 +1621,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-rust-migrations](https://github.com/kevincouton/awesome-rust-migrations) – Case studies, tools, research, and guides for migrating existing codebases to Rust.
 * [awesome-rust-python](https://github.com/rp-libs/awesome-rust-python) – Python libraries and tools powered by Rust.
 * [awesome-rxjava](https://github.com/eleventigers/awesome-rxjava) – RxJava, reactive programming library
+* [awesome-safety-tools](https://github.com/roostorg/awesome-safety-tools) – Open-source tools for online trust and safety, content moderation, and abuse detection.
 * [awesome-salesforce](https://github.com/mailtoharshit/awesome-salesforce) – Salesforce Platform Resources
 * [awesome-saltstack](https://github.com/hbokh/awesome-saltstack) – [SaltStack](https://www.saltstack.com/) configuration management
 * [awesome-sap-commerce](https://github.com/eminyagiz42/awesome-sap-commerce) – [SAP Commerce](https://www.sap.com/products/crm/commerce-cloud.html), an e-commerce platform built with Java, Spring MVC, and Angular.
