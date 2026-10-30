@@ -1280,6 +1280,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-llm-attacks](https://github.com/martinholovsky/awesome-llm-attacks) – Attack techniques and security research for large language models and generative AI.
 * [awesome-llm-biomedicine](https://github.com/infonality/awesome-llm-biomedicine) – Language models, datasets, tools, and benchmarks for biomedical and clinical applications.
 * [awesome-llm-json](https://github.com/imaurer/awesome-llm-json) – Large Language Models (LLM) for building products you can "own" or to perform reproducible research.
+* [awesome-llm-token-optimization](https://github.com/pleasedodisturb/awesome-llm-token-optimization) – Tools, papers, and techniques for reducing LLM token costs and improving inference efficiency.
 * [awesome-lnurl](https://github.com/lnurl/awesome-lnurl) – [LNURL](https://github.com/lnurl/luds) (Lightning Network protocols)
 * [awesome-logging](https://github.com/roundrobin/awesome-logging)
 * [awesome-loginless](https://github.com/fiatjaf/awesome-loginless) – Internet services that don't require logins or registrations.
