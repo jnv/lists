@@ -1361,7 +1361,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-n8n-templates](https://github.com/ScraperNode/awesome-n8n-templates) – [n8n](https://n8n.io/) workflow templates.
 * [awesome-naming](https://github.com/gruhn/awesome-naming) – When naming things is done right.
 * [awesome-nativescript](https://github.com/dyazincahya/awesome-nativescript) – Plugins, templates, tools, and resources for NativeScript mobile development.
-* [awesome-neo4j](https://github.com/neueda/awesome-neo4j)
+* [awesome-neo4j](https://github.com/neo4j-contrib/awesome-neo4j) by @neo4j-contrib – Neo4j tools, drivers, extensions, and learning resources.
+* [awesome-neo4j](https://github.com/neueda/awesome-neo4j) by @neueda
 * [awesome-neon](https://github.com/tyaga001/awesome-neon) – [Neon](https://neon.tech) Postgres database starters and resources.
 * [awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
 * [awesome-netherlands-events](https://github.com/awkward/awesome-netherlands-events) – Dutch (tech related) events
