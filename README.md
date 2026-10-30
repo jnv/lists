@@ -1124,6 +1124,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-godot](https://github.com/Calinou/awesome-godot) – [Godot](https://godotengine.org/)
 * [awesome-golem](https://github.com/golemfactory/awesome-golem) – Open source peer-to-peer marketplace for computing resources.
 * [awesome-gpt4](https://github.com/taranjeet/awesome-gpt4) – OpenAI GPT-4.
+* [awesome-gpts](https://github.com/taranjeet/awesome-gpts) – Community-created custom GPTs for ChatGPT.
 * [awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) – Gradient boosting research papers with implementations.
 * [awesome-grails](https://github.com/hitenpratap/awesome-grails)
 * [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) – Graph embedding papers with implementations.
