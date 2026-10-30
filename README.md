@@ -1417,6 +1417,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) – Resources for making open source hardware projects.
 * [awesome-open-science](https://github.com/silky/awesome-open-science)
 * [awesome-open-source-games](https://github.com/michelpereira/awesome-open-source-games) – Games with source code available on GitHub.
+* [awesome-open-source-licensing](https://github.com/CodeScoring/awesome-open-source-licensing) – Open-source licensing tools, articles, courses, and compliance resources.
 * [awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) – Companies that offer their services for free to Open Source projects
 * [awesome-openbudget](https://github.com/infoculture/awesome-openbudget) _In Russian_ – Open Budget government spending visualization.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) – OpenGL libraries, debuggers and resources.
