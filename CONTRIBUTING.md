@@ -51,6 +51,10 @@ If the list is not in English, state its language. The list’s description can 
 
 * [awesome-awesomeness-zh_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN) _In Chinese_ – 中文版awesome list 系列文章`
 
+For lists available in two or three languages, name each language, e.g., _In English, Russian, and Korean_. For four or more languages, use _In multiple languages_ without listing or counting them.
+
+Count substantial language editions of the list, including shorter localized collections. Exclude translation placeholders and links to resources in other languages. Editions do not need identical coverage – if they are separate language-specific collections, clarify that in the description when useful. For example, [free-programming-books](https://github.com/EbookFoundation/free-programming-books) is organized by books' language.
+
 If there are multiple lists with the same name by different authors, add the author’s username after the link, e.g., `recipes by @csswizardy`.
 
 If there is a website for the list, add a link into the sub-item. For example, `awesome-ruby` has an official presentation at [awesome-ruby.com](http://awesome-ruby.com/), so in the list there is:
