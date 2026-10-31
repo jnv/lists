@@ -622,10 +622,10 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://lorabv.github.io/awesome-agile
 * [awesome-agile-essentials](https://github.com/SaadAAkash/awesome-agile-essentials) – Agile Software Development
 * [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) – Open source technology for agriculture, farming, and gardening
-* [awesome-ai-agents](https://github.com/ianwieds/awesome-ai-agents) – AI agent frameworks, coding agents, browser agents, tools, platforms and research.
 * [awesome-ai-agent-governance](https://github.com/permission-protocol/awesome-ai-agent-governance) – Frameworks, tools, standards, and research for governing autonomous AI agents.
 * [awesome-ai-agent-tools](https://github.com/michielhdoteth/awesome-ai-agent-tools) – Skills, MCP servers, workflows, and CLI tools for AI coding assistants.
   - https://awesome-ai-agent-tools.vercel.app
+* [awesome-ai-agents](https://github.com/ianwieds/awesome-ai-agents) – AI agent frameworks, coding agents, browser agents, tools, platforms and research.
 * [awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) – Tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
 * [awesome-ai-coding-sandboxes](https://github.com/fhiltscher/awesome-ai-coding-sandboxes) – Sandboxes for running AI coding agents' code, ranked by isolation, egress control, and secrets handling.
   - https://fhiltscher.github.io/awesome-ai-coding-sandboxes/
@@ -1206,6 +1206,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://jsgrids.statico.io
 * [awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) – Learning resources focused on the JavaScript programming language.
 * [awesome-jax](https://github.com/n2cholas/awesome-jax) – Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
+* [awesome-jira-alternatives](https://github.com/stefan-ernst/awesome-jira-alternatives) – Open-source and self-hosted alternatives to Atlassian Jira
 * [awesome-jitsi](https://github.com/xceejay/awesome-jitsi) – [Jitsi](https://jitsi.org/) open-source video conferencing.
 * [awesome-jmeter](https://github.com/aliesbelik/awesome-jmeter) – Apache JMeter load testing
 * [awesome-job-boards](https://github.com/emredurukn/awesome-job-boards) by @emredurukn
