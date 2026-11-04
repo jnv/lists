@@ -1148,6 +1148,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-hacktoberfest-2026](https://github.com/Piyushhbhutoria/awesome-hacktoberfest-2026) – [Hacktoberfest](https://hacktoberfest.digitalocean.com/)-friendly repositories and resources.
 * [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop)
 * [awesome-hands-on-neuroscience](https://github.com/cYoren/awesome-hands-on-neuroscience) – Tutorials, tools, datasets, and code for computational and cognitive neuroscience.
+* [Awesome-Harness-Self-Improvement](https://github.com/leezythu/Awesome-Harness-Self-Improvement) _In English and Chinese_ – Recursive self-improvement of LLM agents.
 * [awesome-haskell](https://github.com/krispo/awesome-haskell) – Resources for the Haskell programming language.
 * [awesome-hasura](https://github.com/aaronhayes/awesome-hasura) – [Hasura](https://hasura.io/) is an instant realtime GraphQL engine for PostgreSQL.
 * [awesome-haxe-gamedev](https://github.com/dvergar/awesome-haxe-gamedev) – Game development in [Haxe](https://haxe.org/) cross-platform programming language
