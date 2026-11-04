@@ -1596,6 +1596,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-rest](https://github.com/marmelab/awesome-rest) – Great resources about RESTful API architecture, development, test, and performance
 * [awesome-rethinkdb](https://github.com/joshwiens/awesome-rethinkdb) – [RethinkDB](https://rethinkdb.com/) realtime database
 * [awesome-retrospectives](https://github.com/josephearl/awesome-retrospectives) – Facilitating and learning about retrospectives.
+* [awesome-reverse-engineer-anything](https://github.com/maluramichael/awesome-reverse-engineer-anything)
 * [awesome-rhasspy](https://github.com/koenvervloesem/awesome-rhasspy) – [Rhasspy](https://rhasspy.readthedocs.io/) voice assistant.
 * [awesome-ripple](https://github.com/vhpoet/awesome-ripple) – [Ripple](https://ripple.com/) cryptocurrency
 * [awesome-riscv](https://github.com/suryakantamangaraj/awesome-riscv) – Implementations, tools, hardware, and resources for the RISC-V instruction set architecture.
