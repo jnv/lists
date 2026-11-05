@@ -1428,6 +1428,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-open-source-licensing](https://github.com/CodeScoring/awesome-open-source-licensing) – Open-source licensing tools, articles, courses, and compliance resources.
 * [awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) – Companies that offer their services for free to Open Source projects
 * [awesome-openbudget](https://github.com/infoculture/awesome-openbudget) _In Russian_ – Open Budget government spending visualization.
+* [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) – Community-built OpenClaw skills organized by category.
+  - https://clawskills.sh/
 * [awesome-opengl](https://github.com/eug/awesome-opengl) – OpenGL libraries, debuggers and resources.
 * [awesome-openid-connect](https://github.com/cerberauth/awesome-openid-connect) – [OpenID Connect](https://openid.net), an identity standard and authentication protocol built on OAuth 2.0.
 * [awesome-opensource](https://github.com/hadez8877/awesome-opensource) – Open-source applications and developer tools.
