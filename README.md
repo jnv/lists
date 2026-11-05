@@ -640,6 +640,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ai-search-readiness](https://github.com/VictorOsondu/awesome-ai-search-readiness) – Tools and resources for making websites discoverable in AI search results.
 * [awesome-ai-tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) – Measuring, monitoring, and optimizing token spend in LLM and AI agent workflows.
 * [awesome-ai-tools](https://github.com/aliammari1/awesome-ai-tools) – AI applications, developer tools, and APIs.
+* [Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) _In English and Chinese_ – AI tools, agents, models, and utilities.
+  - https://ikaijua.github.io/Awesome-AITools-Site/
 * [awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) – [Alfred](https://www.alfredapp.com/) macOS app workflows
 * [awesome-algolia](https://github.com/algolia/awesome-algolia) – [Algolia](https://www.algolia.com/) web search service
 * [awesome-algorand](https://github.com/awesome-algorand/awesome-algorand) – An open-source, proof of stake Blockchain and smart contract computing platform.
