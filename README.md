@@ -931,6 +931,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-deno](https://github.com/denolib/awesome-deno) – [Deno](https://deno.land/)
 * [awesome-derby](https://github.com/russll/awesome-derby) – Components for DerbyJS.
 * [awesome-design](https://github.com/troyericg/awesome-design) – Resources for digital designers.
+* [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) – DESIGN.md design-system documents for generating consistent user interfaces with AI coding agents.
+  - https://getdesign.md/
 * [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 * [awesome-design-principles](https://github.com/robinstickel/awesome-design-principles)
 * [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) by @alexpate
