@@ -1667,6 +1667,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-service-workers](https://github.com/TalAter/awesome-service-workers) – Service Workers for Progressive Web Applications
 * [awesome-servicefabric](https://github.com/lawrencegripper/awesome-servicefabric) – Azure [Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/) distributed services platform
 * [awesome-services](https://github.com/indrasantosa/awesome-services) – Services that make a painful programmer's life easier.
+* [awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) – Components, registries, tools, and resources for shadcn/ui.
+  - https://awesomeshadcn.dev/
 * [awesome-sharepoint](https://github.com/BSUG/awesome-sharepoint) by @BSUG
 * [awesome-SharePoint](https://github.com/siaf/awesome-SharePoint) by @siaf
 * [awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music) – Sheet music software, libraries and resources.
