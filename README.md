@@ -153,6 +153,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [algovis](https://github.com/enjalot/algovis) – Algorithm Visualization.
 * [alternative-front-ends](https://github.com/mendel5/alternative-front-ends) – Alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.).
 * [alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
+* [altstack-data](https://github.com/altstackHQ/altstack-data) – Self-hostable open-source alternatives to proprietary SaaS, with deployment configurations and guides.
 * [amazing-deployment](https://github.com/delirehberi/amazing-deployment) – Deployment tools and services.
 * [android-awesome-libraries](https://github.com/kaiinui/android-awesome-libraries) – Useful Android development libraries with usage examples.
 * [android-dev-readme](https://github.com/anirudh24seven/android-dev-readme) – Links for every Android developer.
