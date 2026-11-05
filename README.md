@@ -48,6 +48,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-geocaching](https://github.com/FoxFil/awesome-geocaching) – Outdoor treasure-hunting activity that uses GPS-enabled devices.
 * [awesome-gif](https://github.com/Kikobeats/awesome-gif) – GIF /dʒ/ links and resources.
 * [awesome-glasgow](https://github.com/allyjweir/awesome-glasgow) – Some highlights around Glasgow, Scotland.
+* [awesome-gpt-image-2-API-Prompts](https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts) _In multiple languages_ – GPT Image 2 prompts and examples for image generation, editing, and design.
+  - https://evolink.ai/gpt-image-2-prompts
 * [awesome-hacking-locations](https://github.com/daviddias/awesome-hacking-locations) – Hacking places, organised by Country and City, listing if it features power and wifi.
 * [awesome-health](https://github.com/prabhic/awesome-health) – Health resources covering anatomy, exercise, and health organizations.
 * [awesome-high-school-homeschool](https://github.com/dataindataout/awesome-high-school-homeschool) – Resources and curricula for homeschooling at the high school level.
