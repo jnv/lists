@@ -811,6 +811,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-cl-software](https://github.com/azzamsa/awesome-cl-software) – Applications built with Common Lisp
 * [awesome-claude-code](https://github.com/erkcet/awesome-claude-code) by @erkcet – Claude Code tools, configuration patterns, hooks, MCP integrations, and workflows.
 * [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) by @hesreallyhim – Terminal-based AI coding assistant by Anthropic.
+* [awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) – Claude Skills, resources, and tools for customizing Claude AI workflows.
 * [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) – Command line apps
 * [awesome-clojure](https://github.com/damon-kwok/awesome-clojure) by @damon-kwok – Libraries, tools, and learning resources for the Clojure programming language.
 * [awesome-clojure](https://github.com/mbuczko/awesome-clojure) by @mbuczko – Resources for the Clojure programming language.
