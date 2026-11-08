@@ -635,6 +635,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ai-companion](https://github.com/DasterProkio/awesome-ai-companion) – Long-term AI companion systems: clients, memory, proactive behavior, embodiment, and shared activities.
   - https://lutopia.app/companion/
 * [awesome-AI-company-Job](https://github.com/zerone0x/awesome-AI-company-Job) – Software engineering job opportunities at AI companies.
+* [awesome-ai-crypto-tools](https://github.com/HoardAds/awesome-ai-crypto-tools) – Curated list of AI and crypto tools, updated daily.
 * [awesome-ai-eval](https://github.com/Vvkmnn/awesome-ai-eval) – Evaluation tools and benchmarks for language models, RAG pipelines, and AI agents.
 * [awesome-ai-for-science](https://github.com/yenanjing/awesome-ai-for-science) – AI projects for automating scientific research, from hypothesis generation to paper writing.
 * [Awesome-AI-GitHub](https://github.com/dingminghbut/Awesome-AI-GitHub) _In English and Chinese_ – Trending commerce AI projects, including shopping assistants, merchant agents, and retail infrastructure.
