@@ -53,6 +53,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-hacking-locations](https://github.com/daviddias/awesome-hacking-locations) – Hacking places, organised by Country and City, listing if it features power and wifi.
 * [awesome-health](https://github.com/prabhic/awesome-health) – Health resources covering anatomy, exercise, and health organizations.
 * [awesome-high-school-homeschool](https://github.com/dataindataout/awesome-high-school-homeschool) – Resources and curricula for homeschooling at the high school level.
+* [awesome-hr](https://github.com/hollyhr/awesome-hr) – Human resources, with a focus on UK employment law and practice.
 * [awesome-images](https://github.com/heyalexej/awesome-images) – Free (stock) photo resources for your projects.
 * [awesome-japanese](https://github.com/yudataguy/awesome-japanese) – Japanese language learning resources.
   - https://awesome-japanese.japantv.app/
