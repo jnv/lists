@@ -515,6 +515,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [spark-joy](https://github.com/swyxio/spark-joy) – Add design flair, user delight, and whimsy to your product.
 * [spawnedshelter](https://github.com/unbalancedparentheses/spawnedshelter) – Erlang Spawned Shelter – the best articles, videos and presentations related to Erlang.
 * [speech-language-processing](https://github.com/edobashira/speech-language-processing)
+* [sitehub](https://github.com/Collin-254/sitehub) – The internet's best sites, organised in one clean directory.
 * [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) – Services with great free tiers for developers on a budget
 * [startup-must-watch](https://github.com/gerricchaplin/startup-must-watch)
 * [startupreadings](https://github.com/dennybritz/startupreadings)
