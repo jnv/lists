@@ -31,6 +31,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-biology](https://github.com/raivivek/awesome-biology) – Learning resources, research papers, tools and other resources related to Biology.
 * [awesome-board-games](https://github.com/edm00se/awesome-board-games)
   - https://awesomeboard.games
+* [awesome-canada](https://github.com/leon-wbr/awesome-canada) – Canadian open data, public APIs, government code, civic tech and tech communities.
+  - https://leon-wbr.github.io/awesome-canada/
 * [awesome-chess](https://github.com/atamano/awesome-chess) by @atamano – Chess resources, tools, engines, and communities.
 * [awesome-clean-tech](https://github.com/nglgzz/awesome-clean-tech) – Fighting climate change with technology.
 * [awesome-coffee](https://github.com/Beargruug/awesome-coffee) by @Beargruug – Coffee beans, brewing methods, tools, and learning resources.
