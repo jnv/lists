@@ -641,6 +641,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://dingminghbut.github.io/Awesome-AI-GitHub/
 * [awesome-ai-hardware](https://github.com/ai-hpc/awesome-ai-hardware) – AI accelerators, edge devices, compilers, runtimes, and benchmarks.
 * [awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) – Solving problems in finance with machine learning.
+* [awesome-ai-native-jobs](https://github.com/landedjobs/awesome-ai-native-jobs) – Open roles at AI-native companies, grouped by role, with salary ranges and interview prep; updated every two days.
 * [awesome-ai-search-readiness](https://github.com/VictorOsondu/awesome-ai-search-readiness) – Tools and resources for making websites discoverable in AI search results.
 * [awesome-ai-tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) – Measuring, monitoring, and optimizing token spend in LLM and AI agent workflows.
 * [awesome-ai-tools](https://github.com/aliammari1/awesome-ai-tools) – AI applications, developer tools, and APIs.
