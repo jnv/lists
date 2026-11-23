@@ -87,6 +87,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [baby-sleep](https://github.com/simple10/baby-sleep) – Baby sleep guides and summarized articles.
 * [bailfunds.github.io](https://github.com/bailfunds/bailfunds.github.io) – Bail Funds for Protestors across the USA.
   - https://bailfunds.github.io/
+* [bestdailygames](https://github.com/bestdailygames/bestdailygames) – Daily browser word, geography, logic, music, and trivia puzzles with links to their original publishers.
+  - https://bestdaily.games/
 * [boardgames](https://gitlab.com/gamearians/boardgames) – Boardgames and boardgame-related projects that can be found on GitHub.
 * [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) _In Chinese_ – The most comprehensive database of Chinese poetry
   - http://shici.store
